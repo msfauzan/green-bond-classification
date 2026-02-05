@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local config
+.env
+.env.local
+
+# Large files (PDFs) - exclude from repo
+*.pdf
+Prospektus/
+Prospektus Obligasi/
+Prospektus v2/
+Prospektus v3/
+Prospektus_Downloaded/
+paper/
+test/
+
+# PowerPoint temp files
+~$*
+PPT/
+
+# Excel files (large)
+*.xlsx
+
+# HTML scratch files
+html-idx.html
+tombol-download.html
+
+# ML Dataset (large CSV)
+ML_Dataset/
+
+# Keep ML models for deployment
+# ML_Models/
