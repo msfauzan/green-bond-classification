@@ -301,7 +301,7 @@
             for (const file of selectedFiles) {
                 try {
                     const formData = new FormData(); formData.append('file', file);
-                    const res = await fetch('/classify?method=hybrid', { method: 'POST', body: formData });
+                    const res = await fetch('/api/classify?method=hybrid', { method: 'POST', body: formData });
                     if (res.ok) addToHistory(await res.json());
                 } catch (err) { console.error(err); }
                 processed++; progressText.textContent = `${processed}/${total}`; progressFill.style.width = `${(processed / total) * 100}%`;
