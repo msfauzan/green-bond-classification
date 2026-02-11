@@ -13,11 +13,18 @@
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "/api/index.py"
+      "dest": "api/index.py"
+    },
+    {
+      "src": "/",
+      "dest": "webapp/static/index.html"
     },
     {
       "src": "/(.*)",
-      "dest": "/webapp/static/$1"
+      "dest": "webapp/static/$1"
     }
-  ]
+  ],
+  "env": {
+    "PYTHON_VERSION": "3.9"
+  }
 }

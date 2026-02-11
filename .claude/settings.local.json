@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(python -m pytest:*)",
+      "Bash(pip install:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(del \"D:\\\\1. Important\\\\Work\\\\Bank Indonesia\\\\DSta-DSMF\\\\Green Bond Classification\\\\test_classify.py\")",
+      "Bash(\".venv\\\\Scripts\\\\python.exe\" -m pip install -r requirements.txt)",
+      "Bash(\".venv\\\\Scripts\\\\python.exe\" -m uvicorn webapp.api:app --host 0.0.0.0 --port 8000)"
+    ]
+  }
+}

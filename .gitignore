@@ -72,3 +72,16 @@ ML_Dataset/
 
 # Keep ML models for deployment
 # ML_Models/
+
+# Uploaded PDFs (generated at runtime)
+webapp/uploads/*.pdf
+
+# Feedback database (generated at runtime)
+ML_Dataset/feedback.db
+
+# Claude Code temp directories
+tmpclaude-*/
+
+# Misc files not part of the project
+II03_LBUT 1.asp
+install.cmd

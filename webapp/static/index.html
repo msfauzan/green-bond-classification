@@ -13,13 +13,13 @@
         .gradient-bg { background: linear-gradient(135deg, #ecfdf5 0%, #f0fdf4 50%, #fefce8 100%); }
         .card-hover { transition: all 0.2s ease; }
         .card-hover:hover { transform: translateY(-2px); box-shadow: 0 12px 24px -8px rgba(0,0,0,0.1); }
-        .upload-zone { 
+        .upload-zone {
             background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
             border: 2px dashed #86efac;
             transition: all 0.3s ease;
         }
-        .upload-zone:hover, .upload-zone.dragover { 
-            border-color: #22c55e; 
+        .upload-zone:hover, .upload-zone.dragover {
+            border-color: #22c55e;
             background: linear-gradient(135deg, #dcfce7 0%, #d1fae5 100%);
             transform: scale(1.01);
         }
@@ -27,19 +27,68 @@
         @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
         .result-card { animation: slideIn 0.3s ease; }
         @keyframes slideIn { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+        .animate-fade-in { animation: fadeIn 0.3s ease; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        .correction-btn { transition: all 0.2s ease; }
+        .correction-btn:hover { transform: scale(1.02); }
         ::-webkit-scrollbar { width: 6px; height: 6px; }
         ::-webkit-scrollbar-track { background: #f1f5f9; border-radius: 3px; }
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
         ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        /* Upload icon float animation */
+        .upload-icon { transition: all 0.3s ease; animation: float 3s ease-in-out infinite; }
+        .upload-zone:hover .upload-icon { animation: none; transform: translateY(-4px); }
+        .upload-zone.dragover .upload-icon { animation: none; transform: translateY(-8px) scale(1.1); filter: drop-shadow(0 8px 12px rgba(34, 197, 94, 0.3)); }
+        @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+        /* Loading skeleton */
+        @keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
+        .skeleton { background: linear-gradient(90deg, #f1f5f9 25%, #e2e8f0 50%, #f1f5f9 75%); background-size: 200% 100%; animation: shimmer 1.5s ease infinite; border-radius: 0.5rem; }
+        /* Dark mode */
+        .dark { color-scheme: dark; }
+        .dark .gradient-bg { background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%); }
+        .dark .glass { background: rgba(30,41,59,0.9); border-color: rgba(71,85,105,0.5); }
+        .dark .bg-white { background-color: #1e293b !important; }
+        .dark .bg-gray-50, .dark .bg-gray-100 { background-color: #334155 !important; }
+        .dark .bg-green-50 { background-color: #064e3b !important; }
+        .dark .bg-blue-50 { background-color: #1e3a5f !important; }
+        .dark .bg-purple-50 { background-color: #3b0764 !important; }
+        .dark .bg-amber-50 { background-color: #451a03 !important; }
+        .dark .bg-indigo-50, .dark .from-indigo-50 { background-color: #1e1b4b !important; }
+        .dark .text-gray-900 { color: #f1f5f9 !important; }
+        .dark .text-gray-700 { color: #cbd5e1 !important; }
+        .dark .text-gray-600 { color: #94a3b8 !important; }
+        .dark .text-gray-500 { color: #64748b !important; }
+        .dark .text-gray-400 { color: #475569 !important; }
+        .dark .text-gray-300 { color: #94a3b8 !important; }
+        .dark .border-gray-100, .dark .border-gray-200, .dark .border-gray-200\/50 { border-color: #334155 !important; }
+        .dark .shadow-xl, .dark .shadow-lg, .dark .shadow-2xl { --tw-shadow-color: rgba(0,0,0,0.3); }
+        .dark .shadow-gray-200\/50 { --tw-shadow-color: rgba(0,0,0,0.3); }
+        .dark .divide-gray-100 > :not([hidden]) ~ :not([hidden]) { border-color: #334155; }
+        .dark .upload-zone { background: linear-gradient(135deg, #1a2e1a 0%, #1a2e2e 100%); border-color: #065f46; }
+        .dark .upload-zone:hover, .dark .upload-zone.dragover { border-color: #10b981; background: linear-gradient(135deg, #064e3b 0%, #065f46 100%); }
+        .dark .hover\:bg-gray-100:hover { background-color: #475569 !important; }
+        .dark .hover\:bg-gray-50:hover { background-color: #334155 !important; }
+        .dark .hover\:bg-white\/50:hover { background-color: rgba(51,65,85,0.5) !important; }
+        .dark ::-webkit-scrollbar-track { background: #1e293b; }
+        .dark ::-webkit-scrollbar-thumb { background: #475569; }
+        .dark .skeleton { background: linear-gradient(90deg, #334155 25%, #475569 50%, #334155 75%); background-size: 200% 100%; }
+        .dark .from-gray-50 { background-color: #1e293b !important; }
+        .dark .to-white { background-color: #1e293b !important; }
+        .dark .text-green-800, .dark .text-blue-800, .dark .text-purple-800, .dark .text-amber-800, .dark .text-indigo-800 { filter: brightness(1.3); }
     </style>
 </head>
 <body class="gradient-bg min-h-screen">
+    <!-- Accent Bar -->
+    <div class="h-1 bg-gradient-to-r from-green-600 via-emerald-500 to-teal-500"></div>
+
     <!-- Header -->
     <header class="glass sticky top-0 z-40 border-b border-gray-200/50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center gap-3">
-                    <div class="w-10 h-10 bg-gradient-to-br from-green-500 to-emerald-600 rounded-xl flex items-center justify-center text-white font-bold shadow-lg shadow-green-500/30">GB</div>
+                    <div class="w-10 h-10 bg-gradient-to-br from-green-600 to-emerald-700 rounded-xl flex items-center justify-center text-white font-bold shadow-lg shadow-green-600/25 ring-2 ring-green-500/20">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064"/></svg>
+                    </div>
                     <div>
                         <h1 class="font-bold text-gray-900">Green Bond Classifier</h1>
                         <p class="text-xs text-gray-500">Based on POJK 18/2023</p>
@@ -48,6 +97,11 @@
                 <div class="flex items-center gap-3">
                     <button onclick="showView('dashboard')" id="navDashboard" class="nav-btn active px-4 py-2 text-sm font-medium rounded-lg transition-all bg-white text-green-600 shadow-sm">Dashboard</button>
                     <button onclick="showView('table')" id="navTable" class="nav-btn px-4 py-2 text-sm font-medium rounded-lg transition-all text-gray-600 hover:bg-white/50">Data Table</button>
+                    <div class="w-px h-6 bg-gray-200"></div>
+                    <button id="themeToggle" onclick="toggleDarkMode()" class="p-2 rounded-lg hover:bg-gray-100 transition-colors" title="Toggle dark mode">
+                        <svg id="sunIcon" class="w-5 h-5 text-gray-500 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+                        <svg id="moonIcon" class="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+                    </button>
                     <button id="downloadXlsBtn" class="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white text-sm font-medium rounded-lg shadow-lg shadow-green-500/30 transition-all">
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
                         Export
@@ -67,14 +121,14 @@
                         <h2 class="text-2xl font-bold text-gray-900 mb-2">Classify Bond Prospectus</h2>
                         <p class="text-gray-500">Upload PDF files to automatically classify bonds based on POJK 18/2023 regulations</p>
                     </div>
-                    
+
                     <div id="dropZone" class="upload-zone rounded-2xl p-8 cursor-pointer max-w-2xl mx-auto">
                         <div class="flex flex-col items-center">
-                            <div class="w-16 h-16 bg-green-500 rounded-2xl flex items-center justify-center mb-4 shadow-lg shadow-green-500/30">
+                            <div class="upload-icon w-16 h-16 bg-green-500 rounded-2xl flex items-center justify-center mb-4 shadow-lg shadow-green-500/30">
                                 <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"/></svg>
                             </div>
                             <p class="text-lg font-semibold text-gray-700 mb-1">Drop PDF files here</p>
-                            <p class="text-sm text-gray-500">or click to browse • Supports bulk upload</p>
+                            <p class="text-sm text-gray-500">or click to browse &bull; Supports bulk upload</p>
                             <input type="file" id="fileInput" accept=".pdf" multiple class="hidden">
                         </div>
                     </div>
@@ -102,7 +156,7 @@
         </div>
 
         <!-- Stats Overview -->
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+        <div class="grid grid-cols-2 lg:grid-cols-5 gap-4 mb-8">
             <div class="bg-white rounded-xl p-5 shadow-lg shadow-gray-200/50 card-hover">
                 <div class="flex items-center gap-4">
                     <div class="w-12 h-12 bg-gray-100 rounded-xl flex items-center justify-center"><span class="text-2xl">📊</span></div>
@@ -110,22 +164,87 @@
                 </div>
             </div>
             <div class="bg-white rounded-xl p-5 shadow-lg shadow-gray-200/50 card-hover border-l-4 border-green-500">
-                <div class="flex items-center gap-4">
-                    <div class="w-12 h-12 bg-green-50 rounded-xl flex items-center justify-center"><span class="text-2xl">🌿</span></div>
-                    <div><p class="text-sm text-gray-500">Green Bond</p><p class="text-2xl font-bold text-green-600" id="statGreen">0</p></div>
+                <div class="flex items-center gap-3 mb-3">
+                    <div class="w-10 h-10 bg-green-50 rounded-xl flex items-center justify-center"><span class="text-xl">🌿</span></div>
+                    <div class="flex-1">
+                        <p class="text-xs text-gray-500">Green Bond</p>
+                        <div class="flex items-baseline gap-2">
+                            <p class="text-2xl font-bold text-green-600" id="statGreen">0</p>
+                            <p class="text-xs text-green-500" id="statGreenPct">0%</p>
+                        </div>
+                    </div>
                 </div>
+                <div class="h-1.5 bg-green-100 rounded-full overflow-hidden"><div id="statGreenBar" class="h-full bg-green-500 rounded-full transition-all duration-500" style="width: 0%"></div></div>
             </div>
             <div class="bg-white rounded-xl p-5 shadow-lg shadow-gray-200/50 card-hover border-l-4 border-blue-500">
-                <div class="flex items-center gap-4">
-                    <div class="w-12 h-12 bg-blue-50 rounded-xl flex items-center justify-center"><span class="text-2xl">♻️</span></div>
-                    <div><p class="text-sm text-gray-500">Sustainability</p><p class="text-2xl font-bold text-blue-600" id="statSustain">0</p></div>
+                <div class="flex items-center gap-3 mb-3">
+                    <div class="w-10 h-10 bg-blue-50 rounded-xl flex items-center justify-center"><span class="text-xl">♻️</span></div>
+                    <div class="flex-1">
+                        <p class="text-xs text-gray-500">Sustainability</p>
+                        <div class="flex items-baseline gap-2">
+                            <p class="text-2xl font-bold text-blue-600" id="statSustain">0</p>
+                            <p class="text-xs text-blue-500" id="statSustainPct">0%</p>
+                        </div>
+                    </div>
                 </div>
+                <div class="h-1.5 bg-blue-100 rounded-full overflow-hidden"><div id="statSustainBar" class="h-full bg-blue-500 rounded-full transition-all duration-500" style="width: 0%"></div></div>
+            </div>
+            <div class="bg-white rounded-xl p-5 shadow-lg shadow-gray-200/50 card-hover border-l-4 border-purple-500">
+                <div class="flex items-center gap-3 mb-3">
+                    <div class="w-10 h-10 bg-purple-50 rounded-xl flex items-center justify-center"><span class="text-xl">🔗</span></div>
+                    <div class="flex-1">
+                        <p class="text-xs text-gray-500">Sust-Linked</p>
+                        <div class="flex items-baseline gap-2">
+                            <p class="text-2xl font-bold text-purple-600" id="statLinked">0</p>
+                            <p class="text-xs text-purple-500" id="statLinkedPct">0%</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="h-1.5 bg-purple-100 rounded-full overflow-hidden"><div id="statLinkedBar" class="h-full bg-purple-500 rounded-full transition-all duration-500" style="width: 0%"></div></div>
             </div>
             <div class="bg-white rounded-xl p-5 shadow-lg shadow-gray-200/50 card-hover border-l-4 border-gray-400">
-                <div class="flex items-center gap-4">
-                    <div class="w-12 h-12 bg-gray-100 rounded-xl flex items-center justify-center"><span class="text-2xl">📄</span></div>
-                    <div><p class="text-sm text-gray-500">Regular Bond</p><p class="text-2xl font-bold text-gray-600" id="statBiasa">0</p></div>
+                <div class="flex items-center gap-3 mb-3">
+                    <div class="w-10 h-10 bg-gray-100 rounded-xl flex items-center justify-center"><span class="text-xl">📄</span></div>
+                    <div class="flex-1">
+                        <p class="text-xs text-gray-500">Regular Bond</p>
+                        <div class="flex items-baseline gap-2">
+                            <p class="text-2xl font-bold text-gray-600" id="statBiasa">0</p>
+                            <p class="text-xs text-gray-500" id="statBiasaPct">0%</p>
+                        </div>
+                    </div>
                 </div>
+                <div class="h-1.5 bg-gray-200 rounded-full overflow-hidden"><div id="statBiasaBar" class="h-full bg-gray-400 rounded-full transition-all duration-500" style="width: 0%"></div></div>
+            </div>
+        </div>
+
+        <!-- Classification Distribution Chart -->
+        <div id="chartSection" class="hidden mb-8 bg-white rounded-2xl shadow-xl shadow-gray-200/50 p-6">
+            <h3 class="font-bold text-gray-900 mb-4">Classification Distribution</h3>
+            <div class="flex flex-col sm:flex-row items-center gap-8">
+                <div class="relative w-40 h-40 flex-shrink-0">
+                    <svg id="donutChart" viewBox="0 0 36 36" class="w-full h-full" style="transform: rotate(-90deg)">
+                        <circle cx="18" cy="18" r="15.915" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+                        <circle id="donutGreen" cx="18" cy="18" r="15.915" fill="none" stroke="#22c55e" stroke-width="3" stroke-dasharray="0 100" stroke-linecap="round" class="transition-all duration-700"/>
+                        <circle id="donutSustain" cx="18" cy="18" r="15.915" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="0 100" stroke-linecap="round" class="transition-all duration-700"/>
+                        <circle id="donutLinked" cx="18" cy="18" r="15.915" fill="none" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="0 100" stroke-linecap="round" class="transition-all duration-700"/>
+                        <circle id="donutBiasa" cx="18" cy="18" r="15.915" fill="none" stroke="#9ca3af" stroke-width="3" stroke-dasharray="0 100" stroke-linecap="round" class="transition-all duration-700"/>
+                    </svg>
+                    <div class="absolute inset-0 flex items-center justify-center">
+                        <div class="text-center">
+                            <p class="text-2xl font-bold text-gray-900" id="donutTotal">0</p>
+                            <p class="text-xs text-gray-500">Total</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex-1 grid grid-cols-2 gap-3" id="donutLegend"></div>
+            </div>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="mb-6">
+            <div class="relative max-w-md">
+                <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+                <input type="text" id="dashboardSearch" placeholder="Search by company name or filename... (Ctrl+K)" class="w-full pl-10 pr-4 py-2.5 bg-white border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent shadow-sm" oninput="renderResults()">
             </div>
         </div>
 
@@ -136,10 +255,16 @@
                 <button id="clearHistory" class="text-sm text-gray-400 hover:text-red-500 px-3 py-1.5 rounded-lg hover:bg-red-50 transition-colors">Clear History</button>
             </div>
             <div id="resultsContainer" class="p-6">
-                <div id="emptyState" class="py-16 text-center">
-                    <div class="w-20 h-20 mx-auto mb-4 bg-gray-100 rounded-2xl flex items-center justify-center"><svg class="w-10 h-10 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg></div>
-                    <p class="text-gray-500 font-medium">No classifications yet</p>
-                    <p class="text-sm text-gray-400 mt-1">Upload PDF files to get started</p>
+                <div id="emptyState" class="py-20 text-center">
+                    <div class="w-24 h-24 mx-auto mb-6 bg-gradient-to-br from-green-50 to-emerald-50 rounded-3xl flex items-center justify-center">
+                        <svg class="w-12 h-12 text-green-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+                    </div>
+                    <p class="text-lg font-semibold text-gray-700 mb-1">No classifications yet</p>
+                    <p class="text-sm text-gray-400 mb-6 max-w-md mx-auto">Upload bond prospectus PDF files using the upload area above to automatically classify them based on POJK 18/2023 regulations</p>
+                    <button onclick="document.getElementById('fileInput').click()" class="inline-flex items-center gap-2 px-5 py-2.5 bg-green-50 hover:bg-green-100 text-green-700 text-sm font-medium rounded-xl transition-colors">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/></svg>
+                        Upload Your First PDF
+                    </button>
                 </div>
                 <div id="resultsGrid" class="hidden grid gap-3"></div>
             </div>
@@ -151,112 +276,234 @@
         <div class="bg-white rounded-2xl shadow-xl shadow-gray-200/50 overflow-hidden">
             <div class="px-6 py-5 border-b border-gray-100 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                 <div><h3 class="font-bold text-gray-900">Classification Data</h3><p class="text-sm text-gray-500" id="tableCount">0 records</p></div>
-                <select id="filterClass" class="text-sm border border-gray-200 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-500 bg-gray-50">
-                    <option value="">All Classifications</option>
-                    <option value="green_bond">🌿 Green Bond</option>
-                    <option value="sustainability_bond">♻️ Sustainability Bond</option>
-                    <option value="sustainability_linked_bond">🔗 Sustainability Linked</option>
-                    <option value="obligasi_biasa">📄 Obligasi Biasa</option>
-                </select>
+                <div class="flex items-center gap-3">
+                    <div class="relative">
+                        <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+                        <input type="text" id="tableSearch" placeholder="Search..." class="pl-9 pr-3 py-2 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500 bg-gray-50 w-48" oninput="renderFullTable()">
+                    </div>
+                    <select id="filterClass" class="text-sm border border-gray-200 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-500 bg-gray-50">
+                        <option value="">All Classifications</option>
+                        <option value="green_bond">🌿 Green Bond</option>
+                        <option value="sustainability_bond">♻️ Sustainability Bond</option>
+                        <option value="sustainability_linked_bond">🔗 Sustainability Linked</option>
+                        <option value="obligasi_biasa">📄 Obligasi Biasa</option>
+                    </select>
+                </div>
             </div>
-            <div class="overflow-x-auto" style="max-height: calc(100vh - 280px);">
+            <div class="overflow-x-auto" style="max-height: calc(100vh - 340px);">
                 <table class="w-full text-sm">
                     <thead class="bg-gray-50 text-left text-xs text-gray-500 uppercase tracking-wider sticky top-0">
                         <tr>
                             <th class="px-4 py-3 font-semibold">#</th>
-                            <th class="px-4 py-3 font-semibold">Company</th>
+                            <th class="px-4 py-3 font-semibold cursor-pointer hover:text-gray-700 select-none" onclick="sortTable('company')">Company <span class="sort-indicator" data-col="company"></span></th>
                             <th class="px-4 py-3 font-semibold">File</th>
-                            <th class="px-4 py-3 font-semibold">Classification</th>
-                            <th class="px-4 py-3 font-semibold">Confidence</th>
-                            <th class="px-4 py-3 font-semibold">Pages</th>
+                            <th class="px-4 py-3 font-semibold cursor-pointer hover:text-gray-700 select-none" onclick="sortTable('label')">Classification <span class="sort-indicator" data-col="label"></span></th>
+                            <th class="px-4 py-3 font-semibold cursor-pointer hover:text-gray-700 select-none" onclick="sortTable('confidence')">Confidence <span class="sort-indicator" data-col="confidence"></span></th>
+                            <th class="px-4 py-3 font-semibold cursor-pointer hover:text-gray-700 select-none" onclick="sortTable('pages')">Pages <span class="sort-indicator" data-col="pages"></span></th>
                             <th class="px-4 py-3 font-semibold text-green-600">G</th>
                             <th class="px-4 py-3 font-semibold text-blue-600">S</th>
                             <th class="px-4 py-3 font-semibold text-purple-600">L</th>
-                            <th class="px-4 py-3 font-semibold">Date</th>
+                            <th class="px-4 py-3 font-semibold cursor-pointer hover:text-gray-700 select-none" onclick="sortTable('date')">Date <span class="sort-indicator" data-col="date"></span></th>
                         </tr>
                     </thead>
                     <tbody id="fullTableBody" class="divide-y divide-gray-100"></tbody>
                 </table>
-                <div id="tableEmptyState" class="py-16 text-center"><p class="text-gray-400">No data available</p></div>
+                <div id="tableEmptyState" class="py-16 text-center">
+                    <div class="w-16 h-16 mx-auto mb-4 bg-gray-50 rounded-2xl flex items-center justify-center">
+                        <svg class="w-8 h-8 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 10h18M3 14h18m-9-4v8m-7 0h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
+                    </div>
+                    <p class="text-gray-500 font-medium">No data available</p>
+                    <p class="text-sm text-gray-400 mt-1">Classify some documents first, then switch to table view</p>
+                </div>
+            </div>
+            <!-- Pagination -->
+            <div id="tablePagination" class="hidden px-6 py-4 border-t border-gray-100 flex items-center justify-between">
+                <p class="text-sm text-gray-500">Showing <span id="pageRange">1-25</span> of <span id="pageTotal">0</span></p>
+                <div class="flex items-center gap-1">
+                    <button onclick="changePage(-1)" id="prevPageBtn" class="px-3 py-1.5 text-sm rounded-lg border border-gray-200 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors">Previous</button>
+                    <span id="pageIndicator" class="px-3 py-1.5 text-sm font-medium text-gray-700">1</span>
+                    <button onclick="changePage(1)" id="nextPageBtn" class="px-3 py-1.5 text-sm rounded-lg border border-gray-200 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors">Next</button>
+                </div>
             </div>
         </div>
     </div>
 
     <!-- Detail Modal -->
     <div id="detailModal" class="hidden fixed inset-0 bg-black/60 backdrop-blur-sm z-50 flex items-center justify-center p-4">
-        <div class="bg-white rounded-2xl w-full max-w-4xl max-h-[90vh] overflow-hidden shadow-2xl">
-            <div class="px-6 py-4 border-b border-gray-100 flex items-center justify-between bg-gradient-to-r from-gray-50 to-white">
-                <div><h3 id="modalTitle" class="font-bold text-gray-900">Classification Detail</h3><p id="modalSubtitle" class="text-sm text-gray-500"></p></div>
-                <button onclick="closeModal()" class="p-2 hover:bg-gray-100 rounded-xl transition-colors"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg></button>
+        <div class="bg-white rounded-2xl w-full max-w-4xl max-h-[90vh] overflow-hidden shadow-2xl flex flex-col">
+            <!-- Modal Header -->
+            <div class="flex-shrink-0">
+                <div class="px-6 py-4 border-b border-gray-100 flex items-center justify-between bg-gradient-to-r from-gray-50 to-white">
+                    <div><h3 id="modalTitle" class="font-bold text-gray-900">Classification Detail</h3><p id="modalSubtitle" class="text-sm text-gray-500"></p></div>
+                    <div class="flex items-center gap-2">
+                        <button id="viewPdfBtn" onclick="viewPdf()" class="hidden px-3 py-2 bg-red-500 hover:bg-red-600 text-white text-sm font-medium rounded-lg transition-colors flex items-center gap-2">
+                            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M4 18h12a2 2 0 002-2V6a2 2 0 00-2-2h-3.93a2 2 0 01-1.66-.9l-.82-1.2A2 2 0 007.93 1H4a2 2 0 00-2 2v13a2 2 0 002 2z"/></svg>
+                            View PDF
+                        </button>
+                        <button onclick="closeModal()" class="p-2 hover:bg-gray-100 rounded-xl transition-colors"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg></button>
+                    </div>
+                </div>
+                <!-- Classification Result Banner -->
+                <div id="modalResult" class="px-6 py-4 border-b-2 flex items-center gap-4 bg-gradient-to-r from-gray-50 to-white">
+                    <span id="modalEmoji" class="text-4xl"></span>
+                    <div class="flex-1">
+                        <h4 id="modalClass" class="text-xl font-bold"></h4>
+                        <p id="modalConfidence" class="text-sm text-gray-500"></p>
+                    </div>
+                    <div id="modalMethodBadge" class="px-3 py-1 text-xs font-medium rounded-full bg-gray-100 text-gray-600"></div>
+                </div>
+                <!-- Tab Navigation -->
+                <div class="px-6 bg-gray-50 border-b border-gray-200 flex gap-1">
+                    <button onclick="switchModalTab('overview')" data-tab="overview" class="modal-tab px-4 py-3 text-sm font-medium border-b-2 border-green-500 text-green-700 -mb-px transition-colors">Overview</button>
+                    <button onclick="switchModalTab('keywords')" data-tab="keywords" class="modal-tab px-4 py-3 text-sm font-medium text-gray-500 hover:text-gray-700 border-b-2 border-transparent -mb-px transition-colors">Keywords</button>
+                    <button onclick="switchModalTab('rules')" data-tab="rules" class="modal-tab px-4 py-3 text-sm font-medium text-gray-500 hover:text-gray-700 border-b-2 border-transparent -mb-px transition-colors">Rules</button>
+                    <button onclick="switchModalTab('review')" data-tab="review" class="modal-tab px-4 py-3 text-sm font-medium text-gray-500 hover:text-gray-700 border-b-2 border-transparent -mb-px transition-colors">Review</button>
+                </div>
             </div>
-            <div class="p-6 overflow-y-auto max-h-[calc(90vh-80px)]">
-                <div id="modalResult" class="mb-6 p-6 rounded-2xl border-2 text-center bg-gradient-to-br from-gray-50 to-white">
-                    <span id="modalEmoji" class="text-6xl"></span>
-                    <h4 id="modalClass" class="text-2xl font-bold mt-3"></h4>
-                    <p id="modalConfidence" class="text-sm text-gray-500 mt-1"></p>
-                </div>
-                <div class="mb-6">
-                    <h5 class="font-semibold text-gray-900 mb-3 flex items-center gap-2"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>Document Info</h5>
-                    <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
-                        <div class="bg-gray-50 rounded-xl p-4 text-center"><p class="text-2xl font-bold text-gray-900" id="modalPages">0</p><p class="text-xs text-gray-500 mt-1">Pages</p></div>
-                        <div class="bg-gray-50 rounded-xl p-4 text-center"><p class="text-2xl font-bold text-gray-900" id="modalWords">0</p><p class="text-xs text-gray-500 mt-1">Words</p></div>
-                        <div class="bg-gray-50 rounded-xl p-4 text-center"><p class="text-2xl font-bold text-gray-900" id="modalChars">0</p><p class="text-xs text-gray-500 mt-1">Characters</p></div>
-                        <div class="bg-gray-50 rounded-xl p-4 text-center"><p class="text-sm font-medium text-gray-900" id="modalDate">-</p><p class="text-xs text-gray-500 mt-1">Processed</p></div>
+            <!-- Tab Content (scrollable) -->
+            <div class="flex-1 overflow-y-auto p-6">
+                <!-- Tab: Overview -->
+                <div id="tabOverview" class="modal-tab-content">
+                    <div class="mb-6">
+                        <h5 class="font-semibold text-gray-900 mb-3 flex items-center gap-2"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>Document Info</h5>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+                            <div class="bg-gray-50 rounded-xl p-4 text-center"><p class="text-2xl font-bold text-gray-900" id="modalPages">0</p><p class="text-xs text-gray-500 mt-1">Pages</p></div>
+                            <div class="bg-gray-50 rounded-xl p-4 text-center"><p class="text-2xl font-bold text-gray-900" id="modalWords">0</p><p class="text-xs text-gray-500 mt-1">Words</p></div>
+                            <div class="bg-gray-50 rounded-xl p-4 text-center"><p class="text-2xl font-bold text-gray-900" id="modalChars">0</p><p class="text-xs text-gray-500 mt-1">Characters</p></div>
+                            <div class="bg-gray-50 rounded-xl p-4 text-center"><p class="text-sm font-medium text-gray-900" id="modalDate">-</p><p class="text-xs text-gray-500 mt-1">Processed</p></div>
+                        </div>
+                    </div>
+                    <div class="mb-6">
+                        <h5 class="font-semibold text-gray-900 mb-3 flex items-center gap-2"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>Score Comparison</h5>
+                        <div class="space-y-4">
+                            <div class="bg-green-50 rounded-xl p-4">
+                                <div class="flex justify-between items-center mb-2"><span class="font-medium text-green-700 flex items-center gap-2"><span class="text-lg">🌿</span> Green Bond</span><span class="text-xl font-bold text-green-600" id="modalGreenScore">0</span></div>
+                                <div class="h-3 bg-green-100 rounded-full overflow-hidden"><div id="modalGreenBar" class="h-full bg-gradient-to-r from-green-400 to-green-500 rounded-full transition-all" style="width: 0%"></div></div>
+                            </div>
+                            <div class="bg-blue-50 rounded-xl p-4">
+                                <div class="flex justify-between items-center mb-2"><span class="font-medium text-blue-700 flex items-center gap-2"><span class="text-lg">♻️</span> Sustainability</span><span class="text-xl font-bold text-blue-600" id="modalSustainScore">0</span></div>
+                                <div class="h-3 bg-blue-100 rounded-full overflow-hidden"><div id="modalSustainBar" class="h-full bg-gradient-to-r from-blue-400 to-blue-500 rounded-full transition-all" style="width: 0%"></div></div>
+                            </div>
+                            <div class="bg-purple-50 rounded-xl p-4">
+                                <div class="flex justify-between items-center mb-2"><span class="font-medium text-purple-700 flex items-center gap-2"><span class="text-lg">🔗</span> Sustainability-Linked</span><span class="text-xl font-bold text-purple-600" id="modalLinkedScore">0</span></div>
+                                <div class="h-3 bg-purple-100 rounded-full overflow-hidden"><div id="modalLinkedBar" class="h-full bg-gradient-to-r from-purple-400 to-purple-500 rounded-full transition-all" style="width: 0%"></div></div>
+                            </div>
+                        </div>
+                        <p class="text-xs text-gray-500 mt-3" id="modalScoreExplanation"></p>
+                    </div>
+                    <div class="p-4 bg-amber-50 border border-amber-200 rounded-xl">
+                        <h5 class="font-semibold text-amber-800 mb-2 flex items-center gap-2"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>Confidence Explanation</h5>
+                        <p id="confidenceExplanation" class="text-sm text-amber-700"></p>
                     </div>
                 </div>
-                <div class="mb-6">
-                    <h5 class="font-semibold text-gray-900 mb-3 flex items-center gap-2"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>Score Comparison</h5>
+                <!-- Tab: Keywords -->
+                <div id="tabKeywords" class="modal-tab-content hidden">
                     <div class="space-y-4">
-                        <div class="bg-green-50 rounded-xl p-4">
-                            <div class="flex justify-between items-center mb-2"><span class="font-medium text-green-700 flex items-center gap-2"><span class="text-lg">🌿</span> Green Bond</span><span class="text-xl font-bold text-green-600" id="modalGreenScore">0</span></div>
-                            <div class="h-3 bg-green-100 rounded-full overflow-hidden"><div id="modalGreenBar" class="h-full bg-gradient-to-r from-green-400 to-green-500 rounded-full transition-all" style="width: 0%"></div></div>
+                        <h5 class="font-semibold text-gray-900 flex items-center gap-2"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/></svg>Keywords Detail</h5>
+                        <div class="border border-green-200 rounded-xl overflow-hidden">
+                            <div class="bg-green-50 px-4 py-3 flex items-center justify-between"><span class="font-medium text-green-800">🌿 Green Bond Keywords</span><span class="text-sm text-green-600" id="greenKwSummary">0 found</span></div>
+                            <div class="p-4"><div id="greenKeywordsDetail" class="text-sm"></div></div>
                         </div>
-                        <div class="bg-blue-50 rounded-xl p-4">
-                            <div class="flex justify-between items-center mb-2"><span class="font-medium text-blue-700 flex items-center gap-2"><span class="text-lg">♻️</span> Sustainability</span><span class="text-xl font-bold text-blue-600" id="modalSustainScore">0</span></div>
-                            <div class="h-3 bg-blue-100 rounded-full overflow-hidden"><div id="modalSustainBar" class="h-full bg-gradient-to-r from-blue-400 to-blue-500 rounded-full transition-all" style="width: 0%"></div></div>
+                        <div class="border border-blue-200 rounded-xl overflow-hidden">
+                            <div class="bg-blue-50 px-4 py-3 flex items-center justify-between"><span class="font-medium text-blue-800">♻️ Sustainability Keywords</span><span class="text-sm text-blue-600" id="sustainKwSummary">0 found</span></div>
+                            <div class="p-4"><div id="sustainKeywordsDetail" class="text-sm"></div></div>
                         </div>
-                        <div class="bg-purple-50 rounded-xl p-4">
-                            <div class="flex justify-between items-center mb-2"><span class="font-medium text-purple-700 flex items-center gap-2"><span class="text-lg">🔗</span> Sustainability-Linked</span><span class="text-xl font-bold text-purple-600" id="modalLinkedScore">0</span></div>
-                            <div class="h-3 bg-purple-100 rounded-full overflow-hidden"><div id="modalLinkedBar" class="h-full bg-gradient-to-r from-purple-400 to-purple-500 rounded-full transition-all" style="width: 0%"></div></div>
+                        <div class="border border-purple-200 rounded-xl overflow-hidden">
+                            <div class="bg-purple-50 px-4 py-3 flex items-center justify-between"><span class="font-medium text-purple-800">🔗 Sustainability-Linked Keywords</span><span class="text-sm text-purple-600" id="linkedKwSummary">0 found</span></div>
+                            <div class="p-4"><div id="linkedKeywordsDetail" class="text-sm"></div></div>
                         </div>
                     </div>
-                    <p class="text-xs text-gray-500 mt-3" id="modalScoreExplanation"></p>
                 </div>
-                <div class="mb-6">
+                <!-- Tab: Rules -->
+                <div id="tabRules" class="modal-tab-content hidden">
                     <h5 class="font-semibold text-gray-900 mb-3 flex items-center gap-2"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"/></svg>Classification Rules (POJK 18/2023)</h5>
                     <div class="bg-blue-50 rounded-xl p-4 space-y-2 text-sm">
-                        <p id="ruleCheck1" class="flex items-center gap-2 text-blue-800"><span>⬜</span> Sustainability-Linked: Score ≥ 10 AND highest</p>
-                        <p id="ruleCheck2" class="flex items-center gap-2 text-blue-800"><span>⬜</span> Sustainability Bond: Score ≥ 10 AND ≥ Green</p>
-                        <p id="ruleCheck3" class="flex items-center gap-2 text-blue-800"><span>⬜</span> Green Bond: Score ≥ 10</p>
-                        <p id="ruleCheck4" class="flex items-center gap-2 text-blue-800"><span>⬜</span> Obligasi Biasa: No threshold met</p>
+                        <p id="ruleCheck1" class="flex items-center gap-2 text-blue-800"><span>⬜</span> <b>&#9312;</b> Sustainability-Linked: Linked Score &ge; 10</p>
+                        <p id="ruleCheck2" class="flex items-center gap-2 text-blue-800"><span>⬜</span> <b>&#9313;</b> Sustainability Bond: Sustainability Score &ge; 10</p>
+                        <p id="ruleCheck3" class="flex items-center gap-2 text-blue-800"><span>⬜</span> <b>&#9314;</b> Green Bond: Green Score &ge; 10</p>
+                        <p id="ruleCheck4" class="flex items-center gap-2 text-blue-800"><span>⬜</span> <b>&#9315;</b> Obligasi Biasa: No score &ge; 10</p>
+                    </div>
+                    <div class="mt-4 p-4 bg-gray-50 rounded-xl">
+                        <h6 class="font-medium text-gray-700 mb-2">How it works</h6>
+                        <p class="text-sm text-gray-600">The classification follows a priority-based rule system. Each bond prospectus is scored against three keyword categories. The system checks rules in order of priority (Sustainability-Linked first, then Sustainability, then Green). The first rule where the score meets the threshold (&ge;10) determines the classification. If no score reaches the threshold, the bond is classified as Obligasi Biasa (Regular Bond).</p>
                     </div>
                 </div>
-                <div class="space-y-4">
-                    <h5 class="font-semibold text-gray-900 flex items-center gap-2"><svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/></svg>Keywords Detail</h5>
-                    <div class="border border-green-200 rounded-xl overflow-hidden">
-                        <div class="bg-green-50 px-4 py-3 flex items-center justify-between"><span class="font-medium text-green-800">🌿 Green Bond Keywords</span><span class="text-sm text-green-600" id="greenKwSummary">0 found</span></div>
-                        <div class="p-4"><div id="greenKeywordsDetail" class="text-sm"></div></div>
+                <!-- Tab: Review -->
+                <div id="tabReview" class="modal-tab-content hidden">
+                    <div id="reviewSection" class="p-5 bg-gradient-to-br from-indigo-50 to-purple-50 border border-indigo-200 rounded-xl">
+                        <h5 class="font-semibold text-indigo-800 mb-3 flex items-center gap-2">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg>
+                            Human Review & Correction
+                        </h5>
+                        <p id="reviewStatus" class="text-sm text-indigo-600 mb-4"></p>
+
+                        <div class="mb-4">
+                            <label class="block text-sm font-medium text-gray-700 mb-2">Correct Classification:</label>
+                            <div class="grid grid-cols-2 md:grid-cols-4 gap-2">
+                                <button data-label="green_bond" onclick="submitCorrection('green_bond')" class="correction-btn px-3 py-2 text-sm rounded-lg border-2 border-green-300 bg-green-50 hover:bg-green-100 text-green-700 transition-all">
+                                    🌿 Green Bond
+                                </button>
+                                <button data-label="sustainability_bond" onclick="submitCorrection('sustainability_bond')" class="correction-btn px-3 py-2 text-sm rounded-lg border-2 border-blue-300 bg-blue-50 hover:bg-blue-100 text-blue-700 transition-all">
+                                    ♻️ Sustainability
+                                </button>
+                                <button data-label="sustainability_linked_bond" onclick="submitCorrection('sustainability_linked_bond')" class="correction-btn px-3 py-2 text-sm rounded-lg border-2 border-purple-300 bg-purple-50 hover:bg-purple-100 text-purple-700 transition-all">
+                                    🔗 Linked
+                                </button>
+                                <button data-label="obligasi_biasa" onclick="submitCorrection('obligasi_biasa')" class="correction-btn px-3 py-2 text-sm rounded-lg border-2 border-gray-300 bg-gray-50 hover:bg-gray-100 text-gray-700 transition-all">
+                                    📄 Obligasi Biasa
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="flex items-center gap-3">
+                            <button onclick="confirmClassification()" class="px-4 py-2 bg-green-500 hover:bg-green-600 text-white text-sm font-medium rounded-lg transition-colors flex items-center gap-2">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+                                Confirm as Correct
+                            </button>
+                            <span class="text-xs text-gray-500">Click a button above to correct, or confirm if the classification is correct</span>
+                        </div>
                     </div>
-                    <div class="border border-blue-200 rounded-xl overflow-hidden">
-                        <div class="bg-blue-50 px-4 py-3 flex items-center justify-between"><span class="font-medium text-blue-800">♻️ Sustainability Keywords</span><span class="text-sm text-blue-600" id="sustainKwSummary">0 found</span></div>
-                        <div class="p-4"><div id="sustainKeywordsDetail" class="text-sm"></div></div>
-                    </div>
-                    <div class="border border-purple-200 rounded-xl overflow-hidden">
-                        <div class="bg-purple-50 px-4 py-3 flex items-center justify-between"><span class="font-medium text-purple-800">🔗 Sustainability-Linked Keywords</span><span class="text-sm text-purple-600" id="linkedKwSummary">0 found</span></div>
-                        <div class="p-4"><div id="linkedKeywordsDetail" class="text-sm"></div></div>
-                    </div>
-                </div>
-                <div class="mt-6 p-4 bg-amber-50 border border-amber-200 rounded-xl">
-                    <h5 class="font-semibold text-amber-800 mb-2 flex items-center gap-2"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>Confidence Explanation</h5>
-                    <p id="confidenceExplanation" class="text-sm text-amber-700"></p>
                 </div>
             </div>
         </div>
     </div>
 
+    <!-- Custom Confirm Dialog -->
+    <div id="confirmDialog" class="hidden fixed inset-0 bg-black/40 backdrop-blur-sm z-[60] flex items-center justify-center p-4">
+        <div class="bg-white rounded-2xl w-full max-w-sm shadow-2xl p-6 text-center animate-fade-in">
+            <div class="w-14 h-14 mx-auto mb-4 bg-red-50 rounded-2xl flex items-center justify-center">
+                <svg class="w-7 h-7 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
+            </div>
+            <h4 id="confirmTitle" class="text-lg font-bold text-gray-900 mb-2">Clear History?</h4>
+            <p id="confirmMessage" class="text-sm text-gray-500 mb-6">This will permanently delete all classification history. This action cannot be undone.</p>
+            <div class="flex gap-3">
+                <button onclick="confirmDialogResolve(false)" class="flex-1 px-4 py-2.5 border border-gray-200 text-gray-700 font-medium rounded-xl hover:bg-gray-50 transition-colors text-sm">Cancel</button>
+                <button onclick="confirmDialogResolve(true)" class="flex-1 px-4 py-2.5 bg-red-500 hover:bg-red-600 text-white font-medium rounded-xl transition-colors text-sm">Delete All</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="border-t border-gray-200/50 mt-12 py-6 text-center">
+        <div class="max-w-7xl mx-auto px-4">
+            <p class="text-xs text-gray-400">Green Bond Classification System v1.0 &mdash; Based on POJK 18/2023</p>
+            <p class="text-xs text-gray-300 mt-1">Bank Indonesia &bull; DSta-DSMF &bull; 2025</p>
+        </div>
+    </footer>
+
     <script>
         let history = JSON.parse(localStorage.getItem('gbHistory') || '[]');
         let selectedFiles = [];
+        const API_KEY = localStorage.getItem('gbApiKey') || '';
+        function getAuthHeaders() {
+            const h = { 'Content-Type': 'application/json' };
+            if (API_KEY) h['X-API-Key'] = API_KEY;
+            return h;
+        }
+        let tableSortCol = null;
+        let tableSortAsc = true;
+        let currentPage = 1;
+        const PAGE_SIZE = 25;
 
         const dropZone = document.getElementById('dropZone');
         const fileInput = document.getElementById('fileInput');
@@ -267,6 +514,49 @@
         const progressBar = document.getElementById('progressBar');
         const progressFill = document.getElementById('progressFill');
         const progressText = document.getElementById('progressText');
+
+        // Dark mode
+        function toggleDarkMode() {
+            const isDark = document.documentElement.classList.toggle('dark');
+            localStorage.setItem('gbDarkMode', isDark);
+            document.getElementById('sunIcon').classList.toggle('hidden', !isDark);
+            document.getElementById('moonIcon').classList.toggle('hidden', isDark);
+        }
+        (function initDarkMode() {
+            if (localStorage.getItem('gbDarkMode') === 'true') {
+                document.documentElement.classList.add('dark');
+                document.getElementById('sunIcon').classList.remove('hidden');
+                document.getElementById('moonIcon').classList.add('hidden');
+            }
+        })();
+
+        // Custom confirm dialog
+        let confirmDialogCallback = null;
+        function showConfirmDialog(title, message) {
+            return new Promise(resolve => {
+                confirmDialogCallback = resolve;
+                document.getElementById('confirmTitle').textContent = title;
+                document.getElementById('confirmMessage').textContent = message;
+                document.getElementById('confirmDialog').classList.remove('hidden');
+            });
+        }
+        function confirmDialogResolve(result) {
+            document.getElementById('confirmDialog').classList.add('hidden');
+            if (confirmDialogCallback) { confirmDialogCallback(result); confirmDialogCallback = null; }
+        }
+
+        // Modal tabs
+        function switchModalTab(tabName) {
+            document.querySelectorAll('.modal-tab').forEach(btn => {
+                btn.classList.remove('border-green-500', 'text-green-700');
+                btn.classList.add('border-transparent', 'text-gray-500');
+            });
+            const activeTab = document.querySelector(`.modal-tab[data-tab="${tabName}"]`);
+            activeTab.classList.add('border-green-500', 'text-green-700');
+            activeTab.classList.remove('border-transparent', 'text-gray-500');
+            document.querySelectorAll('.modal-tab-content').forEach(c => c.classList.add('hidden'));
+            document.getElementById('tab' + tabName.charAt(0).toUpperCase() + tabName.slice(1)).classList.remove('hidden');
+        }
 
         function showView(view) {
             document.getElementById('dashboardView').classList.toggle('hidden', view !== 'dashboard');
@@ -298,59 +588,274 @@
             if (selectedFiles.length === 0) return;
             classifyBtn.disabled = true; btnText.textContent = 'Processing...'; progressBar.classList.remove('hidden');
             const total = selectedFiles.length; let processed = 0;
+
+            // Show skeleton placeholders
+            const container = document.getElementById('resultsGrid');
+            const empty = document.getElementById('emptyState');
+            empty.classList.add('hidden');
+            container.classList.remove('hidden');
+            const skeletonHTML = Array(total).fill(
+                `<div class="skeleton-card bg-gray-50 rounded-xl p-4 flex items-center gap-4"><div class="w-12 h-12 rounded-xl skeleton"></div><div class="flex-1 space-y-2"><div class="h-4 w-3/4 skeleton"></div><div class="h-3 w-1/2 skeleton"></div></div><div class="text-right space-y-2"><div class="h-6 w-20 skeleton ml-auto"></div><div class="h-3 w-12 skeleton ml-auto"></div></div></div>`
+            ).join('');
+            container.insertAdjacentHTML('afterbegin', skeletonHTML);
+
             for (const file of selectedFiles) {
                 try {
                     const formData = new FormData(); formData.append('file', file);
                     const res = await fetch('/api/classify?method=hybrid', { method: 'POST', body: formData });
-                    if (res.ok) addToHistory(await res.json());
-                } catch (err) { console.error(err); }
+                    if (res.ok) {
+                        addToHistory(await res.json());
+                    } else {
+                        const errData = await res.json().catch(() => ({ detail: 'Unknown error' }));
+                        showToast(`Failed: ${file.name} - ${errData.detail}`, 'error');
+                    }
+                } catch (err) {
+                    console.error(err);
+                    showToast(`Error processing ${file.name}`, 'error');
+                }
                 processed++; progressText.textContent = `${processed}/${total}`; progressFill.style.width = `${(processed / total) * 100}%`;
+                // Remove one skeleton
+                const skeleton = container.querySelector('.skeleton-card');
+                if (skeleton) skeleton.remove();
             }
-            setTimeout(() => { selectedFiles = []; fileInput.value = ''; updateFileList(); progressBar.classList.add('hidden'); progressFill.style.width = '0%'; btnText.textContent = 'Start Classification'; classifyBtn.disabled = true; }, 1000);
+            setTimeout(() => {
+                selectedFiles = []; fileInput.value = ''; updateFileList();
+                progressBar.classList.add('hidden'); progressFill.style.width = '0%';
+                btnText.textContent = 'Start Classification'; classifyBtn.disabled = true;
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }, 1000);
         });
 
         function addToHistory(data) {
             const companyName = (data.company_name || data.filename.replace('.pdf', '')).toUpperCase();
-            const entry = { id: Date.now() + Math.random(), filename: data.filename, company: companyName, label: data.classification.label, displayName: data.classification.display_name, emoji: data.classification.emoji, confidence: data.classification.confidence, confidenceLevel: data.classification.confidence_level, color: data.classification.color, pages: data.document_info?.pages || 0, wordCount: data.document_info?.word_count || 0, charCount: data.document_info?.char_count || 0, scores: data.scores, keywordCounts: data.keyword_counts, uniqueKeywords: data.unique_keywords, keywordsFoundStr: data.keywords_found_str, regulation: 'POJK 18/2023', date: new Date().toISOString() };
+            const needsReview = data.review?.needs_review || false;
+            const reviewReason = data.review?.review_reason || null;
+            const entry = {
+                id: Date.now() + Math.random(),
+                filename: data.filename,
+                company: companyName,
+                label: data.classification.label,
+                displayName: data.classification.display_name,
+                emoji: data.classification.emoji,
+                confidence: data.classification.confidence,
+                confidenceLevel: data.classification.confidence_level,
+                color: data.classification.color,
+                method: data.classification.method || 'unknown',
+                pages: data.document_info?.pages || 0,
+                wordCount: data.document_info?.word_count || 0,
+                charCount: data.document_info?.char_count || 0,
+                fileId: data.document_info?.file_id || null,
+                pdfUrl: data.document_info?.pdf_url || null,
+                scores: data.scores,
+                keywordCounts: data.keyword_counts,
+                uniqueKeywords: data.unique_keywords,
+                keywordsFoundStr: data.keywords_found_str,
+                regulation: 'POJK 18/2023',
+                date: new Date().toISOString(),
+                needsReview: needsReview,
+                reviewReason: reviewReason,
+                userCorrected: false,
+                correctedLabel: null,
+                originalLabel: data.classification.label
+            };
             history.unshift(entry); if (history.length > 500) history.pop(); localStorage.setItem('gbHistory', JSON.stringify(history)); updateStats(); renderResults();
         }
 
         function updateStats() {
-            document.getElementById('statTotal').textContent = history.length;
-            document.getElementById('statGreen').textContent = history.filter(h => h.label === 'green_bond').length;
-            document.getElementById('statSustain').textContent = history.filter(h => h.label === 'sustainability_bond' || h.label === 'sustainability_linked_bond').length;
-            document.getElementById('statBiasa').textContent = history.filter(h => h.label === 'obligasi_biasa').length;
+            const getLabel = h => h.userCorrected ? h.correctedLabel : h.label;
+            const total = history.length;
+            const counts = {
+                green: history.filter(h => getLabel(h) === 'green_bond').length,
+                sustain: history.filter(h => getLabel(h) === 'sustainability_bond').length,
+                linked: history.filter(h => getLabel(h) === 'sustainability_linked_bond').length,
+                biasa: history.filter(h => getLabel(h) === 'obligasi_biasa').length,
+            };
+            document.getElementById('statTotal').textContent = total;
+            document.getElementById('statGreen').textContent = counts.green;
+            document.getElementById('statSustain').textContent = counts.sustain;
+            document.getElementById('statLinked').textContent = counts.linked;
+            document.getElementById('statBiasa').textContent = counts.biasa;
+            const pct = (n) => total > 0 ? ((n / total) * 100).toFixed(0) + '%' : '0%';
+            document.getElementById('statGreenPct').textContent = pct(counts.green);
+            document.getElementById('statSustainPct').textContent = pct(counts.sustain);
+            document.getElementById('statLinkedPct').textContent = pct(counts.linked);
+            document.getElementById('statBiasaPct').textContent = pct(counts.biasa);
+            const barPct = (n) => total > 0 ? ((n / total) * 100) + '%' : '0%';
+            document.getElementById('statGreenBar').style.width = barPct(counts.green);
+            document.getElementById('statSustainBar').style.width = barPct(counts.sustain);
+            document.getElementById('statLinkedBar').style.width = barPct(counts.linked);
+            document.getElementById('statBiasaBar').style.width = barPct(counts.biasa);
+            updateDonutChart(counts, total);
+        }
+
+        function updateDonutChart(counts, total) {
+            const chartEl = document.getElementById('chartSection');
+            if (total === 0) { chartEl.classList.add('hidden'); return; }
+            chartEl.classList.remove('hidden');
+            const pcts = [counts.green, counts.sustain, counts.linked, counts.biasa].map(n => (n / total) * 100);
+            let offset = 0;
+            ['donutGreen', 'donutSustain', 'donutLinked', 'donutBiasa'].forEach((id, i) => {
+                const el = document.getElementById(id);
+                el.setAttribute('stroke-dasharray', `${pcts[i]} ${100 - pcts[i]}`);
+                el.setAttribute('stroke-dashoffset', `-${offset}`);
+                offset += pcts[i];
+            });
+            document.getElementById('donutTotal').textContent = total;
+            const items = [
+                { label: 'Green Bond', count: counts.green, color: '#22c55e', emoji: '🌿' },
+                { label: 'Sustainability', count: counts.sustain, color: '#3b82f6', emoji: '♻️' },
+                { label: 'Sust-Linked', count: counts.linked, color: '#8b5cf6', emoji: '🔗' },
+                { label: 'Regular Bond', count: counts.biasa, color: '#9ca3af', emoji: '📄' }
+            ];
+            document.getElementById('donutLegend').innerHTML = items.map(item =>
+                `<div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full flex-shrink-0" style="background: ${item.color}"></div><span class="text-sm text-gray-600">${item.emoji} ${item.label}</span><span class="text-sm font-bold ml-auto text-gray-900">${item.count}</span></div>`
+            ).join('');
         }
 
         function renderResults() {
             const container = document.getElementById('resultsGrid'), empty = document.getElementById('emptyState');
-            if (history.length === 0) { container.classList.add('hidden'); empty.classList.remove('hidden'); return; }
+            const searchTerm = (document.getElementById('dashboardSearch')?.value || '').toLowerCase();
+            let filtered = history;
+            if (searchTerm) {
+                filtered = filtered.filter(h => h.company.toLowerCase().includes(searchTerm) || h.filename.toLowerCase().includes(searchTerm));
+            }
+            if (filtered.length === 0) {
+                container.classList.add('hidden'); empty.classList.remove('hidden');
+                const emptyTitle = empty.querySelector('p:first-of-type');
+                const emptyDesc = empty.querySelector('p:nth-of-type(2)');
+                if (searchTerm && history.length > 0) {
+                    emptyTitle.textContent = 'No results found';
+                    emptyDesc.textContent = `No matches for "${searchTerm}"`;
+                } else {
+                    emptyTitle.textContent = 'No classifications yet';
+                    emptyDesc.textContent = 'Upload bond prospectus PDF files using the upload area above to automatically classify them based on POJK 18/2023 regulations';
+                }
+                return;
+            }
             empty.classList.add('hidden'); container.classList.remove('hidden');
-            container.innerHTML = history.slice(0, 20).map(h => `<div onclick="openModal(${h.id})" class="result-card bg-gray-50 hover:bg-gray-100 rounded-xl p-4 cursor-pointer transition-all flex items-center gap-4"><div class="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0" style="background: ${h.color}15"><span class="text-2xl">${h.emoji}</span></div><div class="flex-1 min-w-0"><p class="font-semibold text-gray-900 truncate">${h.company}</p><p class="text-xs text-gray-500 truncate">${h.filename}</p></div><div class="text-right flex-shrink-0"><span class="inline-block px-2.5 py-1 text-xs font-medium rounded-lg" style="background: ${h.color}15; color: ${h.color}">${h.displayName}</span><p class="text-xs text-gray-400 mt-1">${(h.confidence * 100).toFixed(0)}% conf</p></div><svg class="w-5 h-5 text-gray-300 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></div>`).join('');
+            const getCategoryBg = (label) => {
+                const map = { 'green_bond': 'bg-green-50/50 hover:bg-green-50', 'sustainability_bond': 'bg-blue-50/50 hover:bg-blue-50', 'sustainability_linked_bond': 'bg-purple-50/50 hover:bg-purple-50', 'obligasi_biasa': 'bg-gray-50 hover:bg-gray-100' };
+                return map[label] || map['obligasi_biasa'];
+            };
+            container.innerHTML = filtered.slice(0, 20).map(h => {
+                const effectiveLabel = h.userCorrected ? h.correctedLabel : h.label;
+                const categoryBg = getCategoryBg(effectiveLabel);
+                const needsReviewBadge = h.needsReview && !h.userCorrected ? `<span class="ml-2 px-2 py-0.5 text-xs bg-amber-100 text-amber-700 rounded-full">Review</span>` : '';
+                const correctedBadge = h.userCorrected ? `<span class="ml-2 px-2 py-0.5 text-xs bg-green-100 text-green-700 rounded-full">Verified</span>` : '';
+                return `<div onclick="openModal(${h.id})" class="result-card ${categoryBg} border-l-4 rounded-xl p-4 cursor-pointer transition-all flex items-center gap-4" style="border-left-color: ${h.color}"><div class="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0" style="background: ${h.color}15"><span class="text-2xl">${h.emoji}</span></div><div class="flex-1 min-w-0"><p class="font-semibold text-gray-900 truncate">${h.company}${needsReviewBadge}${correctedBadge}</p><p class="text-xs text-gray-500 truncate">${h.filename}</p></div><div class="text-right flex-shrink-0"><span class="inline-block px-2.5 py-1 text-xs font-medium rounded-lg" style="background: ${h.color}15; color: ${h.color}">${h.displayName}</span><p class="text-xs text-gray-400 mt-1">${(h.confidence * 100).toFixed(0)}% conf</p></div><svg class="w-5 h-5 text-gray-300 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></div>`;
+            }).join('');
+        }
+
+        // Table sorting
+        function sortTable(col) {
+            if (tableSortCol === col) { tableSortAsc = !tableSortAsc; }
+            else { tableSortCol = col; tableSortAsc = true; }
+            document.querySelectorAll('.sort-indicator').forEach(el => el.textContent = '');
+            const indicator = document.querySelector(`.sort-indicator[data-col="${col}"]`);
+            if (indicator) indicator.textContent = tableSortAsc ? ' \u2191' : ' \u2193';
+            renderFullTable();
+        }
+
+        function changePage(delta) {
+            currentPage += delta;
+            renderFullTable();
         }
 
         function renderFullTable() {
             const tbody = document.getElementById('fullTableBody'), empty = document.getElementById('tableEmptyState'), filter = document.getElementById('filterClass').value;
-            let filtered = filter ? history.filter(h => h.label === filter) : history;
-            document.getElementById('tableCount').textContent = `${filtered.length} records`;
-            if (filtered.length === 0) { tbody.innerHTML = ''; empty.classList.remove('hidden'); return; }
+            const search = (document.getElementById('tableSearch')?.value || '').toLowerCase();
+            let filtered = history;
+            if (filter) filtered = filtered.filter(h => (h.userCorrected ? h.correctedLabel : h.label) === filter);
+            if (search) filtered = filtered.filter(h => h.company.toLowerCase().includes(search) || h.filename.toLowerCase().includes(search));
+
+            // Sort
+            if (tableSortCol) {
+                filtered = [...filtered].sort((a, b) => {
+                    let va, vb;
+                    switch(tableSortCol) {
+                        case 'company': va = a.company; vb = b.company; break;
+                        case 'label': va = (a.userCorrected ? a.correctedLabel : a.label); vb = (b.userCorrected ? b.correctedLabel : b.label); break;
+                        case 'confidence': va = a.confidence; vb = b.confidence; break;
+                        case 'pages': va = a.pages || 0; vb = b.pages || 0; break;
+                        case 'date': va = a.date; vb = b.date; break;
+                        default: va = 0; vb = 0;
+                    }
+                    if (va < vb) return tableSortAsc ? -1 : 1;
+                    if (va > vb) return tableSortAsc ? 1 : -1;
+                    return 0;
+                });
+            }
+
+            const totalRecords = filtered.length;
+            const totalPages = Math.max(1, Math.ceil(totalRecords / PAGE_SIZE));
+            currentPage = Math.max(1, Math.min(currentPage, totalPages));
+            const start = (currentPage - 1) * PAGE_SIZE;
+            const paged = filtered.slice(start, start + PAGE_SIZE);
+
+            // Pagination
+            const paginationEl = document.getElementById('tablePagination');
+            if (totalRecords > PAGE_SIZE) {
+                paginationEl.classList.remove('hidden');
+                document.getElementById('pageRange').textContent = `${start + 1}-${Math.min(start + PAGE_SIZE, totalRecords)}`;
+                document.getElementById('pageTotal').textContent = totalRecords;
+                document.getElementById('pageIndicator').textContent = `${currentPage} / ${totalPages}`;
+                document.getElementById('prevPageBtn').disabled = currentPage <= 1;
+                document.getElementById('nextPageBtn').disabled = currentPage >= totalPages;
+            } else {
+                paginationEl.classList.add('hidden');
+            }
+
+            document.getElementById('tableCount').textContent = `${totalRecords} records`;
+            if (totalRecords === 0) { tbody.innerHTML = ''; empty.classList.remove('hidden'); return; }
             empty.classList.add('hidden');
-            tbody.innerHTML = filtered.map((h, i) => `<tr onclick="openModal(${h.id})" class="hover:bg-gray-50 cursor-pointer transition-colors"><td class="px-4 py-3 text-gray-500">${i + 1}</td><td class="px-4 py-3 font-medium text-gray-900 max-w-[150px] truncate">${h.company}</td><td class="px-4 py-3 text-gray-600 max-w-[120px] truncate">${h.filename}</td><td class="px-4 py-3"><span class="inline-flex items-center gap-1 px-2 py-1 text-xs font-medium rounded-lg" style="background: ${h.color}15; color: ${h.color}">${h.emoji} ${h.displayName}</span></td><td class="px-4 py-3"><div class="flex items-center gap-2"><div class="w-16 h-2 bg-gray-200 rounded-full overflow-hidden"><div class="h-full rounded-full" style="width: ${h.confidence * 100}%; background: ${h.color}"></div></div><span class="text-xs text-gray-600">${(h.confidence * 100).toFixed(0)}%</span></div></td><td class="px-4 py-3 text-gray-600">${h.pages || '-'}</td><td class="px-4 py-3 text-green-600 font-medium">${h.scores?.green || 0}</td><td class="px-4 py-3 text-blue-600 font-medium">${h.scores?.sustainability || 0}</td><td class="px-4 py-3 text-purple-600 font-medium">${h.scores?.linked || 0}</td><td class="px-4 py-3 text-gray-500 text-xs">${new Date(h.date).toLocaleDateString('id-ID')}</td></tr>`).join('');
+            tbody.innerHTML = paged.map((h, i) => `<tr onclick="openModal(${h.id})" class="hover:bg-gray-50 cursor-pointer transition-colors"><td class="px-4 py-3 text-gray-500">${start + i + 1}</td><td class="px-4 py-3 font-medium text-gray-900 max-w-[150px] truncate">${h.company}</td><td class="px-4 py-3 text-gray-600 max-w-[120px] truncate">${h.filename}</td><td class="px-4 py-3"><span class="inline-flex items-center gap-1 px-2 py-1 text-xs font-medium rounded-lg" style="background: ${h.color}15; color: ${h.color}">${h.emoji} ${h.displayName}</span></td><td class="px-4 py-3"><div class="flex items-center gap-2"><div class="w-16 h-2 bg-gray-200 rounded-full overflow-hidden"><div class="h-full rounded-full" style="width: ${h.confidence * 100}%; background: ${h.color}"></div></div><span class="text-xs text-gray-600">${(h.confidence * 100).toFixed(0)}%</span></div></td><td class="px-4 py-3 text-gray-600">${h.pages || '-'}</td><td class="px-4 py-3 text-green-600 font-medium">${h.scores?.green || 0}</td><td class="px-4 py-3 text-blue-600 font-medium">${h.scores?.sustainability || 0}</td><td class="px-4 py-3 text-purple-600 font-medium">${h.scores?.linked || 0}</td><td class="px-4 py-3 text-gray-500 text-xs">${new Date(h.date).toLocaleDateString('id-ID')}</td></tr>`).join('');
         }
 
-        document.getElementById('filterClass').addEventListener('change', renderFullTable);
-        document.getElementById('clearHistory').addEventListener('click', () => { if (confirm('Clear all classification history?')) { history = []; localStorage.removeItem('gbHistory'); updateStats(); renderResults(); renderFullTable(); } });
+        document.getElementById('filterClass').addEventListener('change', () => { currentPage = 1; renderFullTable(); });
+        document.getElementById('clearHistory').addEventListener('click', async () => {
+            const confirmed = await showConfirmDialog('Clear History?', 'This will permanently delete all classification history. This action cannot be undone.');
+            if (confirmed) {
+                history = []; localStorage.removeItem('gbHistory');
+                updateStats(); renderResults(); renderFullTable();
+                showToast('History cleared', 'success');
+            }
+        });
 
         function openModal(id) {
             const item = history.find(h => h.id == id); if (!item) return;
             const modal = document.getElementById('detailModal');
+            // Reset to overview tab
+            switchModalTab('overview');
             document.getElementById('modalTitle').textContent = item.company;
             document.getElementById('modalSubtitle').textContent = item.filename;
             document.getElementById('modalEmoji').textContent = item.emoji;
             document.getElementById('modalClass').textContent = item.displayName;
             document.getElementById('modalClass').style.color = item.color;
-            document.getElementById('modalConfidence').textContent = `${(item.confidence * 100).toFixed(1)}% confidence • ${item.confidenceLevel}`;
+            document.getElementById('modalConfidence').textContent = `${(item.confidence * 100).toFixed(1)}% confidence \u2022 ${item.confidenceLevel}`;
             document.getElementById('modalResult').style.borderColor = item.color;
+
+            // Method badge
+            const methodLabels = {
+                'rule-based': { text: 'Rule-Based', cls: 'bg-blue-100 text-blue-700' },
+                'machine-learning': { text: 'ML Model', cls: 'bg-purple-100 text-purple-700' },
+                'hybrid': { text: 'Hybrid', cls: 'bg-green-100 text-green-700' },
+            };
+            const meth = methodLabels[item.method] || { text: item.method || 'Unknown', cls: 'bg-gray-100 text-gray-600' };
+            document.getElementById('modalMethodBadge').textContent = meth.text;
+            document.getElementById('modalMethodBadge').className = `px-3 py-1 text-xs font-medium rounded-full ${meth.cls}`;
+
+            // View PDF button
+            const viewPdfBtn = document.getElementById('viewPdfBtn');
+            if (item.pdfUrl) {
+                currentPdfUrl = item.pdfUrl;
+                viewPdfBtn.classList.remove('hidden');
+                viewPdfBtn.classList.add('flex');
+            } else {
+                currentPdfUrl = null;
+                viewPdfBtn.classList.add('hidden');
+                viewPdfBtn.classList.remove('flex');
+            }
+
             document.getElementById('modalPages').textContent = item.pages || 0;
             document.getElementById('modalWords').textContent = (item.wordCount || 0).toLocaleString();
             document.getElementById('modalChars').textContent = (item.charCount || 0).toLocaleString();
@@ -362,13 +867,24 @@
             document.getElementById('modalGreenBar').style.width = `${(gScore / maxScore) * 100}%`;
             document.getElementById('modalSustainBar').style.width = `${(sScore / maxScore) * 100}%`;
             document.getElementById('modalLinkedBar').style.width = `${(lScore / maxScore) * 100}%`;
-            let scoreExpl = `Threshold: ≥10 points. Highest: `;
-            if (gScore >= sScore && gScore >= lScore) scoreExpl += `Green (${gScore})`;
-            else if (sScore >= lScore) scoreExpl += `Sustainability (${sScore})`;
-            else scoreExpl += `Linked (${lScore})`;
+            let scoreExpl = `Threshold: \u226510 pts. Priority: \u2460Linked(${lScore}) \u2192 \u2461Sustain(${sScore}) \u2192 \u2462Green(${gScore}). `;
+            if (lScore >= 10) scoreExpl += `Linked \u226510 \u2192 Sustainability-Linked Bond.`;
+            else if (sScore >= 10) scoreExpl += `Sustain \u226510 \u2192 Sustainability Bond.`;
+            else if (gScore >= 10) scoreExpl += `Green \u226510 \u2192 Green Bond.`;
+            else scoreExpl += `No score \u226510 \u2192 Obligasi Biasa.`;
             document.getElementById('modalScoreExplanation').textContent = scoreExpl;
-            const rules = [{ el: 'ruleCheck1', match: item.label === 'sustainability_linked_bond' }, { el: 'ruleCheck2', match: item.label === 'sustainability_bond' }, { el: 'ruleCheck3', match: item.label === 'green_bond' }, { el: 'ruleCheck4', match: item.label === 'obligasi_biasa' }];
-            rules.forEach(r => { const el = document.getElementById(r.el); el.innerHTML = el.innerHTML.replace(/^<span>[✅⬜]<\/span>/, `<span>${r.match ? '✅' : '⬜'}</span>`); });
+            const rulesMet = [
+                { el: 'ruleCheck1', met: lScore >= 10, winner: item.label === 'sustainability_linked_bond' },
+                { el: 'ruleCheck2', met: sScore >= 10, winner: item.label === 'sustainability_bond' },
+                { el: 'ruleCheck3', met: gScore >= 10, winner: item.label === 'green_bond' },
+                { el: 'ruleCheck4', met: lScore < 10 && sScore < 10 && gScore < 10, winner: item.label === 'obligasi_biasa' }
+            ];
+            rulesMet.forEach(r => {
+                const el = document.getElementById(r.el);
+                const icon = r.winner ? '\u2705' : (r.met ? '\u2611\uFE0F' : '\u2B1C');
+                el.querySelector('span').textContent = icon;
+                el.className = r.winner ? 'flex items-center gap-2 text-blue-900 font-bold bg-blue-100 rounded-lg px-2 py-1' : (r.met ? 'flex items-center gap-2 text-blue-700' : 'flex items-center gap-2 text-blue-400');
+            });
             const gKwCount = item.keywordCounts?.green || 0, sKwCount = item.keywordCounts?.sustainability || 0, lKwCount = item.keywordCounts?.linked || 0;
             document.getElementById('greenKwSummary').textContent = `${gKwCount} occurrences`;
             document.getElementById('sustainKwSummary').textContent = `${sKwCount} occurrences`;
@@ -378,12 +894,109 @@
             document.getElementById('linkedKeywordsDetail').innerHTML = formatKeywordDetail(item.keywordsFoundStr?.linked || '', 'purple', lScore);
             const highestScore = Math.max(gScore, sScore, lScore);
             let confExpl = '';
-            if (highestScore >= 50) confExpl = `High confidence: Score ${highestScore} ≥ 50 indicates strong evidence.`;
+            if (highestScore >= 50) confExpl = `High confidence: Score ${highestScore} \u2265 50 indicates strong evidence.`;
             else if (highestScore >= 30) confExpl = `Good confidence: Score ${highestScore} between 30-49 indicates moderate evidence.`;
             else if (highestScore >= 10) confExpl = `Moderate confidence: Score ${highestScore} between 10-29 meets minimum threshold.`;
             else confExpl = `Low confidence: No score reached threshold of 10. Default: Obligasi Biasa.`;
             document.getElementById('confidenceExplanation').textContent = confExpl;
+
+            currentModalItemId = item.id;
+            let reviewStatus = '';
+            if (item.userCorrected) {
+                reviewStatus = `<span class="inline-flex items-center gap-1 px-2 py-1 bg-green-100 text-green-700 rounded-full text-xs"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Verified</span> Corrected from <strong>${item.originalLabel || item.label}</strong> to <strong>${item.correctedLabel}</strong>`;
+            } else if (item.needsReview) {
+                reviewStatus = `<span class="inline-flex items-center gap-1 px-2 py-1 bg-amber-100 text-amber-700 rounded-full text-xs"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"/></svg>Needs Review</span> ${item.reviewReason || 'Low confidence classification'}`;
+            } else {
+                reviewStatus = `<span class="inline-flex items-center gap-1 px-2 py-1 bg-blue-100 text-blue-700 rounded-full text-xs"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>Auto-classified</span> High confidence - review if needed`;
+            }
+            document.getElementById('reviewStatus').innerHTML = reviewStatus;
+
+            const currentLabel = item.userCorrected ? item.correctedLabel : item.label;
+            document.querySelectorAll('.correction-btn').forEach(btn => {
+                btn.classList.remove('ring-2', 'ring-offset-2');
+                if (btn.dataset.label === currentLabel) {
+                    btn.classList.add('ring-2', 'ring-offset-2');
+                }
+            });
+
             modal.classList.remove('hidden');
+        }
+
+        let currentModalItemId = null;
+
+        async function submitCorrection(newLabel) {
+            if (!currentModalItemId) return;
+            const item = history.find(h => h.id === currentModalItemId);
+            if (!item) return;
+            const originalLabel = item.originalLabel || item.label;
+            item.userCorrected = true;
+            item.correctedLabel = newLabel;
+            item.originalLabel = originalLabel;
+            item.needsReview = false;
+            localStorage.setItem('gbHistory', JSON.stringify(history));
+            try {
+                const response = await fetch('/api/feedback', {
+                    method: 'POST',
+                    headers: getAuthHeaders(),
+                    body: JSON.stringify({ filename: item.filename, original_label: originalLabel, corrected_label: newLabel, confidence: item.confidence, scores: item.scores })
+                });
+                if (response.ok) {
+                    showToast(`Classification corrected to ${getLabelDisplayName(newLabel)}`, 'success');
+                } else {
+                    showToast('Saved locally, but failed to sync to server', 'warning');
+                }
+            } catch (e) {
+                showToast('Saved locally, but failed to sync to server', 'warning');
+            }
+            updateStats(); renderResults(); openModal(currentModalItemId);
+        }
+
+        async function confirmClassification() {
+            if (!currentModalItemId) return;
+            const item = history.find(h => h.id === currentModalItemId);
+            if (!item) return;
+            const currentLabel = item.userCorrected ? item.correctedLabel : item.label;
+            item.userCorrected = true;
+            item.correctedLabel = currentLabel;
+            item.originalLabel = item.label;
+            item.needsReview = false;
+            localStorage.setItem('gbHistory', JSON.stringify(history));
+            try {
+                await fetch('/api/feedback', {
+                    method: 'POST',
+                    headers: getAuthHeaders(),
+                    body: JSON.stringify({ filename: item.filename, original_label: item.label, corrected_label: currentLabel, confidence: item.confidence, scores: item.scores, confirmed: true })
+                });
+                showToast('Classification confirmed as correct!', 'success');
+            } catch (e) {
+                showToast('Confirmed locally', 'info');
+            }
+            updateStats(); renderResults(); openModal(currentModalItemId);
+        }
+
+        function getLabelDisplayName(label) {
+            const names = { 'green_bond': 'Green Bond', 'sustainability_bond': 'Sustainability Bond', 'sustainability_linked_bond': 'Sustainability-Linked Bond', 'obligasi_biasa': 'Obligasi Biasa' };
+            return names[label] || label;
+        }
+
+        function showToast(message, type = 'info') {
+            const config = {
+                success: { bg: 'bg-green-600', icon: '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>' },
+                warning: { bg: 'bg-amber-500', icon: '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>' },
+                error: { bg: 'bg-red-500', icon: '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>' },
+                info: { bg: 'bg-blue-500', icon: '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>' }
+            };
+            const c = config[type] || config.info;
+            const toast = document.createElement('div');
+            toast.className = `fixed top-20 right-4 ${c.bg} text-white px-4 py-3 rounded-xl shadow-2xl z-50 animate-fade-in flex items-center gap-3 max-w-sm`;
+            toast.innerHTML = `<svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">${c.icon}</svg><span class="text-sm font-medium">${message}</span>`;
+            document.body.appendChild(toast);
+            setTimeout(() => {
+                toast.style.transition = 'all 0.3s ease';
+                toast.style.opacity = '0';
+                toast.style.transform = 'translateX(20px)';
+                setTimeout(() => toast.remove(), 300);
+            }, 3000);
         }
 
         function formatKeywordDetail(kwStr, colorClass, totalScore) {
@@ -391,21 +1004,55 @@
             const colors = { 'green': { bg: 'bg-green-100', text: 'text-green-700', score: 'text-green-600' }, 'blue': { bg: 'bg-blue-100', text: 'text-blue-700', score: 'text-blue-600' }, 'purple': { bg: 'bg-purple-100', text: 'text-purple-700', score: 'text-purple-600' } }[colorClass];
             const parts = kwStr.split('; ');
             let html = '<div class="space-y-1">';
-            parts.forEach(p => { const match = p.match(/(.+?)\s*\((\d+)x(\d+)=(\d+)\)/); if (match) { const [, kw, count, weight, score] = match; html += `<div class="flex items-center justify-between"><span class="${colors.bg} ${colors.text} px-2 py-0.5 rounded text-xs">${kw.trim()}</span><span class="text-xs text-gray-500">${count}×${weight} = <strong class="${colors.score}">+${score}</strong></span></div>`; } });
+            parts.forEach(p => { const match = p.match(/(.+?)\s*\((\d+)x(\d+)=(\d+)(?:\s*\[capped from (\d+)\])?\)/); if (match) { const [, kw, count, weight, score, rawCount] = match; const capBadge = rawCount ? `<span class="text-xs text-amber-500 ml-1" title="Actual count: ${rawCount}, capped at 5">capped</span>` : ''; html += `<div class="flex items-center justify-between"><span class="${colors.bg} ${colors.text} px-2 py-0.5 rounded text-xs">${kw.trim()}</span><span class="text-xs text-gray-500">${count}\u00D7${weight} = <strong class="${colors.score}">+${score}</strong>${capBadge}</span></div>`; } });
             html += `</div><div class="mt-2 pt-2 border-t border-gray-100 text-right"><span class="font-bold ${colors.score}">Total: ${totalScore}</span></div>`;
             return html;
         }
 
-        function closeModal() { document.getElementById('detailModal').classList.add('hidden'); }
-        document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+        let currentPdfUrl = null;
+
+        function viewPdf() {
+            if (currentPdfUrl) { window.open(currentPdfUrl, '_blank'); }
+        }
+
+        function closeModal() { document.getElementById('detailModal').classList.add('hidden'); currentPdfUrl = null; }
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', e => {
+            if (e.key === 'Escape') {
+                if (!document.getElementById('confirmDialog').classList.contains('hidden')) {
+                    confirmDialogResolve(false);
+                } else {
+                    closeModal();
+                }
+            }
+            if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+                e.preventDefault();
+                const searchInput = document.getElementById('dashboardView').classList.contains('hidden')
+                    ? document.getElementById('tableSearch')
+                    : document.getElementById('dashboardSearch');
+                if (searchInput) searchInput.focus();
+            }
+        });
         document.getElementById('detailModal').addEventListener('click', e => { if (e.target.id === 'detailModal') closeModal(); });
 
         document.getElementById('downloadXlsBtn').addEventListener('click', () => {
-            if (history.length === 0) return alert('No data to export');
-            const data = history.map((h, i) => ({ 'filename': h.filename, 'company_name': h.company, 'processed_at': h.date, 'total_pages': h.pages || 0, 'total_words': h.wordCount || 0, 'green_score': h.scores?.green || 0, 'sustainability_score': h.scores?.sustainability || 0, 'sustainability_linked_score': h.scores?.linked || 0, 'green_keywords_found': h.keywordsFoundStr?.green || '', 'sustainability_keywords_found': h.keywordsFoundStr?.sustainability || '', 'sustainability_linked_keywords_found': h.keywordsFoundStr?.linked || '', 'predicted_class': h.label, 'confidence': h.confidence, 'regulation': h.regulation }));
+            if (history.length === 0) return showToast('No data to export', 'warning');
+            const data = history.map((h, i) => ({ 'filename': h.filename, 'company_name': h.company, 'processed_at': h.date, 'total_pages': h.pages || 0, 'total_words': h.wordCount || 0, 'green_score': h.scores?.green || 0, 'sustainability_score': h.scores?.sustainability || 0, 'sustainability_linked_score': h.scores?.linked || 0, 'green_keywords_found': h.keywordsFoundStr?.green || '', 'sustainability_keywords_found': h.keywordsFoundStr?.sustainability || '', 'sustainability_linked_keywords_found': h.keywordsFoundStr?.linked || '', 'predicted_class': h.label, 'final_class': h.userCorrected ? h.correctedLabel : h.label, 'user_corrected': h.userCorrected ? 'Yes' : 'No', 'confidence': h.confidence, 'method': h.method || 'unknown', 'regulation': h.regulation }));
             const ws = XLSX.utils.json_to_sheet(data); const wb = XLSX.utils.book_new(); XLSX.utils.book_append_sheet(wb, ws, 'Classifications');
             XLSX.writeFile(wb, `green_bond_classification_${new Date().toISOString().slice(0,10)}.xlsx`);
+            showToast('Excel file exported successfully', 'success');
         });
+
+        // First-time onboarding
+        if (!localStorage.getItem('gbOnboarded')) {
+            setTimeout(() => {
+                const tip = document.createElement('div');
+                tip.className = 'fixed bottom-6 left-1/2 -translate-x-1/2 bg-gray-900 text-white px-6 py-4 rounded-2xl shadow-2xl z-50 max-w-md animate-fade-in flex items-start gap-3';
+                tip.innerHTML = `<span class="text-2xl flex-shrink-0">\uD83D\uDC4B</span><div><p class="font-semibold mb-1">Welcome to Green Bond Classifier!</p><p class="text-sm text-gray-300">Upload bond prospectus PDFs to classify them as Green Bond, Sustainability Bond, Sustainability-Linked Bond, or Regular Bond based on POJK 18/2023.</p><button onclick="this.closest('div.fixed').remove(); localStorage.setItem('gbOnboarded','1')" class="mt-3 px-4 py-1.5 bg-green-500 hover:bg-green-600 text-white text-sm font-medium rounded-lg transition-colors">Got it!</button></div>`;
+                document.body.appendChild(tip);
+            }, 800);
+        }
 
         updateStats(); renderResults();
     </script>
