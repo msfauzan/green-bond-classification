@@ -32,7 +32,7 @@ SUSTAINABILITY_KEYWORDS = [
     # Primary identifiers - specific to sustainability (kombinasi lingkungan + sosial)
     ('ebus keberlanjutan', 15), ('efek bersifat utang keberlanjutan', 15),
     ('sukuk keberlanjutan', 15), ('sustainability bond', 12), ('sustainability sukuk', 12),
-    ('obligasi keberlanjutan', 12), ('obligasi berkelanjutan', 12),
+    # ('obligasi keberlanjutan', 12)
     # Framework terms
     ('sustainability bond framework', 10), ('kerangka kerja obligasi keberlanjutan', 10),
     ('eligible sustainable project', 8),
@@ -40,6 +40,7 @@ SUSTAINABILITY_KEYWORDS = [
     ('ebus sosial', 10), ('efek bersifat utang berwawasan sosial', 10),
     ('sukuk berwawasan sosial', 10), ('social bond', 8), ('social sukuk', 8),
     ('obligasi sosial', 8),
+    ('sosial', 5), ('social', 5),
     # KUBS - Kegiatan Usaha Berwawasan Sosial (Pasal 1 ayat 11)
     ('kubs', 10), ('kegiatan usaha berwawasan sosial', 10),
     ('eligible social project', 8), ('proyek sosial yang memenuhi syarat', 8),
@@ -59,12 +60,15 @@ SUSTAINABILITY_LINKED_KEYWORDS = [
     ('iku keberlanjutan', 12), ('indikator kinerja utama keberlanjutan', 12),
     ('sustainability key performance indicator', 10),
     # TKK - Target Kinerja Keberlanjutan (Pasal 1 ayat 13)
-    ('target kinerja keberlanjutan', 12), ('tkk', 8),
+    ('target kinerja keberlanjutan', 12),
     ('sustainability performance target', 10),
     # SLB Framework terms
     ('sustainability-linked bond framework', 10), ('slb framework', 8),
     # Mechanism characteristics unique to SLB (coupon adjustment based on KPI)
     ('step-up coupon', 8), ('step-down coupon', 8),
     ('coupon step-up', 8), ('coupon step-down', 8),
-    ('penyesuaian tingkat bunga', 5),
+    # REMOVED: 'spt' - too ambiguous (Surat Pemberitahuan Tahunan in tax context)
+    # REMOVED: 'tkk' - too ambiguous as standalone abbreviation
+    # REMOVED: 'penyesuaian tingkat bunga' - appears in ALL variable rate bonds
+    # REMOVED: 'penalty' - appears in ALL financial contracts
 ]

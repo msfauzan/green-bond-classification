@@ -85,3 +85,6 @@ tmpclaude-*/
 # Misc files not part of the project
 II03_LBUT 1.asp
 install.cmd
+.vercel
+.env*.local
+node_modules/

@@ -54,22 +54,19 @@ def rule_based_classify(text: str) -> dict:
     linked_score, linked_kw = calc_score(text, SUSTAINABILITY_LINKED_KEYWORDS)
 
     # Classification logic based on POJK 18/2023 Pasal 1:
-    # Priority order (most specific -> least specific):
-    #
-    # 1. Sustainability-Linked Bond (Pasal 1 ayat 7):
-    #    - Dikaitkan dengan pencapaian IKU dan TKK (priority 1)
-    # 2. Sustainability Bond (Pasal 1 ayat 5):
-    #    - Dana untuk KOMBINASI kegiatan lingkungan + sosial (priority 2)
-    # 3. Green Bond (Pasal 1 ayat 3):
-    #    - Dana KHUSUS untuk kegiatan lingkungan saja (priority 3)
-    # 4. Obligasi Biasa: None of the above threshold met
+    # Highest score wins (no priority order).
+    # Minimum threshold = 10 to avoid false positives from incidental keyword matches.
 
-    if linked_score >= 10:
-        label = 'sustainability_linked_bond'
-    elif sustain_score >= 10:
-        label = 'sustainability_bond'
-    elif green_score >= 10:
-        label = 'green_bond'
+    scores = {
+        'sustainability_linked_bond': linked_score,
+        'sustainability_bond': sustain_score,
+        'green_bond': green_score,
+    }
+    max_label = max(scores, key=scores.get)
+    max_score = scores[max_label]
+
+    if max_score >= 10:
+        label = max_label
     else:
         label = 'obligasi_biasa'
 

@@ -1,0 +1,17 @@
+{
+  "model_name": "logistic_regression",
+  "timestamp": "20260225_091126",
+  "model_path": "D:\\1. Important\\Work\\Bank Indonesia\\DSta-DSMF\\Green Bond Classification\\ML_Models\\logistic_regression_20260225_091126.joblib",
+  "vectorizer_path": "D:\\1. Important\\Work\\Bank Indonesia\\DSta-DSMF\\Green Bond Classification\\ML_Models\\vectorizer_20260225_091126.joblib",
+  "accuracy": 1.0,
+  "cv_f1_mean": 1.0,
+  "training_samples": 240,
+  "samples_per_class": 60,
+  "data_source": "synthetic_augmented",
+  "classes": [
+    "green_bond",
+    "obligasi_biasa",
+    "sustainability_bond",
+    "sustainability_linked_bond"
+  ]
+}
