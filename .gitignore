@@ -88,3 +88,6 @@ install.cmd
 .vercel
 .env*.local
 node_modules/
+
+# Git worktrees
+.worktrees/
