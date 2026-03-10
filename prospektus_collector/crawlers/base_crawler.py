@@ -82,8 +82,14 @@ class BaseCrawler:
         for attempt in range(self.MAX_RETRIES):
             try:
                 result = self.fc.scrape(url, formats=["markdown", "links"])
+                raw_links = result.links or []
+                # LinkResult objects have .url; plain strings pass through
+                links = [
+                    item.url if hasattr(item, "url") else str(item)
+                    for item in raw_links
+                ]
                 return {
-                    "links": result.links or [],
+                    "links": links,
                     "markdown": result.markdown or "",
                 }
             except Exception as e:
@@ -102,11 +108,19 @@ class BaseCrawler:
         for attempt in range(self.MAX_RETRIES):
             try:
                 result = self.fc.map(url)
-                # firecrawl-py v4: result is MapData with .links attribute
+                # firecrawl-py v4: result is MapData with .links = list[LinkResult]
                 if hasattr(result, "links") and result.links:
-                    return result.links
+                    links = result.links
+                    # LinkResult objects have .url attribute; plain strings pass through
+                    return [
+                        item.url if hasattr(item, "url") else str(item)
+                        for item in links
+                    ]
                 if isinstance(result, list):
-                    return result
+                    return [
+                        item.url if hasattr(item, "url") else str(item)
+                        for item in result
+                    ]
                 return []
             except Exception as e:
                 wait = self.RETRY_BACKOFF ** attempt
