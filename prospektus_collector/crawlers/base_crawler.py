@@ -77,15 +77,15 @@ class BaseCrawler:
     def scrape_page(self, url: str) -> dict:
         """
         Panggil Firecrawl /scrape. Retry dengan backoff.
-        Return dict hasil scrape atau {} jika gagal.
+        Return dict {"links": [...], "markdown": "..."} atau {} jika gagal.
         """
         for attempt in range(self.MAX_RETRIES):
             try:
-                result = self.fc.scrape_url(
-                    url,
-                    params={"formats": ["markdown", "links"]},
-                )
-                return result or {}
+                result = self.fc.scrape(url, formats=["markdown", "links"])
+                return {
+                    "links": result.links or [],
+                    "markdown": result.markdown or "",
+                }
             except Exception as e:
                 wait = self.RETRY_BACKOFF ** attempt
                 logger.warning(f"Firecrawl scrape attempt {attempt + 1} failed for {url}: {e}")
@@ -101,11 +101,12 @@ class BaseCrawler:
         """
         for attempt in range(self.MAX_RETRIES):
             try:
-                result = self.fc.map_url(url)
+                result = self.fc.map(url)
+                # firecrawl-py v4: result is MapData with .links attribute
+                if hasattr(result, "links") and result.links:
+                    return result.links
                 if isinstance(result, list):
                     return result
-                if isinstance(result, dict) and "links" in result:
-                    return result["links"]
                 return []
             except Exception as e:
                 wait = self.RETRY_BACKOFF ** attempt
