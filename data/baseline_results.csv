@@ -1,0 +1,94 @@
+﻿issuer,gold,source,pred_class,pred_binary,correct,sectors,blue,level0,anchor,confidence,pdf
+ARKO,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20230809_ARKO_Penyampaian Bukti Iklan.pdf
+BBNI,GSS,gold,sustainability,GSS,True,renewable_energy|energy_efficiency|sustainable_transport|water_management|natural_resources|climate_resilience|employment_msme,,,rencana penggunaan dana,0.95,20220622_BBNI_Penyampaian Bukti Iklan.pdf
+BBNI,GSS,gold,obligasi_biasa,NonGSS,False,,,,rencana penggunaan dana,0.65,20250626_BBNI_Penyampaian Bukti Iklan_31909229_lamp1.pdf
+BBRI,GSS,gold,sustainability,GSS,True,waste_management|employment_msme,,,(anchor tidak ditemukan),0.73,20220721_BBRI_Penyampaian Prospektus_Informasi Tambahan.pdf
+BBRI,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.61,20230925_BBRI_Penyampaian Prospektus_Informasi Tambahan_31422829_lamp1.pdf
+BBRI,GSS,gold,sustainability,GSS,True,renewable_energy|employment_msme,,,rencana penggunaan dana,0.75,20240226_BBRI_Penyampaian Prospektus_Informasi Tambahan_31581036_lamp1.pdf
+BBRI,GSS,gold,sustainability_linked,GSS,True,basic_infrastructure|employment_msme|food_security|socioeconomic,,sustainability linked,rencana penggunaan dana,0.9,20250620_BBRI_Penyampaian Prospektus_Informasi Tambahan.pdf
+BBRI,GSS,gold,sustainability_linked,GSS,True,basic_infrastructure|employment_msme|food_security|socioeconomic,,sustainability linked,rencana penggunaan dana,0.9,20260227_BBRI_Penyampaian Prospektus_Informasi Tambahan_32029855_lamp2.pdf
+BBTN,GSS,gold,social,GSS,True,basic_infrastructure|employment_msme,,,rencana penggunaan dana,0.77,20251121_BBTN_Penyampaian Prospektus_Informasi Tambahan_31986864_lamp1.pdf
+BBTN,GSS,gold,social,GSS,True,basic_infrastructure|employment_msme,,,rencana penggunaan dana,0.77,20251124_BBTN_Penyampaian Bukti Iklan_31987186_lamp1.pdf
+BBTN,GSS,gold,social,GSS,True,basic_infrastructure|employment_msme,,,rencana penggunaan dana,0.77,20251205_BBTN_Penyampaian Bukti Iklan_32000649_lamp1.pdf
+BJBR,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20241204_BJBR_Penyampaian Bukti Iklan_31804995_lamp2.pdf
+BMRI,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20250304_BMRI_Penyampaian Prospektus_Informasi Tambahan_31866147_lamp1.pdf
+BRIS,GSS,gold,sustainability,GSS,True,renewable_energy|energy_efficiency|sustainable_transport|water_management|natural_resources|climate_resilience|basic_infrastructure|employment_msme|food_security|socioeconomic,,,rencana penggunaan dana,0.95,20250528_BRIS_Penyampaian Prospektus_Informasi Tambahan_31890157_lamp2.pdf
+BRIS,GSS,gold,sustainability,GSS,True,renewable_energy|energy_efficiency|sustainable_transport|water_management|natural_resources|climate_resilience|basic_infrastructure|employment_msme|food_security|socioeconomic,,,rencana penggunaan dana,0.95,20250618_BRIS_Penyampaian Prospektus_Informasi Tambahan_31896250_lamp2.pdf
+OPPM,GSS,gold,sustainability,GSS,True,renewable_energy|employment_msme,,,rencana penggunaan dana,0.75,20230915_OPPM_Penyampaian Bukti Iklan_31410745_lamp2.pdf
+OPPM,GSS,gold,sustainability,GSS,True,renewable_energy|employment_msme,,,rencana penggunaan dana,0.75,20230929_OPPM_Penyampaian Bukti Iklan_31423658_lamp2.pdf
+PNMP,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20250926_PNMP_Penyampaian Prospektus_Informasi Tambahan_31952663_lamp1.pdf
+PNMP,GSS,gold,obligasi_biasa,NonGSS,False,,,,(anchor tidak ditemukan),0.35,20251013_PNMP_Penyampaian Prospektus_Informasi Tambahan_31967162_lamp2.pdf
+PNMP,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20251215_PNMP_Penyampaian Prospektus_Informasi Tambahan_32013124_lamp2.pdf
+PNMP,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20260311_PNMP_Penyampaian Prospektus_Informasi Tambahan_32053316_lamp1.pdf
+PNMP,GSS,gold,obligasi_biasa,NonGSS,False,,,,(anchor tidak ditemukan),0.35,20260402_PNMP_Penyampaian Prospektus_Informasi Tambahan_32057366_lamp2.pdf
+POLI,GSS,gold,sustainability_linked,GSS,True,renewable_energy|employment_msme,,terkait keberlanjutan,rencana penggunaan dana,0.9,20251201_POLI_Penyampaian Prospektus_Informasi Tambahan_31998689_lamp1.pdf
+PPGD,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20251024_PPGD_Penyampaian Prospektus_Informasi Tambahan_31979517_lamp2.pdf
+PPGD,GSS,gold,obligasi_biasa,NonGSS,False,,,,penggunaan dana hasil,0.65,20251106_PPGD_Penyampaian Prospektus_Informasi Tambahan_31983189_lamp2.pdf
+SMII,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20260413_SMII_Penyampaian Prospektus_Informasi Tambahan_32070406_lamp2.pdf
+SMII,GSS,gold,social,GSS,True,employment_msme,,,rencana penggunaan dana,0.59,20260430_SMII_Penyampaian Prospektus_Informasi Tambahan_32076553_lamp2.pdf
+ADHI,NonGSS,sampled,green,GSS,False,renewable_energy,,,rencana penggunaan dana,0.59,20240621_ADHI_Penyampaian Prospektus_Informasi Tambahan_31663323_lamp1.pdf
+ADMF,NonGSS,sampled,sustainability,GSS,False,renewable_energy|employment_msme,,,rencana penggunaan dana,0.73,20260223_ADMF_Penyampaian Prospektus_Informasi Tambahan_32028738_lamp1.pdf
+ADRO,NonGSS,sampled,social,GSS,False,employment_msme,,,(anchor tidak ditemukan),0.59,20241129_ADRO_Penyampaian Prospektus_Informasi Tambahan_31792715_lamp1.pdf
+ASDF,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20240418_ASDF_Penyampaian Prospektus_Informasi Tambahan_31627152_lamp1.pdf
+BABY,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20260213_BABY_Penyampaian Prospektus_Informasi Tambahan_32027582_lamp1.pdf
+BANK,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20250923_BANK_Laporan Informasi dan Fakta Material_31951842_lamp1.pdf
+BBIA,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,(anchor tidak ditemukan),0.35,20240529_BBIA_Penyampaian Bukti Iklan_31643716_lamp3.pdf
+BBKP,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20250827_BBKP_Penyampaian Prospektus_Informasi Tambahan_31935348_lamp2.pdf
+BBYB,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,(anchor tidak ditemukan),0.35,20240703_BBYB_Penyampaian Bukti Iklan_31679227_lamp1.pdf
+BEKS,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,(anchor tidak ditemukan),0.35,20250418_BEKS_Laporan Informasi dan Fakta Material_31876514_lamp1.pdf
+BFIN,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240919_BFIN_Penyampaian Prospektus_Informasi Tambahan_31727057_lamp1.pdf
+BIIF,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240626_BIIF_Penyampaian Bukti Iklan_31675715_lamp3.pdf
+BMTR,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.61,20250527_BMTR_Laporan Informasi dan Fakta Material_31889467_lamp1.pdf
+BTPN,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240229_BTPN_Penyampaian Prospektus_Informasi Tambahan_31582114_lamp2.pdf
+BUMI,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20250619_BUMI_Penyampaian Bukti Iklan_31896618_lamp1.pdf
+BUVA,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20251028_BUVA_Penyampaian Prospektus_Informasi Tambahan_31980004_lamp1.pdf
+BVIC,NonGSS,sampled,social,GSS,False,employment_msme,,,penggunaan dana,0.59,20240612_BVIC_Penyampaian Bukti Iklan_31660859_lamp1.pdf
+BWPT,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240712_BWPT_Penyampaian Bukti Iklan_31683365_lamp1.pdf
+CARE,NonGSS,sampled,social,GSS,False,essential_services|employment_msme,,,rencana penggunaan dana,0.75,20250514_CARE_Laporan Informasi dan Fakta Material_31885516_lamp1.pdf
+CNAF,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240628_CNAF_Penyampaian Prospektus_Informasi Tambahan_31676982_lamp2.pdf
+COCO,NonGSS,sampled,social,GSS,False,employment_msme,,,penggunaan dana,0.59,20250721_COCO_Laporan Informasi dan Fakta Material_31916233_lamp1.pdf
+CSIS,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20251212_CSIS_Laporan Informasi dan Fakta Material_32012858_lamp2.pdf
+DSSA,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240401_DSSA_Penyampaian Bukti Iklan_31622216_lamp1.pdf
+DWGL,NonGSS,sampled,sustainability,GSS,False,waste_management|employment_msme,,,penggunaan dana,0.73,20250521_DWGL_Penyampaian Prospektus_Informasi Tambahan_31887736_lamp2.pdf
+FASW,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20250612_FASW_Penyampaian Prospektus_Informasi Tambahan_31894454_lamp1.pdf
+FILM,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.61,20250630_FILM_Penyampaian Prospektus_Informasi Tambahan_31910018_lamp2.pdf
+FITT,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20240322_FITT_Penyampaian Prospektus_Informasi Tambahan_31608814_lamp1.pdf
+FREN,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20240419_FREN_Penyampaian Prospektus_Informasi Tambahan_31627440_lamp1.pdf
+HATM,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20250527_HATM_Penyampaian Prospektus_Informasi Tambahan_31889645_lamp1.pdf
+HIFI,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,penggunaan dana,0.65,20240628_HIFI_Penyampaian Prospektus_Informasi Tambahan_31676584_lamp2.pdf
+HRTA,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20240828_HRTA_Laporan Informasi dan Fakta Material_31719573_lamp2.pdf
+IMJS,NonGSS,sampled,social,GSS,False,employment_msme,,,penggunaan dana,0.59,20250915_IMJS_Laporan Informasi dan Fakta Material_31950151_lamp1.pdf
+INCO,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.61,20240610_INCO_Penyampaian Prospektus_Informasi Tambahan_31659841_lamp2.pdf
+INET,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20251229_INET_Penyampaian Prospektus_Informasi Tambahan_32015801_lamp3.pdf
+INKP,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240910_INKP_Laporan Informasi dan Fakta Material_31724579_lamp2.pdf
+KAII,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20241104_KAII_Laporan Informasi dan Fakta Material_31753049_lamp1.pdf
+LPCK,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20250417_LPCK_Penyampaian Prospektus_Informasi Tambahan_31876367_lamp2.pdf
+LPPI,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20251110_LPPI_Penyampaian Bukti Iklan_31983902_lamp2.pdf
+LUCY,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240103_LUCY_Penyampaian Prospektus_Informasi Tambahan_31564018_lamp1.pdf
+MAYA,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20240112_MAYA_Penyampaian Prospektus_Informasi Tambahan_31568335_lamp1.pdf
+MDKA,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20241129_MDKA_Penyampaian Bukti Iklan_31792735_lamp1.pdf
+MEDC,NonGSS,sampled,social,GSS,False,employment_msme,,,(anchor tidak ditemukan),0.59,20250422_MEDC_Penyampaian Prospektus_Informasi Tambahan_31876946_lamp2.pdf
+MEDP,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,(anchor tidak ditemukan),0.35,20250426_MEDP_Laporan Informasi dan Fakta Material_31878371_lamp1.pdf
+MINA,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20250702_MINA_Penyampaian Prospektus_Informasi Tambahan_31910623_lamp1.pdf
+MSIE,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,(anchor tidak ditemukan),0.35,20240730_MSIE_Laporan Informasi dan Fakta Material_31689015_lamp1.pdf
+MTEL,NonGSS,sampled,sustainability,GSS,False,renewable_energy|waste_management|employment_msme,,,rencana penggunaan dana,0.87,20240619_MTEL_Penyampaian Bukti Iklan_31662463_lamp2.pdf
+PALM,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20250807_PALM_Penyampaian Prospektus_Informasi Tambahan_31931475_lamp1.pdf
+PANI,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20251210_PANI_Penyampaian Prospektus_Informasi Tambahan_32012196_lamp1.pdf
+PIDL,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20241212_PIDL_Penyampaian Bukti Iklan_31818566_lamp2.pdf
+PRTL,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,(anchor tidak ditemukan),0.35,20240619_PRTL_Laporan Informasi dan Fakta Material_31662315_lamp1.pdf
+PTPP,NonGSS,sampled,sustainability,GSS,False,renewable_energy|employment_msme,,,rencana penggunaan dana,0.73,20240607_PTPP_Penyampaian Prospektus_Informasi Tambahan_31648261_lamp1.pdf
+PTRO,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20241113_PTRO_Penyampaian Prospektus_Informasi Tambahan_31767404_lamp2.pdf
+PYFA,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240404_PYFA_Penyampaian Prospektus_Informasi Tambahan_31624549_lamp1.pdf
+SDRA,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,(anchor tidak ditemukan),0.35,20240416_SDRA_Penyampaian Bukti Iklan_31626509_lamp2.pdf
+SGRO,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20250616_SGRO_Penyampaian Bukti Iklan_31895463_lamp1.pdf
+SMAR,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20260120_SMAR_Penyampaian Prospektus_Informasi Tambahan_32021192_lamp2.pdf
+SMMA,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20240401_SMMA_Penyampaian Prospektus_Informasi Tambahan_31621670_lamp2.pdf
+TBIG,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20250620_TBIG_Penyampaian Bukti Iklan_31897038_lamp1.pdf
+TOWR,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20250702_TOWR_Penyampaian Prospektus_Informasi Tambahan_31910612_lamp1.pdf
+TPIA,NonGSS,sampled,green,GSS,False,waste_management,,,rencana penggunaan dana,0.59,20251218_TPIA_Penyampaian Prospektus_Informasi Tambahan_32013974_lamp1.pdf
+TPMA,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.61,20240611_TPMA_Penyampaian Prospektus_Informasi Tambahan_31659960_lamp2.pdf
+TUFI,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20250626_TUFI_Penyampaian Prospektus_Informasi Tambahan_31908936_lamp4.pdf
+WIFI,NonGSS,sampled,sustainability,GSS,False,sustainable_transport|employment_msme,,,rencana penggunaan dana,0.73,20250624_WIFI_Penyampaian Prospektus_Informasi Tambahan_31908127_lamp1.pdf
+WIKA,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,(anchor tidak ditemukan),0.35,20240123_WIKA_Laporan Informasi dan Fakta Material_31571064_lamp1.pdf
+WISL,NonGSS,sampled,social,GSS,False,employment_msme,,,rencana penggunaan dana,0.59,20260223_WISL_Penyampaian Prospektus_Informasi Tambahan_32028797_lamp2.pdf
+WOMF,NonGSS,sampled,obligasi_biasa,NonGSS,True,,,,rencana penggunaan dana,0.65,20240625_WOMF_Penyampaian Prospektus_Informasi Tambahan_31674568_lamp2.pdf
