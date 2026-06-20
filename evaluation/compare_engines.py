@@ -107,7 +107,7 @@ def main():
         text = read_pdf_text(r["path"], MAX_PAGES)
 
         rr = classify_rule(text)
-        rm = classify_ml(text)
+        rm = classify_ml(text, issuer=r["issuer"])
 
         pred_rule = ("GSS" if (rr and rr.is_gss)  else "NonGSS") if rr else "SKIP"
         pred_ml   = ("GSS" if (rm and rm.is_gss)  else "NonGSS") if rm else "SKIP"
@@ -119,7 +119,9 @@ def main():
             "pred_ml"   : pred_ml,
             "rule_class": rr.gss_class.value if rr else "",
             "ml_class"  : rm.gss_class.value if rm else "",
-            "ml_framing": "|".join(rm.framing) if rm else "",
+            "ml_title_gss": str(rm.title_gss) if rm else "",
+            "ml_framing_body": "|".join(rm.framing_body[:2]) if rm else "",
+            "ml_framing_title": rm.framing_title[0][:40] if (rm and rm.framing_title) else "",
             "ml_thresh" : rm.threshold_used   if rm else "",
             "ml_top_env": "|".join(f"{k}:{s:.2f}" for k,s in (rm.top_env or [])) if rm else "",
             "ml_top_soc": "|".join(f"{k}:{s:.2f}" for k,s in (rm.top_soc or [])) if rm else "",
@@ -129,7 +131,7 @@ def main():
         }
         out_rows.append(row)
 
-        if rm and pred_ml == "GSS"   and r["gold"] == "NonGSS": fp_ml.append({**r, "rm": rm})
+        if rm and pred_ml == "GSS"    and r["gold"] == "NonGSS": fp_ml.append({**r, "rm": rm})
         if rm and pred_ml == "NonGSS" and r["gold"] == "GSS":   fn_ml.append({**r, "rm": rm})
 
     res_rule = [{"gold": r["gold"], "pred": r["pred_rule"]} for r in out_rows if r["pred_rule"] != "SKIP"]
@@ -158,7 +160,7 @@ def main():
         for c in fn_ml:
             rm = c["rm"]
             top = max(rm.scores.items(), key=lambda x: x[1]) if rm.scores else ("—", 0)
-            print(f"     {c['issuer']:6} framing={bool(rm.framing)}  "
+            print(f"     {c['issuer']:6} title={rm.title_gss}  "
                   f"max={top[1]:.2f}({top[0]})  thr={rm.threshold_used:.2f}  "
                   f"{os.path.basename(c['path'])[:45]}")
 
@@ -168,8 +170,8 @@ def main():
             rm = c["rm"]
             top_e = rm.top_env[:2]; top_s = rm.top_soc[:2]
             hits = "|".join(f"{k}:{s:.2f}" for k,s in (top_e+top_s)[:3])
-            print(f"     {c['issuer']:6} framing={bool(rm.framing)}  "
-                  f"[{hits}]  {os.path.basename(c['path'])[:35]}")
+            print(f"     {c['issuer']:6} title={rm.title_gss}  "
+                  f"[{hits}]  thr={rm.threshold_used:.2f}  {os.path.basename(c['path'])[:35]}")
 
     out_csv = os.path.join(ROOT, "data", "comparison_results.csv")
     with open(out_csv, "w", newline="", encoding="utf-8-sig") as f:

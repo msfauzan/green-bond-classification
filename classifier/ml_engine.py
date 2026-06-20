@@ -2,17 +2,22 @@
 ML engine (Level 1) — semantic similarity via sentence-transformers.
 
 Arsitektur:
-  Level 0 (rules)   : SL / Wakaf (dari engine.py, tidak berubah)
-  Level 1 (ML)      : cosine-similarity antara segmen UoP dengan deskripsi
-                      kategori taksonomi yang diembed.
-  Framing gate (rule): haruskan sinyal komitmen GSS eksplisit; tanpanya,
-                      butuh threshold semantik lebih tinggi.
-                      → Fix utama untuk employment_msme FP.
+  Level 0 (rules)       : SL / Wakaf (dari engine.py, tidak berubah)
+  Title lookup (rules)  : cek nama obligasi di listing IDX → sinyal framing
+                          paling andal (nama instrumen mencerminkan POJK 18/2023)
+  Level 1 (ML)          : cosine-similarity antara segmen UoP dengan deskripsi
+                          kategori taksonomi.
+  Body framing (rules)  : fallback bila title tidak diketahui.
+
+Tiga tier threshold berdasarkan sinyal framing:
+  title_gss=True  → threshold 0.28  (yakin GSS, cukup konfirmasi semantik)
+  title_gss=None  → threshold 0.30/0.52  (tak diketahui: andalkan body framing)
+  title_gss=False → threshold 0.45/0.62  (bukan GSS, butuh bukti semantik kuat)
 
 Model default: paraphrase-multilingual-MiniLM-L12-v2 (~120 MB, multilingual,
 bebas, berjalan lokal). Diunduh otomatis dari HuggingFace pertama kali.
 
-Explainability: setiap keputusan menyertakan skor per kategori.
+Explainability: setiap keputusan menyertakan skor per kategori + bukti framing.
 """
 from __future__ import annotations
 
@@ -29,12 +34,16 @@ from .engine import (
 from .taxonomy import (
     GSSClass, Bucket, ALL_CATEGORIES, BLUE_KEYWORDS, NEGATION_HINTS,
 )
+from .title_lookup import has_gss_title
 
 DEFAULT_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 
-# Tanpa framing signal, butuh threshold lebih tinggi agar tidak FP
-THRESHOLD_WITH_FRAMING    = 0.30
-THRESHOLD_WITHOUT_FRAMING = 0.52
+# Tier threshold — makin tidak yakin GSS, makin tinggi bukti semantik yang dibutuhkan
+THRESHOLD_TITLE_GSS    = 0.28   # title IDX konfirmasi GSS  → konfirmasi UoP
+THRESHOLD_BODY_FRAMING = 0.30   # title tidak diketahui + body framing
+THRESHOLD_NO_FRAMING   = 0.52   # title tidak diketahui + tanpa body framing
+THRESHOLD_TITLE_NONGSS_FRAMING = 0.45  # title non-GSS tapi body ada framing (ragu)
+THRESHOLD_TITLE_NONGSS = 0.62   # title non-GSS + tanpa body framing → sangat ketat
 
 # ---------------------------------------------------------------------------
 # Framing gate — sinyal komitmen GSS eksplisit
@@ -181,7 +190,9 @@ class MLResult:
     top_env: list[tuple[str, float]]    # (key, score) kategori lingkungan
     top_soc: list[tuple[str, float]]    # (key, score) kategori sosial
     blue: list[str]
-    framing: list[str]
+    framing_body: list[str]             # sinyal framing dari badan dok
+    framing_title: list[str]            # nama obligasi GSS dari listing IDX
+    title_gss: bool | None             # True/False/None (tidak diketahui)
     level0_evidence: list[str]
     anchor: str
     threshold_used: float
@@ -195,35 +206,47 @@ class MLResult:
         return [k for k, _ in self.top_env] + [k for k, _ in self.top_soc]
 
 
-def classify_ml(text: str, model_name: str = DEFAULT_MODEL) -> MLResult | None:
+def classify_ml(
+    text: str,
+    issuer: str | None = None,
+    model_name: str = DEFAULT_MODEL,
+) -> MLResult | None:
     if not text or not text.strip():
         return None
 
-    # Level 0 (rules)
+    # Level 0 (rules) — deteksi struktur instrumen
     lvl0, l0ev = detect_level0(text)
 
-    # Framing gate
-    framed, framing_hits = has_framing_signal(text)
-    threshold = THRESHOLD_WITH_FRAMING if framed else THRESHOLD_WITHOUT_FRAMING
+    # --- Sinyal framing (dua sumber) ---
+    # Tier 1: nama obligasi di listing IDX (paling andal)
+    title_gss, title_hits = has_gss_title(issuer) if issuer else (None, [])
+    # Tier 2: bahasa komitmen GSS di badan dokumen (fallback)
+    body_framed, body_hits = has_framing_signal(text)
+
+    # Pilih threshold sesuai tier
+    if title_gss is True:
+        threshold = THRESHOLD_TITLE_GSS
+    elif title_gss is False:
+        threshold = THRESHOLD_TITLE_NONGSS_FRAMING if body_framed else THRESHOLD_TITLE_NONGSS
+    else:  # title_gss is None (tidak ada di listing)
+        threshold = THRESHOLD_BODY_FRAMING if body_framed else THRESHOLD_NO_FRAMING
 
     # Extract UoP segment
     seg, anchor = find_use_of_proceeds(text)
-
-    # Sub-tema Blue (rule — cukup untuk tag)
     seg_low = seg.lower()
     blue = [k for k in _BLUE_LOW if k in seg_low]
 
     if lvl0 is not None:
-        scores = {}
         return MLResult(
-            gss_class=lvl0, scores=scores,
+            gss_class=lvl0, scores={},
             top_env=[], top_soc=[], blue=blue,
-            framing=framing_hits, level0_evidence=l0ev,
+            framing_body=body_hits, framing_title=title_hits,
+            title_gss=title_gss, level0_evidence=l0ev,
             anchor=anchor, threshold_used=threshold, confidence=0.90,
         )
 
-    # Encode UoP segment (model truncates panjang otomatis)
-    model = _get_model(model_name)
+    # --- Level 1: semantic similarity ---
+    model   = _get_model(model_name)
     seg_emb = model.encode(seg, normalize_embeddings=True)
     cat_embs = _category_embeddings(model_name)
 
@@ -232,7 +255,6 @@ def classify_ml(text: str, model_name: str = DEFAULT_MODEL) -> MLResult | None:
         key: float(np.dot(seg_emb, emb)) for key, emb in cat_embs.items()
     }
 
-    # Pisahkan env vs social berdasarkan bucket
     env_hits = [
         (k, s) for k, s in scores.items()
         if s >= threshold and cat_map[k].bucket.value == "environmental"
@@ -253,17 +275,17 @@ def classify_ml(text: str, model_name: str = DEFAULT_MODEL) -> MLResult | None:
     else:
         gss = GSSClass.NON_GSS
 
-    # Confidence: maks skor di atas threshold, ditambah boost framing
     max_score = max(scores.values()) if scores else 0.0
-    framing_boost = 0.10 if framed else 0.0
+    title_boost = 0.12 if title_gss is True else (0.05 if body_framed else 0.0)
     if gss == GSSClass.NON_GSS:
-        conf = round(min(0.85, 0.40 + (threshold - max_score) * 2 + framing_boost), 2)
+        conf = round(min(0.88, 0.40 + (threshold - max_score) * 2), 2)
     else:
-        conf = round(min(0.95, 0.50 + (max_score - threshold) * 1.5 + framing_boost), 2)
+        conf = round(min(0.96, 0.50 + (max_score - threshold) * 1.5 + title_boost), 2)
 
     return MLResult(
         gss_class=gss, scores=scores,
         top_env=env_hits, top_soc=soc_hits, blue=blue,
-        framing=framing_hits, level0_evidence=l0ev,
+        framing_body=body_hits, framing_title=title_hits,
+        title_gss=title_gss, level0_evidence=l0ev,
         anchor=anchor, threshold_used=threshold, confidence=conf,
     )
