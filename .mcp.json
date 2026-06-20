@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "serena": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/oraios/serena",
+        "serena",
+        "start-mcp-server",
+        "--context",
+        "claude-code",
+        "--project",
+        "d:\\1. Important\\Work\\Bank Indonesia\\DSta-DSMF\\Green Bond Classification"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2431 @@
+====================================================================================================
+BREAKDOWN DOKUMEN PER FOLDER
+====================================================================================================
+
+Total Folders: 403
+Total Files: 768
+Total Prospektus: 449
+Total Bukti Iklan: 205
+Total Fakta Material: 111
+
+====================================================================================================
+
+Folder: 20240103_LUCY_Penyampaian Prospektus
+  Emiten: LUCY
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240109_MORA_Penyampaian Prospektus
+  Emiten: MORA
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20240111_PYFA_Prospektus Ringkas atas Penawaran Umum Terbatas Kepada Para
+  Emiten: PYFA
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20240112_BCAP_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: BCAP
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240112_MAYA_Penyampaian Prospektus
+  Emiten: MAYA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240112_MORA_Penyampaian Prospektus
+  Emiten: MORA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240115_DSSA_Penyampaian Prospektus
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240115_PALM_Prospektus Ringkas terkait Penawaran Umum Terbatas kepada Pa
+  Emiten: PALM
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240116_UNKNOWN_Penyampaian Perubahan Prospektus dan_atau Term Sheet Structu
+  Emiten: UNKNOWN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240116_UNKNOWN_Penyampaian Prospektus dan_atau Term Sheet Structured Warran
+  Emiten: UNKNOWN
+  Total Files: 14
+  Document Types:
+    - Prospektus: 14
+
+Folder: 20240118_MEDC_Penyampaian Prospektus
+  Emiten: MEDC
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240119_OTMA_Penyampaian Prospektus
+  Emiten: OTMA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240119_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240121_FIFA_Penyampaian Prospektus
+  Emiten: FIFA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240122_BFIN_Penyampaian Bukti Iklan Pemberitahuan atas Prospektus Ringka
+  Emiten: BFIN
+  Total Files: 4
+  Document Types:
+    - Bukti Iklan: 4
+
+Folder: 20240122_BFIN_Penyampaian Prospektus
+  Emiten: BFIN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240123_WIKA_Penyampaian Bukti Iklan Keterbukaan Informasi atas Prospektu
+  Emiten: WIKA
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240123_WIKA_Prospektus Ringkas Penawaran Umum Terbatas PT Wijaya Karya (
+  Emiten: WIKA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240124_FREN_Penyampaian Bukti Iklan Prospektus Ringkas Penambahan Modal
+  Emiten: FREN
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240124_FREN_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me
+  Emiten: FREN
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240125_FREN_Penyampaian Bukti Iklan Prospektus Ringkas Penambahan Modal
+  Emiten: FREN
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240125_FREN_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me
+  Emiten: FREN
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20240128_HRTA_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240130_HRTA_Penyampaian Bukti Iklan Prospektus Ringkas dalam Rangka Pena
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240221_BTPN_Informasi Tambahan Prospektus Ringkas PMHMETD II Perseroan
+  Emiten: BTPN
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240221_BTPN_Penyampaian Prospektus
+  Emiten: BTPN
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240223_SDRA_Informasi Tambahan Prospektus Ringkas PMHMETD IV Perseroan
+  Emiten: SDRA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240226_BBRI_Penyampaian Prospektus
+  Emiten: BBRI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240226_SDRA_Penyampaian Bukti Iklan Penyampaian Bukti Pengumuman Informa
+  Emiten: SDRA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240229_BTPN_Penyampaian Prospektus
+  Emiten: BTPN
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240229_PNMP_Penyampaian Prospektus
+  Emiten: PNMP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240305_PALM_Informasi Tambahan dan_atau Perbaikan atas Prospektus Ringka
+  Emiten: PALM
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240306_SDRA_Informasi Tambahan Prospektus Ringkas PMHMETD IV Perseroan
+  Emiten: SDRA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240306_SDRA_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Penyampaian
+  Emiten: SDRA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240308_SMFP_Penyampaian Prospektus
+  Emiten: SMFP
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20240314_FIFA_Penyampaian Prospektus
+  Emiten: FIFA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240315_SDRA_Informasi Tambahan Prospektus Ringkas PMHMETD IV Perseroan
+  Emiten: SDRA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240318_SDRA_Penyampaian Bukti Iklan Penyampaian Bukti Pengumuman Informa
+  Emiten: SDRA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240318_SMMA_Penyampaian Bukti Iklan Bukti Iklan Prospektus Ringkas Penaw
+  Emiten: SMMA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240322_FITT_Penyampaian Prospektus
+  Emiten: FITT
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240325_MPMF_Penyampaian Prospektus
+  Emiten: MPMF
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240328_ASDF_Penyampaian Prospektus
+  Emiten: ASDF
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240401_DSSA_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240401_DSSA_Penyampaian Prospektus
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240401_SMMA_Penyampaian Bukti Iklan Informasi Tambahan Dan_Atau Perbaika
+  Emiten: SMMA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240401_SMMA_Penyampaian Prospektus
+  Emiten: SMMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240401_WIKA_Penyampaian Prospektus
+  Emiten: WIKA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240401_WIKA_Penyampaian Prospektus (KOREKSI)
+  Emiten: WIKA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240402_WIKA_Penyampaian Prospektus (KOREKSI)
+  Emiten: WIKA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240404_PYFA_Informasi Tambahan atas Prospektus Ringkas mengenai Penambah
+  Emiten: PYFA
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20240404_PYFA_Penyampaian Prospektus
+  Emiten: PYFA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240405_ADMF_Penyampaian Prospektus
+  Emiten: ADMF
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20240416_SDRA_Penyampaian Bukti Iklan Bukti Pengumuman Prospektus PMHMETD
+  Emiten: SDRA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240416_SDRA_Penyampaian Prospektus
+  Emiten: SDRA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240416_SDRA_Prospektus PMHMETD IV
+  Emiten: SDRA
+  Total Files: 3
+  Document Types:
+    - Fakta Material: 3
+
+Folder: 20240419_ASDF_Penyampaian Prospektus
+  Emiten: ASDF
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240419_BBYB_Perubahan dan_atau Tambahan Informasi atas Prospektus Ringka
+  Emiten: BBYB
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240419_FREN_Penyampaian Prospektus
+  Emiten: FREN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240421_BBYB_Penyampaian Bukti Iklan Prospektus Ringkas PMHMETD VII
+  Emiten: BBYB
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240422_FREN_Penyampaian Bukti Iklan Prospektus PMHMETD V
+  Emiten: FREN
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240426_HRTA_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240429_HRTA_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240503_HRTA_Informasi Tambahan atas Prospektus Ringkas dalam rangka Pena
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240506_HRTA_Penyampaian Bukti Iklan Informasi Tambahan atas Prospektus R
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240506_TUFI_Penyampaian Prospektus
+  Emiten: TUFI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240509_DSSA_Penyampaian Prospektus
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240513_SMRA_Penyampaian Prospektus
+  Emiten: SMRA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240528_SMRA_Penyampaian Prospektus
+  Emiten: SMRA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240529_BBIA_Penyampaian Bukti Iklan Prospektus Ringkas PUB Obligasi Berk
+  Emiten: BBIA
+  Total Files: 4
+  Document Types:
+    - Bukti Iklan: 4
+
+Folder: 20240529_DSSA_Penyampaian Prospektus
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240530_SANF_Penyampaian Prospektus
+  Emiten: SANF
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240530_WOMF_Penyampaian Bukti Iklan Pemberitahuan atas Prospektus Ringka
+  Emiten: WOMF
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240530_WOMF_Penyampaian Prospektus
+  Emiten: WOMF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240603_IMFI_Penyampaian Prospektus
+  Emiten: IMFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240606_BCAP_Penyampaian Prospektus
+  Emiten: BCAP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240607_PTPP_Penyampaian Prospektus
+  Emiten: PTPP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240610_INCO_Penyampaian Prospektus
+  Emiten: INCO
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240610_INCO_Penyampaian Prospektus (KOREKSI)
+  Emiten: INCO
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240610_LTLS_Penyampaian Bukti Iklan Prospektus Ringkas pada Surat Kabar
+  Emiten: LTLS
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20240611_BJBR_Penyampaian Bukti Iklan Prospektus Penawaran Umum Berkelanju
+  Emiten: BJBR
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20240611_BTPN_Penyampaian Bukti Iklan Prospektus Ringkas pada Surat Kabar
+  Emiten: BTPN
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240611_TPMA_Penyampaian Prospektus
+  Emiten: TPMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240611_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240612_BVIC_Penyampaian Bukti Iklan Prospektus Ringkas Dalam Rangka Pena
+  Emiten: BVIC
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240619_MTEL_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be
+  Emiten: MTEL
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240619_MTEL_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber
+  Emiten: MTEL
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240619_PRTL_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber
+  Emiten: PRTL
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240619_PRTL_Surat Pengantar atas Bukti Pengumuman Prospektus Ringkas Pen
+  Emiten: PRTL
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20240619_TAFS_Penyampaian Prospektus
+  Emiten: TAFS
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240620_BBIA_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: BBIA
+  Total Files: 4
+  Document Types:
+    - Bukti Iklan: 4
+
+Folder: 20240621_ADHI_Penyampaian Prospektus
+  Emiten: ADHI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240621_BRPT_Penyampaian Prospektus
+  Emiten: BRPT
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240622_ADHI_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be
+  Emiten: ADHI
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240624_WOMF_Penyampaian Bukti Iklan Laporan Bukti Iklan Penyampaian Info
+  Emiten: WOMF
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20240624_WOMF_Penyampaian Prospektus
+  Emiten: WOMF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240625_BCAP_Penyampaian Prospektus
+  Emiten: BCAP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240625_PTPP_Penyampaian Prospektus
+  Emiten: PTPP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240625_WOMF_Penyampaian Prospektus
+  Emiten: WOMF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240626_BIIF_Penyampaian Bukti Iklan Penyampaian Informasi Tambahan dan_a
+  Emiten: BIIF
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20240626_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240628_BCAP_Penyampaian Prospektus
+  Emiten: BCAP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240628_CNAF_Penyampaian Prospektus
+  Emiten: CNAF
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20240628_HIFI_Penyampaian Prospektus
+  Emiten: HIFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240701_ADHI_Penyampaian Prospektus
+  Emiten: ADHI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240701_AGRS_Penyampaian Bukti Iklan Penyampaian Prospektus PUT VI PT Ban
+  Emiten: AGRS
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240701_PRTL_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber
+  Emiten: PRTL
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240701_PRTL_Surat Pengantar Bukti Pengumuman Prospektus Ringkas Penawara
+  Emiten: PRTL
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20240702_BBYB_Penyampaian Prospektus
+  Emiten: BBYB
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20240702_BTPN_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: BTPN
+  Total Files: 4
+  Document Types:
+    - Bukti Iklan: 4
+
+Folder: 20240703_BBYB_Penyampaian Bukti Iklan Publikasi Prospektus PMHMETD VII PT
+  Emiten: BBYB
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240705_APAI_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta
+  Emiten: APAI
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240708_BRPT_Penyampaian Prospektus
+  Emiten: BRPT
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240712_BWPT_Penyampaian Bukti Iklan bukti iklan prospektus ringkas
+  Emiten: BWPT
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20240712_BWPT_Penyampaian Bukti Iklan Informasi tambahan dan_atau perbaika
+  Emiten: BWPT
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20240730_MSIE_Permohonan Perubahan Informasi Jadwal Perdagangan Waran dan
+  Emiten: MSIE
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20240909_HRTA_Penyampaian Dokumen Informasi Tambahan serta Perubahan dan_a
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240910_INKP_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be
+  Emiten: INKP
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240910_INKP_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber
+  Emiten: INKP
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240910_LPPI_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan
+  Emiten: LPPI
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240910_LPPI_Prospektus Ringkas Obligasi Berkelanjutan III Lontar Papyrus
+  Emiten: LPPI
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240911_HRTA_Penyampaian Bukti Iklan Perubahan dan_atau Tambahan Informas
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240913_ASDF_Penyampaian Prospektus
+  Emiten: ASDF
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240913_UNKNOWN_Penyampaian Perubahan Prospektus dan_atau Term Sheet Structu
+  Emiten: UNKNOWN
+  Total Files: 5
+  Document Types:
+    - Prospektus: 5
+
+Folder: 20240919_BFIN_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Pemberitahua
+  Emiten: BFIN
+  Total Files: 4
+  Document Types:
+    - Bukti Iklan: 4
+
+Folder: 20240919_BFIN_Penyampaian Prospektus
+  Emiten: BFIN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240923_HRTA_Penyampaian Dokumen Perubahan dan_atau Tambahan Informasi at
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20240923_XPFT_Penyampaian Prospektus_Perubahan Prospektus
+  Emiten: XPFT
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20240924_ADMF_Penyampaian Prospektus
+  Emiten: ADMF
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20240924_ADMF_Penyampaian Prospektus (KOREKSI)
+  Emiten: ADMF
+  Total Files: 6
+  Document Types:
+    - Prospektus: 6
+
+Folder: 20240925_HRTA_Penyampaian Bukti Iklan Perubahan dan_atau Tambahan Informas
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20240928_XMGB_Penyampaian Prospektus_Perubahan Prospektus
+  Emiten: XMGB
+  Total Files: 3
+  Document Types:
+    - Fakta Material: 2
+    - Prospektus: 1
+
+Folder: 20241001_INKP_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta
+  Emiten: INKP
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20241001_LPPI_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: LPPI
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20241021_UNKNOWN_Keterbukaan Informasi terkait Prospektus Waran Terstruktur 2
+  Emiten: UNKNOWN
+  Total Files: 1
+  Document Types:
+    - Lainnya: 1
+
+Folder: 20241024_TUFI_Penyampaian Prospektus
+  Emiten: TUFI
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20241025_TAFS_Penyampaian Prospektus
+  Emiten: TAFS
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20241029_DSSA_Penyampaian Prospektus
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241030_GMFI_Penyampaian Prospektus
+  Emiten: GMFI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20241101_KAII_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena
+  Emiten: KAII
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20241104_KAII_Penyampaian Prospektus Ringkas PUB II KAI Tahun 2024
+  Emiten: KAII
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20241112_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241113_PTRO_Penyampaian Prospektus
+  Emiten: PTRO
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241114_KAII_Penyampaian Bukti Publikasi Informasi Tambahan dan_atau Perb
+  Emiten: KAII
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20241119_SMII_Penyampaian Prospektus
+  Emiten: SMII
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241120_HRTA_Penyampaian Dokumen Perubahan dan_atau Tambahan Informasi at
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20241121_DSSA_Penyampaian Prospektus
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241121_FMFN_Penyampaian Bukti Iklan Prospektus Ringkas
+  Emiten: FMFN
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20241122_HRTA_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Perubahan da
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20241129_ADRO_Penyampaian Prospektus
+  Emiten: ADRO
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20241129_MDKA_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Pengumuman P
+  Emiten: MDKA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20241130_BTPN_Penyampaian Prospektus
+  Emiten: BTPN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20241204_BJBR_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena
+  Emiten: BJBR
+  Total Files: 6
+  Document Types:
+    - Bukti Iklan: 6
+
+Folder: 20241204_BJBR_Penyampaian Prospektus
+  Emiten: BJBR
+  Total Files: 6
+  Document Types:
+    - Prospektus: 6
+
+Folder: 20241204_MEDC_Penyampaian Prospektus
+  Emiten: MEDC
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241209_PTRO_Penyampaian Prospektus
+  Emiten: PTRO
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241212_BCAP_Penyampaian Bukti Iklan Prospektus Ringkas - Penawaran Umum
+  Emiten: BCAP
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20241212_FMFN_Informasi Tambahan dan_atau Perbaikan atas Prospektus Ringka
+  Emiten: FMFN
+  Total Files: 3
+  Document Types:
+    - Fakta Material: 3
+
+Folder: 20241212_PIDL_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be
+  Emiten: PIDL
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20241216_GMFI_Penyampaian Prospektus
+  Emiten: GMFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241218_MDKA_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: MDKA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20241220_SMMA_Penyampaian Prospektus
+  Emiten: SMMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241223_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20241231_PIDL_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: PIDL
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250101_SMMA_Penyampaian Prospektus
+  Emiten: SMMA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250101_SMMA_Penyampaian Prospektus (KOREKSI)
+  Emiten: SMMA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250102_BCAP_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: BCAP
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250106_IATA_Prospektus Ringkas Penawaran Umum Terbatas III PT MNC Energy
+  Emiten: IATA
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250107_PALM_Penyampaian Prospektus
+  Emiten: PALM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250111_BBKP_Penyampaian Prospektus
+  Emiten: BBKP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250111_PNBN_Penyampaian Prospektus
+  Emiten: PNBN
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250112_CNAF_Penyampaian Prospektus
+  Emiten: CNAF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250113_BTPN_Penyampaian Prospektus
+  Emiten: BTPN
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20250113_SMMA_Penyampaian Prospektus
+  Emiten: SMMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250113_XPDV_Penyampaian Prospektus_Perubahan Prospektus
+  Emiten: XPDV
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250113_XPFT_Penyampaian Prospektus_Perubahan Prospektus
+  Emiten: XPFT
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250113_XPLQ_Penyampaian Prospektus_Perubahan Prospektus(KOREKSI)
+  Emiten: XPLQ
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250113_XPSG_Penyampaian Prospektus_Perubahan Prospektus
+  Emiten: XPSG
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250115_PPGD_Penyampaian Prospektus
+  Emiten: PPGD
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250116_MEDP_Penyampaian Prospektus
+  Emiten: MEDP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250120_JSMR_Penyampaian Prospektus
+  Emiten: JSMR
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250121_BSDE_Penyampaian Bukti Iklan Prospektus Ringkas PT Bumi Serpong D
+  Emiten: BSDE
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250121_HRTA_Penyampaian Bukti Iklan Bukti Iklan atas Perubahan dan_atau
+  Emiten: HRTA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250121_PALM_Penyampaian Prospektus
+  Emiten: PALM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250122_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250124_ADMF_Penyampaian Prospektus
+  Emiten: ADMF
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20250126_PNBN_Penyampaian Prospektus
+  Emiten: PNBN
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250127_BBKP_Penyampaian Prospektus
+  Emiten: BBKP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250127_FIFA_Penyampaian Prospektus
+  Emiten: FIFA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250127_PPGD_Penyampaian Prospektus
+  Emiten: PPGD
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250128_BBKP_Penyampaian Prospektus
+  Emiten: BBKP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250203_MEDP_Penyampaian Prospektus
+  Emiten: MEDP
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20250204_MEDP_Penyampaian Prospektus
+  Emiten: MEDP
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20250206_XBES_Penyampaian Prospektus_Perubahan Prospektus
+  Emiten: XBES
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250212_TAFS_Penyampaian Prospektus
+  Emiten: TAFS
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250219_CNAF_Penyampaian Prospektus
+  Emiten: CNAF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250224_ASDF_Penyampaian Prospektus
+  Emiten: ASDF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250225_OPPM_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan
+  Emiten: OPPM
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250226_OPPM_Penyampaian Bukti Iklan Pengumuman Informasi Tambahan dan_at
+  Emiten: OPPM
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250303_PTRO_Penyampaian Prospektus
+  Emiten: PTRO
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250304_BMRI_Penyampaian Prospektus
+  Emiten: BMRI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250305_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250307_KAII_Penyampaian Prospektus
+  Emiten: KAII
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250310_FASW_Penyampaian Prospektus
+  Emiten: FASW
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250310_OTMA_Penyampaian Prospektus
+  Emiten: OTMA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250311_SMII_Penyampaian Prospektus
+  Emiten: SMII
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250313_PTRO_Penyampaian Prospektus
+  Emiten: PTRO
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250317_FIFA_Penyampaian Prospektus
+  Emiten: FIFA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250320_OPPM_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: OPPM
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250320_OPPM_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber
+  Emiten: OPPM
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20250321_KAII_Penyampaian Prospektus
+  Emiten: KAII
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250324_OPPM_Penyampaian Bukti Iklan Pengumuman Informasi Tambahan dan_at
+  Emiten: OPPM
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250325_OTMA_Penyampaian Prospektus
+  Emiten: OTMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250410_WIFI_Penyampaian Prospektus
+  Emiten: WIFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250414_UNKNOWN_Penyampaian Prospektus Waran Terstuktur
+  Emiten: UNKNOWN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250414_UNKNOWN_Penyampaian Prospektus Waran Terstuktur (KOREKSI)
+  Emiten: UNKNOWN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250416_ISSP_Penyampaian Prospektus
+  Emiten: ISSP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250418_BEKS_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me
+  Emiten: BEKS
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20250421_BEKS_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R
+  Emiten: BEKS
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250421_LPCK_Penyampaian Prospektus
+  Emiten: LPCK
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250422_MEDC_Penyampaian Prospektus
+  Emiten: MEDC
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250423_BEKS_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me
+  Emiten: BEKS
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250428_MEDP_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran
+  Emiten: MEDP
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20250430_IMJS_Prospektus Ringkas Penawaran Umum Terbatas IV Kepada Para Pe
+  Emiten: IMJS
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250430_MEDP_Penyampaian Prospektus
+  Emiten: MEDP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250502_IMJS_Penyampaian Bukti Iklan Pengumuman Prospektus Ringkas Dalam
+  Emiten: IMJS
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250507_POST_Penyampaian Prospektus
+  Emiten: POST
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250514_CARE_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran
+  Emiten: CARE
+  Total Files: 4
+  Document Types:
+    - Fakta Material: 4
+
+Folder: 20250514_CARE_Penyampaian Bukti Iklan Pemberitahuan atas Prospektus Ringka
+  Emiten: CARE
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250521_BCAP_Penyampaian Prospektus
+  Emiten: BCAP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250521_DWGL_Penyampaian Prospektus
+  Emiten: DWGL
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250521_OTMA_Penyampaian Prospektus
+  Emiten: OTMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250521_TRIM_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena
+  Emiten: TRIM
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250522_OTMA_Penyampaian Prospektus
+  Emiten: OTMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250523_BFIN_Penyampaian Prospektus
+  Emiten: BFIN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250523_UNKNOWN_Penyampaian Perubahan Prospektus Waran Terstuktur
+  Emiten: UNKNOWN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250526_WOMF_Penyampaian Prospektus
+  Emiten: WOMF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250527_BMTR_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be
+  Emiten: BMTR
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250527_BMTR_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi dan
+  Emiten: BMTR
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250527_HATM_Penyampaian Prospektus
+  Emiten: HATM
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250528_BMTR_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be
+  Emiten: BMTR
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250528_BRIS_Penyampaian Prospektus
+  Emiten: BRIS
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250603_NISP_Publikasi Prospektus Ringkas Obligasi Berkelanjutan IV OCBC
+  Emiten: NISP
+  Total Files: 4
+  Document Types:
+    - Fakta Material: 4
+
+Folder: 20250604_BCAP_Penyampaian Prospektus
+  Emiten: BCAP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250604_IMFI_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R
+  Emiten: IMFI
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20250610_BCAP_Penyampaian Prospektus
+  Emiten: BCAP
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250610_BFIN_Penyampaian Prospektus
+  Emiten: BFIN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250610_BWPT_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R
+  Emiten: BWPT
+  Total Files: 7
+  Document Types:
+    - Bukti Iklan: 7
+
+Folder: 20250611_BFIN_Penyampaian Prospektus (KOREKSI)
+  Emiten: BFIN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250612_BBNI_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena
+  Emiten: BBNI
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250612_BFIN_Penyampaian Prospektus (KOREKSI)
+  Emiten: BFIN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250612_FASW_Penyampaian Prospektus
+  Emiten: FASW
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250612_HATM_Penyampaian Prospektus
+  Emiten: HATM
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250612_OTMA_Penyampaian Prospektus
+  Emiten: OTMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250613_SMAR_Penyampaian Bukti Iklan Pengurmuman Prospektus Ringkas Penaw
+  Emiten: SMAR
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250616_SGRO_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena
+  Emiten: SGRO
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250616_TUFI_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Penerbitan P
+  Emiten: TUFI
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20250616_WOMF_Penyampaian Prospektus
+  Emiten: WOMF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250618_BRIS_Penyampaian Prospektus
+  Emiten: BRIS
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250618_FIFA_Penyampaian Bukti Iklan Bukti Pengumuman Prospektus Ringkas
+  Emiten: FIFA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250618_MEDC_Penyampaian Prospektus
+  Emiten: MEDC
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250619_BMTR_Informasi Tambahan dan_atau Perbaikan atas Prospektus Ringka
+  Emiten: BMTR
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250619_BMTR_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: BMTR
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250619_BUMI_Penyampaian Bukti Iklan Prospektus Ringkas dalam Rangka Pena
+  Emiten: BUMI
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250619_BUMI_Publikasi Prospektus Ringkas dalam Rangka Penawaran Umum Ber
+  Emiten: BUMI
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250619_RMKE_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R
+  Emiten: RMKE
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250619_SMDR_Penyampaian Prospektus
+  Emiten: SMDR
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250620_TBIG_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be
+  Emiten: TBIG
+  Total Files: 4
+  Document Types:
+    - Bukti Iklan: 4
+
+Folder: 20250620_TBIG_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber
+  Emiten: TBIG
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20250623_MEDP_Penyampaian Prospektus
+  Emiten: MEDP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250623_PYFA_Prospektus Ringkas atas Penawaran Umum Berkelanjutan Obligas
+  Emiten: PYFA
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20250623_WIFI_Penyampaian Prospektus
+  Emiten: WIFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250624_TRIM_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta
+  Emiten: TRIM
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250624_WIFI_Penyampaian Prospektus
+  Emiten: WIFI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250625_BBRI_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: BBRI
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250625_NISP_Publikasi Informasi Tambahan dan atau Perbaikan atas Prospek
+  Emiten: NISP
+  Total Files: 4
+  Document Types:
+    - Fakta Material: 4
+
+Folder: 20250626_BBNI_Penyampaian Bukti Iklan Penyampaian Perubahan dan_atau Infor
+  Emiten: BBNI
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250626_DART_Penyampaian Prospektus
+  Emiten: DART
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250626_FILM_Penyampaian Prospektus
+  Emiten: FILM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250626_SMAR_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: SMAR
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250626_TUFI_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta
+  Emiten: TUFI
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20250626_TUFI_Penyampaian Prospektus
+  Emiten: TUFI
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20250630_BUMI_Penyampaian Bukti Iklan Bukti Iklan Informasi Tambahan dan_a
+  Emiten: BUMI
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250630_BUMI_Publikasi Informasi Tambahan dan_atau Perbaikan atas Prospek
+  Emiten: BUMI
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250630_FILM_Penyampaian Prospektus (KOREKSI)
+  Emiten: FILM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250630_IMFI_Penyampaian Bukti Iklan Prospektus Ringkas PUB VI Tahap I Ta
+  Emiten: IMFI
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20250630_TBIG_Informasi Tambahan Dan_Atau Perbaikan Atas Prospektus Ringka
+  Emiten: TBIG
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250630_TBIG_Penyampaian Bukti Iklan Informasi Tambahan Dan_Atau Perbaika
+  Emiten: TBIG
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20250701_CARE_Penyampaian Prospektus
+  Emiten: CARE
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20250701_PYFA_Informasi Tambahan atas Prospektus Ringkas atas Penawaran Um
+  Emiten: PYFA
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250701_RMKE_Penyampaian Bukti Iklan Bukti Iklan Perbaikan Dan_Atau Tamba
+  Emiten: RMKE
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250702_ADMF_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta
+  Emiten: ADMF
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250702_MINA_Penyampaian Prospektus
+  Emiten: MINA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250702_SMDR_Penyampaian Prospektus (KOREKSI)
+  Emiten: SMDR
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20250702_TOWR_Penyampaian Prospektus
+  Emiten: TOWR
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20250703_CARE_Penyampaian Bukti Iklan Penyampaian informasi tambahan serta
+  Emiten: CARE
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250703_TRIM_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: TRIM
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250721_COCO_Prospektus Ringkas Dalam Rangka Penawaran Umum Terbatas Kepa
+  Emiten: COCO
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250722_COCO_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R
+  Emiten: COCO
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250910_BUVA_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me
+  Emiten: BUVA
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250915_IMJS_Prospektus Ringkas Penawaran Umum Terbatas IV Kepada Para Pe
+  Emiten: IMJS
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20250916_BSDE_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: BSDE
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20250916_IMJS_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Pengumuman P
+  Emiten: IMJS
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250918_DSSA_Penyampaian Prospektus
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250919_CSIS_Publikasi Prospektus Ringkas Penambahan Modal Dengan Memberi
+  Emiten: CSIS
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20250922_CSIS_Penyampaian Bukti Iklan Publikasi Prospektus Ringkas Penamba
+  Emiten: CSIS
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20250923_BANK_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran
+  Emiten: BANK
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20250923_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250926_INET_Penyampaian Prospektus
+  Emiten: INET
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20250926_PNMP_Penyampaian Prospektus
+  Emiten: PNMP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251001_COCO_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta
+  Emiten: COCO
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20251001_COCO_Tambahan Informasi dan_atau Perbaikan Atas Informasi Tambaha
+  Emiten: COCO
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20251001_CUAN_Penyampaian Prospektus
+  Emiten: CUAN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251002_COCO_Tambahan Informasi dan_atau Perbaikan Atas Informasi Tambaha
+  Emiten: COCO
+  Total Files: 1
+  Document Types:
+    - Fakta Material: 1
+
+Folder: 20251003_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251006_ADMF_Penyampaian Prospektus
+  Emiten: ADMF
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20251006_DSSA_Penyampaian Prospektus
+  Emiten: DSSA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251006_SMMA_Penyampaian Prospektus
+  Emiten: SMMA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251006_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251009_ARMA_Penyampaian Bukti Iklan Pengumuman Prospektus Ringkas dalam
+  Emiten: ARMA
+  Total Files: 3
+  Document Types:
+    - Bukti Iklan: 3
+
+Folder: 20251009_ASDF_Penyampaian Prospektus
+  Emiten: ASDF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251013_PNMP_Penyampaian Prospektus
+  Emiten: PNMP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251015_PACK_Penyampaian Prospektus
+  Emiten: PACK
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251020_ASDF_Penyampaian Prospektus
+  Emiten: ASDF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251020_CUAN_Penyampaian Prospektus
+  Emiten: CUAN
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251020_IIFF_Penyampaian Prospektus
+  Emiten: IIFF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251021_TAFS_Penyampaian Prospektus
+  Emiten: TAFS
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251023_WISL_Penyampaian Prospektus
+  Emiten: WISL
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251023_WISL_Penyampaian Prospektus (KOREKSI)
+  Emiten: WISL
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251024_PPGD_Penyampaian Prospektus
+  Emiten: PPGD
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251027_ARMA_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perubaha
+  Emiten: ARMA
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20251028_BUVA_Penyampaian Prospektus
+  Emiten: BUVA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251031_CSIS_Penyampaian Bukti Iklan Publikasi Prospektus Ringkas Penamba
+  Emiten: CSIS
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20251031_CSIS_Publikasi Prospektus Ringkas Penambahan Modal Dengan Memberi
+  Emiten: CSIS
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20251103_GMFI_Penyampaian Prospektus
+  Emiten: GMFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251103_WISL_Penyampaian Prospektus (KOREKSI)
+  Emiten: WISL
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251105_SMII_Penyampaian Prospektus
+  Emiten: SMII
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251106_PPGD_Penyampaian Prospektus
+  Emiten: PPGD
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251106_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251107_TAFS_Penyampaian Prospektus
+  Emiten: TAFS
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251110_LPPI_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan
+  Emiten: LPPI
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20251113_BALI_Penyampaian Prospektus
+  Emiten: BALI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251118_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251119_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251121_BBTN_Penyampaian Prospektus
+  Emiten: BBTN
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251124_BBTN_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be
+  Emiten: BBTN
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20251128_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251201_BSDE_Penyampaian Prospektus
+  Emiten: BSDE
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251201_POLI_Penyampaian Prospektus
+  Emiten: POLI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251202_IMJS_Penyampaian Prospektus
+  Emiten: IMJS
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251203_LPPI_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika
+  Emiten: LPPI
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20251203_LPPI_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber
+  Emiten: LPPI
+  Total Files: 2
+  Document Types:
+    - Fakta Material: 2
+
+Folder: 20251203_MYOR_Penyampaian Prospektus
+  Emiten: MYOR
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251205_BBTN_Penyampaian Bukti Iklan Perubahan dan_atau Tambahan Informas
+  Emiten: BBTN
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20251205_BWPT_Penyampaian Prospektus
+  Emiten: BWPT
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20251209_BWPT_Penyampaian Prospektus
+  Emiten: BWPT
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20251211_BSDE_Penyampaian Prospektus
+  Emiten: BSDE
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251211_PANI_Penyampaian Prospektus
+  Emiten: PANI
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251212_CSIS_Publikasi Prospektus dan Prospektus Ringkas dalam rangka Pen
+  Emiten: CSIS
+  Total Files: 3
+  Document Types:
+    - Fakta Material: 3
+
+Folder: 20251212_GMFI_Penyampaian Prospektus
+  Emiten: GMFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251215_CSIS_Penyampaian Bukti Iklan Publikasi Prospektus dan Prospektus
+  Emiten: CSIS
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20251215_CSIS_Publikasi Prospektus dan Prospektus Ringkas dalam rangka Pen
+  Emiten: CSIS
+  Total Files: 4
+  Document Types:
+    - Fakta Material: 4
+
+Folder: 20251215_PNMP_Penyampaian Prospektus
+  Emiten: PNMP
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251216_CSIS_Publikasi Prospektus dan Prospektus Ringkas dalam rangka Pen
+  Emiten: CSIS
+  Total Files: 4
+  Document Types:
+    - Fakta Material: 4
+
+Folder: 20251218_TPIA_Penyampaian Prospektus
+  Emiten: TPIA
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251219_MYOR_Penyampaian Prospektus
+  Emiten: MYOR
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20251219_XSPI_Keterbukaan Informasi terkait Informasi atas Fakta Material
+  Emiten: XSPI
+  Total Files: 2
+  Document Types:
+    - Lainnya: 2
+
+Folder: 20251223_INET_Penyampaian Prospektus
+  Emiten: INET
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20251224_BWPT_Penyampaian Prospektus
+  Emiten: BWPT
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20251224_ENRG_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta
+  Emiten: ENRG
+  Total Files: 1
+  Document Types:
+    - Bukti Iklan: 1
+
+Folder: 20251229_INET_Penyampaian Prospektus (KOREKSI)
+  Emiten: INET
+  Total Files: 5
+  Document Types:
+    - Prospektus: 5
+
+Folder: 20251230_BWPT_Penyampaian Prospektus
+  Emiten: BWPT
+  Total Files: 4
+  Document Types:
+    - Prospektus: 4
+
+Folder: 20251231_BANK_Penyampaian Prospektus
+  Emiten: BANK
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260102_PACK_Penyampaian Prospektus
+  Emiten: PACK
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20260114_IRSX_Penyampaian Prospektus
+  Emiten: IRSX
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260120_SMAR_Penyampaian Prospektus
+  Emiten: SMAR
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260122_INET_Penyampaian Prospektus
+  Emiten: INET
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260123_CNAF_Penyampaian Prospektus
+  Emiten: CNAF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260123_HIFI_Penyampaian Prospektus
+  Emiten: HIFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260127_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260129_JSMR_Penyampaian Prospektus
+  Emiten: JSMR
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260130_SANF_Penyampaian Prospektus
+  Emiten: SANF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260202_SMAR_Penyampaian Prospektus
+  Emiten: SMAR
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20260203_WOMF_Penyampaian Prospektus
+  Emiten: WOMF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260204_HIFI_Penyampaian Prospektus
+  Emiten: HIFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260204_IMFI_Penyampaian Prospektus
+  Emiten: IMFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260204_TPIA_Penyampaian Prospektus
+  Emiten: TPIA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260206_FIFA_Penyampaian Prospektus
+  Emiten: FIFA
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260209_ADMF_Penyampaian Prospektus
+  Emiten: ADMF
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20260210_TBIG_Penyampaian Prospektus
+  Emiten: TBIG
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20260211_CNAF_Penyampaian Prospektus
+  Emiten: CNAF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260211_HIFI_Penyampaian Prospektus
+  Emiten: HIFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260211_PALM_Penyampaian Prospektus
+  Emiten: PALM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260212_IMFI_Penyampaian Prospektus
+  Emiten: IMFI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260213_BABY_Penyampaian Prospektus
+  Emiten: BABY
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20260218_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260223_ADMF_Penyampaian Prospektus
+  Emiten: ADMF
+  Total Files: 3
+  Document Types:
+    - Prospektus: 3
+
+Folder: 20260223_WISL_Penyampaian Prospektus
+  Emiten: WISL
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260223_WOMF_Penyampaian Prospektus
+  Emiten: WOMF
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260225_INKP_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan
+  Emiten: INKP
+  Total Files: 2
+  Document Types:
+    - Bukti Iklan: 2
+
+Folder: 20260227_BBRI_Penyampaian Prospektus
+  Emiten: BBRI
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260302_BANK_Penyampaian Prospektus
+  Emiten: BANK
+  Total Files: 1
+  Document Types:
+    - Prospektus: 1
+
+Folder: 20260303_TRIM_Penyampaian Prospektus
+  Emiten: TRIM
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+
+Folder: 20260304_WISL_Penyampaian Prospektus
+  Emiten: WISL
+  Total Files: 2
+  Document Types:
+    - Prospektus: 2
+

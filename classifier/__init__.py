@@ -1,15 +1,25 @@
-"""
-Shared Green Bond Classification Package
-Bank Indonesia - DSta-DSMF
+"""Classifier EBUS GSS — rule-based / taxonomy-grounded (POJK 18/2023)."""
 
-Single source of truth for keywords, scoring, and classification logic.
-"""
-
-from classifier.constants import LABELS, LABEL_DISPLAY, CONFIDENCE_THRESHOLD_HIGH, CONFIDENCE_THRESHOLD_MEDIUM
-from classifier.keywords import GREEN_KEYWORDS, SUSTAINABILITY_KEYWORDS, SUSTAINABILITY_LINKED_KEYWORDS
-from classifier.scoring import calc_score, rule_based_classify, ml_classify, ModelManager
-from classifier.classification import (
-    determine_final_classification,
-    format_keyword_strings,
-    get_confidence_level,
+from .taxonomy import (
+    GSSClass,
+    Bucket,
+    Category,
+    GREEN_CATEGORIES,
+    SOCIAL_CATEGORIES,
+    ALL_CATEGORIES,
+    BLUE_KEYWORDS,
+    SUSTAINABILITY_LINKED_SIGNALS,
+    WAKAF_SIGNALS,
 )
+
+__all__ = [
+    "GSSClass",
+    "Bucket",
+    "Category",
+    "GREEN_CATEGORIES",
+    "SOCIAL_CATEGORIES",
+    "ALL_CATEGORIES",
+    "BLUE_KEYWORDS",
+    "SUSTAINABILITY_LINKED_SIGNALS",
+    "WAKAF_SIGNALS",
+]

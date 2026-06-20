@@ -1,0 +1,1730 @@
+[
+  {
+    "Nomor": 23,
+    "BondId": "BBNI01ASLCN1",
+    "BondName": "Obligasi Berlandaskan Keberlanjutan Berkelanjutan I Bank BNI Tahap I Tahun 2025 Seri A",
+    "IssuerCode": "BBNI",
+    "MatureDate": "2028-07-04T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 3500000000000.0
+  },
+  {
+    "Nomor": 34,
+    "BondId": "SMPNMP01ASECN1",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri A",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2026-07-18T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 989995000000.0
+  },
+  {
+    "Nomor": 35,
+    "BondId": "SMFP02SOCN1",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan II Sarana Multigriya Finansial Tahap I Tahun 2025",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2030-07-08T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1650000000000.0
+  },
+  {
+    "Nomor": 45,
+    "BondId": "SMII02DCN2",
+    "BondName": "Obligasi Berkelanjutan II Sarana Multi Infrastruktur Tahap II Tahun 2019 Seri D",
+    "IssuerCode": "SMII",
+    "MatureDate": "2026-08-28T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1292000000000.0
+  },
+  {
+    "Nomor": 49,
+    "BondId": "SMSMII01DCN3",
+    "BondName": "Sukuk Mudharabah Berkelanjutan I Sarana Multi Infrastruktur Tahap III Tahun 2019 Seri D",
+    "IssuerCode": "SMII",
+    "MatureDate": "2026-08-28T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 76000000000.0
+  },
+  {
+    "Nomor": 53,
+    "BondId": "SMII02DCN3",
+    "BondName": "Obligasi Berkelanjutan II Sarana Multi Infrastruktur Tahap III Tahun 2019 Seri D",
+    "IssuerCode": "SMII",
+    "MatureDate": "2026-10-30T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 945250000000.0
+  },
+  {
+    "Nomor": 66,
+    "BondId": "BJBR01CCN3",
+    "BondName": "Obligasi Berkelanjutan I Bank BJB Tahap III Tahun 2019 Seri C",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2026-10-18T07:00:00",
+    "Rating": "idAA",
+    "Outstanding": 74000000000.0
+  },
+  {
+    "Nomor": 78,
+    "BondId": "BJBR02BSBCN1",
+    "BondName": "Obligasi Subordinasi Berkelanjutan II Bank BJB Tahap I Tahun 2020 Seri B",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2027-03-03T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 368000000000.0
+  },
+  {
+    "Nomor": 100,
+    "BondId": "SMII03CCN3",
+    "BondName": "Obligasi Berkelanjutan III Sarana Multi Infrastruktur Tahap III Tahun 2023 Seri C",
+    "IssuerCode": "SMII",
+    "MatureDate": "2027-05-17T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1914130000000.0
+  },
+  {
+    "Nomor": 109,
+    "BondId": "SMII04BCN3",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap III Tahun 2025 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2028-03-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1128030000000.0
+  },
+  {
+    "Nomor": 110,
+    "BondId": "SMII04CCN3",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap III Tahun 2025 Seri C",
+    "IssuerCode": "SMII",
+    "MatureDate": "2030-03-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1115010000000.0
+  },
+  {
+    "Nomor": 112,
+    "BondId": "SIISSP02BCN3",
+    "BondName": "Sukuk Ijarah Berkelanjutan II SPINDO Tahap III Tahun 2025 Seri B",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2028-04-23T07:00:00",
+    "Rating": "idA(sy)",
+    "Outstanding": 155000000.0
+  },
+  {
+    "Nomor": 113,
+    "BondId": "SIISSP02CCN3",
+    "BondName": "Sukuk Ijarah Berkelanjutan II SPINDO Tahap III Tahun 2025 Seri C",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2030-04-23T07:00:00",
+    "Rating": "idA(sy)",
+    "Outstanding": 76010000000.0
+  },
+  {
+    "Nomor": 121,
+    "BondId": "TPR-SMBRIS01X4JP",
+    "BondName": "Sukuk Mudharabah Muqayadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I PT Bank BSI Tbk Tahun 2025 Tahap IV",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2038-03-20T07:00:00",
+    "Rating": "",
+    "Outstanding": 8260381192.0
+  },
+  {
+    "Nomor": 146,
+    "BondId": "ISSP02CCN3",
+    "BondName": "Obligasi Berkelanjutan II SPINDO Tahap III Tahun 2025 Seri C",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2030-04-23T07:00:00",
+    "Rating": "idA",
+    "Outstanding": 40520000000.0
+  },
+  {
+    "Nomor": 147,
+    "BondId": "ISSP02BCN3",
+    "BondName": "Obligasi Berkelanjutan II SPINDO Tahap III Tahun 2025 Seri B",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2028-04-23T07:00:00",
+    "Rating": "idA",
+    "Outstanding": 27665000000.0
+  },
+  {
+    "Nomor": 156,
+    "BondId": "BBRI02DCN2",
+    "BondName": "Obligasi Berkelanjutan II Bank BRI Tahap II Tahun 2017 Seri D",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2027-04-11T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1300500000000.0
+  },
+  {
+    "Nomor": 159,
+    "BondId": "SMII04CCN4",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri C",
+    "IssuerCode": "SMII",
+    "MatureDate": "2030-11-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 900000000000.0
+  },
+  {
+    "Nomor": 160,
+    "BondId": "SMSMII03ACN2",
+    "BondName": "Sukuk Mudharabah Berkelanjutan III Sarana Multi Infrastruktur Tahap II Tahun 2025 Seri A",
+    "IssuerCode": "SMII",
+    "MatureDate": "2026-12-07T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 1700000000000.0
+  },
+  {
+    "Nomor": 161,
+    "BondId": "SMSMII03BCN2",
+    "BondName": "Sukuk Mudharabah Berkelanjutan III Sarana Multi Infrastruktur Tahap II Tahun 2025 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2028-11-27T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 800000000000.0
+  },
+  {
+    "Nomor": 162,
+    "BondId": "SMII04DCN4",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri D",
+    "IssuerCode": "SMII",
+    "MatureDate": "2035-11-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 300000000000.0
+  },
+  {
+    "Nomor": 163,
+    "BondId": "SMII04ECN4",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri E",
+    "IssuerCode": "SMII",
+    "MatureDate": "2040-11-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 300000000000.0
+  },
+  {
+    "Nomor": 172,
+    "BondId": "SMPNMP07X1V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap I",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2026-06-27T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 180000000000.0
+  },
+  {
+    "Nomor": 176,
+    "BondId": "SMPNMP01BSECN1",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2028-07-08T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 150000000000.0
+  },
+  {
+    "Nomor": 198,
+    "BondId": "BJBR02BSBCN2",
+    "BondName": "Obligasi Subordinasi Berkelanjutan II Bank BJB Tahap II Tahun 2020 Seri B",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2027-11-17T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 337420000000.0
+  },
+  {
+    "Nomor": 214,
+    "BondId": "SMFP06BCN1",
+    "BondName": "Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap I Tahun 2021 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2026-07-08T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1000000000000.0
+  },
+  {
+    "Nomor": 217,
+    "BondId": "SMPNMP01CCN1",
+    "BondName": "Sukuk Mudharabah Berkelanjutan I PNM Tahap I Tahun 2021 Seri C",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2026-07-08T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 327000000000.0
+  },
+  {
+    "Nomor": 221,
+    "BondId": "BJBR03ASBCN1",
+    "BondName": "Obligasi Subordinasi Berkelanjutan III Bank BJB Tahap I Tahun 2021 Seri A",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2026-07-15T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 379000000000.0
+  },
+  {
+    "Nomor": 223,
+    "BondId": "BJBR03BSBCN1",
+    "BondName": "Obligasi Subordinasi Berkelanjutan III Bank BJB Tahap I Tahun 2021 Seri B",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2028-07-15T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 621000000000.0
+  },
+  {
+    "Nomor": 250,
+    "BondId": "SMFP06CN2",
+    "BondName": "Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap II Tahun 2021",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2026-11-17T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2800000000000.0
+  },
+  {
+    "Nomor": 267,
+    "BondId": "BMRI01CCN2",
+    "BondName": "Obligasi Berkelanjutan I Bank Mandiri Tahap II Tahun 2017 Seri C",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2027-06-15T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1000000000000.0
+  },
+  {
+    "Nomor": 273,
+    "BondId": "BMRI01CCN1",
+    "BondName": "Obligasi Berkelanjutan I Bank Mandiri Tahap I Tahun 2016 Seri C",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2026-09-30T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2400000000000.0
+  },
+  {
+    "Nomor": 282,
+    "BondId": "SMII01DCN1",
+    "BondName": "Obligasi Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2016 Seri D",
+    "IssuerCode": "SMII",
+    "MatureDate": "2031-11-18T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 674000000000.0
+  },
+  {
+    "Nomor": 283,
+    "BondId": "SMII01CCN1",
+    "BondName": "Obligasi Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2016 Seri C",
+    "IssuerCode": "SMII",
+    "MatureDate": "2026-11-18T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 700000000000.0
+  },
+  {
+    "Nomor": 295,
+    "BondId": "BBRI01ASOCN1",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri A",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2027-06-26T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1563090000000.0
+  },
+  {
+    "Nomor": 296,
+    "BondId": "SMBRIS01CSLCN2",
+    "BondName": "Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri C",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2028-06-26T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 2380000000000.0
+  },
+  {
+    "Nomor": 297,
+    "BondId": "BBRI01BSOCN1",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri B",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2028-06-26T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2110745000000.0
+  },
+  {
+    "Nomor": 298,
+    "BondId": "SMBRIS01ASLCN2",
+    "BondName": "Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri A",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2026-07-06T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 2445000000000.0
+  },
+  {
+    "Nomor": 299,
+    "BondId": "SMBRIS01BSLCN2",
+    "BondName": "Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri B",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2027-06-26T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 175000000000.0
+  },
+  {
+    "Nomor": 300,
+    "BondId": "BBRI01CSOCN1",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri C",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2030-06-26T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1326165000000.0
+  },
+  {
+    "Nomor": 320,
+    "BondId": "BBRI02ECN1",
+    "BondName": "Obligasi Berkelanjutan II Bank BRI Tahap I Tahun 2016 Seri E",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2026-12-01T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2350000000000.0
+  },
+  {
+    "Nomor": 361,
+    "BondId": "BBRI01CGNCN1",
+    "BondName": "Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap I Tahun 2022 Seri C",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2027-07-20T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 500000000000.0
+  },
+  {
+    "Nomor": 423,
+    "BondId": "SMFP06CN4",
+    "BondName": "Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap IV Tahun 2023",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-02-22T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2000000000000.0
+  },
+  {
+    "Nomor": 429,
+    "BondId": "ISSP02CCN1",
+    "BondName": "Obligasi Berkelanjutan II SPINDO Tahap I Tahun 2023 Seri C",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2028-04-04T07:00:00",
+    "Rating": "idA",
+    "Outstanding": 800000000.0
+  },
+  {
+    "Nomor": 430,
+    "BondId": "SIISSP02CCN1",
+    "BondName": "Sukuk Ijarah Berkelanjutan II SPINDO Tahap I Tahun 2023 Seri C",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2028-04-04T07:00:00",
+    "Rating": "idA(sy)",
+    "Outstanding": 10900000000.0
+  },
+  {
+    "Nomor": 447,
+    "BondId": "BBNI01BSLCN1",
+    "BondName": "Obligasi Berlandaskan Keberlanjutan Berkelanjutan I Bank BNI Tahap I Tahun 2025 Seri B",
+    "IssuerCode": "BBNI",
+    "MatureDate": "2030-07-04T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1500000000000.0
+  },
+  {
+    "Nomor": 454,
+    "BondId": "SKSMFP02CN1",
+    "BondName": "Sukuk Musyarakah Berkelanjutan II Sarana Multigriya Finansial Tahap I Tahun 2025",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2026-07-18T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 445000000000.0
+  },
+  {
+    "Nomor": 459,
+    "BondId": "SKSMFP02SOCN1",
+    "BondName": "Sukuk Musyarakah Berwawasan Sosial Berkelanjutan II Sarana Multigriya Finansial Tahap I Tahun 2025",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2030-07-08T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 250000000000.0
+  },
+  {
+    "Nomor": 484,
+    "BondId": "BMRI02BCN1",
+    "BondName": "Obligasi Berkelanjutan II Bank Mandiri Tahap I Tahun 2020 Seri B",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2027-05-12T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 650000000000.0
+  },
+  {
+    "Nomor": 503,
+    "BondId": "SMFP08ACN1",
+    "BondName": "Obligasi Berkelanjutan VIII Sarana Multigriya Finansial Tahap I Tahun 2025 Seri A",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2026-07-18T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1460150000000.0
+  },
+  {
+    "Nomor": 504,
+    "BondId": "SMII01ASLCN1",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri A",
+    "IssuerCode": "SMII",
+    "MatureDate": "2026-07-18T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 465000000000.0
+  },
+  {
+    "Nomor": 506,
+    "BondId": "PNMP01CSECN1",
+    "BondName": "Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri C",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2030-07-08T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 537000000000.0
+  },
+  {
+    "Nomor": 508,
+    "BondId": "SMII01CSLCN1",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri C",
+    "IssuerCode": "SMII",
+    "MatureDate": "2030-07-08T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 25000000000.0
+  },
+  {
+    "Nomor": 512,
+    "BondId": "PNMP01ASECN1",
+    "BondName": "Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri A",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2026-07-18T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 220000000000.0
+  },
+  {
+    "Nomor": 516,
+    "BondId": "SMII01BSLCN1",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2028-07-08T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 110000000000.0
+  },
+  {
+    "Nomor": 517,
+    "BondId": "PNMP01BSECN1",
+    "BondName": "Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2028-07-08T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 243000000000.0
+  },
+  {
+    "Nomor": 519,
+    "BondId": "SMFP08BCN1",
+    "BondName": "Obligasi Berkelanjutan VIII Sarana Multigriya Finansial Tahap I Tahun 2025 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-07-08T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 115500000000.0
+  },
+  {
+    "Nomor": 553,
+    "BondId": "SMII03BCN4",
+    "BondName": "Obligasi Berkelanjutan III Sarana Multi Infrastruktur Tahap IV Tahun 2023 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2026-12-14T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 600000000000.0
+  },
+  {
+    "Nomor": 554,
+    "BondId": "SMBRIS02SB",
+    "BondName": "Sukuk Mudharabah Subordinasi Jangka Menengah PT Bank Syariah Indonesia Tbk Tahun 2023",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2028-12-15T07:00:00",
+    "Rating": "idAA(sy)",
+    "Outstanding": 200000000000.0
+  },
+  {
+    "Nomor": 556,
+    "BondId": "SMFP01SOCN1",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap I Tahun 2023",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-12-22T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 500000000000.0
+  },
+  {
+    "Nomor": 557,
+    "BondId": "IIFF02CCN1",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap I Tahun 2023 Seri C",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2028-12-22T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 94331000000.0
+  },
+  {
+    "Nomor": 558,
+    "BondId": "IIFF02BCN1",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap I Tahun 2023 Seri B",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2026-12-22T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 245060000000.0
+  },
+  {
+    "Nomor": 559,
+    "BondId": "SKSMFP01SOCN1",
+    "BondName": "Sukuk Musyarakah Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap I Tahun 2023",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-12-22T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 200000000000.0
+  },
+  {
+    "Nomor": 571,
+    "BondId": "IIFFPBGN",
+    "BondName": "Surat Berharga Perpetual Berwawasan Lingkungan Indonesia Infrastructure Finance Tahun 2023",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2029-01-09T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 335190000000.0
+  },
+  {
+    "Nomor": 585,
+    "BondId": "SMFP07BCN3",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap III Tahun 2024 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2027-02-06T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 212000000000.0
+  },
+  {
+    "Nomor": 586,
+    "BondId": "PPGD05BCN5",
+    "BondName": "Obligasi Berkelanjutan V Pegadaian Tahap V Tahun 2024 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2027-02-06T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 201190000000.0
+  },
+  {
+    "Nomor": 596,
+    "BondId": "PNMP05BCN2",
+    "BondName": "Obligasi Berkelanjutan V PNM Tahap II Tahun 2024 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2027-03-20T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 341030000000.0
+  },
+  {
+    "Nomor": 597,
+    "BondId": "BBRI01CGNCN3",
+    "BondName": "Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap III Tahun 2024 Seri C",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2027-03-20T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 382905000000.0
+  },
+  {
+    "Nomor": 599,
+    "BondId": "TPR-BBRI03XXJP",
+    "BondName": "LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Rakyat Indonesia (Persero) Tbk III Tahun 2024",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2037-02-26T07:00:00",
+    "Rating": "",
+    "Outstanding": 55920357750.0
+  },
+  {
+    "Nomor": 600,
+    "BondId": "TPR-SMBRIS01X2JP",
+    "BondName": "Sukuk Mudharabah Muqayadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I PT Bank BSI Tbk Tahun 2023 Tahap II",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2036-06-26T07:00:00",
+    "Rating": "",
+    "Outstanding": 7761611519.0
+  },
+  {
+    "Nomor": 602,
+    "BondId": "SMFP07BCN4",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap IV Tahun 2024 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2027-03-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 300000000000.0
+  },
+  {
+    "Nomor": 604,
+    "BondId": "SMFP01SOCN2",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap II Tahun 2024",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2029-03-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1500000000000.0
+  },
+  {
+    "Nomor": 649,
+    "BondId": "SMBRIS01CCN1",
+    "BondName": "Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap I Tahun 2024 Seri C",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2027-06-14T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 1080000000000.0
+  },
+  {
+    "Nomor": 663,
+    "BondId": "SMFP07BCN5",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap V Tahun 2024 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2027-06-26T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 184500000000.0
+  },
+  {
+    "Nomor": 665,
+    "BondId": "SMFP01SOCN3",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap III Tahun 2024",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2029-06-26T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2000000000000.0
+  },
+  {
+    "Nomor": 675,
+    "BondId": "SMSMII03BCN1",
+    "BondName": "Sukuk Mudharabah Berkelanjutan III Sarana Multi Infrastruktur Tahap I Tahun 2024 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2027-07-05T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 60100000000.0
+  },
+  {
+    "Nomor": 676,
+    "BondId": "PPGD01BSOCN1",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Pegadaian Tahap I Tahun 2024 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2027-07-05T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 30055000000.0
+  },
+  {
+    "Nomor": 679,
+    "BondId": "SMII04CCN1",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap I Tahun 2024 Seri C",
+    "IssuerCode": "SMII",
+    "MatureDate": "2029-07-05T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 357000000000.0
+  },
+  {
+    "Nomor": 680,
+    "BondId": "BJBR04BSBCN1",
+    "BondName": "Obligasi Subordinasi Berkelanjutan IV Bank BJB Tahap I Tahun 2024 Seri B",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2031-07-05T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 697045000000.0
+  },
+  {
+    "Nomor": 681,
+    "BondId": "SMPPGD03BCN1",
+    "BondName": "Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap I Tahun 2024 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2027-07-05T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 18045000000.0
+  },
+  {
+    "Nomor": 685,
+    "BondId": "BJBR04ASBCN1",
+    "BondName": "Obligasi Subordinasi Berkelanjutan IV Bank BJB Tahap I Tahun 2024 Seri A",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2029-07-05T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 744265000000.0
+  },
+  {
+    "Nomor": 687,
+    "BondId": "SMII04BCN1",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap I Tahun 2024 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2027-07-05T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 60010000000.0
+  },
+  {
+    "Nomor": 689,
+    "BondId": "PPGD06BCN1",
+    "BondName": "Obligasi Berkelanjutan VI Pegadaian Tahap I Tahun 2024 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2027-07-05T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 51115000000.0
+  },
+  {
+    "Nomor": 692,
+    "BondId": "SMPPGD01BSOCN1",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap I Tahun 2024 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2027-07-05T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 100000000.0
+  },
+  {
+    "Nomor": 697,
+    "BondId": "SMFP07CCN1",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial (Persero) Tahap I Tahun 2023 Seri C",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-07-12T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 65000000000.0
+  },
+  {
+    "Nomor": 698,
+    "BondId": "SMFP07BCN1",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap I Tahun 2023 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2026-07-12T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 747000000000.0
+  },
+  {
+    "Nomor": 699,
+    "BondId": "SKSMFP01CN1",
+    "BondName": "Sukuk Musyarakah Berkelanjutan I Sarana Multigriya Finansial (Persero) Tahap I Tahun 2023",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-07-12T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 170500000000.0
+  },
+  {
+    "Nomor": 700,
+    "BondId": "BMRI01BGNCN1",
+    "BondName": "Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap I Tahun 2023 Seri B",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2028-07-04T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 3050000000000.0
+  },
+  {
+    "Nomor": 720,
+    "BondId": "ARKO01AGN",
+    "BondName": "Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri A",
+    "IssuerCode": "ARKO",
+    "MatureDate": "2026-08-08T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 318060000000.0
+  },
+  {
+    "Nomor": 721,
+    "BondId": "ARKO01BGN",
+    "BondName": "Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri B",
+    "IssuerCode": "ARKO",
+    "MatureDate": "2028-08-08T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 21835000000.0
+  },
+  {
+    "Nomor": 726,
+    "BondId": "PPGD05BCN4",
+    "BondName": "Obligasi Berkelanjutan V Pegadaian Tahap IV Tahun 2023 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2026-08-24T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 228025000000.0
+  },
+  {
+    "Nomor": 727,
+    "BondId": "SMPPGD02CN4",
+    "BondName": "Sukuk Mudharabah Berkelanjutan II Pegadaian Tahap IV Tahun 2023",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2026-08-24T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 235040000000.0
+  },
+  {
+    "Nomor": 765,
+    "BondId": "BBRI01CGNCN2",
+    "BondName": "Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap II Tahun 2023 Seri C",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2026-10-17T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 500000000000.0
+  },
+  {
+    "Nomor": 768,
+    "BondId": "SMFP07CCN2",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap II Tahun 2023 Seri C",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-10-20T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1300000000000.0
+  },
+  {
+    "Nomor": 769,
+    "BondId": "SMFP07BCN2",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap II Tahun 2023 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2026-10-20T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 256000000000.0
+  },
+  {
+    "Nomor": 770,
+    "BondId": "TPR-BBRI02XXJP",
+    "BondName": "LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Rakyat Indonesia (Persero) Tbk II Tahun 2023",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2037-01-25T07:00:00",
+    "Rating": "",
+    "Outstanding": 59485072875.0
+  },
+  {
+    "Nomor": 796,
+    "BondId": "SMII04BCN2",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap II Tahun 2024 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2027-12-06T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 600000000000.0
+  },
+  {
+    "Nomor": 797,
+    "BondId": "SMII04DCN2",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap II Tahun 2024 Seri D",
+    "IssuerCode": "SMII",
+    "MatureDate": "2031-12-06T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1206005000000.0
+  },
+  {
+    "Nomor": 798,
+    "BondId": "SMII04CCN2",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap II Tahun 2024 Seri C",
+    "IssuerCode": "SMII",
+    "MatureDate": "2029-12-06T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 543995000000.0
+  },
+  {
+    "Nomor": 799,
+    "BondId": "BJBR01PBCN1",
+    "BondName": "Surat Berharga Perpetual Berkelanjutan I Bank BJB Tahap I Tahun 2024",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2030-06-10T07:00:00",
+    "Rating": "idA",
+    "Outstanding": 1000000000000.0
+  },
+  {
+    "Nomor": 800,
+    "BondId": "BJBR01BSLCN1",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap I Tahun 2024 Seri B",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2029-12-10T07:00:00",
+    "Rating": "idAA",
+    "Outstanding": 800000000000.0
+  },
+  {
+    "Nomor": 803,
+    "BondId": "BJBR01ASLCN1",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap I Tahun 2024 Seri A",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2027-12-10T07:00:00",
+    "Rating": "idAA",
+    "Outstanding": 200000000000.0
+  },
+  {
+    "Nomor": 815,
+    "BondId": "TPR-SMBRIS01X3JP",
+    "BondName": "Sukuk Mudharabah Muqayadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I PT Bank BSI Tbk Tahun 2024 Tahap III",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2036-12-20T07:00:00",
+    "Rating": "",
+    "Outstanding": 7968794963.0
+  },
+  {
+    "Nomor": 836,
+    "BondId": "SMPNMP07X4V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap IV",
+    "IssuerCode": "PNMP-M",
+    "MatureDate": "2026-09-29T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 635000000000.0
+  },
+  {
+    "Nomor": 858,
+    "BondId": "BMRI01BSLCN1",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri B",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2028-12-19T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2000000000000.0
+  },
+  {
+    "Nomor": 872,
+    "BondId": "SMPNMP07X6V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap VI",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2027-02-23T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 800000000000.0
+  },
+  {
+    "Nomor": 877,
+    "BondId": "TPR-BBNI01XXJP",
+    "BondName": "LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Negara Indonesia (Persero) Tbk I Tahun 2024",
+    "IssuerCode": "BBNI",
+    "MatureDate": "2037-11-07T07:00:00",
+    "Rating": "",
+    "Outstanding": 14036333250.0
+  },
+  {
+    "Nomor": 884,
+    "BondId": "SMFP07BCN8",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VIII Tahun 2025 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-02-14T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 251255000000.0
+  },
+  {
+    "Nomor": 907,
+    "BondId": "BMRI01BGNCN2",
+    "BondName": "Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap II Tahun 2025 Seri B",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2028-03-25T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 4500000000000.0
+  },
+  {
+    "Nomor": 911,
+    "BondId": "PPGD06BCN2",
+    "BondName": "Obligasi Berkelanjutan VI Pegadaian Tahap II Tahun 2025 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2028-05-28T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2309205000000.0
+  },
+  {
+    "Nomor": 913,
+    "BondId": "PPGD01BSOCN2",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Pegadaian Tahap II Tahun 2025 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2028-05-28T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 985590000000.0
+  },
+  {
+    "Nomor": 917,
+    "BondId": "SMPPGD03BCN4",
+    "BondName": "Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap IV Tahun 2025 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2028-05-28T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 234720000000.0
+  },
+  {
+    "Nomor": 929,
+    "BondId": "SMPNMP01CSECN2",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri C",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2030-10-17T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 110000000000.0
+  },
+  {
+    "Nomor": 930,
+    "BondId": "SMPNMP01ASECN2",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri A",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2026-10-27T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 800000000000.0
+  },
+  {
+    "Nomor": 931,
+    "BondId": "SMPNMP01BSECN2",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2028-10-17T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 110000000000.0
+  },
+  {
+    "Nomor": 947,
+    "BondId": "IIFF02BCN3",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap III Tahun 2025 Seri B",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2028-11-05T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 625000000000.0
+  },
+  {
+    "Nomor": 948,
+    "BondId": "IIFF02CCN3",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap III Tahun 2025 Seri C",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2030-11-05T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 100000000000.0
+  },
+  {
+    "Nomor": 949,
+    "BondId": "IIFF02ACN3",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap III Tahun 2025 Seri A",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2026-11-15T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 500000000000.0
+  },
+  {
+    "Nomor": 950,
+    "BondId": "IIFF02DCN3",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap III Tahun 2025 Seri D",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2035-11-05T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 275000000000.0
+  },
+  {
+    "Nomor": 959,
+    "BondId": "SMPPGD01BSOCN3",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap III Tahun 2025 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2028-11-13T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 253205000000.0
+  },
+  {
+    "Nomor": 960,
+    "BondId": "PPGD06ACN4",
+    "BondName": "Obligasi Berkelanjutan VI Pegadaian Tahap IV Tahun 2025 Seri A",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2026-11-23T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2700000000000.0
+  },
+  {
+    "Nomor": 961,
+    "BondId": "SMPPGD01ASOCN3",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap III Tahun 2025 Seri A",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2026-11-23T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 1300000000000.0
+  },
+  {
+    "Nomor": 962,
+    "BondId": "PPGD06BCN4",
+    "BondName": "Obligasi Berkelanjutan VI Pegadaian Tahap IV Tahun 2025 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2028-11-13T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 521435000000.0
+  },
+  {
+    "Nomor": 965,
+    "BondId": "SMPNMP07X5V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap V",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2028-11-25T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 650000000000.0
+  },
+  {
+    "Nomor": 970,
+    "BondId": "SMII04ACN4",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri A",
+    "IssuerCode": "SMII",
+    "MatureDate": "2026-12-07T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 800000000000.0
+  },
+  {
+    "Nomor": 971,
+    "BondId": "SMII04BCN4",
+    "BondName": "Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2028-11-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1700000000000.0
+  },
+  {
+    "Nomor": 982,
+    "BondId": "POLI01ASL",
+    "BondName": "Obligasi Terkait Keberlanjutan I Pollux Hotels Group Tahun 2025 Seri A",
+    "IssuerCode": "POLI",
+    "MatureDate": "2028-12-10T07:00:00",
+    "Rating": "idAAA(cg)",
+    "Outstanding": 55000000000.0
+  },
+  {
+    "Nomor": 986,
+    "BondId": "POLI01BSL",
+    "BondName": "Obligasi Terkait Keberlanjutan I Pollux Hotels Group Tahun 2025 Seri B",
+    "IssuerCode": "POLI",
+    "MatureDate": "2030-12-10T07:00:00",
+    "Rating": "idAAA(cg)",
+    "Outstanding": 445000000000.0
+  },
+  {
+    "Nomor": 999,
+    "BondId": "BMRI01ASLCN1",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri A",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2026-12-29T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1000000000000.0
+  },
+  {
+    "Nomor": 1002,
+    "BondId": "BMRI01CSLCN1",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri C",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2030-12-19T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2000000000000.0
+  },
+  {
+    "Nomor": 1007,
+    "BondId": "TPR-BBRI05XXJP",
+    "BondName": "LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Rakyat Indonesia (Persero) Tbk V Tahun 2025",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2039-03-06T07:00:00",
+    "Rating": "",
+    "Outstanding": 33809212500.0
+  },
+  {
+    "Nomor": 1019,
+    "BondId": "PNMP01ASECN2",
+    "BondName": "Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2026 Seri A",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2029-01-14T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 250000000000.0
+  },
+  {
+    "Nomor": 1020,
+    "BondId": "SMPNMP01CSECN3",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri C",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2031-01-14T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 600000000000.0
+  },
+  {
+    "Nomor": 1021,
+    "BondId": "PNMP01BSECN2",
+    "BondName": "Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2026 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2031-01-14T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 250000000000.0
+  },
+  {
+    "Nomor": 1022,
+    "BondId": "SMPNMP01BSECN3",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2029-01-14T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 600000000000.0
+  },
+  {
+    "Nomor": 1023,
+    "BondId": "SMPNMP01ASECN3",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri A",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2027-01-24T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 300000000000.0
+  },
+  {
+    "Nomor": 1046,
+    "BondId": "ISSP01ASL",
+    "BondName": "Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri A",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2027-07-09T07:00:00",
+    "Rating": "idAAA(cg)",
+    "Outstanding": 33780000000.0
+  },
+  {
+    "Nomor": 1047,
+    "BondId": "ISSP01CSL",
+    "BondName": "Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri C",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2031-07-09T07:00:00",
+    "Rating": "idAAA(cg)",
+    "Outstanding": 200000000000.0
+  },
+  {
+    "Nomor": 1054,
+    "BondId": "ISSP01BSL",
+    "BondName": "Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri B",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2029-07-09T07:00:00",
+    "Rating": "idAAA(cg)",
+    "Outstanding": 766220000000.0
+  },
+  {
+    "Nomor": 1058,
+    "BondId": "SMPNMP01BCN3",
+    "BondName": "Sukuk Mudharabah Berkelanjutan I PNM Tahap III Tahun 2024 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2027-07-12T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 1330940000000.0
+  },
+  {
+    "Nomor": 1079,
+    "BondId": "SMFP07CCN6",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VI Tahun 2024 Seri C",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2027-08-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 728254000000.0
+  },
+  {
+    "Nomor": 1080,
+    "BondId": "SMFP07BCN6",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VI Tahun 2024 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2026-08-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 192195000000.0
+  },
+  {
+    "Nomor": 1107,
+    "BondId": "SMPNMP06X2V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VI PT Permodalan Nasional Madani Tahun 2024 Tahap II",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2027-10-11T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 262000000000.0
+  },
+  {
+    "Nomor": 1109,
+    "BondId": "IIFF02BCN2",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap II Tahun 2024 Seri B",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2027-10-25T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 250000000000.0
+  },
+  {
+    "Nomor": 1110,
+    "BondId": "IIFF02CCN2",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap II Tahun 2024 Seri C",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2031-10-25T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 300000000000.0
+  },
+  {
+    "Nomor": 1112,
+    "BondId": "IIFF02DCN2",
+    "BondName": "Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap II Tahun 2024 Seri D",
+    "IssuerCode": "IIFF",
+    "MatureDate": "2034-10-25T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 250000000000.0
+  },
+  {
+    "Nomor": 1126,
+    "BondId": "SMPNMP06X3V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VI PT Permodalan Nasional Madani Tahun 2024 Tahap III",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2027-11-26T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 110000000000.0
+  },
+  {
+    "Nomor": 1128,
+    "BondId": "SMFP01SOCN4",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap IV Tahun 2024",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2029-11-26T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1200000000000.0
+  },
+  {
+    "Nomor": 1129,
+    "BondId": "SMFP07BCN7",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VII Tahun 2024 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2026-11-26T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 153005000000.0
+  },
+  {
+    "Nomor": 1130,
+    "BondId": "SMFP07CCN7",
+    "BondName": "Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VII Tahun 2024 Seri C",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2027-11-26T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 794005000000.0
+  },
+  {
+    "Nomor": 1132,
+    "BondId": "PNMP01CSECN3",
+    "BondName": "Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri C",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2029-04-21T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 279065000000.0
+  },
+  {
+    "Nomor": 1133,
+    "BondId": "SMPNMP01ASECN4",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri A",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2027-05-01T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 540605000000.0
+  },
+  {
+    "Nomor": 1134,
+    "BondId": "SMPNMP01BSECN4",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2028-04-21T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 25700000000.0
+  },
+  {
+    "Nomor": 1135,
+    "BondId": "SMPNMP01CSECN4",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri C",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2029-04-21T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 155120000000.0
+  },
+  {
+    "Nomor": 1136,
+    "BondId": "SMII01ASLCN2",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap II Tahun 2026 Seri A",
+    "IssuerCode": "SMII",
+    "MatureDate": "2027-05-16T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 72128000000.0
+  },
+  {
+    "Nomor": 1137,
+    "BondId": "SMII01BSLCN2",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap II Tahun 2026 Seri B",
+    "IssuerCode": "SMII",
+    "MatureDate": "2029-05-06T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 77872000000.0
+  },
+  {
+    "Nomor": 1168,
+    "BondId": "ISSP03ACN1",
+    "BondName": "Obligasi Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri A",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2027-06-19T07:00:00",
+    "Rating": "idA",
+    "Outstanding": 31580000000.0
+  },
+  {
+    "Nomor": 1169,
+    "BondId": "ISSP03CCN1",
+    "BondName": "Obligasi Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri C",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2031-06-12T07:00:00",
+    "Rating": "idA",
+    "Outstanding": 43840000000.0
+  },
+  {
+    "Nomor": 1170,
+    "BondId": "ISSP03BCN1",
+    "BondName": "Obligasi Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri B",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2029-06-12T07:00:00",
+    "Rating": "idA",
+    "Outstanding": 26030000000.0
+  },
+  {
+    "Nomor": 1173,
+    "BondId": "SIISSP03ACN1",
+    "BondName": "Sukuk Ijarah Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri A",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2027-06-19T07:00:00",
+    "Rating": "idA(sy)",
+    "Outstanding": 36210000000.0
+  },
+  {
+    "Nomor": 1174,
+    "BondId": "SIISSP03BCN1",
+    "BondName": "Sukuk Ijarah Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri B",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2029-06-12T07:00:00",
+    "Rating": "idA(sy)",
+    "Outstanding": 65000000.0
+  },
+  {
+    "Nomor": 1175,
+    "BondId": "SIISSP03CCN1",
+    "BondName": "Sukuk Ijarah Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri C",
+    "IssuerCode": "ISSP",
+    "MatureDate": "2031-06-12T07:00:00",
+    "Rating": "idA(sy)",
+    "Outstanding": 22275000000.0
+  },
+  {
+    "Nomor": 1206,
+    "BondId": "SMFP08ACN2",
+    "BondName": "Obligasi Berkelanjutan VIII Sarana Multigriya Finansial Tahap II Tahun 2026 Seri A",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2027-03-09T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 995000000000.0
+  },
+  {
+    "Nomor": 1207,
+    "BondId": "SKSMFP02CN2",
+    "BondName": "Sukuk Musyarakah Berkelanjutan II Sarana Multigriya Finansial Tahap II Tahun 2026",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2027-03-09T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 808065000000.0
+  },
+  {
+    "Nomor": 1208,
+    "BondId": "SMFP08BCN2",
+    "BondName": "Obligasi Berkelanjutan VIII Sarana Multigriya Finansial Tahap II Tahun 2026 Seri B",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-02-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1010000000000.0
+  },
+  {
+    "Nomor": 1218,
+    "BondId": "SMPNMP07X11V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap XI",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2028-11-25T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 350000000000.0
+  },
+  {
+    "Nomor": 1227,
+    "BondId": "BBRI01BSOCN2",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri B",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2029-03-17T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 2666255000000.0
+  },
+  {
+    "Nomor": 1228,
+    "BondId": "BBRI01ASOCN2",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri A",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2027-03-27T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1236245000000.0
+  },
+  {
+    "Nomor": 1229,
+    "BondId": "BBRI01CSOCN2",
+    "BondName": "Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri C",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2031-03-17T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1097500000000.0
+  },
+  {
+    "Nomor": 1257,
+    "BondId": "TPR-BBNI02XXJP",
+    "BondName": "LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Negara Indonesia (Persero) Tbk II Tahun 2026",
+    "IssuerCode": "BBNI",
+    "MatureDate": "2037-10-09T07:00:00",
+    "Rating": "",
+    "Outstanding": 1901617500.0
+  },
+  {
+    "Nomor": 1260,
+    "BondId": "BJBR01ASLCN2",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap II Tahun 2026 Seri A",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2029-04-15T07:00:00",
+    "Rating": "idAA",
+    "Outstanding": 691340000000.0
+  },
+  {
+    "Nomor": 1261,
+    "BondId": "BJBR01BSLCN2",
+    "BondName": "Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap II Tahun 2026 Seri B",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2031-04-15T07:00:00",
+    "Rating": "idAA",
+    "Outstanding": 241075000000.0
+  },
+  {
+    "Nomor": 1262,
+    "BondId": "PNMP01ASECN3",
+    "BondName": "Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri A",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2027-05-01T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 709505000000.0
+  },
+  {
+    "Nomor": 1263,
+    "BondId": "PNMP01BSECN3",
+    "BondName": "Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri B",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2028-04-21T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 25005000000.0
+  },
+  {
+    "Nomor": 1267,
+    "BondId": "PNMP04CCN1",
+    "BondName": "Obligasi Berkelanjutan IV PNM Tahap I Tahun 2021 Seri C",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2026-12-10T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1000000000000.0
+  },
+  {
+    "Nomor": 1325,
+    "BondId": "BJBR03BSBCN2",
+    "BondName": "Obligasi Subordinasi Berkelanjutan III Bank BJB Tahap II Tahun 2022 Seri B",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2029-06-09T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 600090000000.0
+  },
+  {
+    "Nomor": 1326,
+    "BondId": "BBNI01BGN",
+    "BondName": "Obligasi Green Bond I PT Bank Negara Indonesia (Persero) Tbk. Tahun 2022 Seri B",
+    "IssuerCode": "BBNI",
+    "MatureDate": "2027-06-21T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1000000000000.0
+  },
+  {
+    "Nomor": 1328,
+    "BondId": "BJBR03ASBCN2",
+    "BondName": "Obligasi Subordinasi Berkelanjutan III Bank BJB Tahap II Tahun 2022 Seri A",
+    "IssuerCode": "BJBR",
+    "MatureDate": "2027-06-09T07:00:00",
+    "Rating": "idA+",
+    "Outstanding": 399910000000.0
+  },
+  {
+    "Nomor": 1334,
+    "BondId": "SMPNMP01CSECN1",
+    "BondName": "Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri C",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2030-07-08T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 610005000000.0
+  },
+  {
+    "Nomor": 1345,
+    "BondId": "SMPNMP07X2V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap II",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2026-07-27T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 100000000000.0
+  },
+  {
+    "Nomor": 1369,
+    "BondId": "PPGD06BCN3",
+    "BondName": "Obligasi Berkelanjutan VI Pegadaian Tahap III Tahun 2025 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2028-09-03T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 362005000000.0
+  },
+  {
+    "Nomor": 1370,
+    "BondId": "PPGD06ACN3",
+    "BondName": "Obligasi Berkelanjutan VI Pegadaian Tahap III Tahun 2025 Seri A",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2026-09-13T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1869775000000.0
+  },
+  {
+    "Nomor": 1372,
+    "BondId": "SMPNMP07X3V",
+    "BondName": "Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap III",
+    "IssuerCode": "PNMP",
+    "MatureDate": "2026-09-14T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 85000000000.0
+  },
+  {
+    "Nomor": 1378,
+    "BondId": "TPR-BBRI04XXJP",
+    "BondName": "LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Rakyat Indonesia (Persero) Tbk IV Tahun 2024",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2038-01-16T07:00:00",
+    "Rating": "",
+    "Outstanding": 81271555499.0
+  },
+  {
+    "Nomor": 1384,
+    "BondId": "SMPPGD03BCN5",
+    "BondName": "Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap V Tahun 2025 Seri B",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2028-09-03T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 165005000000.0
+  },
+  {
+    "Nomor": 1385,
+    "BondId": "SMPPGD03ACN5",
+    "BondName": "Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap V Tahun 2025 Seri A",
+    "IssuerCode": "PPGD",
+    "MatureDate": "2026-09-13T07:00:00",
+    "Rating": "idAAA(sy)",
+    "Outstanding": 1454130000000.0
+  },
+  {
+    "Nomor": 1406,
+    "BondId": "SMFP06CN3",
+    "BondName": "Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap III Tahun 2022",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2027-09-21T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 3000000000000.0
+  },
+  {
+    "Nomor": 1412,
+    "BondId": "BMRISB02XXMF",
+    "BondName": "MTN Subordinasi II PT Bank Mandiri (Persero) Tbk Tahun 2023",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2028-06-23T07:00:00",
+    "Rating": "idAA",
+    "Outstanding": 100000000000.0
+  },
+  {
+    "Nomor": 1413,
+    "BondId": "TPR-SMBRIS01X1JP",
+    "BondName": "Sukuk Mudharabah Muqayadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I PT Bank BSI Tbk Tahun 2023 Tahap I",
+    "IssuerCode": "BRIS",
+    "MatureDate": "2035-12-26T07:00:00",
+    "Rating": "",
+    "Outstanding": 3758737500.0
+  },
+  {
+    "Nomor": 1414,
+    "BondId": "MICK06CN41",
+    "BondName": "Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap IV Tahun 2023",
+    "IssuerCode": "SMFP",
+    "MatureDate": "2028-02-22T07:00:00",
+    "Rating": "",
+    "Outstanding": 2000000000000.0
+  },
+  {
+    "Nomor": 1436,
+    "BondId": "BMRI01AGNCN1",
+    "BondName": "Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap I Tahun 2023 Seri A",
+    "IssuerCode": "BMRI",
+    "MatureDate": "2026-07-04T07:00:00",
+    "Rating": "idAAA",
+    "Outstanding": 1950000000000.0
+  },
+  {
+    "Nomor": 1437,
+    "BondId": "BBRI04SB",
+    "BondName": "Obligasi Subordinasi IV Bank BRI Tahun 2023",
+    "IssuerCode": "BBRI",
+    "MatureDate": "2028-07-06T07:00:00",
+    "Rating": "idAA",
+    "Outstanding": 500000000000.0
+  }
+]

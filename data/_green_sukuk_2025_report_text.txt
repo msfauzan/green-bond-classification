@@ -1,0 +1,3911 @@
+===== PAGE 1 =====
+Green Sukuk 
+Allocation and 
+Impact Report 
+2025
+
+===== PAGE 2 =====
+Table of Contents
+Foreword by the Minister of Finance............................................................................... 4
+Executive Summary......................................................................................................... 6
+Global Sovereign Green Sukuk – SNI 0754 (ISIN: USY68613AC56)..........................................6
+Domestic Retail Green Sukuk – ST Series ...................................................................................8
+Domestic Wholesale Green Sukuk – PBSG001 Series (ISIN: IDP000005308).........................13
+Republic of Indonesia’s Green Sukuk Milestone............................................................. 15
+Summary of All Green Sukuk Issuances (2018–2024)................................................................15
+Cumulative Proceeds Allocation (2018 – 2024)...........................................................................16
+Awards.............................................................................................................................. 18
+Distribution of Geographic Locations............................................................................. 20
+I. Introduction................................................................................................................... 22
+II. Summary of the Republic of Indonesia Thematic Bonds and Sukuk Framework ........... 23
+Pillar 1: Proceeds Allocation............................................................................................................24
+Pillar 2: Process for Project Evaluation and Selection..................................................................25
+Pillar 3: Management of Proceeds ................................................................................................26
+Pillar 4: Reporting............................................................................................................................27
+III. List of Projects: Allocation and Impact...................................................................... 29
+IV. Featured Projects........................................................................................................ 46
+Development of Flood Control Infrastructure in New Capital City of Nusantara........................46
+Installation of Rooftop and Ground-mounted Solar PV Systems................................................48
+Strengthening Climate Observation through Equipment  
+and Infrastructure Enhancement at BMKG...................................................................................50
+Application of Dew-Harvesting Technology to Enhance Drinking Water Access.......................52
+V. Interpreting Reported Results..................................................................................... 53
+Annex................................................................................................................................ 54
+Impact Measurement Methodology and Indicators .....................................................................54
+Transaction Summary of 2024 Sovereign Green Sukuk .............................................................62
+2025 Green Sukuk Allocation and Impact Report
+3
+
+===== PAGE 3 =====
+Foreword by the Minister of Finance
+It is with great honour that I, on behalf of the Government of Indonesia, present the Green 
+Sukuks Allocation and Impact Report 2025, documenting the allocation of proceeds and 
+measurable environmental and social impacts from the Sovereign Green Sukuks issuance 
+in 2024. This milestone marks the seventh issuance of Green Sukuks by the Republic 
+of Indonesia in both global and domestic markets. It reflects our resolve to implement 
+innovative fiscal policies that accelerate development, reduce inequality, and promote 
+inclusive and sustainable growth.
+I would like to highlight that in 2024 Indonesia underwent a presidential administration 
+transition. Despite this transition, the Government of Indonesia has reaffirmed and 
+strengthened its commitment through the National Medium-Term Development Plan 
+(RPJMN) 2025–2029, which continues to prioritize climate change and sustainability as core 
+development pillars. The SDGs and climate change agenda has been fully mainstreamed 
+into this national plan.
+In October 2025, the Government of Indonesia submitted the Second Nationally Determined 
+Contributions (SNDC) which reinforce Indonesia’s climate action commitment, harmonized 
+with the targets of national economic growth and development. Earlier in April 2025, the 
+Sustainable Government Securities Framework 2025 was updated to align with the latest 
+market standards and evolving investor preferences, both domestically and globally. 
+However, as the Green Sukuks covered in this report were issued in 2024, the allocation 
+and impact reporting are still guided by the SDGs Government Securities Framework 2021.
+On behalf of the Government of Indonesia, I would like to extend my sincere appreciation 
+to investors, joint lead managers, and stakeholders, both global and domestic, for their 
+continued trust and collaboration. I also wish to thank the Ministry of Public Works, the 
+Ministry of Housing and Residential Area, the Ministry of Transportation, the Meteorology 
+Climatology and Geophysics Agency, the Ministry of Energy and Mineral Resources, the 
+Ministry of Housing and Residential Areas, acting as Project Owners, the Ministry of National 
+Development Planning and the United Nations Development Programmes for ensuring the 
+effective project implementation their valuable support in completing the report. 
+The issuance of government securities, including Green Sukuks, will continue to serve as 
+one of the key innovative financing instruments to bridge the financing gap in achieving 
+the SDGs and climate change objectives. This report serves a testament to what can be 
+achieved when finance, policy, and sustainability converge. We remain committed to this 
+path and look forward to continuing our collaboration for a more prosperous and sustainable 
+future.
+Purbaya Yudhi Sadewa
+The Minister of Finance of the 
+Republic of Indonesia
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+5
+4
+2025 Green Sukuk Allocation and Impact Report
+4
+
+===== PAGE 4 =====
+Global Sovereign Green Sukuk – SNI 0754 (ISIN: USY68613AC56)
+a.	 Transaction Summary
+Investors by Geography
+Investor Distribution by Industry
+Investor
+Industry
+%
+2%
+53%
+6%
+6%
+33%
+Region
+%
+29%
+34%
+9%
+1%
+27%
+Asia (Indonesia & Malaysia)
+Middle East & Malaysia
+Europe
+Indonesia
+United States
+Asset / Fund Managers
+Banks / Financial Institutions
+Private Bank
+Central Banks
+Insurance / Pension Funds
+Amount
+USD 600 million
+Tenor
+30 years
+Coupon
+5.50% 
+Issuance Date
+2 July 2024 
+The Government of Indonesia, through the Ministry of Finance, advanced its green and 
+Sharia-compliant financing agenda with the seventh issuance of Green Sukuk in 2024, 
+targeting both international and domestic investors. The proceeds finance and refinance 
+environmentally sustainable projects aligned with Sharia principles, while supporting 
+national GHG emission reduction and SDG targets. This section outlines the proceeds raised, 
+their allocation, and the projected environmental and social impacts. Projected impacts 
+reflect the aggregate environmental and social benefits, where data are available. Relevant 
+methodologies are presented in the Annex.
+IDR  
+9.92 trillion
+through the domestic retail 
+ST Green Sukuk 
+(ST 012T4 ISIN: IDJ000030903, & 
+ST 013T4 ISIN: IDJ000033709) 
+ST012T4 proceeds were fully 
+allocated to the refinancing of eligible 
+FY2023 projects. ST013T4 proceeds 
+were allocated 80% to refinancing 
+eligible FY2023 projects and 20% to 
+financing eligible FY2024 projects
+IDR 
+8.95 trillion
+through the domestic  
+wholesale PBSG Green Sukuk 
+(ISIN: IDP000005308)  
+100% allocated to refinancing 
+eligible FY2023 projects
+USD 
+600 million
+through the Global Sovereign 
+Green Sukuk 
+(ISIN: USY68613AC56) 
+100% of proceeds were allocated 
+to the financing of eligible FY2024 
+projects
+Executive Summary
+In Fiscal Year 2024, the Republic of Indonesia successfully raised: 
+b.	 Proceeds Allocation
+SNI 0754
+Breakdown by Sector
+Resilience to Climate Change for Highly Vulnerable 
+Areas and Sectors/Disaster Risk Reduction
+Total (IDR)
+ 544,799,351,809  
+Total (USD)
+36,319,957 
+6.05% 
+Breakdown by Project Owner (Ministry)
+Ministry of Public Works and Housing
+Total (IDR)
+9,000,003,716,275
+Total (USD)
+600,000,248
+100% 
+93.95%
+Sustainable Water and
+Wastewater Management
+Total (IDR)
+8,455,204,364,466
+Total (USD)
+563,680,291 
+c.	 Projected Environmental and Social Impacts
+Sustainable Water and 
+Wastewater Management 
+The projects increase water-storage capacity by an estimated 
+249.46 million m³ through the construction and revitalization 
+of 11 dams and one lake, supporting water-resource 
+conservation, agricultural irrigation, ﬂood control, and raw water 
+supply in line with national water and food security programs.
+Resilience to Climate 
+Change for Highly 
+Vulnerable Areas and 
+Sectors/Disaster Risk 
+Reduction
+The projects are expected to reduce ﬂood-prone areas 
+by approximately 360.19 hectares through the development 
+of ﬁve river ﬂood-control structures.
+Raw water service capacity has been improved through 
+the rehabilitation of 10.07 km of raw water networks and 
+the development of two production units and two groundwater 
+intake points.
+100% of proceeds were allocated to financing new FY2024 projects. 
+Full details are provided in Table 1 of Chapter III.
+2025 Green Sukuk Allocation and Impact Report
+6
+2025 Green Sukuk Allocation and Impact Report
+7
+
+===== PAGE 5 =====
+Domestic Retail Green Sukuk – ST Series 
+a.	 Transaction Summary ST 012T4 (ISIN: IDJ000030903)
+Volume
+IDR 5.08 trillion
+Tenor
+4 years
+Coupon
+6.55% 
+Issuance Date
+June 2024 
+Floating
+with floor
+Investors by Age
+0.27%  
+7.45%
+26.41%  
+60.52%   
+5.35%
+Investors by Gender
+Traditionalists 
+(1928-1945)
+Baby Boomers 
+(1946-1964)
+Generation X 
+(1965-1979)
+Millennials 
+(1980-2000)
+Generation Z 
+(>2000)
+ 47.45%  
+Men
+ 52.55%
+Women
+ST 012T4
+Aceh 0.28%
+North Sumatera 3.46%
+Jambi 0.46% 
+Riau 1.44% 
+Riau Islands 0.96%
+Bangka Belitung
+Islands
+0.29%
+West Kalimantan 
+0.97%
+South Kalimantan 
+0.74%
+Central Kalimantan
+0.36%
+East Kalimantan
+1.81%
+North Kalimantan
+0.14%
+Gorontalo 0.05% 
+North Sulawesi 0.32%
+North Maluku 0.08%
+Papua 0.32%
+West Papua 0.07%
+Maluku 0.13%
+Bali 2.03%
+Banten 8.08%
+West Java 18.83%
+DI Yogyakarta 2.86% 
+West Nusa Tenggara 0.35%
+East Nusa Tenggara 0.20%
+Bengkulu 0.15% 
+South Sumatra 1.30%
+West Sumatra
+0.89%
+Lampung 0.81%
+DKI Jakarta 28.98% 
+Central Java 9.11%
+East Java 12.86%
+West Sulawesi
+0.04%
+Central Sulawesi 
+0.29%
+South Sulawesi
+1.18%
+Southeast Sulawesi 
+0.16%
+Investors by Province
+Transaction Summary of ST 013T4 (ISIN: IDJ000033709)
+Volume
+IDR 4.84 trillion
+Tenor
+4 years
+Coupon
+6.55% 
+Issuance Date
+December 2024 
+Floating
+with floor
+Investors by Age
+0.33%
+9.20%
+29.32%
+55.89%
+0.01%
+Investors by Gender
+Traditionalists 
+(1928-1945)
+Baby Boomers 
+(1946-1964)
+Generation X 
+(1965-1979)
+Millennials 
+(1980-2000)
+Others
+5.25%
+Generation Z 
+(>2000)
+ 47.45%  
+Men
+ 52.55%
+Women
+ST 013T4
+Aceh 0.36%
+North Sumatera 3.53%
+Jambi 0.40% 
+Riau 1.58% 
+Riau Islands 1.05%
+Bangka Belitung
+Islands
+0.27%
+West Kalimantan 
+0.83%
+South Kalimantan 
+0.67%
+Central Kalimantan
+0.42%
+East Kalimantan
+1.91%
+North Kalimantan
+0.18%
+Gorontalo 0.04% 
+North Sulawesi 0.29%
+North Maluku 0.10%
+Papua 0.32%
+West Papua 0.08%
+Maluku 0.11%
+Bali 2.07%
+Banten 8.08%
+West Java 18.62%
+DI Yogyakarta 3.16% 
+West Nusa Tenggara 0.34%
+East Nusa Tenggara 0.20%
+Bengkulu 0.20%
+South Sumatra 1.42%
+West Sumatra
+0.91%
+Lampung 0.78%
+DKI Jakarta 28.70% 
+Central Java 9.00%
+East Java 12.70%
+West Sulawesi
+0.06%
+Central Sulawesi 
+0.28%
+South Sulawesi
+1.16%
+Southeast Sulawesi 
+0.18%
+Investors by Province
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+9
+8
+
+===== PAGE 6 =====
+b.	 Proceeds Allocation
+Breakdown by Sector
+Resilience to Climate Change for Highly Vulnerable 
+Areas and Sectors/Disaster Risk Reduction
+Total (IDR)
+1,287,234,401,339 
+Total (USD)
+85,815,626.8 
+Sustainable Water and
+Wastewater Management
+Total (IDR)
+3,331,950,582,720
+Total (USD)
+222,130,038.8 
+ST 012T4
+Sustainable Transport
+Total (IDR)
+457,589,650,361 
+Total (USD)
+30,505,976.7 
+25.36%
+9.01%
+65.63%
+Breakdown by Project Owner (Ministry)
+Ministry of Transportation
+Total (IDR)
+457,589,650,361 
+Total (USD)
+30,505,976.7 
+Ministry of Public Works and Housing
+Total (IDR)
+4,619,184,984,059 
+Total (USD)
+307,945,665.6 
+9.01%
+90.99%
+Breakdown by Sector
+Resilience to Climate Change for Highly Vulnerable 
+Areas and Sectors/Disaster Risk Reduction
+Total (IDR)
+1,943,023,254,708 
+Total (USD)
+129,534,884 
+Green Buildings
+Total (IDR)
+1,053,767,000 
+Total (USD)
+ 70,251 
+ST 013T4
+Sustainable Transport
+Total (IDR)
+483,879,715,225 
+Total (USD)
+32,258,648 
+40.14%
+Renewable Energy
+Total (IDR)
+6,998,470,922 
+Total (USD)
+ 466,565 
+0.14% 
+10.00%
+0.02%
+Sustainable Water and
+Wastewater Management
+Total (IDR)
+2,406,013,687,030 
+Total (USD)
+160,400,912 
+49.70%
+Breakdown by Project Owner (Ministry)
+Ministry of Transportation
+Total (IDR)
+ 483,879,715,225 
+Total (USD)
+32,258,648 
+Ministry of Public Works and Housing
+Total (IDR)
+4,342,547,564,303 
+Total (USD)
+289,503,171 
+10.00%
+89.70%
+Ministry of Energy and Mineral Resources
+Total (IDR)
+ 6,998,470,922 
+Total (USD)
+ 466,565 
+Meteorology Climatology & Geophysics Agency
+Total (IDR)
+ 7,543,144,435 
+Total (USD)
+ 502,876 
+0.16%
+0.14%
+100% of proceeds were allocated to refinancing FY2023 projects. 
+Full details are provided in Table 2 of Chapter III.
+20.31% of proceeds were allocated to financing new FY2024 projects and 79.69% 
+to refinancing FY2023 projects. Full details are provided in Table 3 & 4 of Chapter III.
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+11
+10
+
+===== PAGE 7 =====
+c.	 Projected Environmental and Social Impacts
+ST 012T4
+ST 013T4
+The project contributes to an estimated actual GHG emission 
+reduction of 1,464 tCO2e per year from the Medan–Binjai airport 
+railway.
+Sustainable 
+Transportation
+Potential ﬂood-prone areas have been reduced by an estimated 
+1,784 hectares through the development of four ﬂood-control and 
+coastal-protection structures, with a combined length of 51 km.
+The project enhances water resource storage capacity by 105.57 
+million m³ through the construction of six dams, and three kilometres 
+of irrigation networks.
+Resilience to Climate Change 
+for Highly Vulnerable Areas and 
+Sectors/ Disaster Risk Reduction
+Sustainable Water and 
+Wastewater Management
+An actual GHG emission reduction of 276 tonnes CO2e per year has 
+been achieved through the installation of solar PV systems, which 
+generate approximately 325 MWh of electricity annually.
+Renewable 
+Energy
+Collectively, the projects contribute to an estimated 1,634,786 tonnes 
+CO2e of actual and 2,091,219 tonnes CO2e of expected annual GHG 
+emission reductions. Actual reductions are attributable to the 
+operation of the Jakarta Metropolitan Electric Rail (510,064 t CO2e), the 
+Sumatra passenger single-track line (90,864 tCO2e), the Sumatra freight 
+railway (1,033,087 tCO2e), and the Makassar–Parepare line (771 tCO2e). 
+Expected reductions are associated with the Regional East Java and 
+surrounding railway network (42,035 tCO2e), the Java passenger 
+double-track line (1,016,097 tCO2e), and the Java freight railway 
+(1,033,087 tCO2e).
+Sustainable 
+Transportation
+The projects have strengthened ﬂood control and water management 
+systems by reducing potential ﬂood-prone areas by 404.8 hectares 
+through the development of 25.34 km of river ﬂood control structures, 
+including one coastal protection structure, and by enhancing raw 
+water service capacity to 4.0246 m³/s through the construction and 
+rehabilitation of 68.8 km of raw water networks and 57 wells and 
+intake facilities.
+The projects have strengthened Indonesia’s climate resilience policy 
+decision-making by improving observation infrastructure and 
+analytical capacity through expanded weather stations, upgraded 
+radar, and enhanced computing systems. These improvements, 
+integrated into BMKG’s Climate Early Warning System, enable more 
+accurate forecasting and stronger disaster preparedness to support 
+agriculture, food security, and public health.
+Resilience to Climate Change 
+for Highly Vulnerable Areas and 
+Sectors/ Disaster Risk Reduction
+The projects collectively enhanced Indonesia’s water management 
+capacity by increasing water resource storage by 2.7059 million m³ 
+through the development and revitalization of 14 dams, lakes, 
+reservoirs, and ponds, including the construction of a dam regulation 
+gate, and by rehabilitating 40,141 hectares of irrigation areas through 
+the improvement of 252.6 km of irrigation networks and the 
+construction or rehabilitation of four weirs. These eﬀorts strengthen 
+Sustainable Water and 
+Wastewater Management
+Domestic Wholesale Green Sukuk – PBSG001 Series  
+(ISIN: IDP000005308)
+a.	 Transaction Summary 
+Investor Distribution by Industry
+Volume
+IDR 8.95  trillion
+Tenor
+4 years
+Coupon
+6.55% 
+Issuance Date
+June 2024 
+Floating
+with floor
+PBSG
+16.67%
+1.65%
+0.11%
+79.25%
+2.28%
+0.04%
+Investor
+Industry
+%
+Insurance
+Others
+Bank
+Securities Company
+Pension Fund
+Mutual Fund
+b.	 Proceeds Allocation
+Breakdown by Sector
+Resilience to Climate Change for Highly Vulnerable 
+Areas and Sectors/Disaster Risk Reduction
+Total (IDR)
+2,833,755,412,467 
+Total (USD)
+188,917,027.5
+31.66%
+65.58%
+2.75%
+0.01%
+Sustainable 
+Transport
+Total (IDR)
+245,771,653,631 
+Total (USD)
+16,384,776.9
+Green 
+Buildings
+Total (IDR)
+1,068,784,054 
+Total (USD)
+71,252.3
+Sustainable Water and
+Wastewater Management
+Total (IDR)
+5,869,465,008,107 
+Total (USD)
+391,297,667.2
+PBSG001
+ST 012T4
+ST 013T4
+The project contributes to an estimated actual GHG 
+emission reduction of 1,464 tCO₂e per year from the 
+Medan–Binjai airport railway.
+Sustainable 
+Transportation
+Potential ﬂood-prone areas have been reduced by an 
+estimated 1,784 hectares through the development of four 
+ﬂood-control and coastal-protection structures, with a 
+combined length of 51 km.
+The project enhances water resource storage capacity by 
+105.57 million m³ through the construction of six dams, and 
+three kilometres of irrigation networks.
+Resilience to Climate Change 
+for Highly Vulnerable Areas and 
+Sectors/ Disaster Risk Reduction
+Sustainable Water and 
+Wastewater Management
+An actual GHG emission reduction of 276 tonnes CO₂e per 
+year has been achieved through the installation of solar PV 
+systems, which generate approximately 325 MWh of 
+electricity annually.
+Renewable 
+Energy
+Collectively, the projects contribute to an estimated 1,634,786 
+tonnes CO₂e of actual and 2,091,219 tonnes CO₂e of 
+expected annual GHG emission reductions. Actual reductions 
+are attributable to the operation of the Jakarta Metropolitan 
+Electric Rail (510,064 t CO₂e), the Sumatra passenger 
+single-track line (90,864 tCO₂e), the Sumatra freight railway 
+(1,033,087 tCO₂e), and the Makassar–Parepare line (771 
+tCO₂e). Expected reductions are associated with the Regional 
+East Java and surrounding railway network (42,035 tCO₂e), 
+the Java passenger double-track line (1,016,097 tCO₂e), and 
+the Java freight railway (1,033,087 tCO₂e).
+Sustainable 
+Transportation
+The projects have strengthened ﬂood control and water 
+management systems by reducing potential ﬂood-prone 
+areas by 404.8 hectares through the development of 25.34 
+km of river ﬂood control structures, including one coastal 
+protection structure, and by enhancing raw water service 
+capacity to 4.0246 m³/s through the construction and 
+rehabilitation of 68.8 km of raw water networks and 57 wells 
+and intake facilities.
+The projects have strengthened Indonesia’s climate 
+resilience policy decision-making by improving observation 
+infrastructure and analytical capacity through expanded 
+weather stations, upgraded radar, and enhanced computing 
+systems. These improvements, integrated into BMKG’s 
+Climate Early Warning System, enable more accurate 
+forecasting and stronger disaster preparedness to support 
+agriculture, food security, and public health.
+Resilience to Climate Change 
+for Highly Vulnerable Areas and 
+Sectors/ Disaster Risk Reduction
+The projects collectively enhanced Indonesia’s water 
+management capacity by increasing water resource storage by 
+2.7059 million m³ through the development and revitalization 
+of 14 dams, lakes, reservoirs, and ponds, including the 
+construction of a dam regulation gate, and by rehabilitating 
+40,141 hectares of irrigation areas through the improvement 
+of 252.6 km of irrigation networks and the construction or 
+rehabilitation of four weirs. These efforts strengthen national 
+water security and support agricultural productivity.
+Sustainable Water and 
+Wastewater Management
+100% of proceeds were allocated to refinancing FY2023 projects. 
+Full details are provided in Table 5 of Chapter III.
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+13
+12
+
+===== PAGE 8 =====
+Breakdown by Project Owner (Ministry)
+Ministry of Public Works and Housing
+Total (IDR)
+8,704,289,204,628
+Total (USD)
+580,285,947 
+97.25%
+2.75%
+Ministry of Transportation
+Total (IDR)
+245,771,653,631 
+Total (USD)
+16,384,777 
+c.	 Projected Environmental and Social Impacts
+Potential ﬂood-prone areas have been reduced by 2,697 
+hectares through the development of nine ﬂood control 
+structures, including a pump station, with a total length of 
+15,802 km.
+The capacity of groundwater and raw water services has 
+been enhanced by 1.351 m³/s through the construction and 
+rehabilitation of 68.77 km of raw water networks and 34 
+units of wells and raw water intake infrastructure.
+Resilience to Climate Change 
+for Highly Vulnerable Areas and 
+Sectors/ Disaster Risk Reduction
+Contribute to the actual GHG emission reduction of 
+Makassar-Pare-pare Line at 771.26 tonnes CO2e 
+(to be veriﬁed by Ministry of Environment)
+Sustainable 
+Transportation 
+The project enhances sustainable water management by 
+increasing water-storage capacity by an estimated 193.03 
+million m³ through the construction of 15 dams.
+The project enhances water supply and management for 
+non-paddy agricultural areas, with 1,487 hectares of 
+irrigation land improved through the rehabilitation of one 
+weir and 5.3 km of irrigation networks.
+The system is designed to supply clean drinking water to 
+approximately 1.9 million people, or around 380,000 
+household connections, across the Jakarta Metropolitan 
+Area. The Cilincing reservoir (20,000 m³) will enable 
+15,310 new household connections in seven villages, while 
+the Pondok Kopi reservoir (5,000 m³) will provide 2,000 
+additional household connections in two sub-districts.
+Sustainable Water 
+and Wastewater Management 
+Green Buildings
+The calculation of potential GHG emissions is pending 
+by the Ministry of Public Works and Housing 
+Republic of Indonesia’s Green Sukuk Milestone
+This section provides an overview of Indonesia’s Green Sukuk issuances, from the inaugural 
+issuance in 2018 to the most recent in 2024. It highlights the total proceeds raised, the cumulative 
+allocation of proceeds across eligible sectors, and notable recognitions received from leading 
+global finance and capital market institutions and publications.
+Summary of All Green Sukuk Issuances (2018–2024)
+Cumulative Value of Global
+Sovereign Green Sukuk
+(SNI Series)
+USD 6.60 billion
+Cumulative Value of Domestic
+Retail Green Sukuk (ST Series)
+IDR 40.60 trillion ~ 
+USD 2.78 billion
+Cumulative Value of Domestic
+Wholesale Green Sukuk 
+(PBSG001 Series)
+IDR 31.17 trillion ~ 
+USD 2.11 billion
+2018
+2021
+2022
+2023
+USD 1.25 Bio
+2024
+5 years I 3.75% 
+USD 750 Mio
+30 years I 3.55%
+USD 600 Mio
+30 years I 5.50%
+USD 1 Bio
+10 years I 5.6%
+USD 1.50 Bio
+10 years I 4.7%
+2019
+USD 750 Mio
+5.5 years I 3.9%
+IDR 1.46 trillion
+2 years I 6.75%
+2020
+USD 750 Mio
+5 years I 2.3%
+IDR 5.42 trillion
+2 years I 5.5%
+IDR 5.00 trillion
+2 years I 4.8%
+IDR 9.92 trillion
+4 years I 6.55%
+IDR 3.30 trillion
+4 years I 6.4%
+IDR 5.50 trillion
+4 years I 6.5%
+IDR 8.95 trillion
+5 years I 6.625%
+IDR 15.49 trillion
+6 years I 6.625%
+IDR 6.73 trillion
+7 years I 6.625%
+May 2023
+November 2023
+Jun (ST012T4) & Dec (ST013T4)
+Cumulative Value of Global Sovereign
+Green Sukuk (SNI Series)
+Cumulative Value of Domestic Retail
+Green Sukuk (ST Series)
+Cumulative Value of Domestic Wholesale
+Green Sukuk (PBSG001 Series)
+IDR 10.00 trillion
+2 years I 6.15%
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+15
+14
+
+===== PAGE 9 =====
+Cumulative Proceeds Allocation (2018 – 2024)
+Breakdown by Sector
+Renewable Energy
+Total (IDR)
+5,963,932,111,693
+Total (USD)
+414,319,614
+Energy Efficiency
+Total (IDR)
+4,643,134,415,114
+Total (USD)
+317,186,796
+Resilience to Climate Change for Highly Vulnerable Areas and 
+Sectors/Disaster Risk Reduction
+Total (IDR)
+44,330,998,899,945
+Total (USD)
+2,993,835,074
+Sustainable Transport
+Total (IDR)
+35,974,990,319,258
+Total (USD)
+2,492,794,454
+Sustainable Management of Natural Resources on Land
+Total (IDR)
+176,187,735,229
+Total (USD)
+11,917,935
+Green Buildings
+Total (IDR)
+274,731,928,787
+Total (USD)
+18,869,058
+3.59% 
+2.75%
+2.58%
+25.96%
+21.61%
+43.25%
+0.10%
+0.16%
+Sustainable Water and Wastewater Management
+Total (IDR)
+72,940,980,711,919
+Total (USD)
+4,986,718,191
+Waste to Energy and Waste Management
+Total (IDR)
+4,393,163,979,363
+Total (USD)
+297,877,427
+Breakdown by Project Owner (Ministry)
+Ministry of Energy and Mineral Resources
+Total (IDR)
+3,433,936,835,827 
+Total (USD)
+242,305,780
+2.10%
+1.20%
+75.42%
+Ministry of Public Works and Housing
+Total (IDR)
+127,265,149,693,838 
+Total (USD)
+ 8,698,672,504
+21.15%
+0.10%
+0.03%
+Ministry of Transportation
+Total (IDR)
+35,785,997,181,536 
+Total (USD)
+ 2,439,272,961
+Ministry of Environment and Forestry
+Total (IDR)
+176,281,851,229 
+Total (USD)
+11,924,295
+Ministry of Agriculture
+Total (IDR)
+1,988,012,375,603 
+Total (USD)
+138,056,415
+Meteorology Climatology and Geophysics Agency
+Total (IDR)
+ 48,742,163,275 
+Total (USD)
+3,286,594 
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+17
+16
+
+===== PAGE 10 =====
+Asia Paciﬁc Green/
+SRI Bond Deal of 
+the Year
+GlobalCapital,
+Euromoney 
+SRI Bond, 
+Islamic Issue
+IFR Asia
+Green Bond
+Pioneer Award
+Climate Bond
+Initiative 
+Indonesia Deal of
+the Year
+Sovereign Deal of
+the Year
+Sovereign Green
+Bond of the Year
+Islamic
+Finance
+News 
+Sovereign Sukuk
+/ Best Green 
+Sukuk
+The Asset
+Triple A 
+3G Best Green
+Initiative & Policy
+Award 2020
+Cambridge
+IFA 
+International
+Islamic Finance
+Awards 2020
+The Asset
+Triple A 
+Best Islamic
+Finance Deal
+Award
+Finance
+Asia 
+Sovereign Green
+Bond of the Year
+Environmental
+Finance
+Best Green
+Bond
+The Asset
+Triple A 
+Largest Green
+Sukuk in 2020
+Climate Bond
+Initiative 
+Largest Green
+Sukuk in 2021
+Climate Bond
+Initiative 
+Best Islamic
+Finance Deal
+Finance Asia
+Best Sovereign
+Green Sukuk
+of the Year
+Alpha
+Southeast
+Asia 
+Largest Green
+Sukuk in 2022
+Climate Bond
+Initiative 
+Best Sovereign
+Bond & Best 
+Green Sukuk of
+The Year 2022
+Alpha
+Southeast
+Asia
+2020
+2022
+2019
+2021
+2023
+2018
+Awards
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+19
+18
+
+===== PAGE 11 =====
+Resilience to Climate Change for Highly Vulnerable 
+Areas and Sectors/Disaster Risk Reduction
+Aceh, East Kalimantan, East Nusa 
+Tenggara, West Papua
+Sustainable Water and 
+Wastewater Management
+Aceh, South Sumatra, West Java, 
+Central Java, Special Region of 
+Yogyakarta, East Java, Maluku, West 
+Nusa Tenggara, East Nusa Tenggara
+Global Green Sukuk (Financing 2024)
+Resilience to Climate Change for Highly Vulnerable 
+Areas and Sectors/Disaster Risk Reduction
+West Kalimantan
+Sustainable Water and 
+Wastewater Management
+Gorontalo, South Sulawesi
+Domestic Retail Green Sukuk – ST 013T4 (Financing 2024)
+Domestic Wholesale Green Sukuk – PBSG (Refinancing 2023)
+Domestic Retail Green Sukuk – ST 013T4 (Refinancing 2023)
+Resilience to Climate Change for 
+Highly Vulnerable Areas and 
+Sectors/Disaster Risk Reduction
+Aceh, North Sumatra, West Sumatra, Kepulauan 
+Riau, Riau Islands, Jambi, South Sumatra, 
+Kepulauan Bangka Belitung, Bengkulu, Lampung, 
+Banten, DKI Jakarta, West Java, Central Java, DI 
+Yogyakarta, East Java, Bali, West Nusa Tenggara, 
+East Nusa Tenggara, West Kalimantan, Central 
+Kalimantan, South Kalimantan, East Kalimantan, 
+North Sulawesi, Gorontalo, Central Sulawesi, West 
+Sulawesi, South Sulawesi, Southeast Sulawesi, 
+Maluku, North Maluku, West Papua, Papua
+Resilience to Climate Change for Highly Vulnerable 
+Areas and Sectors/Disaster Risk Reduction
+West Java, East Java,  North Kalimantan
+Sustainable Water and Wastewater Management
+Kepulauan Bangka Belitung, South Sumatra, West Java, Central Java, Special Region of Yogyakarta, 
+East Java, Bali, Maluku, East Nusa Tenggara
+Domestic Retail Green Sukuk – ST 012T4 (Refinancing 2023)
+Sustainable Transportation
+North Sumatra
+Sustainable  Transportation
+South Sumatra, Special Region of 
+Yogyakarta, Bali, North Sulawesi, 
+East Nusa Tenggara 
+Resilience to Climate Change for Highly Vulnerable Areas and Sectors/Disaster 
+Risk Reduction
+Banten, DKI Jakarta, West Java, Central Java, DI Yogyakarta, East Nusa Tenggara, North Kalimantan, South 
+Kalimantan, East Kalimantan, North Sulawesi, Central Sulawesi, South Sulawesi, North Maluku, Papua
+Sustainable 
+Transportation
+North Sumatra
+Sustainable Water and 
+Wastewater Management
+South Sulawesi
+Green Buildings
+DI Yogyakarta
+Renewable Energy
+South Sumatra, Special Region of 
+Yogyakarta, Bali, North Sulawesi, 
+East Nusa Tenggara 
+Green Buildings
+Jambi
+Resilience to Climate Change for 
+Highly Vulnerable Areas and 
+Sectors/Disaster Risk Reduction
+Sustainable Water and 
+Wastewater Management
+Distribution of Geographic Locations
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+21
+20
+
+===== PAGE 12 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+23
+22
+I. Introduction
+The Republic of Indonesia’s Green Sukuk Allocation and Impact Report 2025, issued by 
+the Ministry of Finance, presents a comprehensive and transparent account of the use and 
+impact of proceeds from Green Sukuk issued in Fiscal Year 2024. The report encompasses 
+the Global Sovereign Green Sukuk (SNI Series) issued in the international capital market, 
+as well as the Retail and Wholesale Green Sukuk - comprising the ST 012T4, ST 013T4, 
+and PBSG001 Series, issued in the domestic market. Together, these instruments reflect 
+Indonesia’s sustained leadership in mobilizing Sharia-compliant green financing to support 
+climate mitigation and adaptation initiatives.
+The institutional landscape associated with Indonesia’s Green Sukuk underwent significant 
+changes following the presidential transition in late 2024, including the restructuring of 
+key ministries and the adoption of the 2025–2029 National Medium-Term Development 
+Plan (RPJMN). In line with evolving global and domestic market standards, the Government 
+of Indonesia has updated its sustainable financing guidelines through the Sustainable 
+Government Securities Framework 2025. However, as the 2024 Green Sukuk issuance 
+preceded these changes, this report remains aligned with the previous institutional 
+arrangements, the 2019–2024 RPJMN, and the SDGs Government Securities Framework 
+2021 that were in effect at the time of issuance. Nonetheless, the reporting methodology 
+aligned with  the ICMA Handbook on Harmonised Framework for Impact Reporting 
+ (June 2024 edition).
+This report is structured around two key accountability pillars: (i) Allocation Reporting, 
+which provides a detailed breakdown of proceeds and their distribution across eligible climate 
+mitigation, adaptation, and sustainability projects; and (ii) Impact Reporting, which presents 
+both qualitative and quantitative assessments of the environmental and social outcomes 
+achieved, as much as possible. Chapter II summarizes the evolution of Indonesia’s Sustainable 
+Government Securities Framework, followed by sections featuring milestone achievements, 
+geographic distribution, and detailed allocations under each Green Sukuk series. Chapter IV 
+highlights selected flagship projects, while Chapter V interprets the reported results. The report 
+concludes with the Annex, which outlines the methodologies used for data collection and 
+impact assessment, and includes the summary of 2024 Sovereign Green Sukuk transactions 
+and the independent assurance statement.
+Through this report, the Government of Indonesia reaffirms its commitment to transparency, 
+accountability, and innovation in sustainable finance. Green Sukuk continues to serve not 
+only as a financing tool but also as a policy signal of Indonesia’s determination to advance 
+climate action and sustainable development, while offering investors a credible pathway to 
+support a resilient and inclusive future.
+II. Summary of the Republic of Indonesia  
+Thematic Bonds and Sukuk Framework 
+The Framework is subject to periodic review by the Republic of Indonesia to ensure continued 
+alignment with prevailing international and national market standards, as well as evolving investor 
+preferences. The current assessment related to the 2024 Green Sukuk issuance follows the 
+SDGs Government Securities Framework 2021. Each issuance follows the following four key 
+components of Green Bond Principles to ensure transparency and integrity.
+2018
+•	 First sovereign 
+framework for issuing 
+Green Sukuk and Green 
+Bonds
+•	 100% proceeds 
+allocated to eligible 
+green expenditures 
+(climate mitigation, 
+adaptation, 
+biodiversity).
+•	 Refinancing allowed 
+within 3 fiscal years.
+•	 SPO: CICERO (23 
+January 2018).
+•	 Category of Pillars: 
+“Medium Green” for 
+the overall shading 
+assessment, with 
+possible dark, medium, 
+light green project 
+types.
+•	 Alignment: ICMA’s 
+Green Bond Principles 
+2017, ACMF’s ASEAN 
+Green Bond Standards 
+2018
+2025
+•	 Further advances integration 
+of environmental and social 
+objectives, consistent with 
+international Sustainability 
+Bond Guidelines and Sharia-
+compliant principles.
+•	 Expands eligible categories 
+to include green, blue, 
+sustainable, SDG, gender, and 
+other thematic bonds/sukuk.
+•	 Refinancing allowed within 
+3 fiscal years.
+•	 SPO: Sustainable Fitch 
+(30 April 2025).
+•	 Category: “Excellent” for 
+Evaluation and Selection and 
+Reporting and Transparency; 
+“Good” for Proceeds Allocation 
+and Management of Proceeds.
+•	 Alignment: ICMA’s Green Bond 
+Principles 2021, Social Bond 
+Principles 2023, Sustainability 
+Bond Guidelines 2021, and 
+ACMF’s ASEAN Green Bond 
+Standards 2018, ASEAN Social 
+Bond Standards 2018, ASEAN 
+Sustainability Bond Standards 
+2018.
+2021
+•	 Broadened scope to  
+include Green and Blue 
+Bonds/Sukuk and Social  
+& Sustainability
+•	 Bonds/Sukuk (SDGs 
+Securities).
+•	 Projects aligned with 
+Indonesia’s SDGs
+•	 Roadmap 2023-2030.
+•	 Refinancing period 
+shortened to 2 fiscal years.
+•	 SPO: CICERO & IISD 
+(1 September 2021).
+•	 Category: “Medium Green” 
+shade rating and “Good” 
+for the overall governance 
+structure.
+•	 Alignment: ICMA’s Green 
+Bond Principles 2021, 
+Social Bond Principles 
+2021, Sustainability Bond 
+Guidelines 2021, and 
+ACMF’s ASEAN Green Bond 
+Standards 2018, ASEAN 
+Social Bond Standards 2018, 
+ASEAN Sustainability Bond 
+Standards 2018.
+
+===== PAGE 13 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+25
+24
+Pillar 1: 
+Proceeds Allocation
+Pillar 2: 
+Process for Project Evaluation 
+and Selection
+Renewable 
+Energy
+Energy
+Efﬁciency
+Green
+Tourism
+Sustainable Management of
+Natural Resources on Land
+Sustainable Management of
+Natural Resources on Ocean
+Sustainable
+Transport
+Green
+Buildings
+Waste to Energy &
+Waste Management
+Sustainable Water
+and Wastewater
+Management
+Resilience to Climate Change for
+Highly Vulnerable Areas and Sectors/
+Disaster Risk Reduction
+The proceeds are dedicated exclusively to financing or refinancing 
+projects that deliver measurable environmental and social benefits 
+aligned with Indonesia’s SDGs Roadmap 2030 and Nationally 
+Determined Contributions (NDCs).
+The Eligible Green & Blue Sector include categories below.
+Project selection is embedded within the KRISNA system 
+(Collaboration of Planning and Budget Performance Information), 
+ensuring integration with national development priorities.
+The Budget Tagging Process identifies eligible expenditures using: 
+a) Climate Budget Tagging (CBT) for Green/Blue projects, and b) 
+Dynamic Tagging for Social projects.
+Governance and validation:
+Reported data for FY2023 refinancing projects are based on 
+expenditures audited by the Audit Board of the Republic of Indonesia 
+(Badan Pemeriksa Keuangan) as of 21 May 2024, while FY2024 
+financing data are audited as of 19 May 2025.
+Line ministries 
+identify and 
+propose eligible 
+projects.
+The Ministry of 
+Finance (MoF) 
+endorses and 
+finalizes the 
+project list based 
+on eligibility and 
+tenor criteria.
+The selected and reported projects will be 
+registered in the National Registry System 
+on Climate Change Control  
+(SRN-PPI), serving as a platform for data  
+and information management on mitigation 
+and adaptation actions.
+The Ministry of 
+Environment 
+confirms 
+consistency with 
+Indonesia’s NDCs.
+BAPPENAS (Ministry/
+Agency for National 
+Development 
+Planning) 
+coordinates the 
+process and  
+validates SDG 
+alignment.
+2
+5
+3
+1
+4
+
+===== PAGE 14 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+27
+26
+Pillar 3: 
+Management of Proceeds 
+The Ministry of Finance manages proceeds through the government’s 
+general account, applying sound treasury management principles. 
+A dedicated Allocation Register records all transactions, including 
+project details, allocated amounts, expected impacts, and unallocated 
+balances.
+Proceeds may be used for both financing and refinancing, with a look-
+back period of up to two years before issuance. Unallocated funds are 
+temporarily held in Bank of Indonesia accounts until they are deployed 
+to eligible projects. Line ministries are responsible for monitoring and 
+reporting project implementation to the Ministry of Finance, ensuring 
+proper use and accountability. 
+Pillar 4: 
+Reporting
+The Ministry of Finance prepares and discloses annual reports within 
+one year of issuance, which presents mainly the Allocation Reporting 
+including project lists, expenditure categories, and amounts 
+allocated, and the Impact Reporting including environmental and 
+social outcomes using measurable indicators. All reports are publicly 
+available on the Ministry of Finance website, specifically through 
+the newly launched Dashboard for Thematic Bond Allocation and 
+Impact. 
+
+===== PAGE 15 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+29
+28
+III. List of Projects: Allocation and Impact
+Table 1. List of FY2024 Projects Financed with Proceeds from the 2024 Global Sovereign Green Sukuk – SNI 0754 (ISIN: USY68613AC56)
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+  Amount Committed 
+(in IDR)*c
+  Amount 
+Committed 
+(in USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project 
+Owners
+Mitigation (GHG 
+Emission Reduced/
+Avoided p.a. in CO2e)
+Other results *f
+SDGs*g
+1
+Resilience to 
+Climate Change 
+for Highly 
+Vulnerable Areas 
+and Sectors/ 
+Disaster Risk 
+Reduction
+Flood mitigation
+Flood and lava  
+control, major 
+urban drainage 
+management, and 
+coastal protection
+This project focuses on the development of flood control 
+infrastructure for the new national capital, Ibu Kota Nusantara 
+(IKN) at core and surrounding areas from flooding. The activities 
+include: (i) Continued construction of flood control infrastructure 
+for Sanggai 1A watershed, which serves as the core government 
+area of IKN. (ii) Flood control and management for the Pamaluan 
+River, located in North Penajam Paser Regency, within the IKN 
+region.
+East Kalimantan
+ 443,543,485,409 
+ 29,569,566 
+4.93%
+10-20 years
+Adaptation/resillience
+Potential flood-prone areas 
+have been reduced by 
+360.19 hectares in Sanggai 
+Riverbasin and Pamaluan 
+River, respectively through the 
+development of five river flood-
+control infrastructures.
+3, 9, 13, 
+14
+Ministry of 
+Public Works 
+and Housing
+2
+Resilience to 
+Climate Change 
+for Highly 
+Vulnerable Areas 
+and Sectors/ 
+Disaster Risk 
+Reduction
+Drought 
+management
+Groundwater and 
+raw water network 
+development
+This project focuses on the development and rehabilitation of 
+groundwater and raw water infrastructure in (i) Aceh Province - 
+Aceh Besar Regency: Rehabilitation of Karet Krueng Aceh Weir. (ii) 
+East Nusa Tenggara - Sumba and Timor Islands, and for East Flores 
+& Central Flores: Rehabilitation of groundwater and raw water 
+facilities, and upgrading the irrigation network's broncaptering 
+(spring capture) system in Kupang. (iii) West Papua - Sorong City 
+& Regency: Rehabilitation of groundwater facilities to provide raw 
+water, specifically addressing drought conditions in the Moyo and 
+Klasari villages. 
+Aceh, East  Nusa 
+Tenggara, West 
+Papua
+ 101,255,866,400 
+ 6,750,391 
+1.13%
+10-20 years
+Adaptation/resillience
+The capacity of raw water 
+services has been enhanced 
+through the rehabilitation 
+of 10.073 km of raw water 
+networks, along with two units 
+and two points of groundwater 
+intake infrastructure.
+3, 9, 13, 
+14
+Ministry of 
+Public Works 
+and Housing
+3
+Sustainable Water 
+and Wastewater 
+Management
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development 
+of dams, lakes, 
+and other water 
+storage structures
+The project activities include construction and supervision of 
+water storage infrastructure in Tiga Dihaji Dam (South Sumatera), 
+Keureuto and Rukoh Dams (Aceh), Cibeet and Cijurey Dams (West 
+Java), Bener, Jragung, Jlantah and Cabean Dams (Central Java); 
+Bagong Dam (East Java), Karangnongko Dam (Central & East 
+Java), Mbay Dam (East Nusa Tenggara), Meninting Dam (West 
+Nusa Tenggara), Way Apu Dam (Maluku), and the revitalization of 
+Rawa Pening Lake (Central Java).
+Aceh, South 
+Sumatra, West Java, 
+Central Java, Special 
+Region of Yogyakarta, 
+East Java, Maluku, 
+West Nusa Tenggara, 
+East Nusa Tenggara
+ 8,455,204,364,466 
+ 563,680,291 
+93.95%
+10-20 years
+Adaptation/resillience
+The project enhance water 
+resource storage capacity 
+at least 249.46 million m3  
+through the construction and 
+revitalisation of 11 dams and 
+one lake. The project provides 
+benefits for water resource 
+conservation, agricultural 
+irrigation, flood control, and raw 
+water supply supporting the 
+national water and food security 
+programmes.
+6, 11, 13
+Ministry of 
+Public Works 
+and Housing
+Remarks:
+a.	
+The type of projects refers to eligible sectors under the Republic of Indonesia SDGs Government Securities Framework 
+2021
+b.	
+The projects may be implemented in multiple spots on each provincial location mentioned.
+c.	
+The currency exchange rate is based on the State Budget Assumption for 2024 budget year of IDR 15,000 per USD.
+d.	
+Based on durability of the output or financial life of project.
+e.	
+Methodology and assumptions are disclosed in Annex.
+f.	
+Additional indicators of the direct impact of the green projects.
+g.	
+Most relevant or direct social and/or Sustainable Development Goals impacts, as a result of the project.
+
+===== PAGE 16 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+31
+30
+Table 2. List of FY2023 Projects Refinanced with Proceeds from the 2024 Domestic Green Sukuk Retail (ST 012T4 - ISIN: IDJ000033709) Issuance
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+  Amount 
+Committed (in 
+IDR)*c  
+  Amount 
+Committed 
+(in USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project Owners
+Mitigation (Annual 
+GHG Emission Avoided, 
+in CO2e)
+Other results *f
+SDGs*g
+1
+Resilience to Climate 
+Change for Highly 
+Vulnerable Areas and 
+Sectors/ Disaster Risk 
+Reduction
+Flood mitigation
+Development of 
+infrastructure for flood 
+and volcanic mudflow 
+control, management 
+of main urban drainage, 
+and coastal protection.
+The project includes the development of 
+infrastructures for urban flood control and coastal 
+protection in (i) West Java Province: construction 
+of groundsill at Cipamingkis River. (ii) Central Java: 
+Flood and tidal control at Loji–Banger River. (iii) North 
+Kalimantan: Continuation of Breakwater Construction 
+at Tanjung Aru Beach, Sebatik Islands; Coastal 
+Protection at Padaidi Village and Sei Taiwan, Tanjung 
+Karang Village, Sebatik Island.
+West Java, Central 
+Java, North 
+Kalimantan
+ 1,287,234,401,339 
+ 85,815,627 
+25.36%
+10-20 years
+Adaptation/resillience
+Potential flood-prone areas 
+have been reduced by 
+1,783.5 hectares through 
+the development of four 
+flood control and coastal 
+protection structures, 
+which extend 51.106 km 
+in total.
+3, 9, 13, 
+14
+Ministry of Public 
+Works and Housing
+2
+Sustainable 
+Transportation
+Developing and 
+upgrading zero or low 
+carbon transportation 
+networks and systems
+Development  of 
+railway connectivity 
+infrastructure 
+The project consists of the construction of a 20.9 km 
+railway line between Medan and Binjai. This segment 
+extends the existing Medan–Kualanamu International 
+Airport line to improve public access to Kualanamu 
+Airport.
+North Sumatra
+ 457,589,650,361 
+ 30,505,977 
+9.01%
+30-50 years
+Contribute to the actual 
+GHG emission reduction 
+of Medan-Binjai railways 
+at 1,463.68 tonnes 
+CO2e/year.
+The project is expected 
+to reduce congestion 
+along the Medan–Binjai 
+corridor, particularly at 
+level crossings in Medan 
+City, while improving 
+accessibility and 
+mobility for surrounding 
+communities. The 
+estimated train frequency 
+is 56 trips per day.
+9, 11, 13
+Ministry of 
+Transportation
+3
+Sustainable Water 
+and Wastewater 
+Management
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development of dams, 
+lakes, and other water 
+storage structures 
+The project includes the development of dams in 
+(i) South Sumatra: construction of Tiga Dihaji Dam 
+(South Ogan Komering Ulu Regency). (ii) West Java: 
+continued construction of Leuwikeris Dam (Ciamis 
+and Tasikmalaya) Regencies. (iii) Central Java: 
+construction of Jlantah Dam (Karanganyar Regency) 
+and Karangnongko Dam (Blora and Bojonegoro). (iv) 
+East Java: Bagong Dam (Trenggalek Regency). (v) Bali: 
+Sidan Dam (Badung, Gianyar, and Bangli).
+South Sumatra, West 
+Java, Central Java, 
+Special Region of 
+Yogyakarta, East 
+Java, Bali, Maluku, 
+East Nusa Tenggara
+ 3,319,865,682,720 
+ 221,324,379 
+65.39%
+10-20 years
+Adaptation/resillience
+The project enhances 
+water resource storage 
+capacity by 105.57 
+million m³ through the 
+construction of six dams.
+6, 11, 13
+Ministry of Public 
+Works and Housing
+4
+Sustainable Water 
+and Wastewater 
+Management
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development of 
+surface water, swamp, 
+and non-rice irrigation 
+networks
+The project focuses on the rehabilitation of water 
+resource infrastructure irrigation networks for Rias 
+irrigation areas.
+Bangka Belitung 
+Islands
+ 12,084,900,000 
+ 805,660 
+0.24%
+10-20 years
+Adaptation/resillience
+Three kilometers of 
+irrigation networks have 
+been rehabilitated.
+6, 11, 13
+Ministry of Public 
+Works and Housing
+Remarks:
+a.	
+The type of projects refers to eligible sectors under the Republic of Indonesia SDGs Government Securities Framework 2021
+b.	
+The projects may be implemented in multiple spots on each provincial location mentioned.
+c.	
+The currency exchange rate is based on the State Budget Assumption for 2024 budget year of IDR 15,000 per USD.
+d.	
+Based on durability of the output or financial life of project.
+e.	
+Methodology and assumptions are disclosed in Annex.
+f.	
+Additional indicators of the direct impact of the green projects.
+g.	
+Most relevant or direct social and/or Sustainable Development Goals impacts, as a result of the project.
+
+===== PAGE 17 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+33
+32
+Table 3. List of FY2024 Projects Financed with Proceeds from the 2024 Domestic Green Sukuk Retail (ST 013T4 - ISIN: IDJ000033709) Issuance
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+  Amount 
+Committed (in 
+IDR)*c
+  Amount 
+Committed 
+(in USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project Owners
+Mitigation (Annual 
+GHG Emission Avoided, 
+in CO2e)
+Other results *f
+SDGs*g
+1
+Resilience to Climate 
+Change for Highly 
+Vulnerable Areas and 
+Sectors/ Disaster Risk 
+Reduction
+Drought management
+Groundwater and 
+raw water network 
+development
+The project covers the development of shallow 
+groundwater wells in Sungai Ambawang, Sungai 
+Kakap, and Sungai Raya sub-districts in Kubu Raya 
+Regency, and rehabilitation of water intake and 
+raw water distribution networks for supporting the 
+drinking water supply system (SPAM) in sub-district 
+capital areas of Sambas, Teluk Keramat, and Galing in 
+Sambas Regency.
+West Kalimantan
+ 1,783,918,000 
+ 118,928 
+0.18%
+10-20 years
+Adaptation/resillience
+The capacity for raw water 
+services has increased 
+through the construction of 
+nine wells.
+3, 9, 13, 
+14
+Ministry of Public 
+Works 
+& Housing
+2
+Sustainable Water 
+and Wastewater 
+Management 
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development of dams, 
+lakes, and other water 
+storage structures
+The project involves the development of artificial 
+water storage infrastructure through the construction 
+of the Bulango Ulu Dam
+Gorontalo
+ 911,119,992,847 
+ 60,741,333 
+92.84%
+10-20 years
+Adaptation/resillience
+The capacity of water 
+resource storage has been 
+enhanced at 84 million m3 
+through the construction of 
+one dam.
+6, 11, 13
+Ministry of Public 
+Works 
+& Housing
+3
+Sustainable Water 
+and Wastewater 
+Management 
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development of 
+surface water, swamp, 
+and non-rice irrigation 
+networks
+The project involves the rehabilitation and 
+revitalization of the Saddang Irrigation Area, Jampue 
+Sub-unit, Pinrang District.
+South Sulawesi
+ 70,273,968,289 
+ 4,684,931 
+7.16%
+10-20 years
+Adaptation/resillience
+Rehabilitation covered a 
+total of 4,871 hectares of 
+irrigation land and 24.2 km 
+of irrigation networks.
+6, 11, 13
+Ministry of Public 
+Works 
+& Housing
+Remarks:
+a.	
+The type of projects refers to eligible sectors under the Republic of Indonesia SDGs Government Securities Framework 2021
+b.	
+The projects may be implemented in multiple spots on each provincial location mentioned.
+c.	
+The currency exchange rate is based on the State Budget Assumption for 2024 budget year of IDR 15,000 per USD.
+d.	
+Based on durability of the output or financial life of project.
+e.	
+Methodology and assumptions are disclosed in Annex.
+f.	
+Additional indicators of the direct impact of the green projects.
+g.	
+Most relevant or direct social and/or Sustainable Development Goals impacts, as a result of the project.
+
+===== PAGE 18 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+35
+34
+Table 4. List of FY2023 Projects Refinanced with Proceeds from the 2024 Domestic Green Sukuk Retail (ST 013T4 - ISIN: IDJ000030903) Issuance
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+Amount 
+Committed (in 
+IDR)*c 
+  Amount 
+Committed 
+(in USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project Owners
+Mitigation (GHG 
+Emission Reduced/
+Avoided p.a. in CO2e)
+Other results *f
+SDGs*g
+1
+Renewable Energy
+Generation and 
+transmission of energy 
+from renewable 
+energy sources
+Planning, 
+Development and 
+Supervision of New 
+and Renewable 
+Energy and Energy 
+Conservation 
+Infrastructure
+The project includes (i) Rooftop solar PV 
+installations at the Presidential Palaces in 
+Yogyakarta and Tampaksiring, Bali (100 kWp each), 
+to support national energy mix targets and reduce 
+GHG emissions. (ii) Rooftop solar PV installations 
+at Volcano Observation Posts in Mt. Lewotolo 
+(East Nusa Tenggara), Mt. Karangetang (North 
+Sulawesi), and Mt. Dempo (South Sumatra) (6 
+kWp each). (iii) Support the establishment of a 
+Conversion Workshop for converting combustible 
+motorcycles into electric vehicles through the 
+procurement of testing equipment, establishing it 
+as a certified Grade A workshop. The workshop, 
+located in DKI Jakarta, has converted 495 
+combustible motorcycles to electric vehicles in 
+FY2023.
+South Sumatra, Special 
+Region of Yogyakarta, 
+Bali, North Sulawesi, 
+East Nusa Tenggara
+ 6,998,470,922 
+ 466,565 
+0.18%
+20-30 years
+An actual GHG emission 
+reduction of 276 tonnes 
+CO2​e/year from the 
+installation of solar PV 
+systems; the conversion 
+workshop, classified as 
+an indirect mitigation 
+action, was not 
+quantified.
+The rooftop solar PV 
+installations on public 
+buildings and volcano 
+observation stations 
+generate 325 MWh of 
+annual electricity, thereby 
+enhancing energy resilience 
+and disaster risk reduction, 
+promoting public awareness, 
+and directly contributing to 
+Indonesia's 2029 target of 
+1.5 GW rooftop solar and 
+its NDC/NZE goals. The 
+MEMR conversion workshop 
+provide training to and 
+overseeing certified private 
+EV conversion workshops, 
+accelerating EV adoption, 
+stimulate green jobs, 
+reducing urban emissions, 
+and strengthening the local 
+battery supply chain.
+7, 13, 14
+Ministry of Energy 
+and Mineral 
+Resources
+2
+Resilience to Climate 
+Change for Highly 
+Vulnerable Areas and 
+Sectors/ Disaster Risk 
+Reduction
+Flood mitigation
+Flood and lava  
+control, major 
+urban drainage 
+management, and 
+coastal protection
+This project involves the development and 
+rehabilitation of coastal protection and flood 
+control infrastructure. Key coastal protection 
+activities include constructing seawalls, 
+revetments, and abrasion controls to mitigate 
+erosion, with example projects in Cirebon, West 
+Java; Buleleng, Bali; and Sumakuyu Beach, West 
+Sulawesi, alongside protections for outer islands 
+like Natuna, Riau. For flood control, efforts 
+focus on river normalization, rubber weirs, and 
+riverbank reinforcement to reduce inundation risks. 
+Major initiatives encompass the Sekanak River, 
+Palembang; the Juana River rubber weir, Pati; 
+the Ciujung River estuary, Banten; the Lamong 
+River, Gresik; and watershed management in new 
+Nusantara capital city, East Kalimantan.
+Aceh, South Sumatra, 
+Riau, Riau Islands, 
+Bangka Belitung Islands, 
+Bengkulu, Lampung, 
+Banten, Special 
+Capital of Jakarta, 
+West Java, Central 
+Java, Special Region of 
+Yogyakarta, East Java, 
+Bali, West Kalimantan, 
+East Kalimantan, 
+South Kalimantan, 
+North Sulawesi, 
+Gorontalo, West 
+Sulawesi,Southeast  
+Sulawesi, South 
+Sulawesi, East Nusa 
+Tenggara, Papua, West 
+Papua
+1,422,945,061,403
+ 94,863,004 
+36.88%
+10-20 years
+Adaptation/resillience
+Potential flood-prone areas 
+have been reduced by 
+404.8 hectares through the 
+development of river flood 
+control structures, which 
+extend 25.34 km, including 
+one coastal protection 
+structure.
+3, 9, 13, 
+14
+Ministry of Public 
+Works 
+and Housing
+3
+Resilience to Climate 
+Change for Highly 
+Vulnerable Areas and 
+Sectors/ Disaster Risk 
+Reduction
+Drought management
+Groundwater and 
+raw water network 
+development
+The project develops a groundwater utilization system 
+to extract and treat groundwater into raw water. It 
+includes constructing/rehabilitating/supervision 
+of water intake structures (boreholes, wells, spring 
+intakes wells, spring intakes/ broncaptering), 
+Managed Aquifer Recharge (MAR) facilities, and weirs, 
+along with establishing raw water distribution pipelines 
+to enhance water availability and sustainable resource 
+management. These activities are implemented to 
+support several strategic areas, including drought-
+affected regions (such as East Nusa Tenggara and 
+West Nusa Tenggara), communal, city, or regional-
+scale water supply systems (SPAM) such as in Riau 
+and Bengkulu, groundwater irrigation networks 
+(JIAT) such as in West Sumatra, and national tourism 
+strategic areas such as Borobudur– Prambanan 
+(Yogyakarta) and Bromo–Tengger–Semeru (East Java).
+North Sumatra, West 
+Sumatra, South 
+Sumatra, Bengkulu, 
+Jambi, Riau, Lampung, 
+East Kalimantan, Central 
+Java, Special Region of 
+Yogyakarta, East Java, 
+Bali, Central Kalimantan, 
+South Kalimantan, 
+North Sulawesi, West 
+Nusa Tenggara, East 
+Nusa Tenggara, Maluku, 
+North Maluku, Papua, 
+West Papua
+ 510,751,130,870 
+ 34,050,075 
+13.24%
+10-20 years
+Adaptation/resillience
+The capacity of raw water 
+services has been enhanced 
+at 4.0246 m3/s through 
+the construction and 
+rehabilitation of 68.8 km raw 
+water networks and 57 unit 
+wells and raw water intake 
+infrastructure.
+3, 9, 13, 
+14
+Ministry of Public 
+Works 
+and Housing
+
+===== PAGE 19 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+37
+36
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+Amount 
+Committed (in 
+IDR)*c 
+  Amount 
+Committed 
+(in USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project Owners
+Mitigation (GHG 
+Emission Reduced/
+Avoided p.a. in CO2e)
+Other results *f
+SDGs*g
+4
+Resilience to Climate 
+Change for Highly 
+Vulnerable Areas and 
+Sectors/ Disaster Risk 
+Reduction
+Research leading to 
+technology innovation 
+with sustainability 
+benefits
+Management of 
+climate change 
+information and 
+management of 
+applied climate 
+information services
+The project comprises the procurement and 
+installation of advanced atmospheric monitoring 
+instruments at Global Atmosphere Watch (GAW) 
+stations, including: (i) Surface Ozone and Black 
+Carbon Monitoring Equipment installation at GAW 
+Bariri Palu, and SO₂ and NOx analyzers at GAW 
+Bukit Tinggi; (ii) Operation and maintenance of 30 
+particulate matter monitoring units (PM₂.₅ and PM₁₀) 
+and the addition of three new units at strategic 
+sites, including Nusantara Capital City (IKN); (iii) 
+Upgrading infrastructure for climate and GHG 
+observation offices in Yogyakarta, Jambi, Bengkulu, 
+and West Kalimantan. 
+Bengkulu, Special 
+Capital of Jakarta, 
+Special Region of 
+Yogyakarta, West 
+Kalimantan, West Nusa 
+Tenggara
+ 7,543,144,435 
+ 502,876 
+0.20%
+5 years for the 
+air pollution 
+monitoring 
+unit
+Adaptation/resillience
+The project enables more 
+advanced observation 
+networks and analytical 
+capabilities, supporting 
+evidence-based 
+policymaking; integration of 
+these improved data streams 
+into BMKG’s Climate Early 
+Warning System (CEWS) 
+enhances forecasting 
+precision and disaster 
+preparedness; and supports 
+agricultural planning, 
+safeguards food security, 
+and protects public health 
+through early air quality 
+advisories in 5 provinces. 
+3, 9, 13, 
+14
+Meteorology, 
+Climatology, 
+and Geophysics 
+Agency (BMKG) 
+5
+Sustainable 
+Transportation
+Developing and 
+upgrading zero or low 
+carbon transportation 
+networks and systems
+Development  of 
+railway connectivity 
+infrastructure
+The project enhances Jakarta Metropolitan's 
+urban electric railway (KRL) facilities along the 
+Manggarai–Jatinegara corridor. (i) Package A Phase 
+II covers the construction of the Manggarai Station 
+East Wing for commuter services of floors 1–3 
+(structure, architecture, and MEP), the right-side 
+wing building (structure, architecture, and MEP, 
+Platforms 1 and 2, at-grade tracks 1–4 for the 
+Bekasi Line, and partial works of superstructure and 
+substructure for the elevated intercity railway bridge. 
+(ii) Package A Phase III includes civil works for the 
+mainline (superstructure, substructure, and elevated 
+platforms), construction of the East Wing for long-
+distance services (structure, architecture, and 
+MEP), track development at elevated, stabling, and 
+at-grade sections, and upgrades to electrification 
+and signalling–telecommunication systems along the 
+corridor.
+DKI Jakarta
+ 249,138,954,240 
+ 16,609,264 
+6.46%
+30-50 years
+Contributes to 
+actual GHG emission 
+reduction from Jakarta 
+Metropolitan Electric 
+Rail (KRL) operations by 
+an estimated 510,063.8 
+tons of CO₂.
+This strategic double-
+track railway development 
+enhances network 
+capacity, efficiency, and 
+reliability, facilitating a 
+modal shift from road to 
+rail. This transition reduces 
+fuel consumption and 
+greenhouse gas emissions, 
+supporting broader climate 
+and sustainability objectives.
+9, 11, 13
+Ministry of 
+Transportation
+6
+Sustainable 
+Transportation
+Developing and 
+upgrading zero or low 
+carbon transportation 
+networks and systems
+Development  of 
+railway connectivity 
+infrastructure
+The project consists of the preparation for 
+enhancing railway lines in Central and East Java. 
+(i) In Central Java, The project consists of the 
+development of the Environmental Management 
+and Monitoring Plans (RKL/RPL) for the Semarang 
+Tawang–Tanjung Emas Port Double Track (Phase 
+II) to mitigate environmental impacts and ensure 
+project sustainability. The segment connects the 
+Semarang city center with the Tanjung Emas port, 
+with construction completed but the operations yet 
+to commence.  
+(ii) In East Java, the project consists of 
+strengthening the railway electrification of the 
+Surabaya Regional Railway Line (Phase I), which is 
+not yet operational, and the preparation of the RKL/
+RPL for the Sepanjang–Mojokerto Double Track. The 
+project aims to enhance urban connectivity across 
+the Gerbangkertosusila metropolitan area (Surabaya, 
+Sidoarjo, Gresik, Mojokerto, and Lamongan).
+Central Java, East Java
+ 1,900,610,180 
+ 126,707 
+0.05%
+30-50 years
+The Sepanjang - 
+Mojokerto Double Track 
+contributes to expected 
+GHG emission reductions 
+of 1,016,096.85 tonnes 
+CO₂e from passenger 
+train operations across 
+Java and 1,033,087.04 
+tonnes CO₂e from 
+national freight train 
+operations. The Surabaya 
+Regional Railway Line 
+(SRRL) has not yet been 
+constructed.
+The enhancement of 
+the electrified Surabaya 
+Regional Railway Line 
+(SRRL), and Sepanjang–
+Mojokerto double tracks 
+will promote cleaner 
+transport and reducing 
+fuel dependency. SRRL 
+connects key cities within 
+the Gerbangkertosusila 
+metropolitan area—
+Surabaya, Sidoarjo, Gresik, 
+Mojokerto, and Lamongan—
+helping reduce congestion 
+and improve mobility. The 
+Semarang Tawang–Tanjung 
+Emas double tracks 
+connect city centers with 
+ports, expected to reduce 
+road-based logistics 
+traffic, enhance transport 
+efficiency, and lower 
+logistics costs.
+9, 11, 13
+Ministry of 
+Transportation
+Table 4 Continued
+
+===== PAGE 20 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+39
+38
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+Amount 
+Committed (in 
+IDR)*c 
+  Amount 
+Committed 
+(in USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project Owners
+Mitigation (GHG 
+Emission Reduced/
+Avoided p.a. in CO2e)
+Other results *f
+SDGs*g
+7
+Sustainable 
+Transportation
+Developing and 
+upgrading zero or low 
+carbon transportation 
+networks and systems
+Development  of 
+railway connectivity 
+infrastructure
+This project supports (i) the development of railway 
+connectivity between North Sumatra and Aceh through 
+construction, supervision, and land acquisition. In 
+Aceh, ongoing activities covers the construction 
+and supervision of the Lhokseumawe–Bireuen line, 
+particularly 8-km Kreung Geukeuh–Paloh segment. 
+In North Sumatra, the focus is on land acquisition 
+for National Strategic Projects segments, notably 
+Rantau Prapat–Kota Pinang and Tebing Tinggi–
+Kuala Tanjung, and for two new stations on the 
+Medan–Binjai and Besitang and Langsa segments. 
+Supplementary land acquisition costs (BOBP) include 
+certification processes for the Bandar Tinggi–Kuala 
+Tanjung, Rantau Prapat–Kota Pinang, and Bahlias–
+Tanjung Gading shortcut segments. Financing for 
+land acquisition and procurement is provided by the 
+State Asset Management Agency (LMAN), while the 
+Directorate General of Railways (DJKA) has allocated 
+Green Sukuk proceeds to support the construction and 
+BOBP. (ii) The project allocated the procurement of 1 
+Railways Crane unit for South Sumatra Line.
+North Sumatra, South 
+Sumatra
+ 231,135,707,855 
+ 15,409,047 
+5.99%
+30-50 years
+Contributes to 
+actual GHG emission 
+reductions of 90,864.16 
+tonnes CO₂e from 
+passenger rail operations 
+across Sumatra and 
+1,033,087.04 tonnes 
+CO₂e from national 
+freight operations.
+The National Strategic 
+Projects (PSN) enhances 
+welfare and equitable 
+development nationwide, 
+drives growth around 
+railways, boosts land value, 
+supports new urban stations 
+in Medan, and extends Aceh 
+commuter rail services.
+9, 11, 13
+Ministry of 
+Transportation
+8
+Sustainable 
+Transportation
+Developing and 
+upgrading zero or low 
+carbon transportation 
+networks and systems
+Development  of 
+railway connectivity 
+infrastructure
+The project supports railway operations across 
+Makassar-Pare pare Line, particularly at Maros Station, 
+through the construction of street lightings for station 
+access roads and improvement of depot infrastructure 
+facilities, including landscaping development at the 
+Maros Train Depot.
+South Sulawesi
+ 1,704,442,950 
+ 113,630 
+0.04%
+30-50 years
+Contribute to actual GHG 
+emission reduction of 
+771.26 tonnes CO₂e from 
+the Makassar–Parepare 
+line.
+The increased utilization 
+of integrated public 
+transportation infrastructure 
+facilitates the shift from 
+private to public transport. 
+9, 11, 13
+Ministry of 
+Transportation
+9
+Green Buildings
+Development, 
+renovation, 
+maintenance of green 
+buildings that meet 
+regional, national 
+or internationally 
+recognised standards
+Provision of access  to 
+decent housing
+This project involves the procurement of supporting 
+facilities specifically furnitures for the development 
+and maintenance of residential building for civil servant 
+of of the Jambi High Prosecutor's Office in Jambi City 
+in compliance with green buildings principles and 
+government standards. The building consists of a 
+three-story tower with 44 units with with a building 
+area of 60 m2.
+Jambi
+ 1,053,767,000 
+ 70,251 
+0.03%
+10 years
+The GHG emission 
+reduction has not yet 
+been calculated
+The initiative's primary 
+goal is to reduce negative 
+environmental impacts by 
+promoting the efficient 
+use of energy and natural 
+resources. Ultimately, this 
+approach aims to improve 
+the quality of life for 
+residents and contribute 
+to long-term sustainable 
+development. 
+9, 11, 13
+Ministry of Public 
+Works 
+and Housing
+10
+Sustainable Water 
+and Wastewater 
+Management 
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development of dams, 
+lakes, and other water 
+storage structures
+The project include construction and revitalization 
+of natural and artificial water storages. This project 
+involves constructing new reservoirs/small dams, such 
+as the Budong-Budong Dam in Central Mamuju, and 
+finalizing ongoing ones, including the Cipanas Dam in 
+Sumedang. A key focus is revitalizing existing water 
+bodies, exemplified by the restoration of Lake Bakuok 
+and Lake Gunung Sari in Riau, and Lake Ayamaru 
+in Maybrat. Critical safety upgrades are underway, 
+featuring slope reinforcement at Sei Gong Dam in 
+Batam and grouting work at Kuwil Kawangkoan Dam in 
+North Minahasa. The initiative also includes building a 
+regulation gate at Tapin Dam, developing a repurposed 
+mining pit in East Belitung (Bangka Belitung) into 
+a conservation water reservoir, and conducting 
+preparatory activities for the Karian Dam in Lebak.
+Riau, Riau Islands, 
+Bengkulu, Bangka 
+Belitung Islands, 
+Banten, West Java, 
+Central Java, East 
+Kalimantan, South 
+Kalimantan , North 
+Sulawesi, West 
+Sulawesi, South 
+Sulawesi, West Nusa 
+Tenggara, West Papua
+ 509,923,390,942 
+ 33,994,893 
+13.22%
+10-20 years
+Adaptation/resillience
+The project enhances water 
+resource storage capacity 
+by 2.71 million m³ through 
+the development and 
+revitalization of 14 dams, 
+lakes, reservoirs, and ponds, 
+including the construction of 
+a dam regulation gate.
+6, 11, 13
+Ministry of Public 
+Works 
+and Housing
+Table 4 Continued
+
+===== PAGE 21 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+41
+40
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+Amount 
+Committed (in 
+IDR)*c 
+  Amount 
+Committed 
+(in USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project Owners
+Mitigation (GHG 
+Emission Reduced/
+Avoided p.a. in CO2e)
+Other results *f
+SDGs*g
+11
+Sustainable Water 
+and Wastewater 
+Management 
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development of 
+surface water, swamp, 
+and non-rice irrigation 
+networks
+The activities primarily cover the improvement and 
+rehabilitation of existing irrigation networks, and the 
+construction and completion of new weirs and their 
+components. Network improvements include, among 
+others, those in the Rawa Teluk Bayur Irrigation 
+Area in Kubu Raya and the Rawa Tanjung Buka 
+Reclamation Network in Bulungan, both in West and 
+East Kalimantan, respectively. Network rehabilitation 
+efforts, such as the work on the Batang Anai I and 
+Anai II Irrigation Networks in Padang Pariaman, West 
+Sumatra. On weir construction, key projects include 
+the building of the Cimoyan Weir in Pandeglang, the 
+rehabilitation of the Karet Krueng Aceh Weir in Aceh 
+Besar, and embankment reinforcement for the Sei 
+Wampu Weir in Langkat. 
+Aceh, North Sumatra, 
+West Sumatra, South 
+Sumatra, Bengkulu, 
+Banten, West Java, 
+Central Java, East Java, 
+Central Kalimantan, 
+South Kalimantan, 
+West Sulawesi, West 
+Nusa Tenggara, Maluku, 
+Papua
+ 912,823,704,952 
+ 60,854,914 
+23.66%
+10-20 years
+Adaptation/resillience
+The total area of rehablitated 
+irrigation areas increased by 
+40,141 hectares through the 
+improvement/ rehabilitation 
+of irrigation networks at 
+252.6 km in length, and 
+construction/rehabilitation 
+of 4 weirs. This project 
+focuses on the strategic 
+enhancement of irrigation 
+infrastructure to strengthen 
+water security and support 
+agricultural productivity. 
+6, 11, 13
+Ministry of Public 
+Works 
+and Housing
+12
+Sustainable Water 
+and Wastewater 
+Management
+Construction and 
+improvement of public 
+water distribution and 
+treatment facilities
+Provision of decent 
+drinking water system
+The project consists of (i) procurement of dew 
+harvesting and purification technology to provide a 
+potable water facility at the Public Work Polytechnic 
+Campus in Semarang, Central Java. This project 
+is a proof-of-concept initiative designed for easy 
+replication in other areas. It offers a permanent and 
+portable clean water solution that is eco-friendly and 
+avoids groundwater exploitation, and (ii) construction 
+and supervision of drinking water supply system 
+(SPAM) for the apartment compound in Jayapura 
+Regency to meet the drinking water needs.
+Central Java, Papua
+ 1,872,630,000 
+ 124,842 
+0.05%
+10-20 years
+Adaptation/resillience
+In Central Java the water 
+production capacity reaches 
+300–350 liters per 24 hours, 
+according to the Manual 
+Book of the Drinking Water 
+from Dew Machine Model 
+HMAT6 (Trailer). In Papua, 
+the capacity of ready-to-
+drink water is provided for 
+42 units of type-36 room. 
+6, 11, 13
+Ministry of Public 
+Works 
+and Housing
+Table 4 Continued
+Remarks:
+a.	
+The type of projects refers to eligible sectors under the Republic of Indonesia SDGs Government Securities Framework 2021
+b.	
+The projects may be implemented in multiple spots on each provincial location mentioned.
+c.	
+The currency exchange rate is based on the State Budget Assumption for 2024 budget year of IDR 15,000 per USD.
+d.	
+Based on durability of the output or financial life of project.
+e.	
+Methodology and assumptions are disclosed in Annex.
+f.	
+Additional indicators of the direct impact of the green projects.
+g.	
+Most relevant or direct social and/or Sustainable Development Goals impacts, as a result of the project.
+
+===== PAGE 22 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+43
+42
+Table 5. List of FY2023 Projects Refinanced with Proceeds from the 2024 Domestic Project-Based Green Sukuk (PBSG) Issuance
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+  Amount 
+Committed  
+(in IDR)*c 
+  Amount 
+Committed (in 
+USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project 
+Owners
+Mitigation (GHG 
+Emission Reduced/
+Avoided p.a. in CO2e)
+Other results *f
+SDGs*g
+1
+Resilience to 
+Climate Change 
+for Highly 
+Vulnerable Areas 
+and Sectors/ 
+Disaster Risk 
+Reduction
+Flood mitigation 
+and coastal 
+protection
+Development of 
+infrastructure for 
+flood and volcanic 
+mudflow control, 
+management 
+of main urban 
+drainage, and 
+coastal protection.
+The projects includes (A) Coastal protection: Construction of 
+infrastructure along the shorelines of the Tanjung Lesung Special 
+Economic Zone, Pandeglang Regency, and Jakarta Bay. (B) Flood 
+control (i) DKI Jakarta: Construction of Ancol Sentiong Pump 
+Station, a diversion channel from Ciliwung River to the East Flood 
+Canal, and flood control infrastructure for the Bekasi and Ciliwung 
+rivers. (ii) Yogyakarta International Airport (National Strategic 
+Area): Construction of western and eastern embankments at the 
+mouth of the Bogowonto River, Serang River Basin and along 
+the Bogowonto River and its tributaries. (iii) South Kalimantan 
+Province : Construction of flood control infrastructure at Barabai 
+River in Hulu Sungai Tengah Regency. (iv) East Nusa Tenggara: 
+Construction of flood control for the Waemese River in Labuan 
+Bajo, West Manggarai Regency, and the Noelmina River in Batu 
+Putih, Kupang Regency.
+Banten, Special 
+Capital of Jakarta, 
+Special Region of 
+Yogyakarta, South 
+Kalimantan, East 
+Nusa Tenggara
+2,419,472,697,798 
+ 161,298,180
+27.03%
+10-20 years
+Adaptation/resilience
+Potential flood-prone areas 
+have been reduced by 2,697.2 
+hectares in total through the 
+development of nine flood 
+control structures, including 
+a pump station, with a total 
+length of 15.8 km in total.
+3, 9, 13, 
+14
+Ministry of 
+Public Works 
+& Housing 
+2
+Resilience to 
+Climate Change 
+for Highly 
+Vulnerable Areas 
+and Sectors/ 
+Disaster Risk 
+Reduction
+Drought 
+management
+Groundwater and 
+raw water network 
+development
+This project focuses on the development and rehabilitation of 
+groundwater and raw water infrastructure in (i) Central Java 
+Province: Construction of intake and raw water transmission 
+pipeline for Pidekso Dam (Wonogiri Regency). (ii) East Java: 
+Construction of intakes and raw water transmission pipelines for 
+Bendo Dam (Ponorogo), and Gongseng Dam (Bojonegoro). 
+(iii) East Nusa Tenggara: Rehabilitation of groundwater's bore wells 
+(Flores & Sumba). Construction of Eltari Bore Well and additional 
+bore wells for drought-affected areas (Belu). Upgrading raw water 
+facilities of Oyang Barang spring for the Seroja Oyang Barang 
+permanent residential units (East Flores). (iv) North Kalimantan: 
+Construction of intake and transmission pipeline for raw water in 
+the Merancang Village (Berau). (v) South Sulawesi: Reinforcement 
+and construction of intake and raw water network for Parodo (Tana 
+Toraja). (vi) Central Sulawesi: Construction of groundwater wells 
+for raw water supply in Sigi Biromaru District (Sigi). (vii) North 
+Sulawesi: Rehabilitation and improvement of Werot raw water 
+supply (Minahasa). (viii) South Papua: Procurement of raw water 
+booster pump with the capacities at 415 kVA & 520 kVA of Maro 
+River (Merauke). Procurement and installation of solar-powered 
+pumps for drought-affected areas.
+West Java, Central 
+Java, North 
+Kalimantan, East 
+Kalimantan, North 
+Sulawesi, Central 
+Sulawesi, South 
+Sulawesi, East Nusa 
+Tenggara, North 
+Maluku, Papua
+ 414,282,714,669 
+ 27,618,848 
+4.63%
+10-20 years
+Adaptation/resilience
+The project aims to 
+enhance water supply from 
+groundwater and raw ater, 
+particularly in areas prone to 
+drought and for residential 
+settlements. The capacity 
+of raw water services has 
+been enhanced by 1.351 m³/s 
+through the construction and 
+rehabilitation of 68.771 km of 
+raw water networks and 34 
+units of wells and raw water 
+intake infrastructure.
+3, 9, 13, 
+14
+Ministry of 
+Public Works 
+& Housing 
+3
+Sustainable 
+Transportation
+Developing and 
+upgrading zero 
+or low carbon 
+transportation 
+networks and 
+systems
+Development  
+of railway 
+connectivity 
+infrastructure 
+This project involves constructing of dedicated access road and 
+installation of street lightings that link the national road networks 
+to Barru Station, improving access of passenger, logistics and 
+freight transports. Financing for land acquisition and procurement 
+is provided by the State Asset Management Agency (LMAN), 
+while the Directorate General of Railways (DJKA) allocated the 
+Green Sukuk budget for operational and supporting activity 
+costs (BOBP). This construction supports the Barru-Garongkong 
+railway segment, as part of Makassar-Parepare Line. The Barru 
+- Garongkong railway segment has been operational since 
+2023/2024.
+South Sulawesi
+ 245,771,653,631 
+ 16,384,777 
+2.75%
+30-50 years
+Contribute to the 
+actual GHG emission 
+reduction of Makassar-
+Pare-pare Line at 
+771.26 tonnes CO2e.
+This integration aims to 
+reduce road congestion, lower 
+logistics costs, and enhance 
+economic connectivity for 
+commodities like cement 
+and plantation products. The 
+line is part of the broader 
+Trans-Sulawesi railway 
+project, which aims to improve 
+regional connectivity and 
+support economic growth.
+9, 11, 13
+Ministry of 
+Transportation
+4
+Green Buildings
+Development, 
+renovation, 
+maintenance of 
+green buildings 
+that meet regional, 
+national or 
+internationally 
+recognised 
+standards
+Provision of access 
+to decent housing
+This project involves the procurement of supporting facilities 
+for the development and maintenance of residential building 
+for civil servants of Gadjah Mada University in compliance 
+with green buildings principles and government standards. 
+The residential building features six floors with a total of 
+88 residential units with building area of 36 m2. It is equipped with 
+solar panels, bicycle parking areas, green spaces, jogging tracks, 
+shower facilities for cyclists, photo-sensor lighting for exterior 
+areas, and a dedicated waste management area.
+Special Region of 
+Yogyakarta
+ 1,068,784,054 
+ 71,252
+0.01%
+10 years
+GHG emission 
+reduction figures are 
+currently pending 
+calculation.
+The project aims to improve 
+the quality of life for residents 
+and contribute to long-term 
+sustainable development. 
+9, 11, 13
+Ministry of 
+Public Works 
+& Housing 
+
+===== PAGE 23 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+45
+44
+No
+Sector
+Type of Project*a
+Project Name
+Brief Description
+Location*b
+  Amount 
+Committed  
+(in IDR)*c 
+  Amount 
+Committed (in 
+USD)*c  
+ % Allocation 
+of Net 
+Proceeds  
+Average 
+Project 
+Lifetime*d
+Impacts*e
+Project 
+Owners
+Mitigation (GHG 
+Emission Reduced/
+Avoided p.a. in CO2e)
+Other results *f
+SDGs*g
+5
+Sustainable Water 
+and Wastewater 
+Management 
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development 
+of dams, lakes, 
+and other water 
+storage structures 
+The project activities include construction, rehabilitation and 
+supervision of water storage infrastructure in (i) Aceh Province: 
+Construction of Rukoh Dam and its diversion building (Pidie 
+Regency); Completion of Keureuto Dam (North Aceh). (ii) 
+North Sumatra: Construction of Lau Simeme Dam and its 
+facility buildings, along with supporting surveys and studies 
+(Deli Serdang). (iii) Banten: Operation & maintenance of Karian 
+Dam, including procuring operational facilities, planning access 
+roads, and relocating the Sajira potable water supply system 
+(SPAM) intake to support dam construction (Lebak). (iv) West 
+Java: Improvement of the Sadawarna Dam's relocation road 
+(Sumedang). (v) Central Java: Construction of Cabean and 
+Jragung Dams; Revitalization of Lake Rawa Pening. (vi) West Nusa 
+Tenggara: Construction of Meninting and Tiu Suntuk Dams (West 
+Sumbawa). (vii) East Nusa Tenggara: Construction of Manikin Dam 
+(Kupang), and Temef Dam (South Central Timor). (viii) Gorontalo: 
+Construction of Bulango Ulu Dam (Phase I) (Bone Bolango), 
+and revitalization of Lake Limboto. (ix) Southeast Sulawesi: 
+Construction of Ameroro Dam (Konawe), with additional works 
+for sediment control, landslide handling, and the installation of 
+supporting facilities and instrumentation.
+Aceh, North Sumatra, 
+Banten, West Java, 
+Central Java, West 
+Nusa Tenggara, 
+Gorontalo, Southeast 
+Sulawesi, West Nusa 
+Tenggara, East Nusa 
+Tenggara
+ 5,086,117,905,851 
+339,074,527 
+56.83%
+10-20 years
+Adaptation/resilience
+The project aims to 
+improve sustainable water 
+management and support 
+local development by 
+enhancing capacity of 
+water resource storage. The 
+storage capacities have been 
+enhanced by 193.03 million m³ 
+through the construction of 
+15 dams.
+6, 11, 13
+Ministry of 
+Public Works 
+& Housing 
+6
+Sustainable Water 
+and Wastewater 
+Management 
+Development 
+of agricultural 
+infrastructure for 
+efficient water 
+management
+Development of 
+surface water, 
+swamp, and 
+non-rice irrigation 
+networks
+This project involves the improvement and rehabilitation of 
+irrigation systems for surface water, swamp areas, and non-paddy 
+agricultural lands in (i) North Kalimantan Province: Upgrading 
+the irrigation reclamation network in Tanjung Buka swamp area 
+(SP.6B -Bulungan Regency). (ii) West Kalimantan: Enhancing Teluk 
+Bayur swamp irrigation area (Kubu Raya). (iii) Southeast Sulawesi: 
+Rehabilitation of Wawotobi irrigation area (Konawe). (iv) Maluku: 
+Rehabilitation of Way Apu irrigation area's weir, esp. Way Pamali 
+sub-area.
+North Kalimantan, 
+West Kalimantan, 
+Southeast Sulawesi, 
+Maluku
+ 301,348,102,256 
+ 20,089,873
+3.37%
+10-20 years
+Adaptation/resilience
+The project aims at enhancing 
+water supply and management 
+for non-paddy agricultural 
+areas. The total area of 
+rehabilitated irrigation land 
+increased by 1,487 hectares 
+through the rehabilitation and 
+enhancement of one weir and 
+5.3 km of irrigation networks.
+6, 11, 13
+Ministry of 
+Public Works 
+& Housing 
+7
+Sustainable Water 
+and Wastewater 
+Management
+Construction and 
+improvement 
+of public water 
+distribution and 
+treatment facilities
+Provision of decent 
+drinking water 
+system
+This project involves the expansion of the Jatiluhur I Regional 
+Water Supply System (SPAM), an initiative to improve water 
+infrastructure across the Jakarta Metropolitan Area. The main 
+activity is the provision of a regional raw water supply, with a 
+capacity of 4,750 liters per second, channeled from the East 
+Center Offtake. A significant portion of this supply, specifically 
+4,000 liters per second, is directed to DKI Jakarta area. The project 
+includes the construction and utilization of two main distribution 
+reservoirs, located at the Cilincing and Pondok Kopi Distribution 
+Centers.
+Special Capital of 
+Jakarta
+ 481,999,000,000 
+ 32,133,267
+5.39%
+15-20 years
+Adaptation/resilience 
+The system is designed to 
+distribute clean drinking water 
+to approximately 1.9 million 
+people, or about 380,000 
+household connections, 
+across Jakarta Metropolitan 
+Area. The Cilincing reservoir, 
+with its 20,000 m³ capacity, 
+will provide 15,310 new 
+household connections to 
+residents in seven villages. 
+Meanwhile, the Pondok Kopi 
+reservoir, with a capacity 
+of 5,000 m³, will serve 
+an additional 2,000 new 
+household connections in 
+two sub-districts, collectively 
+ensuring a more robust and 
+reliable water supply for the 
+metropolitan region.
+6, 11, 13
+Ministry of 
+Public Works 
+& Housing 
+Remarks:
+a.	
+The type of projects refers to eligible sectors under the Republic of Indonesia SDGs Government Securities Framework 2021
+b.	
+The projects may be implemented in multiple spots on each provincial location mentioned.
+c.	
+The currency exchange rate is based on the State Budget Assumption for 2024 budget year of IDR 15,000 per USD.
+d.	
+Based on durability of the output or financial life of project.
+e.	
+Methodology and assumptions are disclosed in Annex.
+f.	
+Additional indicators of the direct impact of the green projects.
+g.	
+Most relevant or direct social and/or Sustainable Development Goals impacts, as a result of the project.
+Table 5 Continued
+
+===== PAGE 24 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+47
+46
+IV. Featured Projects
+Development of Flood Control Infrastructure in New Capital City 
+of Nusantara
+The new Capital City of Indonesia, Nusantara (IKN), and its surrounding 
+buffer zones face rising hydrological pressures driven by high rainfall 
+intensity, land-use conversion, and extensive construction within the 
+Central Government Core Area (KIPP). The Master Plan for the Drainage 
+and Flood Control System identifies the Sanggai and Pamaluan River 
+Basins in Penajam Paser Utara Regency as priority areas with high 
+vulnerability to flooding, erosion, and watershed degradation.
+The Flood Control Infrastructure Development projects in the Sanggai 
+River Basin 1A (KIPP) and the Pamaluan River were partially financed 
+through the 2024 Global Sovereign Green Sukuk, representing 
+approximately 5 percent of total raised proceeds. The Sanggai River 
+Basin 1A Project includes the development of key flood-control assets, 
+such as main drainage channels, retention basins, flood embankments, 
+and integrated stormwater-management infrastructure. The Pamaluan 
+River Project focuses on river normalization, embankment construction, 
+and drainage rehabilitation to reduce flood risks in residential zones 
+and IKN’s ecological buffer areas. Both initiatives are implemented by 
+the Directorate General of Water Resources, Ministry of Public Works 
+and Housing, as part of a multi-year program (FY 2024–2026).
+To ensure environmentally and socially responsible delivery, key 
+risk-management practices are applied, including integrated water-
+resources planning, climate-resilient engineering design, nature-based 
+solutions, and strengthened coordination with regional technical units. 
+These measures help mitigate ecosystem disturbance, sedimentation, 
+land-use impacts, and community flood-risk exposure throughout 
+project implementation.
+The projects are expected to generate significant environmental, 
+economic, and social benefits in support of IKN’s long-term vision as 
+a sustainable, inclusive, and climate-resilient city. Environmentally, 
+the works are designed to reduce flood risks, stabilize river corridors, 
+sustain upstream and downstream watershed ecosystems, and increase 
+water-retention capacity across approximately 360.19 hectares in 
+the Sanggai River Basin within KIPP and 39.19 hectares along the 
+Pamaluan River. These interventions are estimated to benefit around 
+30,000–40,000 residents, while safeguarding high-value public 
+assets, minimizing economic losses from flood-related disruptions, and 
+reinforcing local economic resilience. Overall, the projects contribute to 
+national priorities on flood and coastal protection under the National 
+Water Resources Resilience Program, a strategic focus of RPJMN 2019–
+2024 and 2024–2029, and align with the Ministry of Public Works and 
+Housing Strategic Plan 2020–2024.
+
+
+
+
+	
+
+
+
+Sanggai River Basin 1A (KIPP) Project comprises the construction and supervision of main 
+drainage channels, retention basins, and flood embankments.
+Pamaluan River Flood Control Project comprises river normalization, embankment construction, 
+and drainage rehabilitation. 
+Credit: Ministry of Public Works ans Housing
+Credit: Ministry of Public Works ans Housing
+
+===== PAGE 25 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+49
+48
+Installation of Rooftop and Ground-mounted Solar PV Systems
+The Ministry of Energy and Mineral Resources (MEMR) has prioritized 
+the development of rooftop solar photovoltaic (PV) systems as part 
+of Indonesia’s effort to achieve its ambitious target of a 23% new and 
+renewable energy mix by 2030, as well as the NDC target. The solar 
+PV adoption forms part of a broader national strategy to strengthen 
+energy security, promote energy efficiency, and advance sustainable 
+development, as well as increasing public participation for both 
+households and businesses.
+Proceeds from the Retail Green Sukuk ST 013T4 issuance amounting 
+0.2% of the total proceeds were allocated to refinance the installation 
+of rooftop and ground-mounted solar PV systems at both symbolic 
+government buildings and critical national resilience facilities. The 
+initiatives were a part of the Fiscal Year 2023 project of planning, 
+development and supervision of new and renewable energy and energy 
+conservation infrastructure under the Directorate General of New and 
+Renewable Energy and Energy Conservation, MEMR. 
+The project included the installation of 20 kWp and 80 kWp installed 
+capacities of on-grid rooftop solar PV systems on Yogyakarta 
+Presidential Palace, and 20 kWp, 30 kWp, and 50 kWp on a 3-Phase 
+Sloping Roof on Tampaksiring Bali Presidential Palace. Whilst, each 
+6  kWp off-grid system was installed at three Volcano Observation 
+Stations located at Mt. Lewotolo (East Flores Regency, East Nusa 
+Tenggara), Mt. Karangetang (Sitaro Islands, North Sulawesi), and 
+Mt. Dempo (Pagar Alam, South Sumatra). Collectively, these systems 
+generate approximately 325 megawatt-hours (MWh) of clean 
+electricity annually, contributing to an actual GHG emission reduction 
+of 276 tonnes of CO₂ equivalent per year. 
+The outcomes encompass multiple dimensions: environmentally, 
+the installations reduce dependence on fossil-fuel-based power and 
+lower greenhouse gas emissions; socially, they serve as high-profile 
+showcases promoting public awareness of clean energy technologies and 
+supporting educational green tourism; and institutionally, they enhance 
+the resilience of Indonesia’s disaster risk reduction infrastructure by 
+ensuring continuous electricity supply for volcano monitoring and early 
+warning systems. 
+
+
+100 kWp rooftop solar PV installation at 
+Tampaksiring Presidential Palace, Bali.
+100 kWp rooftop solar PV installation at 
+Yogyakarta Presidential Palace.
+6 kWp solar PV installation at Volcano Observation Post Karangetang, North Sulawesi.
+6 kWp solar PV installation at Volcano Observation Post Lewotobi, East Nusa Tenggara.
+Credit: Ministry of Energy and Mineral Resources
+Credit: Ministry of Energy and Mineral Resources
+Credit: Ministry of Energy and Mineral Resources
+Credit: Ministry of Energy and Mineral Resources
+
+===== PAGE 26 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+51
+50
+Strengthening Climate Observation through Equipment  
+and Infrastructure Enhancement at BMKG
+
+
+
+
+	
+
+
+
+Climate-Resilient Development is a priority programme under the 
+Midterm National Development Plan 2024–2029, implemented 
+through 
+cross-sectoral 
+measures 
+across 
+water 
+resources, 
+agriculture, coastal areas, and health. One of its key targets is to 
+improve the availability of climate-related information that supports 
+climate-resilience enhancement. To support this, the Meteorology, 
+Climatology, and Geophysics Agency (BMKG) is strengthening 
+its climate-observation infrastructure to enhance more accurate 
+monitoring, forecasting, and early-warning capabilities across 
+Indonesia.
+In FY2023, projects refinanced through the Green Sukuk ST013T – 
+representing 0.2% of total proceeds, supported the enhancement of 
+national atmospheric and climate-monitoring capacity. The projects 
+include (i) the installation of Surface Ozone and Black Carbon 
+Monitoring Equipment at Global Atmosphere Watch (GAW) Bariri in 
+Palu of South Sulawesi Province, and SO₂ and NOx analyzers at GAW 
+Bukit Tinggi in West Sumatra; (ii) Operation and maintenance of 30 
+particulate matter monitoring units (PM₂.₅ and PM₁₀) and the addition 
+of three new units at strategic sites, including Nusantara Capital City 
+(IKN); (iii) Upgrading infrastructure for climate and GHG observation 
+offices in Yogyakarta, Jambi, Bengkulu, and West Kalimantan. All 
+equipment complies with standards of the World Meteorological 
+Organization (WMO) and the World Health Organization (WHO), 
+ensuring that Indonesia’s data is globally comparable and credible. 
+The outcomes of the project have significantly strengthened 
+Indonesia’s climate resilience policies and actions by enhancing 
+observation infrastructure and analytical capacity through 
+expanded Automatic Weather Stations, upgraded weather radar, 
+and improved high-performance computing. These advancements 
+enable more accurate forecasting and support evidence-based 
+policymaking. The integration of these improved data streams 
+into BMKG’s Climate Early Warning System (CEWS) enhances and 
+better disaster preparedness to support agriculture, food security, 
+and public health.  
+Building and facilities at Yogyakarta 
+Climatology Station.
+Building and facilities at West Kalimantan 
+Climatology Station.
+Operations Room of Bengkulu 
+Climatology Station.
+100-meter Greenhouse Gas Monitoring Tower 
+at Muaro Jambi Climatology Station.
+Credit: BMKG
+Credit: BMKG
+Credit: BMKG
+Credit: BMKG
+
+===== PAGE 27 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+53
+52
+Application of Dew-Harvesting Technology to Enhance Drinking 
+Water Access
+
+
+
+V. Interpreting Reported Results
+The 2025 Republic of Indonesia Green Sukuk Allocation and Impact Report is developed as a form 
+of transparency and accountability of the issuer, and allows investors to access the details of 
+Allocation and Impact reporting in accordance with the ROI’s Sustainable Government Securities 
+Framework 2021. Several key result indicators have been selected and quantified where possible, 
+but it is important to take into account the inherent limitations of the data reported. The main 
+considerations applied to adequately interpret the results are as follows: 
+a.	 Scope of Results: Reporting is based on “ex-ante” estimates of climate and environmental 
+impacts at the time of project appraisal and mostly for direct project effects. 
+b.	 Uncertainty: In general, consideration in estimating impact indicators and projecting results 
+is based on assumptions which are reasonable due to information available at the time for the 
+actual environmental impact of the projects. Behavioral changes and/ or shifts in baseline 
+conditions can cause deviations from projections. 
+c.	 Comparability: Caution should be taken in comparing projects, sectors, or whole portfolios 
+because baselines (and base years) and calculation methods may be varied. 
+d.	 Partial Project Eligibility: In cases where the project is only partially eligible for Green Sukuk, 
+the committed amount reported reflects the output level from the Climate Budget Tagging 
+mechanism presented by project owners (line ministries). 
+e.	 Omissions: It is worth to note that projects may display benefits across a much wider range of 
+indicators than the ones captured in the impact assessment provided in the report. Therefore, 
+putting exclusive focus on the reported indicators will omit other important development 
+impacts. Where quantitative data is unavailable, qualitative indicators have been included to 
+illustrate other benefits. 
+f.	
+Source of Data: All reported results are derived from the Government of Indonesia’s internal 
+data as well as publicly available sources 
+The Government of Indonesia is committed to achieving SDG Target 6.1 of safe 
+and affordable drinking water for all and the national targets of 100% access 
+to safe drinking water, including 30.45% access through piped drinking 
+water networks. Significant challenges in achieving these goals include the 
+limited availability of raw water sources; over-reliance on groundwater, which 
+risks land subsidence; and high non-revenue water losses in piped systems.
+The Ministry of Public Works and Housing implemented an innovative dew 
+harvesting and purification technology at the State Public Works Polytechnic 
+Semarang campus as part of a decent drinking water system project. 
+The campus is a government facility that has implemented green buildings 
+concepts and was awarded the 2023 ASEAN Energy Award. The project 
+utilized proceeds from Retail Green Sukuk ST 013T4, amounting to 0.05% 
+of the total issuance. The system has a production capacity of approximately 
+300–350 litres of potable water per day under conditions of 70% Relative 
+Humidity and an air temperature of 31° Celsius, supported by a 500-liter 
+storage tank.
+Water is collected from atmospheric moisture and treated using a systemized 
+dew process that includes the Micro Particle Separator System and UV and 
+ozone sterilization. The drinking water quality has been laboratory-tested to 
+ensure compliance with Indonesian National Standards (SNI 7812:2013). 
+Outcomes of the initiative include reduced dependency on groundwater 
+and improved operational efficiency, with potential savings of up to 30–
+40 percent compared to conventional supply systems. Serving as a proof 
+of concept for tropical dew-harvesting, this project also tested a mobile 
+system at Nusantara Capital City (IKN). The collected metrics are crucial 
+for evaluating its efficiency and potential for replicability and large-scale 
+application in water-scarce areas. 
+Commissioning test of the dew-water treatment technology prior 
+to operational deployment.
+Credit: Ministry of Public Works and Housing
+
+===== PAGE 28 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+55
+54
+Annex
+Impact Measurement Methodology and Indicators 
+This annex outlines the methodologies and indicators used to measure and report the environmental 
+and social impacts of projects financed or refinanced by the Green Sukuk. The Ministry of Finance 
+leverages the ROI’s established framework on Impact Measurement Methodology and Indicators, 
+while aligning reporting practices with the ICMA’s Harmonised Framework for Impact Reporting, 
+as much as possible.
+As one of the Parties to the UNFCCC, the ROI has established a policy and institutional framework 
+for Measurement, Reporting, and Verification (MRV) system of mitigation and adaptation actions, 
+embedded in the National Registry System on Climate Change (SRN-PPI). This framework is 
+regulated under Presidential Regulation No. 98/2021 and MOEF Regulation No. 12/2024, which 
+adopts the UNFCCC Clean Development Mechanism (CDM) methodologies, and the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories. The system engages the line ministry’s 
+custodians for the NDCs’ implementation coordinated by the Ministry of Environment - formerly 
+Ministry of Environment and Forestry (MOEF), as the national focal point to the UNFCCC.
+With regard to the SDG alignment, Indonesia’s commitment to sustainable development is 
+embedded in a rigorous Monitoring, Evaluation, and Reporting (MER) Framework. This system 
+tightly integrates the SDGs Roadmap 2023–2030 with the 2025–2029 Medium-Term National 
+Development Plan (RPJMN). Its foundation relies on the SDG Indicators Metadata Edition II 
+(2023), which provides essential details including standardized definitions, calculation methods, 
+and required disaggregation for all indicators.
+Subsector Methodologies and Key Indicators
+	
+ĵ
+Renewable Energy: GHG reductions are estimated by comparing renewable electricity 
+generation from the installed on grid PV systems with baseline grid emission factors derived 
+from conventional fossil-based power generation.
+Indicators: electricity generated (MWh/year), GHG emission reductions (tCO₂e/year).
+Location
+Installed 
+capacity (KWp)
+Electricity 
+generated (MWh/
+year)
+Emission 
+Factor
+Emission 
+reduction 
+(ton CO2e)
+Yogyakarta Palace Rooftop Solar 
+Power Plant
+100
+166
+0.85
+141
+Bali Palace Rooftop Solar Power 
+Plant
+100
+159
+0.85
+135
+Mt. Lewotobi VOS III – East Nusa 
+Tenggara
+6
+11
+0.72
+8
+Mt. Karangetang VOS – North 
+Sulawesi 
+6
+9
+0.8
+7
+Mt. Dempo VOS – South Sumatera 
+6
+8
+0.81
+6
+Total
+218
+353
+297
+* VOS: Volcano observation station
+	
+ĵ
+Sustainable Transport: The railway connectivity infrastructure projects are implemented by the 
+Directorate General of Railways, Ministry of Transportation, aiming to strengthen sustainable, 
+energy-efficient, and low-carbon transport networks. Projects that were refinanced through 
+2024 Green Sukuk proceeds are listed in Section IV: List of Projects. The table below presents 
+a summary of the refinanced projects and their potential and realized GHG emission reduction. 
+ 
+The estimated GHG emission reduction figures presented here are not calculated on a per-
+project basis, but rather derived from the overall operationalization of each railway line that 
+generates mitigation actions. For example, the project to enhance the Jakarta Metropolitan’s 
+urban electric railway facilities along the Manggarai Central Station – Jatinegara corridor 
+contributes to the operationalization of the Jakarta Metropolitan Electric Commuter Line, which 
+results in a measurable mitigation action. Therefore, it is stated that a project financed by the 
+2024 Green Sukuk issuance contributes to the GHG emission reduction of the respective 
+railway line.
+Project Name
+Assumption for GHG 
+emission reduction estimate
+Green Sukuk 
+Proceeds 
+Allocation
+Potential Annual 
+GHG Emission 
+reduction
+Regional/Urban Commuter Line – Power source: Electric traction (grid-supplied)
+The project enhances Jakarta 
+Metropolitan’s urban electric 
+railway (KRL) facilities 
+along the Manggarai Central 
+Station–Jatinegara corridor.
+The project supports passenger 
+railway operations of the Jakarta 
+Metropolitan’s Electric Commuter 
+Line.
+ST 013T4 
+Refinancing FY2023
+510,064 ton/CO2e
+(actual)
+The project consists of 
+strengthening railway 
+electrification Surabaya 
+Regional Railway Line (Phase 
+I) – which has not been 
+operational.
+The project supports railway 
+operations of the Regional East 
+Java and surrounding areas 
+Railway Line.
+ST 013T4 
+Refinancing FY2023
+42,035 ton/CO2e
+(expected)
+Java Passenger and Freight Rail Line – Fuel type: Diesel
+The project consists of 
+the development of the 
+Environmental Management 
+and Monitoring Plans (RKL/
+RPL) for the Semarang 
+Tawang–Tanjung Emas Port 
+Double Track railway segment. 
+(Phase II) – which has not 
+been operational.
+The project supports railway 
+operations of:
+(i) Java passenger Double-track 
+Line;
+(ii) Java freight railway.
+ST 013T4 
+Refinancing FY2023
+(i) 1,016,097 ton/
+CO2e *
+(ii) 1,033,087 ton/
+CO2e *
+(expected)
+The project consists of the 
+development of the RKL/RPL 
+for the Sepanjang–Mojokerto 
+Double-track railway segment 
+– which has not been 
+operational.
+Sumatra Passenger and Freight Rail Line – Fuel type: Diesel
+Development of the railway 
+line between the Medan-Binjai 
+section as an extension of the 
+Medan – Kualanamu Airport 
+Railway Line.
+The project supports railway 
+operations of the airport railway 
+in Sumatra Line.
+ ST 012T4 
+Refinancing FY2023
+1,464 ton/CO2e
+(actual)
+
+===== PAGE 29 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+57
+56
+This method applies to all electric-powered urban, regional, and airport rail services, encompassing 
+Commuter Line, Airport Rail, Mass Rapid Transit, Light Rail Transit, the WHOOSH High-Speed Rail, 
+and other urban rail services. The calculated emission reduction arises from the avoided use of 
+fossil fuels by various ground transport modes (bus, car, taxi, motorcycle) when passengers shift 
+to the electric-powered urban, regional, and airport rail services. This methodology is developed 
+by the Ministry of Transportation’s Centre for Sustainable Transport Management, which adapts 
+the CDM ACM0016 Ver05. It was developed in March 2024 and is currently pending validation 
+from the Ministry of Environment.
+a.	 Baseline Emission Calculation
+1.	 Estimation of Shifted Vehicles:
+ 
+Where:
+	
+ĵ Vehiclesshift,i,y = Number of vehicles shifted from land transport mode i to electric-
+based rail type k in year y (units)
+	
+ĵ Totalpass,AM,k,y= Total passengers of urban, regional, and airport railways of type k in 
+year y (persons)
+	
+ĵ Modeshift,i,y = Percentage of passengers shifting from land transport mode i in year y (%)
+	
+ĵ Occupancymode,i,y = Average passenger occupancy per vehicle of mode i (persons)
+	
+ĵ i = Type of land transport mode (e.g., private car, motorcycle, bus);
+	
+ĵ k = Type of railway (urban, regional, or airport);
+	
+ĵ y = Mitigation year
+2.	 Fuel Consumption by Land Transport Mode:
+Where:
+	
+ĵ FuelConsi,y = Fuel consumption of land transport mode i in year y (kL);
+	
+ĵ Vehiclesshift,i,y = Number of shifted vehicles (units);
+	
+ĵ Operationy = Average operating days per year;
+	
+ĵ TripLengthpass = Average trip length per passenger (km/passenger);
+	
+ĵ SCEmode,i,y = Specific energy consumption of mode i (litre/km);
+	
+ĵ 10-3 = Conversion factor from litre to kilolitre.
+Project Name
+Assumption for GHG 
+emission reduction estimate
+Green Sukuk 
+Proceeds 
+Allocation
+Potential Annual 
+GHG Emission 
+reduction
+This project consists of 
+construction, supervision, and 
+land acquisition to support 
+the development of railway 
+connectivity between North 
+Sumatra and Aceh.
+The project supports railway 
+operations of:
+(i) Sumatra passenger single-
+track Line;
+(ii) Sumatra freight railway.
+ST 013T4 
+Refinancing FY2023
+(i) 90,864 ton/CO2e;
+(ii) 1,033,087 ton/
+CO2e *
+(actual)
+The project consists 
+of 1 railway crane unit 
+procurement for South 
+Sumatra Corridor.
+Sulawesi Passenger Rail Line – Fuel type: Diesel
+The construction of a 
+dedicated access road and 
+installation of street lightings 
+that link the national road 
+networks to Barru Station.
+The project supports railway 
+operations across Makassar-Pare 
+pare Line in South Sulawesi.
+PBSG Refinancing 
+FY2023
+771 ton/CO2e
+(actual)
+The construction of street 
+lighting for station access 
+roads and improvement of 
+depot infrastructure facilities, 
+including landscaping 
+development at the Maros 
+Train Depot.
+ST 013T4 
+Refinancing FY2023
+TOTAL
+ 
+3,727,469
+* Based on the available aggregate fuel consumption data from freight train operations in Sumatra and Java.
+Based on the above projects, the potential or realized GHG emission reduction is calculated 
+from three key mitigation pathways:
+1. The operation of electric-powered urban, and regional railways,
+2. The operation of diesel-fuelled passenger railways, and
+3. The modal shift of freight transport from diesel-fuelled trucks to diesel-fuelled trains.
+The calculation framework follows the general equation:
+REy = BEy – EAMy
+where: REy represents the estimated GHG emission reduction in year y, derived as the difference 
+between baseline emissions (BEy) and mitigation action emissions (EAMy​).
+The calculation uses national emission factor data (Tier 2) issued by the Ministry of Energy and 
+Mineral Resources (ESDM).
+Fuel Type
+Emission Factor
+kg CO₂/litre
+kg CO₂/TJ
+Diesel
+2.65
+73,700
+Gasoline
+2.31
+70,900
+Methodology 1: Electric-Powered Urban, Regional, and Airport Railways
+Vehiclesshift,i,y  =
+Totalpass,AM,k,y  x Modeshift,i,y
+Occupancymode,i,y
+FuelConsi,y = Vehiclesshift,i,y   X  Operationy   X  TripLengthpass   X  SCEmode,i,y   X  10-3
+
+===== PAGE 30 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+59
+58
+3.	 Baseline Emission:
+Where:
+	
+ĵ BEy = Baseline emission in year y (ton CO₂);
+	
+ĵ FuelConsi,y = Fuel consumption by mode i (kL);
+	
+ĵ NCVj,y = Net calorific value of fuel type j (TJ/Gg);
+	
+ĵ pj,y = Fuel density (kg/m³);
+	
+ĵ EFj,y = Fuel emission factor (ton CO₂/TJ);
+	
+ĵ 10-6 = Conversion factor from kg to Gg;
+	
+ĵ j = Fuel type (e.g., gasoline, diesel, biodiesel)
+b.	 Mitigation Action Emission Calculation
+Emission from electric-based urban, regional, and airport railway operation:
+Where:
+	
+ĵ EAMy = Emission from mitigation action in year y (ton CO₂)
+	
+ĵ ElectricConsgrid,i,y = Electricity consumption by electric-based railways in year y (MWh)
+	
+ĵ EFavg-OM,grid,i,y = Average Operating Margin emission factor of grid i (ton CO₂/MWh)
+	
+ĵ LTDgrid,i,y = Transmission and distribution losses of grid i (fraction)
+ Where:
+	
+ĵ FuelConsi,y = Fuel consumption of vehicle type in year y (kL)
+	
+ĵ NCVj,y= Net calorific value of fuel i (TJ/Gg)
+	
+ĵ pj,y = Fuel density (kg/m³)
+	
+ĵ EFj,y= CO₂ emission factor (ton CO₂/TJ)
+2.	 Mitigation Action Emission:
+Emissions from railway operations are calculated based on actual diesel fuel consumption for 
+train services:
+ 
+Where:
+	
+ĵ FCrail,y = Fuel consumption of diesel railway operations in year y (kL)
+	
+ĵ NCVj,y = Net calorific value of fuel i (TJ/Gg)
+	
+ĵ pj,y = Fuel density (kg/m³)
+	
+ĵ EFj,y = CO₂ emission factor (ton CO₂/TJ)
+Methodology 2: Diesel-Fuelled Passenger Railways
+The methodology estimates potential GHG emission reductions from shifting passenger transport 
+from road-based modes (cars, buses, motorcycles) to diesel-powered railway systems.
+1.	 Baseline Emission:
+Baseline emissions represent GHG emissions from passenger transport that would occur 
+in the absence of the railway project. They are estimated based on fuel consumption from 
+equivalent passenger travel using conventional road vehicles:
+ 
+Methodology 3: Freight to Railway
+This mitigation emission calculation is conducted to estimate the potential reduction of GHG 
+emissions resulting from the modal shift of freight transportation from diesel-fuelled trucks to 
+diesel-fuelled trains. This approach is conducted at an aggregated regional level (Sumatra and 
+Java) due to the limited availability of detailed activity data per project or route. Therefore, the 
+results represent an overall estimation of potential emission reductions derived from improved 
+connectivity and efficiency in diesel freight railway transport.
+1.	 Baseline Emission Calculation
+1.	 Estimation of freight moved to rail (tonne-kilometres shifted):
+Where:
+	
+ĵ TKMshift,k,y = tonne·km shifted (tonne·km)
+	
+ĵ Volumeshift,k,y = mass shifted to rail for commodity/type k in year y (tonnes)
+	
+ĵ Distancek = average trip distance for commodity/type k (km)
+EBy  =	         ( FuelConsi,y   X  NCVj,y   X  pj,y   X  EFj,y   X  10-6 )
+i
+EBy = FuelConsi,y   X  NCVj,y   X  pj,y   X  EFj,y   X  10-6
+EAMy  =
+EAMy  =  FCrail,y   X  NCVdiesel,y   X  pdiesel,y   X  EFdiesel,y   X  10-6
+TKMshift,k,y   =  Volumeshift,k,y   X  Distancek
+( ElectricConsgrid,i,y   X  EFavg-OM,grid,i,y )
+(1  -  LTDgrid,i,y)
+∑
+
+===== PAGE 31 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+61
+60
+2.	 Fuel Consumption by Road trucks (diesel):
+Where:
+	
+ĵ FuelRoadj,k,y = fuel consumed by road trucks using fuel j for commodity k in year y (kL)
+	
+ĵ Elroad = energy/fuel intensity of road freight (L fuel / tonne·km),
+	
+ĵ 10-3 = converts from L → kL.
+3.	 Baseline Emission:
+Where:
+	
+ĵ FuelRoadj,k,y = fuel consumed by road trucks using fuel j for commodity k in year y (kL)
+	
+ĵ NCVj,y = Net calorific value of fuel type j (TJ/Gg);
+	
+ĵ pj,y = Fuel density (kg/m³);
+	
+ĵ FEj,y = Fuel emission factor (ton CO₂/TJ);
+	
+ĵ 10-6 = Conversion factor from kg to Gg.
+2.	 Mitigation Action Emission Calculation
+Emissions from diesel freight rail (Tonne-km × rail fuel intensity):
+Where:
+	
+ĵ Fuelrailj,k,y = fuel consumed by rail freight using fuel j for commodity k in year y (kL)
+	
+ĵ TKMshift,k,y = tonne·km shifted (tonne·km)
+	
+ĵ Elrail,j,k,y = energy/fuel intensity of rail freight (L fuel / tonne·km)
+	
+ĵ 10-3  = converts from L → kL
+Emissions from diesel freight railway operation:
+Where:
+	
+ĵ
+Fuelrailj,k,y = fuel consumed by rail freight using fuel j for commodity k in year y (kL)
+	
+ĵ
+NCVj,y = Net calorific value of fuel type j (TJ/Gg);
+	
+ĵ
+pj,y = Fuel density (kg/m³);
+	
+ĵ
+FEj,y = Fuel emission factor (ton CO₂/TJ);
+	
+ĵ
+10-6 = Conversion factor from kg to Gg.
+	
+ĵ
+Resilience to Climate Change for Highly Vulnerable Areas and Sectors/Disaster Risk 
+Reduction: The projects improve resilience outcomes and reduce climate risks. The 
+quantification follows Indonesia’s National MRV Framework for Adaptation established under 
+Presidential Regulation No. 98/2021 and Minister of Environment and Forestry Regulation 
+No. 12/2024. ROI has established:
+•	
+SIDIK (Vulnerability Index Data Information System) is a platform developed by the 
+Ministry of Environment and Forestry to assess and map climate vulnerability – such as 
+floods, droughts, and forest fires, by integrating biophysical and socioeconomic indicators 
+to guide adaptation planning. 
+•	
+InaRisk (Indonesia’s Disaster Risk Portal) is a risk assessment platform managed by the 
+National Disaster Management Agency (BNPB) that visualizes hazard maps, population 
+exposure, potential physical and economic losses, and supports disaster risk reduction 
+planning and monitoring.
+Indicators: area reduced/avoided from climate risks (ha), number of beneficiaries, resilience 
+index improvement.
+	
+ĵ
+Sustainable Water and Wastewater Management: The projects aim at (i) enhancing universal 
+access to safe drinking water to ensure that all households have connections to piped clean 
+water supply systems, (ii) developing and scaling up regional water supply systems (SPAM), 
+constructing water treatment plants (WTP), building transmission and distribution networks 
+to reach more communities, and (iii) managing water resources to support broader sustainable 
+development goals in communities and agricultural areas.
+Indicators: Number of people benefiting from improved water availability or reduced flood 
+risk; Total area with improved water retention or irrigation efficiency (hectares); Volume of 
+water conserved or stored annually (m³/year); Number of water management infrastructures 
+constructed or rehabilitated (dams, canals, retention basins, drainage systems); Reduction in 
+frequency or impact of flood/drought events in project areas
+FuelRoadj,k,y =  TKMshift,k,y   X  Elroad,j,k,y   X  10-3
+Fuelrailj,k,y =  TKMshift,k,y   X  Elrail,j,k,y   X  10-3
+EBy  =	         ( FuelRoadj,k,y   X  NCVj,y   X  pj,y   X  EFj,y   X  10-6 )
+EAMy  =	
+  ( Fuelrailj,k,y   X  NCVj,y   X  pj,y   X  EFj,y   X  10-6 )
+j,k
+∑
+∑
+
+===== PAGE 32 =====
+2025 Green Sukuk Allocation and Impact Report
+2025 Green Sukuk Allocation and Impact Report
+63
+62
+Transaction Summary of 2024 Sovereign Green Sukuk 
+Transaction Summary
+ISIN
+USY68613AC56
+Obligor
+The Government of the Republic of Indonesia, represented by the Ministry of Finance
+Issuer
+Perusahaan Penerbit SBSN Indonesia III (“PPSI III”)
+Issue Format
+144A / Reg S, Senior, Unsecured, Wakala US$ Trust Certificate (“Sukuk”)
+Issuer Ratings
+Baa2 Stb (Moody’s) / BBB Stb (S&P) / BBB Stb (Fitch)
+Issuer Rating
+Baa2 (Moody’s) / BBB (S&P) / BBB (Fitch)
+Pricing Date/ Issuance 
+Date
+25 June 2024/ 2 July 2024
+Tenor
+USD 30Y Green Sukuk 
+Maturity Date
+2 July 2054
+Tranche Size
+600 million
+Profit Rate
+5.50% Fixed, Semi-annual 30/360
+Re-Offer Price
+100.00%
+Structure
+Issued under Wakalah structure with sharia opinions from: 
+•	
+the National Sharia Board of the Indonesian Ulama Council (DSN MUI), 
+•	
+the Shari’a Advisory Board of Citi Islamic Investment Bank E.C., 
+•	
+the Internal Sharia Supervisory Committee (ISSC) of Dubai Islamic Bank PJSC, 
+•	
+the HSBC Global Shariah Supervisory Committee, 
+•	
+the Sharia Advisor of PT Mandiri Sekuritas, and 
+•	
+the Shariah Committee of MUFG Bank (Malaysia) Berhad.
+Listing
+SGX-ST and Nasdaq Dubai (dual listing)
+Joint Bookrunners
+Citigroup, Dubai Islamic Bank, HSBC, Mandiri Securities, MUFG Securities (also Joint 
+Green Structuring Advisors: HSBC & MUFG)
+Co-Managers
+PT BRI Danareksa Sekuritas, PT Trimegah Sekuritas Indonesia Tbk
+55
+Published by Ministry of Finance, Republic of Indonesia
+Contact us:
+Directorate General of Budget Financing and Risk Management
+(62 - 21) 3516296
+www.djppr.kemenkeu.go.id
+webmaster.djppr@kemenkeu.go.id
+MINISTRY OF FINANCE
+REPUBLIC OF INDONESIA
+
+===== PAGE 33 =====
+
+===== PAGE 34 =====
+
+===== PAGE 35 =====

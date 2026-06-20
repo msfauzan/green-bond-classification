@@ -1,0 +1,1438 @@
+﻿Nomor,BondId,BondName,IssuerCode,MatureDate,Rating,Outstanding
+1,SIEXCL02ECN1,Sukuk Ijarah Berkelanjutan II XL Axiata Tahap I Tahun 2018 Seri E,EXCL,2028-10-16T07:00:00,AA+(idn),60000000000.0
+2,SIPPLN03DCN3,Sukuk Ijarah Berkelanjutan III PLN Tahap III Tahun 2019 Seri D,PPLN,2029-02-19T07:00:00,idAAA(sy),45000000000.0
+3,SIPPLN03FCN3,Sukuk Ijarah Berkelanjutan III PLN Tahap III Tahun 2019 Seri F,PPLN,2039-02-19T07:00:00,idAAA(sy),28000000000.0
+4,SIPPLN03ECN3,Sukuk Ijarah Berkelanjutan III PLN Tahap III Tahun 2019 Seri E,PPLN,2034-02-19T07:00:00,idAAA(sy),60000000000.0
+5,PPLN03DCN4,Obligasi Berkelanjutan III PLN Tahap IV Tahun 2019 Seri D,PPLN,2034-08-01T07:00:00,idAAA,395000000000.0
+6,BEXI04FCN4,Obligasi Berkelanjutan Indonesia Eximbank IV Tahap IV Tahun 2019 Seri F,BEXI,2034-04-23T07:00:00,idAAA,625000000000.0
+7,SIPPLN03DCN4,Sukuk Ijarah Berkelanjutan III PLN Tahap IV Tahun 2019 Seri D,PPLN,2034-08-01T07:00:00,idAAA(sy),49000000000.0
+8,BBIA02SBCN1,Obligasi Subordinasi Berkelanjutan II Bank UOB Indonesia Tahap I Tahun 2019,BBIA,2026-07-05T07:00:00,AA(idn),100000000000.0
+9,EXCL01ECN1,Obligasi Berkelanjutan I XL Axiata Tahap I Tahun 2018 Seri E,EXCL,2028-10-16T07:00:00,AA+(idn),72000000000.0
+10,TDPM02,Obligasi II Tridomain Performance Materials Tahun 2019,TDPM,2027-12-27T07:00:00,idD,370000000000.0
+11,TDPM01,Obligasi I Tridomain Performance Materials Tahun 2018,TDPM,2027-12-27T07:00:00,idD,92500000000.0
+12,SIPPLN03DCN2,Sukuk Ijarah Berkelanjutan III PLN Tahap II Tahun 2018 Seri D,PPLN,2038-10-10T07:00:00,idAAA(sy),50000000000.0
+13,PPLN03ECN2,Obligasi Berkelanjutan III PLN Tahap II Tahun 2018 Seri E,PPLN,2038-10-10T07:00:00,idAAA,46000000000.0
+14,SIEXCL02ECN2,Sukuk Ijarah Berkelanjutan II XL Axiata Tahap II Tahun 2019 Seri E,EXCL,2029-02-08T07:00:00,AA+(idn),26000000000.0
+15,SIISAT03DCN2,Sukuk Ijarah Berkelanjutan III Indosat Tahap II Tahun 2019 Seri D,ISAT,2029-07-23T07:00:00,idAAA(sy),20000000000.0
+16,NISP04BCN1,Obligasi Berkelanjutan IV OCBC Tahap I Tahun 2025 Seri B,NISP,2028-07-03T07:00:00,AAA(idn),537930000000.0
+17,IMFI06CCN1,Obligasi Berkelanjutan VI Indomobil Finance Dengan Tingkat Bunga Tetap Tahap I Tahun 2025 Seri C,IMFI,2030-07-03T07:00:00,idAA-,400000000000.0
+18,IMFI06ACN1,Obligasi Berkelanjutan VI Indomobil Finance Dengan Tingkat Bunga Tetap Tahap I Tahun 2025 Seri A,IMFI,2026-07-13T07:00:00,idAA-,520000000000.0
+19,SMBWPT01ACN1,Sukuk Mudharabah Berkelanjutan I Eagle High Plantations Tahap I Tahun 2025 Seri A,BWPT,2026-07-13T07:00:00,idA-(sy),37290000000.0
+20,ASDF07ACN1,Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap I Tahun 2025 Seri A,ASDF,2026-07-14T07:00:00,idAAA,489980000000.0
+21,MBMN01X2MF,MTN I PT Mitra Bisnis Madani Tahun 2024 Tahap II,MBMN-M,2030-07-04T07:00:00,,50000000000.0
+22,SGRO02ACN1,Obligasi Berkelanjutan II Sampoerna Agro Tahap I Tahun 2025 Seri A,SGRO,2028-07-04T07:00:00,idA,14480000000.0
+23,BBNI01ASLCN1,Obligasi Berlandaskan Keberlanjutan Berkelanjutan I Bank BNI Tahap I Tahun 2025 Seri A,BBNI,2028-07-04T07:00:00,idAAA,3500000000000.0
+24,BBKP04BSBCN1,Obligasi Subordinasi Berkelanjutan IV KB Bank Tahap I Tahun 2025 Seri B,BBKP,2032-07-04T07:00:00,AA(idn),198000000000.0
+25,SISGRO02BCN1,Sukuk Ijarah Berkelanjutan II Sampoerna Agro Tahap I Tahun 2025 Seri B,SGRO,2030-07-04T07:00:00,idA(sy),118845000000.0
+26,BMTP02ACN1,Obligasi Berkelanjutan II Bank Mandiri Taspen Tahap I Tahun 2025 Seri A,BMTP,2028-07-04T07:00:00,idAAA,800000000000.0
+27,SISGRO02ACN1,Sukuk Ijarah Berkelanjutan II Sampoerna Agro Tahap I Tahun 2025 Seri A,SGRO,2028-07-04T07:00:00,idA(sy),6155000000.0
+28,CUAN01ACN1,Obligasi Berkelanjutan I Petrindo Jaya Kreasi Tahap I Tahun 2025 Seri A,CUAN,2026-07-11T07:00:00,idA,97500000000.0
+29,BVIC04CN1,Obligasi Berkelanjutan IV Bank Victoria Tahap I Tahun 2025,BVIC,2028-07-04T07:00:00,idA-,750000000000.0
+30,SWCUAN01BCN1,Sukuk Wakalah Berkelanjutan I Petrindo Jaya Kreasi Tahap I Tahun 2025 Seri B,CUAN,2030-07-04T07:00:00,idA(sy),297500000000.0
+31,ASDF07BCN1,Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap I Tahun 2025 Seri B,ASDF,2028-07-04T07:00:00,idAAA,510020000000.0
+32,CUAN01BCN1,Obligasi Berkelanjutan I Petrindo Jaya Kreasi Tahap I Tahun 2025 Seri B,CUAN,2030-07-04T07:00:00,idA,552500000000.0
+33,AMCF01A,EBA Avrist AM CF 01 Tagihan Spaylater Kelas A,AMCF,2026-06-30T07:00:00,,160000000000.0
+34,SMPNMP01ASECN1,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri A,PNMP,2026-07-18T07:00:00,idAAA(sy),989995000000.0
+35,SMFP02SOCN1,Obligasi Berwawasan Sosial Berkelanjutan II Sarana Multigriya Finansial Tahap I Tahun 2025,SMFP,2030-07-08T07:00:00,idAAA,1650000000000.0
+36,SANF05BCN1,Obligasi Berkelanjutan V SANF Dengan Tingkat Bunga Tetap Tahap I Tahun 2025 Seri B,SANF,2028-07-08T07:00:00,idAA+,853000000000.0
+37,WISL01CCN1,Obligasi Berkelanjutan I Wahana Inti Selaras Tahap I Tahun 2025 Seri C,WISL,2030-07-08T07:00:00,idA,100000000000.0
+38,SANF05ACN1,Obligasi Berkelanjutan V SANF Dengan Tingkat Bunga Tetap Tahap I Tahun 2025 Seri A,SANF,2026-07-18T07:00:00,idAA+,500000000000.0
+39,FIFA07BCN1,Obligasi Berkelanjutan VII Federal International Finance Tahap I Tahun 2025 Seri B,FIFA,2028-07-08T07:00:00,AAA(idn),387933000000.0
+40,SWCARE01B,Sukuk Wakalah I Metro Healthcare Indonesia Tahun 2025 Seri B,CARE,2028-07-09T07:00:00,irA-(sy),250000000000.0
+41,RMKE01BCN1,Obligasi Berkelanjutan I RMK Energy Tahap I Tahun 2025 Seri B,RMKE,2028-07-09T07:00:00,idA,284000000000.0
+42,USDOPPM02BCN2,Obligasi USD Berkelanjutan II OKI Pulp & Paper Mills Tahap II Tahun 2025 Seri B,OPPM,2030-07-29T07:00:00,idA+,1415500.0
+43,USDOPPM02ACN2,Obligasi USD Berkelanjutan II OKI Pulp & Paper Mills Tahap II Tahun 2025 Seri A,OPPM,2028-07-29T07:00:00,idA+,4141295.0
+44,SIPPLN03CCN2,Sukuk Ijarah Berkelanjutan III PLN Tahap II Tahun 2018 Seri C,PPLN,2028-10-10T07:00:00,idAAA(sy),15000000000.0
+45,SMII02DCN2,Obligasi Berkelanjutan II Sarana Multi Infrastruktur Tahap II Tahun 2019 Seri D,SMII,2026-08-28T07:00:00,idAAA,1292000000000.0
+46,PPLN03DCN2,Obligasi Berkelanjutan III PLN Tahap II Tahun 2018 Seri D,PPLN,2033-10-10T07:00:00,idAAA,15000000000.0
+47,BVIC02SBCN1,Obligasi Subordinasi Berkelanjutan II Bank Victoria Tahap I Tahun 2019,BVIC,2026-06-28T07:00:00,idBBB,250000000000.0
+48,ISAT03DCN2,Obligasi Berkelanjutan III Indosat Tahap II Tahun 2019 Seri D,ISAT,2029-07-23T07:00:00,idAAA,75000000000.0
+49,SMSMII01DCN3,Sukuk Mudharabah Berkelanjutan I Sarana Multi Infrastruktur Tahap III Tahun 2019 Seri D,SMII,2026-08-28T07:00:00,idAAA(sy),76000000000.0
+50,SIPPLN03BCN4,Sukuk Ijarah Berkelanjutan III PLN Tahap IV Tahun 2019 Seri B,PPLN,2026-08-01T07:00:00,idAAA(sy),368000000000.0
+51,BEXI04ECN4,Obligasi Berkelanjutan Indonesia Eximbank IV Tahap IV Tahun 2019 Seri E,BEXI,2029-04-23T07:00:00,idAAA,349000000000.0
+52,SIPPLN03BCN5,Sukuk Ijarah Berkelanjutan III PLN Tahap V Tahun 2019 Seri B,PPLN,2026-10-01T07:00:00,idAAA(sy),10000000000.0
+53,SMII02DCN3,Obligasi Berkelanjutan II Sarana Multi Infrastruktur Tahap III Tahun 2019 Seri D,SMII,2026-10-30T07:00:00,idAAA,945250000000.0
+54,SIPPLN03CCN5,Sukuk Ijarah Berkelanjutan III PLN Tahap V Tahun 2019 Seri C,PPLN,2029-10-01T07:00:00,idAAA(sy),92000000000.0
+55,PPLN03BCN5,Obligasi Berkelanjutan III PLN Tahap V Tahun 2019 Seri B,PPLN,2026-10-01T07:00:00,idAAA,445000000000.0
+56,PPLN03ECN5,Obligasi Berkelanjutan III PLN Tahap V Tahun 2019 Seri E,PPLN,2039-10-01T07:00:00,idAAA,500000000000.0
+57,BEXI04DCN7,Obligasi Berkelanjutan Indonesia Eximbank IV Tahap VII Tahun 2019 Seri D,BEXI,2026-10-29T07:00:00,idAAA,112000000000.0
+58,PPLN03DCN5,Obligasi Berkelanjutan III PLN Tahap V Tahun 2019 Seri D,PPLN,2034-10-01T07:00:00,idAAA,166000000000.0
+59,SIPPLN03DCN5,Sukuk Ijarah Berkelanjutan III PLN Tahap V Tahun 2019 Seri D,PPLN,2034-10-01T07:00:00,idAAA(sy),135000000000.0
+60,PPLN03CCN5,Obligasi Berkelanjutan III PLN Tahap V Tahun 2019 Seri C,PPLN,2029-10-01T07:00:00,idAAA,6200000000.0
+61,BEXI04DCN6,Obligasi Berkelanjutan Indonesia Eximbank IV Tahap VI Tahun 2019 Seri D,BEXI,2026-09-03T07:00:00,idAAA,714500000000.0
+62,SIPPLN03ECN5,Sukuk Ijarah Berkelanjutan III PLN Tahap V Tahun 2019 Seri E,PPLN,2039-10-01T07:00:00,idAAA(sy),554000000000.0
+63,TELE02CN2,Obligasi Berkelanjutan II Tiphone Tahap II Tahun 2019,TELE,2030-12-23T07:00:00,idD,500000000000.0
+64,BBIA02SBCN2,Obligasi Subordinasi Berkelanjutan II Bank UOB Indonesia Tahap II Tahun 2019,BBIA,2026-11-13T07:00:00,AA(idn),650000000000.0
+65,BEXI04ECN7,Obligasi Berkelanjutan Indonesia Eximbank IV Tahap VII Tahun 2019 Seri E,BEXI,2029-10-29T07:00:00,idAAA,219750000000.0
+66,BJBR01CCN3,Obligasi Berkelanjutan I Bank BJB Tahap III Tahun 2019 Seri C,BJBR,2026-10-18T07:00:00,idAA,74000000000.0
+67,BVIC02SBCN2,Obligasi Subordinasi Berkelanjutan II Bank Victoria Tahap II Tahun 2019,BVIC,2026-11-08T07:00:00,idBBB,150000000000.0
+68,PPLN03DCN6,Obligasi berkelanjutan III PLN Tahap VI Tahun 2020 Seri D,PPLN,2035-02-18T07:00:00,idAAA,1459000000000.0
+69,PPLN03ECN6,Obligasi berkelanjutan III PLN Tahap VI Tahun 2020 Seri E,PPLN,2040-02-18T07:00:00,idAAA,1596050000000.0
+70,SIPPLN03CCN6,Sukuk Ijarah Berkelanjutan III PLN Tahap VI Tahun 2020 Seri C,PPLN,2035-02-18T07:00:00,idAAA(sy),9000000000.0
+71,SIPPLN03DCN6,Sukuk Ijarah Berkelanjutan III PLN Tahap VI Tahun 2020 Seri D,PPLN,2040-02-18T07:00:00,idAAA(sy),62500000000.0
+72,PPRO02BCN1,Obligasi Berkelanjutan II PP Properti Tahap I Tahun 2020 Seri B,PPRO,2045-02-17T07:00:00,idB,47900000000.0
+73,SIPPLN03ACN6,Sukuk Ijarah Berkelanjutan III PLN Tahap VI Tahun 2020 Seri A,PPLN,2027-02-18T07:00:00,idAAA(sy),40500000000.0
+74,KAII02B,Obligasi II Kereta Api Indonesia Tahun 2019 Seri B,KAII,2026-12-13T07:00:00,idAAA,1100000000000.0
+75,PPLN03CCN6,Obligasi Berkelanjutan III PLN Tahap VI Tahun 2020 Seri C,PPLN,2030-02-18T07:00:00,idAAA,544250000000.0
+76,PPLN03BCN6,Obligasi Berkelanjutan III PLN Tahap VI Tahun 2020 Seri B,PPLN,2027-02-18T07:00:00,idAAA,672500000000.0
+77,BEXI04CCN8,Obligasi Berkelanjutan Indonesia Eximbank IV Tahap VIII Tahun 2019 Seri C,BEXI,2026-12-06T07:00:00,idAAA,22500000000.0
+78,BJBR02BSBCN1,Obligasi Subordinasi Berkelanjutan II Bank BJB Tahap I Tahun 2020 Seri B,BJBR,2027-03-03T07:00:00,idA+,368000000000.0
+79,SIPPLN03BCN6,Sukuk Ijarah Berkelanjutan III PLN Tahap VI Tahun 2020 Seri B,PPLN,2030-02-18T07:00:00,idAAA(sy),3500000000.0
+80,KEID01CXMF,MTN I Kedaung Industrial Seri C,KEID-M,2028-05-08T07:00:00,,100000000000.0
+81,KEID01BXMF,MTN I Kedaung Industrial Seri B,KEID-M,2028-03-02T07:00:00,,120000000000.0
+82,KEID01DXMF,MTN I Kedaung Industrial Seri D,KEID-M,2028-06-07T07:00:00,,50000000000.0
+83,BVIC02SBCN3,Obligasi Subordinasi Berkelanjutan II Bank Victoria Tahap III Tahun 2020,BVIC,2027-04-01T07:00:00,idBBB,60000000000.0
+84,PPLN03CCN7,Obligasi Berkelanjutan III PLN Tahap VII Tahun 2020 Seri C,PPLN,2027-05-06T07:00:00,idAAA,312180000000.0
+85,KEID01AXMF,MTN I Kedaung Industrial Seri A,KEID-M,2027-12-22T07:00:00,,130000000000.0
+86,BRTA01AXMF,MTN I Barata Indonesia Tahun 2017 Seri A,BRTA-M,2032-02-21T07:00:00,idCCC,200000000000.0
+87,BRTA01BXMF,MTN I Barata Indonesia Tahun 2017 Seri B,BRTA-M,2032-02-21T07:00:00,idCCC,100000000000.0
+88,SSMM01B,Obligasi Sumberdaya Sewatama I Tahun 2012 Seri B,SSMM,2034-12-31T07:00:00,idCCC,0.0
+89,USD-MKSU01EXJP,Surat Utang Jangka Panjang Mahkota Sentosa Utama I Tahun 2019 Seri E,MKSU-M,2029-12-05T07:00:00,,4680000.0
+90,USD-MKSU01CXJP,Surat Utang Jangka Panjang Mahkota Sentosa Utama I Tahun 2019 Seri C,MKSU-M,2029-12-05T07:00:00,,54000000.0
+91,ADMF06BCN5,Obligasi Berkelanjutan VI Adira Finance Tahap V Tahun 2025 Seri B,ADMF,2028-02-14T07:00:00,idAAA,856076000000.0
+92,SMNMVS05,Sukuk Mudharabah Jangka Menengah V PT PNM Ventura Syariah Tahun 2025,NMVS-M,2029-02-14T07:00:00,,115000000000.0
+93,MDKA05BCN2,Obligasi Berkelanjutan V Merdeka Copper Gold Tahap II Tahun 2025 Seri B,MDKA,2028-02-25T07:00:00,idA+,1944000000000.0
+94,BWPT01BCN2,Obligasi Berkelanjutan I Eagle High Plantations Tahap II Tahun 2025 Seri B,BWPT,2028-02-26T07:00:00,idA-,6170000000.0
+95,BESL01X2JP,LTN I PT Bintang Express Sarana Tahun 2024 Tahap II,BESL-M,2032-02-27T07:00:00,,490000000000.0
+96,TAFS04BCN5,Obligasi Berkelanjutan IV Toyota Astra Financial Services Tahap V Tahun 2025 Seri B,TAFS,2028-02-28T07:00:00,AAA(idn),500000000000.0
+97,AGPU01X2JP,LTN I PT Adhi Guna Putera Tahun 2024 Tahap 2,AGPU-M,2035-02-28T07:00:00,,225000000000.0
+98,MSTJ02X2MF,Medium Term Notes II PT Multi Sandang Tamajaya Tahun 2024 Tahap II,MSTJ-M,2030-03-11T07:00:00,,75000000000.0
+99,IMFI05CCN2,Obligasi Berkelanjutan V Indomobil Finance Tahap II Tahun 2023 Seri C,IMFI,2028-03-28T07:00:00,idAA-,86320000000.0
+100,SMII03CCN3,Obligasi Berkelanjutan III Sarana Multi Infrastruktur Tahap III Tahun 2023 Seri C,SMII,2027-05-17T07:00:00,idAAA,1914130000000.0
+101,OPPM02CCN1,Obligasi Berkelanjutan II Oki Pulp & Paper Mills Tahap I Tahun 2025 Seri C,OPPM,2030-03-25T07:00:00,idA+,109745000000.0
+102,OPPM02BCN1,Obligasi Berkelanjutan II Oki Pulp & Paper Mills Tahap I Tahun 2025 Seri B,OPPM,2028-03-25T07:00:00,idA+,1136020000000.0
+103,SMOPPM02BCN1,Sukuk Mudharabah Berkelanjutan II Oki Pulp & Paper Mills Tahap I Tahun 2025 Seri B,OPPM,2030-03-25T07:00:00,idA+(sy),1034665000000.0
+104,USDOPPM02BCN1,Obligasi USD Berkelanjutan II Oki Pulp & Paper Mills Tahap I Tahun 2025 Seri B,OPPM,2028-03-25T07:00:00,idA+,1557000.0
+105,SIBOLD01C,Sukuk Ijarah I BUMA Tahun 2025 Seri C,BOLD,2030-03-26T07:00:00,idA+(sy),1092200000000.0
+106,SIBOLD01B,Sukuk Ijarah I BUMA Tahun 2025 Seri B,BOLD,2028-03-26T07:00:00,idA+(sy),364950000000.0
+107,KAII02BCN2,Obligasi Berkelanjutan II Kereta Api Indonesia Tahap II Tahun 2025 Seri B,KAII,2032-03-27T07:00:00,idAAA,134875000000.0
+108,OTMA01CCN3,Obligasi Berkelanjutan I Oto Multiartha Tahap III Tahun 2025 Seri C,OTMA,2030-03-27T07:00:00,idAAA,332200000000.0
+109,SMII04BCN3,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap III Tahun 2025 Seri B,SMII,2028-03-27T07:00:00,idAAA,1128030000000.0
+110,SMII04CCN3,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap III Tahun 2025 Seri C,SMII,2030-03-27T07:00:00,idAAA,1115010000000.0
+111,SIKAII02ACN2,Sukuk Ijarah Berkelanjutan II Kereta Api Indonesia Tahap II Tahun 2025 Seri A,KAII,2030-03-27T07:00:00,idAAA(sy),168565000000.0
+112,SIISSP02BCN3,Sukuk Ijarah Berkelanjutan II SPINDO Tahap III Tahun 2025 Seri B,ISSP,2028-04-23T07:00:00,idA(sy),155000000.0
+113,SIISSP02CCN3,Sukuk Ijarah Berkelanjutan II SPINDO Tahap III Tahun 2025 Seri C,ISSP,2030-04-23T07:00:00,idA(sy),76010000000.0
+114,INKP05BCN4,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri B,INKP,2028-06-12T07:00:00,idA+,621390000000.0
+115,INKP05CCN4,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri C,INKP,2030-06-12T07:00:00,idA+,286880000000.0
+116,USDINKP02BCN3,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap III Tahun 2025 Seri B,INKP,2028-06-12T07:00:00,idA+,1278000.0
+117,BCAP05BCN2,Obligasi Berkelanjutan V MNC Kapital Indonesia Tahap II Tahun 2025 Seri B,BCAP,2028-06-12T07:00:00,idBBB+,39400000000.0
+118,SISSMM01,Sukuk Ijarah Sumberdaya Sewatama I Tahun 2012,SSMM,2034-12-31T07:00:00,idCCC(sy),0.0
+119,USDINKP02ACN3,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap III Tahun 2025 Seri A,INKP,2026-06-22T07:00:00,idA+,1515000.0
+120,DWGL01,Obligasi I Dwi Guna Laksana Tahun 2025,DWGL,2030-06-18T07:00:00,irA-,300000000000.0
+121,TPR-SMBRIS01X4JP,Sukuk Mudharabah Muqayadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I PT Bank BSI Tbk Tahun 2025 Tahap IV,BRIS,2038-03-20T07:00:00,,8260381192.0
+122,MEDC06BCN1,Obligasi Berkelanjutan VI Medco Energi Internasional Tahap I Tahun 2025 Seri B,MEDC,2035-06-25T07:00:00,idAA-,500000000000.0
+123,SOFN01B25,Obligasi I Summit Oto Finance Tahun 2025 Seri B,SOFN,2028-06-25T07:00:00,idAAA,548400000000.0
+124,SISMAR01CN1,Sukuk Ijarah Berkelanjutan I SMART Tahap I Tahun 2025,SMAR,2030-07-02T07:00:00,idAA-(sy),500000000000.0
+125,TRIM02BCN1,Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap I Tahun 2025 Seri B,TRIM,2028-07-02T07:00:00,idA,549460000000.0
+126,ISAT02BXBFTW,Obligasi Indosat II Tahun 2002 Seri B,ISAT,2032-11-06T07:00:00,,200000000000.0
+127,SMBWPT01BCN1,Sukuk Mudharabah Berkelanjutan I Eagle High Plantations Tahap I Tahun 2025 Seri B,BWPT,2028-07-03T07:00:00,idA-(sy),24885000000.0
+128,IMFI06BCN1,Obligasi Berkelanjutan VI Indomobil Finance Dengan Tingkat Bunga Tetap Tahap I Tahun 2025 Seri B,IMFI,2028-07-03T07:00:00,idAA-,80000000000.0
+129,SMMBMA01BCN2,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap II Tahun 2025 Seri B,MBMA,2028-08-20T07:00:00,idA(sy),857625000000.0
+130,SMMBMA01CCN2,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap II Tahun 2025 Seri C,MBMA,2030-08-20T07:00:00,idA(sy),268570000000.0
+131,SWCUAN01BCN2,Sukuk Wakalah Berkelanjutan I Petrindo Jaya Kreasi Tahap II Tahun 2025 Seri B,CUAN,2032-10-24T07:00:00,idA(sy),512360000000.0
+132,CUAN01BCN2,Obligasi Berkelanjutan I Petrindo Jaya Kreasi Tahap II Tahun 2025 Seri B,CUAN,2032-10-24T07:00:00,idA,187640000000.0
+133,SWCUAN01ACN2,Sukuk Wakalah Berkelanjutan I Petrindo Jaya Kreasi Tahap II Tahun 2025 Seri A,CUAN,2030-10-24T07:00:00,idA(sy),137640000000.0
+134,ASDF07CCN2,Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap II Tahun 2025 Seri C,ASDF,2030-10-24T07:00:00,idAAA,600000000000.0
+135,CUAN01ACN2,Obligasi Berkelanjutan I Petrindo Jaya Kreasi Tahap II Tahun 2025 Seri A,CUAN,2030-10-24T07:00:00,idA,1162360000000.0
+136,SMARMA01BCN1,Sukuk Mudharabah Berkelanjutan I Armadian Tritunggal Tahap I Tahun 2025 Seri B,ARMA,2030-10-29T07:00:00,irA-(sy),1700000000000.0
+137,SMARMA01ACN1,Sukuk Mudharabah Berkelanjutan I Armadian Tritunggal Tahap I Tahun 2025 Seri A,ARMA,2028-10-29T07:00:00,irA-(sy),300000000000.0
+138,OTMA01BCN3,Obligasi Berkelanjutan I Oto Multiartha Tahap III Tahun 2025 Seri B,OTMA,2028-03-27T07:00:00,idAAA,29500000000.0
+139,SWTOBA01JP,Sukuk Wakalah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I TBS Energi Utama Tahun 2025,TOBA,2035-03-26T07:00:00,,308475000000.0
+140,KAII02ACN2,Obligasi Berkelanjutan II Kereta Api Indonesia Tahap II Tahun 2025 Seri A,KAII,2030-03-27T07:00:00,idAAA,365125000000.0
+141,SIKAII02BCN2,Sukuk Ijarah Berkelanjutan II Kereta Api Indonesia Tahap II Tahun 2025 Seri B,KAII,2032-03-27T07:00:00,idAAA(sy),331435000000.0
+142,FIFA06BCN5,Obligasi Berkelanjutan VI Federal International Finance Tahap V Tahun 2025 Seri B,FIFA,2028-04-15T07:00:00,idAAA,859805000000.0
+143,MBMA03C,Obligasi III Merdeka Battery Materials Tahun 2025 Seri C,MBMA,2030-04-15T07:00:00,idA,214485000000.0
+144,MBMA03B,Obligasi III Merdeka Battery Materials Tahun 2025 Seri B,MBMA,2028-04-15T07:00:00,idA,357380000000.0
+145,MSTJ02X3MF,Medium Term Notes II PT Multi Sandang Tamajaya Tahun 2024 Tahap III,MSTJ-M,2030-04-22T07:00:00,,30000000000.0
+146,ISSP02CCN3,Obligasi Berkelanjutan II SPINDO Tahap III Tahun 2025 Seri C,ISSP,2030-04-23T07:00:00,idA,40520000000.0
+147,ISSP02BCN3,Obligasi Berkelanjutan II SPINDO Tahap III Tahun 2025 Seri B,ISSP,2028-04-23T07:00:00,idA,27665000000.0
+148,HRTA02CN2,Obligasi Berkelanjutan II Hartadinata Abadi Tahap II Tahun 2025,HRTA,2028-04-24T07:00:00,idAAA(cg),100000000000.0
+149,BESL01X4JP,LTN I PT Bintang Express Sarana Tahun 2024 Tahap IV,BESL-M,2032-04-25T07:00:00,,98000000000.0
+150,SMPIDL01BCN2,Sukuk Mudharabah Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap II Tahun 2025 Seri B,PIDL,2028-04-30T07:00:00,idA+(sy),371695000000.0
+151,SMPIDL01CCN2,Sukuk Mudharabah Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap II Tahun 2025 Seri C,PIDL,2030-04-30T07:00:00,idA+(sy),282450000000.0
+152,PIDL01BCN2,Obligasi Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap II Tahun 2025 Seri B,PIDL,2028-04-30T07:00:00,idA+,651537000000.0
+153,PIDL01CCN2,Obligasi Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap II Tahun 2025 Seri C,PIDL,2030-04-30T07:00:00,idA+,446960000000.0
+154,SIAISA01,Sukuk Ijarah TPS Food I Tahun 2013,AISA,2029-08-10T07:00:00,idD(sy),3156325397.0
+155,AISA01,Obligasi TPS Food I Tahun 2013,AISA,2029-08-10T07:00:00,idD,6312650794.0
+156,BBRI02DCN2,Obligasi Berkelanjutan II Bank BRI Tahap II Tahun 2017 Seri D,BBRI,2027-04-11T07:00:00,idAAA,1300500000000.0
+157,SIEXCL01ECN2,Sukuk Ijarah Berkelanjutan I XL Axiata Tahap II Tahun 2017 Seri E,EXCL,2027-04-28T07:00:00,AA+(idn),336000000000.0
+158,BBTN03DCN1,Obligasi Berkelanjutan III Bank BTN Tahap I Tahun 2017 Seri D,BBTN,2027-07-13T07:00:00,AAA(idn),1386000000000.0
+159,SMII04CCN4,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri C,SMII,2030-11-27T07:00:00,idAAA,900000000000.0
+160,SMSMII03ACN2,Sukuk Mudharabah Berkelanjutan III Sarana Multi Infrastruktur Tahap II Tahun 2025 Seri A,SMII,2026-12-07T07:00:00,idAAA(sy),1700000000000.0
+161,SMSMII03BCN2,Sukuk Mudharabah Berkelanjutan III Sarana Multi Infrastruktur Tahap II Tahun 2025 Seri B,SMII,2028-11-27T07:00:00,idAAA(sy),800000000000.0
+162,SMII04DCN4,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri D,SMII,2035-11-27T07:00:00,idAAA,300000000000.0
+163,SMII04ECN4,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri E,SMII,2040-11-27T07:00:00,idAAA,300000000000.0
+164,GRAF02XXMF,Medium Term Notes II PT Gratama Finance Indonesia Tahun 2025,GRAF-M,2028-12-02T07:00:00,,200000000000.0
+165,SMINKP04BCN4,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri B,INKP,2028-06-12T07:00:00,idA+(sy),576255000000.0
+166,SMINKP04CCN4,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri C,INKP,2030-06-12T07:00:00,idA+(sy),269010000000.0
+167,SMINKP04ACN4,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri A,INKP,2026-06-22T07:00:00,idA+(sy),357075000000.0
+168,USDINKP02CCN3,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap III Tahun 2025 Seri C,INKP,2030-06-12T07:00:00,idA+,1373500.0
+169,INKP05ACN4,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri A,INKP,2026-06-22T07:00:00,idA+,327430000000.0
+170,BCAP05ACN2,Obligasi Berkelanjutan V MNC Kapital Indonesia Tahap II Tahun 2025 Seri A,BCAP,2026-06-22T07:00:00,idBBB+,3500000000.0
+171,BCAP05CCN2,Obligasi Berkelanjutan V MNC Kapital Indonesia Tahap II Tahun 2025 Seri C,BCAP,2030-06-12T07:00:00,idBBB+,12100000000.0
+172,SMPNMP07X1V,Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap I,PNMP,2026-06-27T07:00:00,idAAA(sy),180000000000.0
+173,BFIN06ACN2,Obligasi Berkelanjutan VI BFI Finance Indonesia Tahap II Tahun 2025 Seri A,BFIN,2026-06-27T07:00:00,AA-(idn),414300000000.0
+174,BFIN06BCN2,Obligasi Berkelanjutan VI BFI Finance Indonesia Tahap II Tahun 2025 Seri B,BFIN,2027-06-17T07:00:00,AA-(idn),265700000000.0
+175,BUMI01CCN1,Obligasi Berkelanjutan I Bumi Tahap I Tahun 2025 Seri C,BUMI,2030-07-08T07:00:00,idA+,193900000000.0
+176,SMPNMP01BSECN1,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri B,PNMP,2028-07-08T07:00:00,idAAA(sy),150000000000.0
+177,ADMF07CCN1,Obligasi Berkelanjutan VII Adira Finance Tahap I Tahun 2025 Seri C,ADMF,2030-07-08T07:00:00,idAAA,240000000000.0
+178,BUMI01BCN1,Obligasi Berkelanjutan I Bumi Tahap I Tahun 2025 Seri B,BUMI,2028-07-08T07:00:00,idA+,107350000000.0
+179,SMMBMA01ACN1,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap I Tahun 2025 Seri A,MBMA,2026-07-15T07:00:00,idA(sy),213345000000.0
+180,AGII02CCN1,Obligasi Berkelanjutan II Aneka Gas Industri Tahap I Tahun 2020 Seri C,AGII,2027-08-14T07:00:00,A(idn),1000000000.0
+181,WSKT04CN1,Obligasi Berkelanjutan IV Waskita Karya Tahap I Tahun 2020,WSKT,2034-12-31T07:00:00,idB,135500000000.0
+182,APIA01DCN2,Obligasi Berkelanjutan I Angkasa Pura II Tahap II Tahun 2020 Seri D,APIA,2030-08-13T07:00:00,idAAA,457000000000.0
+183,TPIA03CCN1,Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap I Tahun 2020 Seri C,TPIA,2027-08-26T07:00:00,idAA-,113500000000.0
+184,PIHC02CCN1,Obligasi Berkelanjutan II Pupuk Indonesia Tahap I Tahun 2020 Seri C,PIHC,2027-09-03T07:00:00,idAAA,431850000000.0
+185,MYOR02DCN1,Obligasi Berkelanjutan II Mayora Indah Tahap I Tahun 2020 Seri D,MYOR,2027-09-09T07:00:00,idAA,40000000000.0
+186,PPLN04DCN1,Obligasi Berkelanjutan IV PLN Tahap I Tahun 2020 Seri D,PPLN,2035-09-08T07:00:00,idAAA,841000000000.0
+187,SIPPLN04BCN1,Sukuk Ijarah Berkelanjutan IV PLN Tahap I Tahun 2020 Seri B,PPLN,2027-09-08T07:00:00,idAAA(sy),35000000000.0
+188,SIPPLN04CCN1,Sukuk Ijarah Berkelanjutan IV PLN Tahap I Tahun 2020 Seri C,PPLN,2030-09-08T07:00:00,idAAA(sy),200000000000.0
+189,PPAP01C,Obligasi I Perusahaan Pengelola Aset Tahun 2020 Seri C,PPAP,2027-09-01T07:00:00,idAA,197100000000.0
+190,PPLN04BCN1,Obligasi Berkelanjutan IV PLN Tahap I Tahun 2020 Seri B,PPLN,2027-09-08T07:00:00,idAAA,28000000000.0
+191,JSMR02CCN1,Obligasi Berkelanjutan II Jasa Marga Tahap I Tahun 2020 Seri C,JSMR,2027-09-08T07:00:00,idAA,99050000000.0
+192,PPLN04ECN1,Obligasi Berkelanjutan IV PLN Tahap I Tahun 2020 Seri E,PPLN,2040-09-08T07:00:00,idAAA,161000000000.0
+193,SIPPLN04ECN1,Sukuk Ijarah Berkelanjutan IV PLN Tahap I Tahun 2020 Seri E,PPLN,2040-09-08T07:00:00,idAAA(sy),46500000000.0
+194,JSMR02DCN1,Obligasi Berkelanjutan II Jasa Marga Tahap I Tahun 2020 Seri D,JSMR,2030-09-08T07:00:00,idAA,523600000000.0
+195,SIPPLN04DCN1,Sukuk Ijarah Berkelanjutan IV PLN Tahap I Tahun 2020 Seri D,PPLN,2035-09-08T07:00:00,idAAA(sy),56000000000.0
+196,PPLN04CCN1,Obligasi Berkelanjutan IV PLN Tahap I Tahun 2020 Seri C,PPLN,2030-09-08T07:00:00,idAAA,158000000000.0
+197,PSAB01BCN6,Obligasi Berkelanjutan I J Resources Asia Pasifik Tahap VI Tahun 2020 Seri B,PSAB,2026-11-27T07:00:00,idBBB+,126394750000.0
+198,BJBR02BSBCN2,Obligasi Subordinasi Berkelanjutan II Bank BJB Tahap II Tahun 2020 Seri B,BJBR,2027-11-17T07:00:00,idA+,337420000000.0
+199,PRNS01AXJP,Surat Utang Jangka Panjang Yang Ditawarkan Melalui Penawaran Terbatas Perum Perumnas Thn 2020 Seri A,PRNS-M,2027-11-27T07:00:00,idB,200000000000.0
+200,WIKA01CCN1,Obligasi Berkelanjutan I Wijaya Karya Tahap I Tahun 2020 Seri C,WIKA,2027-12-18T07:00:00,idB,740000000000.0
+201,SMWIKA01BCN1,Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap I Tahun 2020 Seri B,WIKA,2027-12-18T07:00:00,idB(sy),159000000000.0
+202,SMWIKA01CCN1,Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap I Tahun 2020 Seri C,WIKA,2027-12-18T07:00:00,idB(sy),157000000000.0
+203,WIKA01BCN1,Obligasi Berkelanjutan I Wijaya Karya Tahap I Tahun 2020 Seri B,WIKA,2027-12-18T07:00:00,idB,429000000000.0
+204,INPCSB01X1JP,LTN Subordinasi I Bank Artha Graha Internasional Tahap I Tahun 2020,INPC-M,2027-12-30T07:00:00,,200000000000.0
+205,WIKA01CCN2,Obligasi Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 Seri C,WIKA,2028-03-03T07:00:00,idB,1259500000000.0
+206,SMWIKA01BCN2,Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 Seri B,WIKA,2028-03-03T07:00:00,idB(sy),211600000000.0
+207,SMWIKA01ACN2,Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 Seri A,WIKA,2028-03-03T07:00:00,idB(sy),134300000000.0
+208,PIHC02CCN2,Obligasi Berkelanjutan II Pupuk Indonesia Tahap II Tahun 2021 Seri C,PIHC,2028-03-10T07:00:00,idAAA,800000000000.0
+209,WIKA01BCN2,Obligasi Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 Seri B,WIKA,2028-03-03T07:00:00,idB,745500000000.0
+210,SMWIKA01CCN2,Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 Seri C,WIKA,2028-03-03T07:00:00,idB(sy),154100000000.0
+211,TPIA03CCN3,Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap III Tahun 2021 Seri C,TPIA,2028-04-15T07:00:00,idAA-,362050000000.0
+212,SMPTPP01BCN1,Sukuk Mudharabah Berkelanjutan I PTPP Tahap I Tahun 2021 Seri B,PTPP,2027-07-02T07:00:00,idBBB+(sy),100000000000.0
+213,PTPP03BCN1,Obligasi Berkelanjutan III PTPP Tahap I Tahun 2021 Seri B,PTPP,2027-07-02T07:00:00,idBBB+,650000000000.0
+214,SMFP06BCN1,Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap I Tahun 2021 Seri B,SMFP,2026-07-08T07:00:00,idAAA,1000000000000.0
+215,OPPM01C,Obligasi Oki Pulp & Paper Mills I Tahun 2021 Seri C,OPPM,2026-07-08T07:00:00,idA+,336290000000.0
+216,PRNS01BXJP,Surat Utang Jangka Panjang Yang Ditawarkan Melalui Penawaran Terbatas Perum Perumnas Thn 2020 Seri B,PRNS-M,2027-11-30T07:00:00,idB,450000000000.0
+217,SMPNMP01CCN1,Sukuk Mudharabah Berkelanjutan I PNM Tahap I Tahun 2021 Seri C,PNMP,2026-07-08T07:00:00,idAAA(sy),327000000000.0
+218,SIAGII02CCN3,Sukuk Ijarah Berkelanjutan II Aneka Gas Industri Tahap III Tahun 2021 Seri C,AGII,2028-07-06T07:00:00,A(idn),124000000000.0
+219,AGII02CCN3,Obligasi Berkelanjutan II Aneka Gas Industri Tahap III Tahun 2021 Seri C,AGII,2028-07-06T07:00:00,A(idn),78000000000.0
+220,SMOPPM01C,Sukuk Mudharabah Oki Pulp & Paper Mills I Tahun 2021 Seri C,OPPM,2026-07-08T07:00:00,idA+(sy),65360000000.0
+221,BJBR03ASBCN1,Obligasi Subordinasi Berkelanjutan III Bank BJB Tahap I Tahun 2021 Seri A,BJBR,2026-07-15T07:00:00,idA+,379000000000.0
+222,USD-SPMA03X2MF,MTN Suparma III Tahun 2021 Tahap II,SPMA,2026-07-26T07:00:00,,5000000.0
+223,BJBR03BSBCN1,Obligasi Subordinasi Berkelanjutan III Bank BJB Tahap I Tahun 2021 Seri B,BJBR,2028-07-15T07:00:00,idA+,621000000000.0
+224,BMTR02CCN2,Obligasi Berkelanjutan II Global Mediacom Tahap II Tahun 2021 Seri C,BMTR,2026-09-14T07:00:00,idA+,10555000000.0
+225,BSLT01CN1,Obligasi Berkelanjutan I Bank SulutGo Tahap I Tahun 2021,BSLT,2026-09-07T07:00:00,A(idn),750000000000.0
+226,BBKP03BSBCN1,Obligasi Subordinasi Berkelanjutan III Bank KB Bukopin Tahap I Tahun 2021 Seri B,BBKP,2028-09-09T07:00:00,AA(idn),685000000000.0
+227,PTHK02BCN1,Obligasi Berkelanjutan II Hutama Karya Tahap I Tahun 2021 Seri B,PTHK,2026-09-07T07:00:00,idAA-,185550000000.0
+228,PTHK02CCN1,Obligasi Berkelanjutan II Hutama Karya Tahap I Tahun 2021 Seri C,PTHK,2028-09-07T07:00:00,idAA-,780950000000.0
+229,SMPTHK01BCN1,Sukuk Mudharabah Berkelanjutan I Hutama Karya Tahap I Tahun 2021 Seri B,PTHK,2026-09-07T07:00:00,idAA-(sy),64450000000.0
+230,SMPTHK01CCN1,Sukuk Mudharabah Berkelanjutan I Hutama Karya Tahap I Tahun 2021 Seri C,PTHK,2028-09-07T07:00:00,idAA-(sy),419050000000.0
+231,PTPV02XXMF,MTN II PTPN V Tahun 2021,PTPN,2026-07-13T07:00:00,idA,445000000000.0
+232,SIAPAI01CCN1,Sukuk Ijarah Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri C,APAI,2028-09-08T07:00:00,idAAA(sy),52000000000.0
+233,SMWIKA02BCN1,Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 Seri B,WIKA,2026-09-08T07:00:00,idB(sy),91500000000.0
+234,SMWIKA02CCN1,Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 Seri C,WIKA,2028-09-08T07:00:00,idB(sy),333000000000.0
+235,WIKA02CCN1,Obligasi Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 Seri C,WIKA,2028-09-08T07:00:00,idB,982000000000.0
+236,SIBMTR02CCN2,Sukuk Ijarah Berkelanjutan II Global Mediacom Tahap II Tahun 2021 Seri C,BMTR,2026-09-14T07:00:00,idA+(sy),50000000.0
+237,WIKA02BCN1,Obligasi Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 Seri B,WIKA,2026-09-08T07:00:00,idB,197000000000.0
+238,PPRO02BCN3,Obligasi Berkelanjutan II PP Properti Tahap III Tahun 2021 Seri B,PPRO,2045-02-17T07:00:00,idB,164000000000.0
+239,SIPLTM02B,Sukuk Ijarah II Polytama Propindo Tahun 2021 Seri B,PLTM,2026-09-08T07:00:00,idAAA(sy)(cg),56000000000.0
+240,APAI01CCN1,Obligasi Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri C,APAI,2028-09-08T07:00:00,idAAA,280400000000.0
+241,APAI01DCN1,Obligasi Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri D,APAI,2031-09-08T07:00:00,idAAA,497000000000.0
+242,SIAPAI01BCN1,Sukuk Ijarah Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri B,APAI,2026-09-08T07:00:00,idAAA(sy),215000000000.0
+243,PLTM02B,Obligasi II Polytama Propindo Tahun 2021 Seri B,PLTM,2026-09-08T07:00:00,idAAA(cg),50000000000.0
+244,MEDC04BCN1,Obligasi Berkelanjutan IV Medco Energi Internasional Tahap I Tahun 2021 Seri B,MEDC,2026-09-09T07:00:00,idA+,600000000000.0
+245,WSKT03A,Obligasi III Waskita Karya Tahun 2021 Seri A,WSKT,2026-09-24T07:00:00,idAAA(gg),722000000000.0
+246,BOGA01XXMF,MTN Bintang Oto Global I Tahun 2021,BOGA,2026-09-29T07:00:00,irA-,200000000000.0
+247,WSKT03B,Obligasi III Waskita Karya Tahun 2021 Seri B,WSKT,2028-09-24T07:00:00,idAAA(gg),1051000000000.0
+248,SMINKP01CCN1,Sukuk Mudharabah Berkelanjutan I Indah Kiat Pulp & Paper Tahap I Tahun 2021 Seri C,INKP,2026-09-30T07:00:00,idA+(sy),50750000000.0
+249,APAI01BCN1,Obligasi Berkelanjutan IAngkasa Pura I Tahap I Tahun2021 Seri B,APAI,2026-09-08T07:00:00,idAAA,66000000000.0
+250,SMFP06CN2,Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap II Tahun 2021,SMFP,2026-11-17T07:00:00,idAAA,2800000000000.0
+251,APIC01XXMF,MTN Pacific Strategic Financial I Tahun 2021,APIC,2026-09-22T07:00:00,irA,400000000000.0
+252,LTLS03BCN2,Obligasi Berkelanjutan III Lautan Luas Tahap II Tahun 2021 Seri B,LTLS,2026-11-12T07:00:00,idA,135000000000.0
+253,MEDC04BCN2,Obligasi Berkelanjutan IV Medco Energi Internasional Tahap II Tahun 2021 Seri B,MEDC,2026-11-23T07:00:00,idA+,58195000000.0
+254,INKP02CCN1,Obligasi Berkelanjutan II Indah Kiat Pulp & Paper Tahap I Tahun 2021 Seri C,INKP,2026-09-30T07:00:00,idA+,450000000000.0
+255,INKP02CCN2,Obligasi Berkelanjutan II Indah Kiat Pulp & Paper Tahap II Tahun 2021 Seri C,INKP,2026-12-08T07:00:00,idA+,338335000000.0
+256,BSSB03BCN1,Obligasi Berkelanjutan III Bank Sulselbar Tahap I Tahun 2021 Seri B,BSSB,2026-12-29T07:00:00,idA+,620000000000.0
+257,SMINKP01CCN2,Sukuk Mudharabah Berkelanjutan I Indah Kiat Pulp & Paper Tahap II Tahun 2021 Seri C,INKP,2026-12-08T07:00:00,idA+(sy),247090000000.0
+258,PRTL02CCN2,Obligasi Berkelanjutan II Protelindo Tahap II Tahun 2021 Seri C,PRTL,2026-12-17T07:00:00,AAA(idn),744000000000.0
+259,AGII02CCN4,Obligasi Berkelanjutan II Aneka Gas Industri Tahap IV Tahun 2021 Seri C,AGII,2028-12-22T07:00:00,A(idn),59000000000.0
+260,SIAGII02BCN4,Sukuk Ijarah Berkelanjutan II Aneka Gas Industri Tahap IV Tahun 2021 Seri B,AGII,2026-12-22T07:00:00,A(idn),17000000000.0
+261,NIRO01XXMF,MTN City Retail Developments I Tahun 2021,NIRO,2026-12-21T07:00:00,irBBB+,750000000000.0
+262,BFIN06CCN2,Obligasi Berkelanjutan VI BFI Finance Indonesia Tahap II Tahun 2025 Seri C,BFIN,2028-06-17T07:00:00,AA-(idn),320000000000.0
+263,OTMA01ACN4,Obligasi Berkelanjutan I Oto Multiartha Tahap IV Tahun 2025 Seri A,OTMA,2028-06-18T07:00:00,idAAA,300000000000.0
+264,BVIC03SBCN2,Obligasi Subordinasi Berkelanjutan III Bank Victoria Tahap II Tahun 2025,BVIC,2030-06-18T07:00:00,idBBB,500000000000.0
+265,OTMA01BCN4,Obligasi Berkelanjutan I Oto Multiartha Tahap IV Tahun 2025 Seri B,OTMA,2030-06-18T07:00:00,idAAA,700000000000.0
+266,PIGN01D,Obligasi I Pelindo I Gerbang Nusantara Tahun 2016 Seri D,PIGN,2026-06-21T07:00:00,idAAA,50000000000.0
+267,BMRI01CCN2,Obligasi Berkelanjutan I Bank Mandiri Tahap II Tahun 2017 Seri C,BMRI,2027-06-15T07:00:00,idAAA,1000000000000.0
+268,SIAISA02,Sukuk Ijarah TPS Food II Tahun 2016,AISA,2029-08-10T07:00:00,idD(sy),27719276289.0
+269,APIA01C,Obligasi I Angkasa Pura II Tahun 2016 Seri C,APIA,2026-06-30T07:00:00,idAAA,900000000000.0
+270,TLKM01CCN1,Obligasi Berkelanjutan I Telkom Tahap I Tahun 2015 Seri C,TLKM,2030-06-23T07:00:00,idAAA,1200000000000.0
+271,SIPPLN02BCN1,Sukuk Ijarah Berkelanjutan II PLN Tahap I Tahun 2017 Seri B,PPLN,2027-07-11T07:00:00,idAAA(sy),214000000000.0
+272,ISAT02ECN1,Obligasi Berkelanjutan II Indosat Tahap I Tahun 2017 Seri E,ISAT,2027-05-31T07:00:00,idAAA,538000000000.0
+273,BMRI01CCN1,Obligasi Berkelanjutan I Bank Mandiri Tahap I Tahun 2016 Seri C,BMRI,2026-09-30T07:00:00,idAAA,2400000000000.0
+274,SIISAT01DCN4,Sukuk Ijarah Berkelanjutan I Indosat Tahap IV Tahun 2016 Seri D,ISAT,2026-09-02T07:00:00,idAAA(sy),54000000000.0
+275,PTHK01CN2,Obligasi Berkelanjutan I Hutama Karya Tahap II Tahun 2017,PTHK,2027-06-06T07:00:00,idAAA(gg),1968000000000.0
+276,TELE01BCN3,Obligasi Berkelanjutan I Tiphone Tahap III Tahun 2017 Seri B,TELE,2030-12-26T07:00:00,idD,231000000000.0
+277,TELE01CCN2,Obligasi Berkelanjutan I Tiphone Tahap II Tahun 2016 Seri C,TELE,2030-12-26T07:00:00,idD,110000000000.0
+278,PPLN02CCN1,Obligasi Berkelanjutan II PLN Tahap I Tahun 2017 Seri C,PPLN,2027-07-11T07:00:00,idAAA,1217000000000.0
+279,BNII02CCN1,Obligasi Berkelanjutan II Bank Maybank Indonesia Tahap I Tahun 2017 Seri C,BNII,2027-07-11T07:00:00,idAAA,100000000000.0
+280,SIISAT02DCN1,Sukuk Ijarah Berkelanjutan II Indosat Tahap I Tahun 2017 Seri D,ISAT,2027-05-31T07:00:00,idAAA(sy),63000000000.0
+281,ISAT01ECN4,Obligasi Berkelanjutan I Indosat Tahap IV Tahun 2016 Seri E,ISAT,2026-09-02T07:00:00,idAAA,201000000000.0
+282,SMII01DCN1,Obligasi Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2016 Seri D,SMII,2031-11-18T07:00:00,idAAA,674000000000.0
+283,SMII01CCN1,Obligasi Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2016 Seri C,SMII,2026-11-18T07:00:00,idAAA,700000000000.0
+284,WOMF05BCN2,Obligasi Berkelanjutan V WOM Finance Tahap II Tahun 2025 Seri B,WOMF,2028-06-24T07:00:00,idAAA,905000000000.0
+285,BMTR05CCN1,Obligasi Berkelanjutan V Global Mediacom Tahap I Tahun 2025 Seri C,BMTR,2032-06-24T07:00:00,idAAA(cg),90050000000.0
+286,SIBMTR05CCN1,Sukuk Ijarah Berkelanjutan V Global Mediacom Tahap I Tahun 2025 Seri C,BMTR,2032-06-24T07:00:00,idAAA(sy)(cg),26000000000.0
+287,BMTR05BCN1,Obligasi Berkelanjutan V Global Mediacom Tahap I Tahun 2025 Seri B,BMTR,2030-06-24T07:00:00,idAAA(cg),480600000000.0
+288,SIBMTR05BCN1,Sukuk Ijarah Berkelanjutan V Global Mediacom Tahap I Tahun 2025 Seri B,BMTR,2030-06-24T07:00:00,idAAA(sy)(cg),89010000000.0
+289,BMTR05ACN1,Obligasi Berkelanjutan V Global Mediacom Tahap I Tahun 2025 Seri A,BMTR,2028-06-24T07:00:00,idAAA(cg),279350000000.0
+290,WOMF05ACN2,Obligasi Berkelanjutan V WOM Finance Tahap II Tahun 2025 Seri A,WOMF,2026-07-04T07:00:00,idAAA,595000000000.0
+291,SIBMTR05ACN1,Sukuk Ijarah Berkelanjutan V Global Mediacom Tahap I Tahun 2025 Seri A,BMTR,2028-06-24T07:00:00,idAAA(sy)(cg),434990000000.0
+292,SOFN01A25,Obligasi I Summit Oto Finance Tahun 2025 Seri A,SOFN,2026-07-05T07:00:00,idAAA,581500000000.0
+293,MEDC06ACN1,Obligasi Berkelanjutan VI Medco Energi Internasional Tahap I Tahun 2025 Seri A,MEDC,2032-06-25T07:00:00,idAA-,500000000000.0
+294,SOFN01C25,Obligasi I Summit Oto Finance Tahun 2025 Seri C,SOFN,2029-06-25T07:00:00,idAAA,370100000000.0
+295,BBRI01ASOCN1,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri A,BBRI,2027-06-26T07:00:00,idAAA,1563090000000.0
+296,SMBRIS01CSLCN2,Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri C,BRIS,2028-06-26T07:00:00,idAAA(sy),2380000000000.0
+297,BBRI01BSOCN1,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri B,BBRI,2028-06-26T07:00:00,idAAA,2110745000000.0
+298,SMBRIS01ASLCN2,Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri A,BRIS,2026-07-06T07:00:00,idAAA(sy),2445000000000.0
+299,SMBRIS01BSLCN2,Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri B,BRIS,2027-06-26T07:00:00,idAAA(sy),175000000000.0
+300,BBRI01CSOCN1,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri C,BBRI,2030-06-26T07:00:00,idAAA,1326165000000.0
+301,MEDP01ACN1,Obligasi Berkelanjutan I Medco Power Indonesia Tahap I Tahun 2025 Seri A,MEDP,2030-07-01T07:00:00,idA,300000000000.0
+302,MEDP01BCN1,Obligasi Berkelanjutan I Medco Power Indonesia Tahap I Tahun 2025 Seri B,MEDP,2032-07-01T07:00:00,idA,200000000000.0
+303,SWBJBS01BSB,Sukuk Wakalah Bi Al-Istitsmar Subordinasi I Bank BJB Syariah Tahun 2025 Seri B,BJBS,2032-07-02T07:00:00,idA(sy),60000000000.0
+304,TRIM02ACN1,Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap I Tahun 2025 Seri A,TRIM,2026-07-12T07:00:00,idA,150540000000.0
+305,DART04BCN1,Obligasi Berkelanjutan IV Duta Anggada Realty Tahap I Tahun 2025 Seri B,DART,2028-07-02T07:00:00,irA-,250000000000.0
+306,DART04ACN1,Obligasi Berkelanjutan IV Duta Anggada Realty Tahap I Tahun 2025 Seri A,DART,2026-07-12T07:00:00,irA-,50000000000.0
+307,SMAR05CN1,Obligasi Berkelanjutan V SMART Tahap I Tahun 2025,SMAR,2030-07-02T07:00:00,idAA-,500000000000.0
+308,APAI01C,Obligasi I Angkasa Pura I Tahun 2016 Seri C,APAI,2026-11-22T07:00:00,idAAA,1025000000000.0
+309,PTHK01BCN3,Obligasi Berkelanjutan I Hutama Karya Tahap III Tahun 2017 Seri B,PTHK,2027-09-26T07:00:00,idAAA(gg),2367000000000.0
+310,SIAPAI01C,Sukuk Ijarah I Angkasa Pura I tahun 2016 Seri C,APAI,2026-11-22T07:00:00,idAAA(sy),96000000000.0
+311,PTHK01CN1,Obligasi Berkelanjutan I Hutama Karya Tahap I Tahun 2016,PTHK,2026-12-21T07:00:00,idAAA(gg),1000000000000.0
+312,PPLN02CCN2,Obligasi Berkelanjutan II PLN Tahap II Tahun 2017 Seri C,PPLN,2027-11-03T07:00:00,idAAA,800000000000.0
+313,MLJK01E,Obligasi I Marga Lingkar Jakarta Tahun 2017 Seri E,MLJK,2029-11-08T07:00:00,idAAA(sf),464000000000.0
+314,BEXI03ECN4,Obligasi Berkelanjutan Indonesia Eximbank III Tahap IV Tahun 2017 Seri E,BEXI,2027-02-23T07:00:00,idAAA,1266000000000.0
+315,PPLN02DCN2,Obligasi Berkelanjutan II PLN Tahap II Tahun 2017 Seri D,PPLN,2032-11-03T07:00:00,idAAA,1093000000000.0
+316,SIPPLN02BCN2,Sukuk Ijarah Berkelanjutan II PLN Tahap II Tahun 2017 Seri B,PPLN,2027-11-03T07:00:00,idAAA(sy),121000000000.0
+317,SIPPLN02CCN2,Sukuk Ijarah Berkelanjutan II PLN Tahap II Tahun 2017 Seri C,PPLN,2032-11-03T07:00:00,idAAA(sy),490000000000.0
+318,MLJK01D,Obligasi I Marga Lingkar Jakarta Tahun 2017 Seri D,MLJK,2027-11-08T07:00:00,idAAA(sf),320000000000.0
+319,SIISAT02ECN2,Sukuk Ijarah Berkelanjutan II Indosat Tahap II Tahun 2017 Seri E,ISAT,2027-11-09T07:00:00,idAAA(sy),193000000000.0
+320,BBRI02ECN1,Obligasi Berkelanjutan II Bank BRI Tahap I Tahun 2016 Seri E,BBRI,2026-12-01T07:00:00,idAAA,2350000000000.0
+321,SIPPLN02CCN3,Sukuk Ijarah Berkelanjutan II PLN Tahap III Tahun 2018 Seri C,PPLN,2033-02-22T07:00:00,idAAA(sy),57500000000.0
+322,PPLN02DCN3,Obligasi Berkelanjutan II PLN Tahap III Tahun 2018 Seri D,PPLN,2033-02-22T07:00:00,idAAA,362000000000.0
+323,SIPPLN02DCN3,Sukuk Ijarah Berkelanjutan II PLN Tahap III Tahun 2018 Seri D,PPLN,2038-02-22T07:00:00,idAAA(sy),449000000000.0
+324,SIPPLN02BCN3,Sukuk Ijarah Berkelanjutan II PLN Tahap III Tahun 2018 Seri B,PPLN,2028-02-22T07:00:00,idAAA(sy),88000000000.0
+325,PPLN02CCN3,Obligasi Berkelanjutan II PLN Tahap III Tahun 2018 Seri C,PPLN,2028-02-22T07:00:00,idAAA,341000000000.0
+326,PPLN02ECN3,Obligasi Berkelanjutan II PLN Tahap III Tahun 2018 Seri E,PPLN,2038-02-22T07:00:00,idAAA,1365000000000.0
+327,SWBJBS01ASB,Sukuk Wakalah Bi Al-Istitsmar Subordinasi I Bank BJB Syariah Tahun 2025 Seri A,BJBS,2030-07-02T07:00:00,idA(sy),240000000000.0
+328,NISP04CCN1,Obligasi Berkelanjutan IV OCBC Tahap I Tahun 2025 Seri C,NISP,2030-07-03T07:00:00,AAA(idn),213505000000.0
+329,NISP04ACN1,Obligasi Berkelanjutan IV OCBC Tahap I Tahun 2025 Seri A,NISP,2026-07-13T07:00:00,AAA(idn),748565000000.0
+330,ISAT02ECN3,Obligasi Berkelanjutan II Indosat Tahap III Tahun 2018 Seri E,ISAT,2028-05-03T07:00:00,idAAA,516000000000.0
+331,SIPPLN03DCN1,Sukuk Ijarah Berkelanjutan III PLN Tahap I Tahun 2018 Seri D,PPLN,2033-07-10T07:00:00,idAAA(sy),105000000000.0
+332,SIPPLN03ECN1,Sukuk Ijarah Berkelanjutan III PLN Tahap I Tahun 2018 Seri E,PPLN,2038-07-10T07:00:00,idAAA(sy),110000000000.0
+333,SIPPLN03CCN1,Sukuk Ijarah Berkelanjutan III PLN Tahap I Tahun 2018 Seri C,PPLN,2028-07-10T07:00:00,idAAA(sy),258000000000.0
+334,PPLN03CCN1,Obligasi Berkelanjutan III PLN Tahap I Tahun 2018 Seri C,PPLN,2028-07-10T07:00:00,idAAA,138000000000.0
+335,BBCA01BSBCN1,Obligasi Subordinasi Berkelanjutan I Bank Central Asia Tahap I Tahun 2018 Seri B,BBCA,2030-07-05T07:00:00,idAA,65000000000.0
+336,PIKI01C,Obligasi I Pelindo IV Tahun 2018 Seri C,PIKI,2028-07-04T07:00:00,idAAA,800000000000.0
+337,PPLN03DCN1,Obligasi Berkelanjutan III PLN Tahap I Tahun 2018 Seri D,PPLN,2033-07-10T07:00:00,idAAA,281000000000.0
+338,SIPPLN03ECN4,Sukuk Ijarah Berkelanjutan III PLN Tahap IV Tahun 2019 Seri E,PPLN,2039-08-01T07:00:00,idAAA(sy),539000000000.0
+339,EXCL01DCN2,Obligasi Berkelanjutan I XL Axiata Tahap II Tahun 2019 Seri D,EXCL,2029-02-08T07:00:00,AA+(idn),93000000000.0
+340,WSKT03BCN3,Obligasi Berkelanjutan III Waskita Karya Tahap III Tahun 2018 Seri B,WSKT,2034-12-31T07:00:00,idB,941750000000.0
+341,PPLN03CCN4,Obligasi Berkelanjutan III PLN Tahap IV Tahun 2019 Seri C,PPLN,2029-08-01T07:00:00,idAAA,549000000000.0
+342,ISAT03ECN1,Obligasi Berkelanjutan III Indosat Tahap I Tahun 2019 Seri E,ISAT,2029-03-05T07:00:00,idAAA,47000000000.0
+343,PPLN03ECN3,Obligasi Berkelanjutan III PLN Tahap III Tahun 2019 Seri E,PPLN,2034-02-19T07:00:00,idAAA,263000000000.0
+344,SIISAT03ECN1,Sukuk Ijarah Berkelanjutan III Indosat Tahap I Tahun 2019 Seri E,ISAT,2029-03-05T07:00:00,idAAA(sy),21000000000.0
+345,SIPPLN03CCN4,Sukuk Ijarah Berkelanjutan III PLN Tahap IV Tahun 2019 Seri C,PPLN,2029-08-01T07:00:00,idAAA(sy),20000000000.0
+346,PPLN03FCN3,Obligasi Berkelanjutan III PLN Tahap III Tahun 2019 Seri F,PPLN,2039-02-19T07:00:00,idAAA,155000000000.0
+347,PPLN03DCN3,Obligasi Berkelanjutan III PLN Tahap III Tahun 2019 Seri D,PPLN,2029-02-19T07:00:00,idAAA,211000000000.0
+348,PPLN03ECN4,Obligasi Berkelanjutan III PLN Tahap IV Tahun 2019 Seri E,PPLN,2039-08-01T07:00:00,idAAA,1057370000000.0
+349,PIDL02C27,Obligasi II Pindo Deli Pulp and Paper Mills Tahun 2022 Seri C,PIDL,2027-07-14T07:00:00,idA+,436045000000.0
+350,BMTR03CCN1,Obligasi Berkelanjutan III Global Mediacom Tahap I Tahun 2022 Seri C,BMTR,2027-07-05T07:00:00,idA+,169505000000.0
+351,SIBMTR03CCN1,Sukuk Ijarah Berkelanjutan III Global Mediacom Tahap I Tahun 2022 Seri C,BMTR,2027-07-05T07:00:00,idA+(sy),10210000000.0
+352,IMFI05BCN1,Obligasi Berkelanjutan V Indomobil Finance Dengan Tingkat Bunga Tetap Tahap I Tahun 2022 Seri B,IMFI,2027-07-08T07:00:00,idAA-,100000000000.0
+353,DWGL01XXMF,MTN PT Dwi Guna Laksana Tbk Tahun 2022,DWGL,2027-07-13T07:00:00,irA-,200000000000.0
+354,SMAR04CCN1,Obligasi Berkelanjutan IV SMART Tahap I Tahun 2022 Seri C,SMAR,2027-07-06T07:00:00,idAA-,402000000000.0
+355,HEAL01BCN2,Obligasi Berkelanjutan I Medikaloka Hermina Tahap II Tahun 2022 Seri B,HEAL,2027-07-15T07:00:00,idAA,63000000000.0
+356,BNII04CCN1,Obligasi Berkelanjutan IV Bank Maybank Indonesia Tahap I Tahun 2022 Seri C,BNII,2027-07-08T07:00:00,idAAA,300000000000.0
+357,SMRA04CN1,Obligasi Berkelanjutan IVSummarecon Agung Tahap ITahun 2022,SMRA,2027-07-08T07:00:00,idA+,448450000000.0
+358,CASI02XXMF,MTN Capital Strategic Invesco II Tahun 2022,CASI-M,2027-06-08T07:00:00,irA-,750000000000.0
+359,SMPIDL01C27,Sukuk Mudharabah I Pindo Deli Pulp and Paper Mills Tahun 2022 Seri C,PIDL,2027-07-14T07:00:00,idA+(sy),150375000000.0
+360,BSIM01SBCN1,Obligasi Subordinasi Berkelanjutan I Bank Sinarmas Tahap I Tahun 2022,BSIM,2027-07-08T07:00:00,irA,500000000000.0
+361,BBRI01CGNCN1,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap I Tahun 2022 Seri C,BBRI,2027-07-20T07:00:00,idAAA,500000000000.0
+362,SWMEDP01BCN1,Sukuk Wakalah Berkelanjutan I Medco Power Indonesia Tahap I Tahun 2022 Seri B,MEDP,2027-08-04T07:00:00,idA(sy),220000000000.0
+363,MEDC04CCN3,Obligasi Berkelanjutan IV Medco Energi Internasional Tahap III Tahun 2022 Seri C,MEDC,2029-07-26T07:00:00,idAA-,586270000000.0
+364,WISL01C,Obligasi I Wahana Inti Selaras Tahun 2022 Seri C,WISL,2027-08-05T07:00:00,idA,71000000000.0
+365,MEDC04BCN3,Obligasi Berkelanjutan IV Medco Energi Internasional Tahap III Tahun 2022 Seri B,MEDC,2027-07-26T07:00:00,idAA-,521415000000.0
+366,KAII01ACN1,Obligasi Berkelanjutan I Kereta Api Indonesia Tahap I Tahun 2022 Seri A,KAII,2027-08-05T07:00:00,idAAA,634000000000.0
+367,INKP03CCN1,Obligasi Berkelanjutan III Indah Kiat Pulp & Paper Tahap I Tahun 2022 Seri C,INKP,2027-08-05T07:00:00,idA+,207785000000.0
+368,SIKAII01BCN1,Sukuk Ijarah Berkelanjutan I Kereta Api Indonesia Tahap I Tahun 2022 Seri B,KAII,2029-08-05T07:00:00,idAAA(sy),382650000000.0
+369,KAII01BCN1,Obligasi Berkelanjutan I Kereta Api Indonesia Tahap I Tahun 2022 Seri B,KAII,2029-08-05T07:00:00,idAAA,866000000000.0
+370,TPIA04BCN1,Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap I Tahun 2022 Seri B,TPIA,2029-08-09T07:00:00,idAA-,347000000000.0
+371,TPIA04CCN1,Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap I Tahun 2022 Seri C,TPIA,2032-08-09T07:00:00,idAA-,226550000000.0
+372,SMMA02DCN2,Obligasi Berkelanjutan II Sinar Mas Multiartha Tahap II Tahun 2022 Seri D,SMMA,2027-08-26T07:00:00,irAA,1102000000000.0
+373,ASDF05CCN5,Obligasi Berkelanjutan V Astra Sedaya Finance Tahap V Tahun 2022 Seri C,ASDF,2027-08-26T07:00:00,AAA(idn),7000000000.0
+374,SIEXCL03BCN1,Sukuk Ijarah Berkelanjutan III XL Axiata Tahap I Tahun 2022 Seri B,EXCL,2027-09-01T07:00:00,AA+(idn),421300000000.0
+375,WSKR03X2MF,MTN III Waskita Karya Realty Tahun 2022 Tahap II,WSKR-M,2026-06-21T07:00:00,,120000000000.0
+376,SIBMTR03CCN2,Sukuk Ijarah Berkelanjutan III Global Mediacom Tahap II Tahun 2022 Seri C,BMTR,2027-09-16T07:00:00,idA+(sy),2250000000.0
+377,EXCL02DCN1,Obligasi Berkelanjutan II XL Axiata Tahap I Tahun 2022 Seri D,EXCL,2032-09-01T07:00:00,AA+(idn),175005000000.0
+378,WSKR03X3MF,MTN III Waskita Karya Realty Tahun 2022 Tahap III,WSKR-M,2026-06-26T07:00:00,,120000000000.0
+379,LPPI01CCN3,Obligasi Berkelanjutan I Lontar Papyrus Pulp & Paper Industry Tahap III Tahun 2022 Seri C,LPPI,2027-09-01T07:00:00,idA,65655000000.0
+380,MDKA03CCN3,Obligasi Berkelanjutan III Merdeka Copper Gold Tahap III Tahun 2022 Seri C,MDKA,2027-09-01T07:00:00,idA+,797640000000.0
+381,EXCL02CCN1,Obligasi Berkelanjutan II XL Axiata Tahap I Tahun 2022 Seri C,EXCL,2029-09-01T07:00:00,AA+(idn),177915000000.0
+382,SIEXCL03CCN1,Sukuk Ijarah Berkelanjutan III XL Axiata Tahap I Tahun 2022 Seri C,EXCL,2029-09-01T07:00:00,AA+(idn),135135000000.0
+383,SIEXCL03DCN1,Sukuk Ijarah Berkelanjutan III XL Axiata Tahap I Tahun 2022 Seri D,EXCL,2032-09-01T07:00:00,AA+(idn),262650000000.0
+384,EXCL02BCN1,Obligasi Berkelanjutan II XL Axiata Tahap I Tahun 2022 Seri B,EXCL,2027-09-01T07:00:00,AA+(idn),411855000000.0
+385,BMTR03CCN2,Obligasi Berkelanjutan III Global Mediacom Tahap II Tahun 2022 Seri C,BMTR,2027-09-16T07:00:00,idA+,36695000000.0
+386,SMINKP02CCN2,Sukuk Mudharabah Berkelanjutan II Indah Kiat Pulp & Paper Tahap II Tahun 2022 Seri C,INKP,2027-10-11T07:00:00,idA+(sy),69375000000.0
+387,SWPPAP01JP,Sukuk Wakalah BI AL-ISTITSMAR Jangka Panjang TPU I PT Perusahaan Pengelola Aset Tahun 2022,PPAP,2037-09-28T07:00:00,,1117000000000.0
+388,WSKR03X4MF,MTN III Waskita Karya Realty Tahun 2022 Tahap IV,WSKR-M,2026-06-29T07:00:00,,100000000000.0
+389,SMMA02BCN3,Obligasi Berkelanjutan II Sinar Mas Multiartha Tahap III Tahun 2022 Seri B,SMMA,2032-10-04T07:00:00,irAA,1080000000000.0
+390,INKP03CCN2,Obligasi Berkelanjutan III Indah Kiat Pulp & Paper Tahap II Tahun 2022 Seri C,INKP,2027-10-11T07:00:00,idA+,306215000000.0
+391,SRAJ01B,Obligasi I Sejahteraraya Anugrahjaya Tahun 2022 Seri B,SRAJ,2027-10-07T07:00:00,idA,542100000000.0
+392,SIISAT04BCN1,Sukuk Ijarah Berkelanjutan IV Indosat Tahap I Tahun 2022 Seri B,ISAT,2027-10-26T07:00:00,idAAA(sy),375000000000.0
+393,ISAT04BCN1,Obligasi Berkelanjutan IV Indosat Tahap I Tahun 2022 Seri B,ISAT,2027-10-26T07:00:00,idAAA,875000000000.0
+394,WIKA03CCN1,Obligasi Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 Seri C,WIKA,2029-11-03T07:00:00,idB,449850000000.0
+395,SMWIKA03ACN1,Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 Seri A,WIKA,2027-11-03T07:00:00,idB(sy),109325000000.0
+396,SMGR02BCN1,Obligasi Berkelanjutan II Semen Indonesia Tahap I Tahun 2022 Seri B,SMGR,2027-11-09T07:00:00,idAAA,589550000000.0
+397,OPPM03C,Obligasi III Oki Pulp & Paper Mills Tahun 2022 Seri C,OPPM,2027-11-04T07:00:00,idA+,74570000000.0
+398,BPUI01XXMF,MTN I PT Bahana Pembinaan Usaha Indonesia (Persero) Tahun 2022,BPUI-M,2027-11-02T07:00:00,idAAA,2000000000000.0
+399,WIKA03ACN1,Obligasi Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 Seri A,WIKA,2027-11-03T07:00:00,idB,479800000000.0
+400,WIKA03BCN1,Obligasi Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 Seri B,WIKA,2027-11-03T07:00:00,idB,275230000000.0
+401,SMWIKA03BCN1,Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 Seri B,WIKA,2027-11-03T07:00:00,idB(sy),140490000000.0
+402,SMWIKA03CCN1,Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 Seri C,WIKA,2029-11-03T07:00:00,idB(sy),32000000000.0
+403,SMOPPM02C,Sukuk Mudharabah II Oki Pulp & Paper Mills Tahun 2022 Seri C,OPPM,2027-11-04T07:00:00,idA+(sy),3675000000.0
+404,INKP03CCN3,Obligasi Berkelanjutan III Indah Kiat Pulp & Paper Tahap III Tahun 2022 Seri C,INKP,2027-12-16T07:00:00,idA+,89090000000.0
+405,SMINKP02CCN3,Sukuk Mudharabah Berkelanjutan II Indah Kiat Pulp & Paper Tahap III Tahun 2022 Seri C,INKP,2027-12-16T07:00:00,idA+(sy),5400000000.0
+406,SMAG01X1MF,MTN I Sari Murni Abadi Tahun 2022 Tahap I,SMAG-M,2027-12-14T07:00:00,irBBB+,100000000000.0
+407,POST01B,Obligasi I Pos Indonesia Tahun 2022 Seri B,POST,2027-12-28T07:00:00,A(idn),400000000000.0
+408,AGPU01AXMF,MTN I PT Adhi Guna Putera Tahun 2022 Seri A,AGPU-M,2027-12-30T07:00:00,idA,50000000000.0
+409,SWMEDP01BCN2,Sukuk Wakalah Berkelanjutan I Medco Power Indonesia Tahap II Tahun 2022 Seri B,MEDP,2027-12-30T07:00:00,idA(sy),130310000000.0
+410,BCAP03CCN1,Obligasi Berkelanjutan III MNC Kapital Indonesia Tahap I Tahun 2022 Seri C,BCAP,2028-01-10T07:00:00,idBBB+,58150000000.0
+411,SMINKP02CCN4,Sukuk Mudharabah Berkelanjutan II Indah Kiat Pulp & Paper Tahap IV Tahun 2023 Seri C,INKP,2028-01-27T07:00:00,idA+(sy),67040000000.0
+412,INKP03BCN4,Obligasi Berkelanjutan III Indah Kiat Pulp & Paper Tahap IV Tahun 2023 Seri B,INKP,2028-01-27T07:00:00,idA+,163600000000.0
+413,DNRK07B,Obligasi VII Danareksa Tahun 2023 Seri B,DNRK,2028-02-08T07:00:00,idAA,745000000000.0
+414,BRPT03BCN1,Obligasi Berkelanjutan III Barito Pacific Tahap I Tahun 2023 Seri B,BRPT,2028-02-08T07:00:00,idA+,821865000000.0
+415,BRPT03CCN1,Obligasi Berkelanjutan III Barito Pacific Tahap I Tahun 2023 Seri C,BRPT,2030-02-08T07:00:00,idA+,125615000000.0
+416,SMMF03CCN1,Obligasi Berkelanjutan III Sinar Mas Multifinance Tahap I Tahun 2023 Seri C,SMMF,2028-02-07T07:00:00,irA+,105450000000.0
+417,KAEF01CB,Obligasi Wajib Konversi Kimia Farma I Tahun 2023,KAEF,2028-02-23T07:00:00,,333236667600.0
+418,BVIC03BCN1,Obligasi Berkelanjutan III Bank Victoria Tahap I Tahun 2023 Seri B,BVIC,2028-03-09T07:00:00,idA-,200000000000.0
+419,TOBA01B,Obligasi I TBS Energi Utama Tahun 2023 Seri B,TOBA,2028-03-03T07:00:00,idA,75000000000.0
+420,TPIA04ACN2,Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap II Tahun 2023 Seri A,TPIA,2028-02-28T07:00:00,idAA-,1022650000000.0
+421,TPIA04BCN2,Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap II Tahun 2023 Seri B,TPIA,2030-02-28T07:00:00,idAA-,227350000000.0
+422,SMMA02CN4,Obligasi Berkelanjutan II Sinar Mas Multiartha Tahap IV Tahun 2023,SMMA,2033-03-07T07:00:00,irAA,784719000000.0
+423,SMFP06CN4,Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap IV Tahun 2023,SMFP,2028-02-22T07:00:00,idAAA,2000000000000.0
+424,SANF04CCN2,Obligasi Berkelanjutan IV SANF Dengan Tingkat Bunga Tetap Tahap II Tahun 2023 Seri C,SANF,2028-03-16T07:00:00,idAA+,250000000000.0
+425,WSBP01,Obligasi Waskita Beton Precast I Tahun 2022,WSBP,2028-09-25T07:00:00,idB,80755540000.0
+426,SMMFIN01BCN3,Sukuk Mudharabah Berkelanjutan I Mandala Multifinance Tahap III Tahun 2023 Seri B,ADMF,2026-06-22T07:00:00,idA(sy),200000000000.0
+427,LEND11A1MF,MTN I PT LEN Industri (Persero) Tahun 2023 Tahap I Seri A,LEND-M,2026-06-22T07:00:00,,100000000000.0
+428,LEND11B1MF,MTN I PT LEN Industri (Persero) Tahun 2023 Tahap I Seri B,LEND-M,2027-06-22T07:00:00,,200000000000.0
+429,ISSP02CCN1,Obligasi Berkelanjutan II SPINDO Tahap I Tahun 2023 Seri C,ISSP,2028-04-04T07:00:00,idA,800000000.0
+430,SIISSP02CCN1,Sukuk Ijarah Berkelanjutan II SPINDO Tahap I Tahun 2023 Seri C,ISSP,2028-04-04T07:00:00,idA(sy),10900000000.0
+431,TBLA02CN1,Obligasi Berkelanjutan II Tunas Baru Lampung Tahap I Tahun 2023,TBLA,2028-04-04T07:00:00,inaA,425000000000.0
+432,SMPTPP01CN3,Sukuk Mudarabah Berkelanjutan I PTPP Tahap III Tahun 2023,PTPP,2027-04-11T07:00:00,idBBB+(sy),126754000000.0
+433,OPPM02ACN2,Obligasi Berkelanjutan II OKI Pulp & Paper Mills Tahap II Tahun 2025 Seri A,OPPM,2028-07-29T07:00:00,idA+,818045000000.0
+434,MBMA01BCN2,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap II Tahun 2025 Seri B,MBMA,2028-08-20T07:00:00,idA,686140000000.0
+435,MBMA01CCN2,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap II Tahun 2025 Seri C,MBMA,2030-08-20T07:00:00,idA,270510000000.0
+436,CCIN01AXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri A,CCIN-M,2027-04-22T07:00:00,,190000000000.0
+437,CCIN01BXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri B,CCIN-M,2027-04-22T07:00:00,,34000000000.0
+438,PRNS31BXMF,MTN VI Perum Perumnas Tahun 2019 Seri B,PRNS-M,2028-03-12T07:00:00,idB,100000000000.0
+439,CCIN01JXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri J,CCIN-M,2027-04-22T07:00:00,,33300000000.0
+440,CCIN01LXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri L,CCIN-M,2027-04-22T07:00:00,,47450000000.0
+441,PRNS29XXMF,MTN IV Perum Perumnas Tahun 2019,PRNS-M,2027-04-05T07:00:00,idB,200000000000.0
+442,CCIN01IXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri I,CCIN-M,2027-04-22T07:00:00,,37650000000.0
+443,CCIN01KXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri K,CCIN-M,2027-04-22T07:00:00,,91700000000.0
+444,CCIN01MXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri M,CCIN-M,2027-04-22T07:00:00,,18750000000.0
+445,CCIN01EXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri E,CCIN-M,2027-04-22T07:00:00,,8250000000.0
+446,CCIN01FXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri F,CCIN-M,2027-04-22T07:00:00,,37300000000.0
+447,BBNI01BSLCN1,Obligasi Berlandaskan Keberlanjutan Berkelanjutan I Bank BNI Tahap I Tahun 2025 Seri B,BBNI,2030-07-04T07:00:00,idAAA,1500000000000.0
+448,SGRO02BCN1,Obligasi Berkelanjutan II Sampoerna Agro Tahap I Tahun 2025 Seri B,SGRO,2030-07-04T07:00:00,idA,60520000000.0
+449,BBKP04ASBCN1,Obligasi Subordinasi Berkelanjutan IV KB Bank Tahap I Tahun 2025 Seri A,BBKP,2030-07-04T07:00:00,AA(idn),50000000000.0
+450,SISMDR01CN2,Sukuk Ijarah Berkelanjutan I Samudera Indonesia Tahap II Tahun 2025,SMDR,2030-07-04T07:00:00,idA+(sy),500000000000.0
+451,BMTP02BCN1,Obligasi Berkelanjutan II Bank Mandiri Taspen Tahap I Tahun 2025 Seri B,BMTP,2030-07-04T07:00:00,idAAA,700000000000.0
+452,BBKP02CN1,Obligasi Berkelanjutan II KB Bank Tahap I Tahun 2025,BBKP,2028-07-04T07:00:00,AAA(idn),136010000000.0
+453,SWCUAN01ACN1,Sukuk Wakalah Berkelanjutan I Petrindo Jaya Kreasi Tahap I Tahun 2025 Seri A,CUAN,2026-07-11T07:00:00,idA(sy),52500000000.0
+454,SKSMFP02CN1,Sukuk Musyarakah Berkelanjutan II Sarana Multigriya Finansial Tahap I Tahun 2025,SMFP,2026-07-18T07:00:00,idAAA(sy),445000000000.0
+455,TBIG07ACN1,Obligasi Berkelanjutan VII Tower Bersama Infrastructure Tahap I Tahun 2025 Seri A,TBIG,2028-07-08T07:00:00,AA+(idn),201000000000.0
+456,TAFS05BCN1,Obligasi Berkelanjutan V Toyota Astra Financial Services Tahap I Tahun 2025 Seri B,TAFS,2028-07-08T07:00:00,AAA(idn),165210000000.0
+457,MBMA01ACN1,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap I Tahun 2025 Seri A,MBMA,2026-07-15T07:00:00,idA,1158735000000.0
+458,SITBIG01BCN1,Sukuk Ijarah Berkelanjutan I Tower Bersama Infrastructure Tahap I Tahun 2025 Seri B,TBIG,2030-07-08T07:00:00,AA+(idn),669480000000.0
+459,SKSMFP02SOCN1,Sukuk Musyarakah Berwawasan Sosial Berkelanjutan II Sarana Multigriya Finansial Tahap I Tahun 2025,SMFP,2030-07-08T07:00:00,idAAA(sy),250000000000.0
+460,IJEE02B,Obligasi II Integrasi Jaringan Ekosistem Tahun 2025 Seri B,IJEE,2028-07-08T07:00:00,idA,456560000000.0
+461,MBMA01CCN1,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap I Tahun 2025 Seri C,MBMA,2030-07-08T07:00:00,idA,436740000000.0
+462,SITBIG01ACN1,Sukuk Ijarah Berkelanjutan I Tower Bersama Infrastructure Tahap I Tahun 2025 Seri A,TBIG,2028-07-08T07:00:00,AA+(idn),80520000000.0
+463,TUFI07ACN1,Obligasi Berkelanjutan VII Mandiri Tunas Finance Tahap I Tahun 2025 Seri A,TUFI,2026-07-18T07:00:00,idAAA,313510000000.0
+464,IJEE02A,Obligasi II Integrasi Jaringan Ekosistem Tahun 2025 Seri A,IJEE,2026-07-18T07:00:00,idA,793440000000.0
+465,TUFI07BCN1,Obligasi Berkelanjutan VII Mandiri Tunas Finance Tahap I Tahun 2025 Seri B,TUFI,2028-07-08T07:00:00,idAAA,236000000000.0
+466,BUMI01ACN1,Obligasi Berkelanjutan I Bumi Tahap I Tahun 2025 Seri A,BUMI,2026-07-18T07:00:00,idA+,48750000000.0
+467,CCIN01GXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri G,CCIN-M,2027-04-22T07:00:00,,61500000000.0
+468,PRNS28XXMF,MTN III Perum Perumnas Tahun 2019,PRNS-M,2027-02-27T07:00:00,idB,155000000000.0
+469,PRNS31AXMF,MTN VI Perum Perumnas Tahun 2019 Seri A,PRNS-M,2027-07-30T07:00:00,idB,105000000000.0
+470,CCIN01DXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri D,CCIN-M,2027-04-22T07:00:00,,32600000000.0
+471,CCIN01CXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri C,CCIN-M,2027-04-22T07:00:00,,21000000000.0
+472,PRNS30BXMF,MTN V Perum Perumnas Tahun 2019 Seri B,PRNS-M,2027-04-30T07:00:00,idB,150000000000.0
+473,PRNS26XXMF,MTN I Perum Perumnas Tahun 2019,PRNS-M,2027-03-18T07:00:00,idB,150000000000.0
+474,CCIN01HXMF,MTN Crystal Cakrawala Indah I Tahun 2019 Seri H,CCIN-M,2027-04-22T07:00:00,,36500000000.0
+475,REAS01AXMF,MTN Rekapastika Asri I Tahun 2019 Seri A,REAS-M,2027-04-15T07:00:00,,299965000000.0
+476,PTPD08AXMF,MTN VIII PTPN II Seri A,PTPD-M,2027-06-26T07:00:00,idA(cg),215000000000.0
+477,INTN01AXMF,MTN Intan I Tahun 2019 Seri A,INTN-M,2027-02-14T07:00:00,,25200000000.0
+478,PTPN03BXMF,MTN III PTPN III Tahun 2019 Seri B,PTPN-M,2027-05-09T07:00:00,"idA-,CORP A",600000000000.0
+479,INTN01BXMF,MTN Intan I Tahun 2019 Seri B,INTN-M,2027-02-14T07:00:00,,15300000000.0
+480,PRNS33XXMF,MTN VIII Perum Perumnas Tahun 2019,PRNS-M,2027-07-16T07:00:00,idB,300000000000.0
+481,PTPN03AXMF,MTN III PTPN III Tahun 2019 Seri A,PTPN-M,2027-05-09T07:00:00,"idA-,CORP A",300000000000.0
+482,WKTY08XXMF,MTN VIII Wika Realty Tahun 2019,WKTY-M,2028-07-26T07:00:00,,300000000000.0
+483,TDPM02XXMF,MTN II Tridomain Performance Materials Tahun 2018,TDPM,2027-12-27T07:00:00,idD,410000000000.0
+484,BMRI02BCN1,Obligasi Berkelanjutan II Bank Mandiri Tahap I Tahun 2020 Seri B,BMRI,2027-05-12T07:00:00,idAAA,650000000000.0
+485,TDPM01XXMF,MTN Tridomain Performance Materials I Tahun 2017,TDPM,2027-12-27T07:00:00,idD,20000000.0
+486,KJIE01BXJP,Surat Utang Jangka Panjang Karawang Jabar Industrial Estate I Tahun 2019 Seri B,KJIE-M,2027-12-03T07:00:00,,50000000000.0
+487,WKTY09XXMF,MTN IX Wika Realty Tahun 2019,WKTY-M,2029-08-28T07:00:00,irCCC,545000000000.0
+488,WPNU01CXMF,MTN Wadhe Putera Nusantara I Tahun 2019 Seri C,WPNU-M,2027-02-15T07:00:00,,50000000000.0
+489,WPNU01DXMF,MTN Wadhe Putera Nusantara I Tahun 2019 Seri D,WPNU-M,2027-02-15T07:00:00,,31961000000.0
+490,WPNU01BXMF,MTN Wadhe Putera Nusantara I Tahun 2019 Seri B,WPNU-M,2027-02-15T07:00:00,,42000000000.0
+491,WPNU01AXMF,MTN Wadhe Putera Nusantara I Tahun 2019 Seri A,WPNU-M,2027-02-15T07:00:00,,156000000000.0
+492,KJIE01DXJP,Surat Utang Jangka Panjang Karawang Jabar Industrial Estate I Tahun 2019 Seri D,KJIE-M,2027-12-03T07:00:00,,24500000000.0
+493,KJIE01EXJP,Surat Utang Jangka Panjang Karawang Jabar Industrial Estate I Tahun 2019 Seri E,KJIE-M,2027-12-03T07:00:00,,21000000000.0
+494,KJIE01CXJP,Surat Utang Jangka Panjang Karawang Jabar Industrial Estate I Tahun 2019 Seri C,KJIE-M,2027-12-03T07:00:00,,17000000000.0
+495,USD-MKSU01DXJP,Surat Utang Jangka Panjang Mahkota Sentosa Utama I Tahun 2019 Seri D,MKSU-M,2029-12-05T07:00:00,,42380000.0
+496,USD-MKSU01BXJP,Surat Utang Jangka Panjang Mahkota Sentosa Utama I Tahun 2019 Seri B,MKSU-M,2029-12-05T07:00:00,,56000000.0
+497,USD-MKSU01AXJP,Surat utang jangka panjang Mahkota Sentosa Utama I Tahun 2019 Seri A,MKSU-M,2029-12-05T07:00:00,,62000000.0
+498,PPLN03DCN7,Obligasi Berkelanjutan III PLN Tahap VII Tahun 2020 Seri D,PPLN,2030-05-06T07:00:00,idAAA,1009100000000.0
+499,KJIE01AXJP,Surat Utang Jangka Panjang Karawang Jabar Industrial Estate I Tahun 2019 Seri A,KJIE-M,2027-12-03T07:00:00,,345000000000.0
+500,PSAB01BCN5,Obligasi Berkelanjutan I J Resources Asia Pasifik Tahap V Tahun 2020 Seri B,PSAB,2026-07-30T07:00:00,idBBB+,118125000000.0
+501,APIA01CCN2,Obligasi Berkelanjutan I Angkasa Pura II Tahap II Tahun 2020 Seri C,APIA,2027-08-13T07:00:00,idAAA,1602000000000.0
+502,FIFA07ACN1,Obligasi Berkelanjutan VII Federal International Finance Tahap I Tahun 2025 Seri A,FIFA,2026-07-18T07:00:00,AAA(idn),112067000000.0
+503,SMFP08ACN1,Obligasi Berkelanjutan VIII Sarana Multigriya Finansial Tahap I Tahun 2025 Seri A,SMFP,2026-07-18T07:00:00,idAAA,1460150000000.0
+504,SMII01ASLCN1,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri A,SMII,2026-07-18T07:00:00,idAAA,465000000000.0
+505,ADMF07BCN1,Obligasi Berkelanjutan VII Adira Finance Tahap I Tahun 2025 Seri B,ADMF,2028-07-08T07:00:00,idAAA,235355000000.0
+506,PNMP01CSECN1,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri C,PNMP,2030-07-08T07:00:00,idAAA,537000000000.0
+507,SIIJEE01B,Sukuk Ijarah I Integrasi Jaringan Ekosistem Tahun 2025 Seri B,IJEE,2028-07-08T07:00:00,idA(sy),558400000000.0
+508,SMII01CSLCN1,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri C,SMII,2030-07-08T07:00:00,idAAA,25000000000.0
+509,SMADMF06ACN1,Sukuk Mudharabah Berkelanjutan VI Adira Finance Tahap I Tahun 2025 Seri A,ADMF,2026-07-18T07:00:00,idAAA(sy),205959000000.0
+510,WISL01BCN1,Obligasi Berkelanjutan I Wahana Inti Selaras Tahap I Tahun 2025 Seri B,WISL,2028-07-08T07:00:00,idA,200000000000.0
+511,SMADMF06CCN1,Sukuk Mudharabah Berkelanjutan VI Adira Finance Tahap I Tahun 2025 Seri C,ADMF,2030-07-08T07:00:00,idAAA(sy),34030000000.0
+512,PNMP01ASECN1,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri A,PNMP,2026-07-18T07:00:00,idAAA,220000000000.0
+513,SMADMF06BCN1,Sukuk Mudharabah Berkelanjutan VI Adira Finance Tahap I Tahun 2025 Seri B,ADMF,2028-07-08T07:00:00,idAAA(sy),60011000000.0
+514,ADMF07ACN1,Obligasi Berkelanjutan VII Adira Finance Tahap I Tahun 2025 Seri A,ADMF,2026-07-18T07:00:00,idAAA,724645000000.0
+515,TOBA01ACN1,Obligasi Berkelanjutan I TBS Energi Utama Tahap I Tahun 2025 Seri A,TOBA,2028-07-08T07:00:00,idA,20000000000.0
+516,SMII01BSLCN1,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri B,SMII,2028-07-08T07:00:00,idAAA,110000000000.0
+517,PNMP01BSECN1,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri B,PNMP,2028-07-08T07:00:00,idAAA,243000000000.0
+518,SIIJEE01A,Sukuk Ijarah I Integrasi Jaringan Ekosistem Tahun 2025 Seri A,IJEE,2026-07-18T07:00:00,idA(sy),691600000000.0
+519,SMFP08BCN1,Obligasi Berkelanjutan VIII Sarana Multigriya Finansial Tahap I Tahun 2025 Seri B,SMFP,2028-07-08T07:00:00,idAAA,115500000000.0
+520,TUFI07CCN1,Obligasi Berkelanjutan VII Mandiri Tunas Finance Tahap I Tahun 2025 Seri C,TUFI,2030-07-08T07:00:00,idAAA,225760000000.0
+521,TOBA01BCN1,Obligasi Berkelanjutan I TBS Energi Utama Tahap I Tahun 2025 Seri B,TOBA,2030-07-08T07:00:00,idA,105000000000.0
+522,WISL01ACN1,Obligasi Berkelanjutan I Wahana Inti Selaras Tahap I Tahun 2025 Seri A,WISL,2026-07-18T07:00:00,idA,1200000000000.0
+523,MYOR03BCN2,Obligasi Berkelanjutan III Mayora Indah Tahap II Tahun 2025 Seri B,MYOR,2032-09-10T07:00:00,idAA,300000000000.0
+524,BESL02X1JP,LTN II PT Bintang Express Sarana Tahun 2025 Tahap I,BESL-M,2032-09-11T07:00:00,,320000000000.0
+525,BSEL02X1JP,LTN II PT Bintang Express Sarana Tahun 2025 Tahap I,BESL-M,2032-09-11T07:00:00,,320000000000.0
+526,FIFA07ACN2,Obligasi Berkelanjutan VII Federal International Finance Tahap II Tahun 2025 Seri A,FIFA,2026-09-22T07:00:00,AAA(idn),1470000000000.0
+527,FIFA07BCN2,Obligasi Berkelanjutan VII Federal International Finance Tahap II Tahun 2025 Seri B,FIFA,2028-09-12T07:00:00,AAA(idn),1030000000000.0
+528,INKP04CCN3,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap III Tahun 2023 Seri C,INKP,2028-11-21T07:00:00,idA+,432250000000.0
+529,SMINKP03CCN3,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap III Tahun 2023 Seri C,INKP,2028-11-21T07:00:00,idA+(sy),4520000000.0
+530,SMINKP03BCN3,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap III Tahun 2023 Seri B,INKP,2026-11-21T07:00:00,idA+(sy),303560000000.0
+531,INKP04BCN3,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap III Tahun 2023 Seri B,INKP,2026-11-21T07:00:00,idA+,739720000000.0
+532,IKMS02XXMF,MTN INKA Multi Solusi II Tahun 2023,IKMS-M,2028-11-22T07:00:00,,500000000000.0
+533,USDINKP01BCN2,Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri B,INKP,2026-11-22T07:00:00,idA+,900000.0
+534,USDINKP01CCN2,Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri C,INKP,2028-11-22T07:00:00,idA+,2786000.0
+535,CMTA02X1MF,MTN II PT Cometa Can Tahun 2023 Tahap I,CMTA-M,2028-11-23T07:00:00,,54000000000.0
+536,BRPT03ACN2,Obligasi Berkelanjutan III Barito Pacific Tahap II Tahun 2023 Seri A,BRPT,2026-11-28T07:00:00,idA+,700000000000.0
+537,BRPT03BCN2,Obligasi Berkelanjutan III Barito Pacific Tahap II Tahun 2023 Seri B,BRPT,2028-11-28T07:00:00,idA+,300000000000.0
+538,CMTA02X2MF,MTN II PT Cometa Can Tahun 2023 Tahap II,CMTA-M,2028-12-04T07:00:00,,54000000000.0
+539,ADCP03A,Obligasi III Adhi Commuter Properti Tahun 2023 Seri A,ADCP,2026-12-08T07:00:00,idAAA(cg),15700000000.0
+540,ADCP03B,Obligasi III Adhi Commuter Properti Tahun 2023 Seri B,ADCP,2028-12-08T07:00:00,idAAA(cg),484200000000.0
+541,SMNMVS02X3V,Sukuk Mudharabah Jangka Menengah II PT PNM Ventura Syariah Tahun 2022 Tahap III,NMVS-M,2026-12-11T07:00:00,,35000000000.0
+542,OPPM01BGNCN2,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri B,OPPM,2026-12-12T07:00:00,idA+,55115000000.0
+543,OPPM01CGNCN2,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri C,OPPM,2028-12-12T07:00:00,idA+,3310000000.0
+544,SMOPPM01CCN2,Sukuk Mudharabah Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri C,OPPM,2028-12-12T07:00:00,idA+(sy),127680000000.0
+545,WSBP02CB,Obligasi Wajib Konversi Waskita Beton Precast II Tahun 2023,WSBP,2033-12-12T07:00:00,idB,1393155194444.0
+546,USDOPPM01BCN2,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri B,OPPM,2026-12-12T07:00:00,idA+,5736500.0
+547,OPPM01CCN2,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri C,OPPM,2028-12-12T07:00:00,idA+,104335000000.0
+548,OPPM01BCN2,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri B,OPPM,2026-12-12T07:00:00,idA+,633865000000.0
+549,SMOPPM01BCN2,Sukuk Mudharabah Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri B,OPPM,2026-12-12T07:00:00,idA+(sy),280905000000.0
+550,USDOPPM01CCN2,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri C,OPPM,2028-12-12T07:00:00,idA+,1078500.0
+551,WSBP01CB,Obligasi Wajib Konversi Waskita Beton Precast I Tahun 2023,WSBP,2033-12-12T07:00:00,idB,457614726667.0
+552,CMTA02X3MF,MTN II PT Cometa Can Tahun 2023 Tahap III,CMTA-M,2028-12-14T07:00:00,,54000000000.0
+553,SMII03BCN4,Obligasi Berkelanjutan III Sarana Multi Infrastruktur Tahap IV Tahun 2023 Seri B,SMII,2026-12-14T07:00:00,idAAA,600000000000.0
+554,SMBRIS02SB,Sukuk Mudharabah Subordinasi Jangka Menengah PT Bank Syariah Indonesia Tbk Tahun 2023,BRIS,2028-12-15T07:00:00,idAA(sy),200000000000.0
+555,MDKA04BCN4,Obligasi Berkelanjutan IV Merdeka Copper Gold Tahap IV Tahun 2023 Seri B,MDKA,2026-12-15T07:00:00,idA+,1292020000000.0
+556,SMFP01SOCN1,Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap I Tahun 2023,SMFP,2028-12-22T07:00:00,idAAA,500000000000.0
+557,IIFF02CCN1,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap I Tahun 2023 Seri C,IIFF,2028-12-22T07:00:00,idAAA,94331000000.0
+558,IIFF02BCN1,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap I Tahun 2023 Seri B,IIFF,2026-12-22T07:00:00,idAAA,245060000000.0
+559,SKSMFP01SOCN1,Sukuk Musyarakah Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap I Tahun 2023,SMFP,2028-12-22T07:00:00,idAAA(sy),200000000000.0
+560,TPR-BBTN04A3JP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara (Persero) Tbk IV Tahun 2023 Tahap III Seri A,BBTN,2038-12-27T07:00:00,,6241671188.0
+561,TPR-BBTN04B3JP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara (Persero) Tbk IV Tahun 2023 Tahap III Seri B,BBTN,2037-12-27T07:00:00,,234541750854.0
+562,TPR-SMBBTN01X2JP,Sukuk Mudharabah Muqayyadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara (Persero) Tbk I Tahun 2023 Tahap II,BBTN,2036-12-27T07:00:00,,175038964000.0
+563,BOLD01C,Obligasi I BUMA Tahun 2023 Seri C,BOLD,2028-12-28T07:00:00,idA+,13140000000.0
+564,BOLD01B,Obligasi I BUMA Tahun 2023 Seri B,BOLD,2026-12-28T07:00:00,idA+,200570000000.0
+565,SWAPAI01JP,Sukuk Wakalah Bi Al-Istitsmar Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum PT Angkasa Pura I Tahun 2023,APAI,2033-10-29T07:00:00,,1460000000000.0
+566,PIDL03C,Obligasi III Pindo Deli Pulp And Paper Mills Tahun 2023 Seri C,PIDL,2029-01-03T07:00:00,idA+,79340000000.0
+567,SMPIDL02C,Sukuk Mudharabah II Pindo Deli Pulp And Paper Mills Tahun 2023 Seri C,PIDL,2029-01-03T07:00:00,idA+(sy),101495000000.0
+568,PIDL03B,Obligasi III Pindo Deli Pulp And Paper Mills Tahun 2023 Seri B,PIDL,2027-01-03T07:00:00,idA+,510530000000.0
+569,SMPIDL02B,Sukuk Mudharabah II Pindo Deli Pulp And Paper Mills Tahun 2023 Seri B,PIDL,2027-01-03T07:00:00,idA+(sy),447520000000.0
+570,DNRK08C,Obligasi VIII Danareksa Tahun 2023 Seri C,DNRK,2029-01-09T07:00:00,idAA,100000000000.0
+571,IIFFPBGN,Surat Berharga Perpetual Berwawasan Lingkungan Indonesia Infrastructure Finance Tahun 2023,IIFF,2029-01-09T07:00:00,idAAA,335190000000.0
+572,DNRK08B,Obligasi VIII Danareksa Tahun 2023 Seri B,DNRK,2027-01-09T07:00:00,idAA,520000000000.0
+573,NITA01B,Obligasi I Nirmala Taruna Tahun 2023 Seri B,NITA,2033-01-12T07:00:00,irA+,500000000000.0
+574,NITA01A,Obligasi I Nirmala Taruna Tahun 2023 Seri A,NITA,2032-01-12T07:00:00,irA+,500000000000.0
+575,NITA01C,Obligasi I Nirmala Taruna Tahun 2023 Seri C,NITA,2034-01-12T07:00:00,irA+,500000000000.0
+576,SIMORA02ACN2,Sukuk Ijarah Berkelanjutan II Moratelindo Tahap II Tahun 2024 Seri A,MORA,2027-01-16T07:00:00,idA+(sy),267280000000.0
+577,SIMORA02BCN2,Sukuk Ijarah Berkelanjutan II Moratelindo Tahap II Tahun 2024 Seri B,MORA,2029-01-16T07:00:00,idA+(sy),12350000000.0
+578,SWMEDP01CCN3,Sukuk Wakalah Berkelanjutan I Medco Power Indonesia Tahap III Tahun 2024 Seri C,MEDP,2031-01-18T07:00:00,idA(sy),79515000000.0
+579,SWMEDP01BCN3,Sukuk Wakalah Berkelanjutan I Medco Power Indonesia Tahap III Tahun 2024 Seri B,MEDP,2029-01-18T07:00:00,idA(sy),494490000000.0
+580,SWMEDP01ACN3,Sukuk Wakalah Berkelanjutan I Medco Power Indonesia Tahap III Tahun 2024 Seri A,MEDP,2027-01-18T07:00:00,idA(sy),175995000000.0
+581,BCAP04BCN1,Obligasi Berkelanjutan IV MNC Kapital Indonesia Tahap I Tahun 2023 Seri B,BCAP,2027-01-19T07:00:00,idBBB+,24375000000.0
+582,USD-TAYS01XXMF,MTN USD I PT Jaya Swarasa Agung Tbk Tahun 2023,TAYS-M,2027-01-22T07:00:00,,2000000.0
+583,NMVC04XXMF,MTN IV PT PNM Venture Capital Tahun 2024,NMVC-M,2029-01-25T07:00:00,,350000000000.0
+584,LEND11X2MF,MTN I PT Len Industri (Persero) Tahun 2023 Tahap II,LEND-M,2028-06-22T07:00:00,,200000000000.0
+585,SMFP07BCN3,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap III Tahun 2024 Seri B,SMFP,2027-02-06T07:00:00,idAAA,212000000000.0
+586,PPGD05BCN5,Obligasi Berkelanjutan V Pegadaian Tahap V Tahun 2024 Seri B,PPGD,2027-02-06T07:00:00,idAAA,201190000000.0
+587,MEDC05ACN2,Obligasi Berkelanjutan V Medco Energi Internasional Tahap II Tahun 2024 Seri A,MEDC,2027-02-13T07:00:00,idAA-,208855000000.0
+588,MEDC05BCN2,Obligasi Berkelanjutan V Medco Energi Internasional Tahap II Tahun 2024 Seri B,MEDC,2029-02-13T07:00:00,idAA-,427955000000.0
+589,MEDC05CCN2,Obligasi Berkelanjutan V Medco Energi Internasional Tahap II Tahun 2024 Seri C,MEDC,2031-02-13T07:00:00,idAA-,863190000000.0
+590,MNMN02X1MF,MTN II PT Mitra Niaga Madani Tahun 2024 Tahap I,MNMN-M,2029-02-16T07:00:00,,120000000000.0
+591,MDKA04BCN5,Obligasi Berkelanjutan IV Merdeka Copper Gold Tahap V Tahun 2024 Seri B,MDKA,2027-02-23T07:00:00,idA+,750000000000.0
+592,PYFA01CN3,Obligasi Berkelanjutan I Pyridam Farma Tahap III Tahun 2024,PYFA,2029-02-27T07:00:00,irA-,400000000000.0
+593,TPIA04CCN4,Obligasi Berkelanjutan IV Chandra Asri Pacific Tahap IV Tahun 2024 Seri C,TPIA,2031-03-01T07:00:00,idAA-,540825000000.0
+594,TPIA04BCN4,Obligasi Berkelanjutan IV Chandra Asri Pacific Tahap IV Tahun 2024 Seri B,TPIA,2029-03-01T07:00:00,idAA-,416800000000.0
+595,TPIA04ACN4,Obligasi Berkelanjutan IV Chandra Asri Pacific Tahap IV Tahun 2024 Seri A,TPIA,2027-03-01T07:00:00,idAA-,542375000000.0
+596,PNMP05BCN2,Obligasi Berkelanjutan V PNM Tahap II Tahun 2024 Seri B,PNMP,2027-03-20T07:00:00,idAAA,341030000000.0
+597,BBRI01CGNCN3,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap III Tahun 2024 Seri C,BBRI,2027-03-20T07:00:00,idAAA,382905000000.0
+598,PALM02BCN2,Obligasi Berkelanjutan II Provident Investasi Bersama Tahap II Tahun 2024 Seri B,PALM,2027-03-21T07:00:00,idA,219435000000.0
+599,TPR-BBRI03XXJP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Rakyat Indonesia (Persero) Tbk III Tahun 2024,BBRI,2037-02-26T07:00:00,,55920357750.0
+600,TPR-SMBRIS01X2JP,Sukuk Mudharabah Muqayadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I PT Bank BSI Tbk Tahun 2023 Tahap II,BRIS,2036-06-26T07:00:00,,7761611519.0
+601,LPPI02CCN3,Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap III Tahun 2024 Seri C,LPPI,2029-03-27T07:00:00,idA,148190000000.0
+602,SMFP07BCN4,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap IV Tahun 2024 Seri B,SMFP,2027-03-27T07:00:00,idAAA,300000000000.0
+603,LPPI02BCN3,Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap III Tahun 2024 Seri B,LPPI,2027-03-27T07:00:00,idA,415660000000.0
+604,SMFP01SOCN2,Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap II Tahun 2024,SMFP,2029-03-27T07:00:00,idAAA,1500000000000.0
+605,OPPM01BCN3,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap III Tahun 2024 Seri B,OPPM,2027-03-28T07:00:00,idA+,896790000000.0
+606,OPPM01CCN3,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap III Tahun 2024 Seri C,OPPM,2029-03-28T07:00:00,idA+,58370000000.0
+607,OPPM01CGNCN3,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap III Tahun 2024 Seri C,OPPM,2029-03-28T07:00:00,idA+,13305000000.0
+608,OPPM01BGNCN3,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap III Tahun 2024 Seri B,OPPM,2027-03-28T07:00:00,idA+,41930000000.0
+609,USDOPPM01CCN3,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap III Tahun 2024 Seri C,OPPM,2029-03-28T07:00:00,idA+,4054000.0
+610,USDOPPM01BCN3,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap III Tahun 2024 Seri B,OPPM,2027-03-28T07:00:00,idA+,1812000.0
+611,FIFA06BCN3,Obligasi Berkelanjutan VI Federal International Finance Tahap III Tahun 2024 Seri B,FIFA,2027-04-02T07:00:00,idAAA,890563000000.0
+612,MBMA01B,Obligasi I Merdeka Battery Materials Tahun 2024 Seri B,MBMA,2027-04-03T07:00:00,idA,975000000000.0
+613,SMNMVS03X1V,Sukuk Mudharabah Jangka Menengah III PT PNM Ventura Syariah Tahun 2024 Tahap I,NMVS-M,2027-04-03T07:00:00,,50000000000.0
+614,SMINKP03BCN4,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap IV Tahun 2024 Seri B,INKP,2027-04-04T07:00:00,idA+(sy),199955000000.0
+615,INKP04BCN4,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap IV Tahun 2024 Seri B,INKP,2027-04-04T07:00:00,idA+,1325950000000.0
+616,SMINKP03CCN4,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap IV Tahun 2024 Seri C,INKP,2029-04-04T07:00:00,idA+(sy),65895000000.0
+617,USDINKP01BCN3,Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap III Tahun 2024 Seri B,INKP,2027-04-04T07:00:00,idA+,3511000.0
+618,USDINKP01CCN3,Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap III Tahun 2024 Seri C,INKP,2029-04-04T07:00:00,idA+,3915500.0
+619,INKP04CCN4,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap IV Tahun 2024 Seri C,INKP,2029-04-04T07:00:00,idA+,121155000000.0
+620,SMMA03CN1,Obligasi Berkelanjutan III Sinar Mas Multiartha Tahap I Tahun 2024,SMMA,2029-04-05T07:00:00,irAA,1500000000000.0
+621,DSSA01ACN1,Obligasi Berkelanjutan I Dian Swastatika Sentosa Tahap I Tahun 2024 Seri A,DSSA,2027-04-18T07:00:00,idAA,150250000000.0
+622,SMDSSA01BCN1,Sukuk Mudharabah Berkelanjutan I Dian Swastatika Sentosa Tahap I Tahun 2024 Seri B,DSSA,2029-04-18T07:00:00,idAA(sy),61000000000.0
+623,DSSA01BCN1,Obligasi Berkelanjutan I Dian Swastatika Sentosa Tahap I Tahun 2024 Seri B,DSSA,2029-04-18T07:00:00,idAA,199750000000.0
+624,SMDSSA01ACN1,Sukuk Mudharabah Berkelanjutan I Dian Swastatika Sentosa Tahap I Tahun 2024 Seri A,DSSA,2027-04-18T07:00:00,idAA(sy),89000000000.0
+625,MPMF01BCN3,Obligasi Berkelanjutan I JACCS MPM Finance Indonesia Tahap III Tahun 2024 Seri B,MPMF,2027-04-19T07:00:00,AA(idn),350000000000.0
+626,ASDF06CCN3,Obligasi Berkelanjutan VI Astra Sedaya Finance Tahap III Tahun 2024 Seri C,ASDF,2029-04-23T07:00:00,AAA(idn),364725000000.0
+627,ASDF06BCN3,Obligasi Berkelanjutan VI Astra Sedaya Finance Tahap III Tahun 2024 Seri B,ASDF,2027-04-23T07:00:00,AAA(idn),1181690000000.0
+628,ADMF06BCN3,Obligasi Berkelanjutan VI Adira Finance Tahap III Tahun 2024 Seri B,ADMF,2027-05-03T07:00:00,idAAA,391461000000.0
+629,SMADMF05BCN3,Sukuk Mudharabah Berkelanjutan V Adira Finance Tahap III Tahun 2024 Seri B,ADMF,2027-05-03T07:00:00,idAAA(sy),39005000000.0
+630,SMADMF05CCN3,Sukuk Mudharabah Berkelanjutan V Adira Finance Tahap III Tahun 2024 Seri C,ADMF,2029-05-03T07:00:00,idAAA(sy),22015000000.0
+631,ADMF06CCN3,Obligasi Berkelanjutan VI Adira Finance Tahap III Tahun 2024 Seri C,ADMF,2029-05-03T07:00:00,idAAA,129335000000.0
+632,TPR-BBTN04X4JP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara (Persero) Tbk IV Tahun 2024 Tahap IV,BBTN,2038-08-07T07:00:00,,203350626300.0
+633,OPPM01BGNCN4,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap IV Tahun 2024 Seri B,OPPM,2027-05-21T07:00:00,idA+,157470000000.0
+634,OPPM01CGNCN4,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap IV Tahun 2024 Seri C,OPPM,2029-05-21T07:00:00,idA+,28805000000.0
+635,OPPM01CCN4,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap IV Tahun 2024 Seri C,OPPM,2029-05-21T07:00:00,idA+,614130000000.0
+636,OPPM01BCN4,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap IV Tahun 2024 Seri B,OPPM,2027-05-21T07:00:00,idA+,707110000000.0
+637,USDOPPM01CCN4,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap IV Tahun 2024 Seri C,OPPM,2029-05-21T07:00:00,idA+,1178500.0
+638,USDOPPM01BCN4,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap IV Tahun 2024 Seri B,OPPM,2027-05-21T07:00:00,idA+,2622000.0
+639,TUFI06ACN3,Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap III Tahun 2024 Seri A,TUFI,2027-05-28T07:00:00,idAAA,81590000000.0
+640,TUFI06BCN3,Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap III Tahun 2024 Seri B,TUFI,2029-05-28T07:00:00,idAAA,1081495000000.0
+641,SMRA04BCN3,Obligasi Berkelanjutan IV Summarecon Agung Tahap III Tahun 2024 Seri B,SMRA,2029-06-04T07:00:00,idA+,971000000000.0
+642,SMRA04ACN3,Obligasi Berkelanjutan IV Summarecon Agung Tahap III Tahun 2024 Seri A,SMRA,2027-06-04T07:00:00,idA+,329000000000.0
+643,LPPI02BCN4,Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap IV Tahun 2024 Seri B,LPPI,2027-06-05T07:00:00,idA,428740000000.0
+644,SMDSSA01CCN2,Sukuk Mudharabah Berkelanjutan I Dian Swastatika Sentosa Tahap II Tahun 2024 Seri C,DSSA,2029-06-05T07:00:00,idAA(sy),174880000000.0
+645,SMDSSA01BCN2,Sukuk Mudharabah Berkelanjutan I Dian Swastatika Sentosa Tahap II Tahun 2024 Seri B,DSSA,2027-06-05T07:00:00,idAA(sy),228000000000.0
+646,LPPI02CCN4,Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap IV Tahun 2024 Seri C,LPPI,2029-06-05T07:00:00,idA,530740000000.0
+647,DSSA01CCN2,Obligasi Berkelanjutan I Dian Swastatika Sentosa Tahap II Tahun 2024 Seri C,DSSA,2029-06-05T07:00:00,idAA,836690000000.0
+648,DSSA01BCN2,Obligasi Berkelanjutan I Dian Swastatika Sentosa Tahap II Tahun 2024 Seri B,DSSA,2027-06-05T07:00:00,idAA,171225000000.0
+649,SMBRIS01CCN1,Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap I Tahun 2024 Seri C,BRIS,2027-06-14T07:00:00,idAAA(sy),1080000000000.0
+650,SANF04BCN3,Obligasi Berkelanjutan IV SANF Dengan Tingkat Bunga Tetap Tahap III Tahun 2024 Seri B,SANF,2027-06-20T07:00:00,idAA+,550000000000.0
+651,USDINKP01CCN4,Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap IV Tahun 2024 Seri C,INKP,2029-06-21T07:00:00,idA+,3596000.0
+652,INKP04CCN5,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap V Tahun 2024 Seri C,INKP,2029-06-21T07:00:00,idA+,51740000000.0
+653,SIBMTR04CCN2,Sukuk Ijarah Berkelanjutan IV Global Mediacom Tahap II Tahun 2024 Seri C,BMTR,2029-06-21T07:00:00,idA+(sy),1165000000.0
+654,IMFI05BCN3,Obligasi Berkelanjutan V Indomobil Finance Dengan Tingkat Bunga Tetap Tahap III Tahun 2024 Seri B,IMFI,2027-06-21T07:00:00,idAA-,611160000000.0
+655,BMTR04BCN2,Obligasi Berkelanjutan IV Global Mediacom Tahap II Tahun 2024 Seri B,BMTR,2027-06-21T07:00:00,idA+,217510000000.0
+656,IMFI05CCN3,Obligasi Berkelanjutan V Indomobil Finance Dengan Tingkat Bunga Tetap Tahap III Tahun 2024 Seri C,IMFI,2029-06-21T07:00:00,idAA-,814865000000.0
+657,SIBMTR04BCN2,Sukuk Ijarah Berkelanjutan IV Global Mediacom Tahap II Tahun 2024 Seri B,BMTR,2027-06-21T07:00:00,idA+(sy),267130000000.0
+658,USDINKP01BCN4,Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap IV Tahun 2024 Seri B,INKP,2027-06-21T07:00:00,idA+,913000.0
+659,SMINKP03ACN5,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap V Tahun 2024 Seri A,INKP,2027-06-21T07:00:00,idA+(sy),171790000000.0
+660,INKP04BCN5,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap V Tahun 2024 Seri B,INKP,2027-06-21T07:00:00,idA+,1620605000000.0
+661,SMINKP03BCN5,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap V Tahun 2024 Seri B,INKP,2029-06-21T07:00:00,idA+(sy),99450000000.0
+662,BMTR04CCN2,Obligasi Berkelanjutan IV Global Mediacom Tahap II Tahun 2024 Seri C,BMTR,2029-06-21T07:00:00,idA+,132255000000.0
+663,SMFP07BCN5,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap V Tahun 2024 Seri B,SMFP,2027-06-26T07:00:00,idAAA,184500000000.0
+664,BBIA04SBCN1,Obligasi Subordinasi Berkelanjutan IV Bank UOB Indonesia Tahap I Tahun 2024,BBIA,2031-06-26T07:00:00,AA(idn),100000000000.0
+665,SMFP01SOCN3,Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap III Tahun 2024,SMFP,2029-06-26T07:00:00,idAAA,2000000000000.0
+666,PTPP04CN1,Obligasi Berkelanjutan IV PTPP Tahap I Tahun 2024,PTPP,2027-06-28T07:00:00,idBBB+,434620000000.0
+667,BCAP04CCN2,Obligasi Berkelanjutan IV MNC Kapital Indonesia Tahap II Tahun 2024 Seri C,BCAP,2029-07-02T07:00:00,idBBB+,2615000000.0
+668,WOMF05BCN1,Obligasi Berkelanjutan V WOM Finance Tahap I Tahun 2024 Seri B,WOMF,2027-07-02T07:00:00,idAAA,119555000000.0
+669,BCAP04BCN2,Obligasi Berkelanjutan IV MNC Kapital Indonesia Tahap II Tahun 2024 Seri B,BCAP,2027-07-02T07:00:00,idBBB+,98140000000.0
+670,LTLS04CN1,Obligasi Berkelanjutan IV Lautan Luas Tahap I Tahun 2024,LTLS,2027-07-04T07:00:00,idA,285500000000.0
+671,IJEE01C,Obligasi I Integrasi Jaringan Ekosistem Tahun 2024 Seri C,IJEE,2029-07-04T07:00:00,idA-,41000000000.0
+672,IJEE01B,Obligasi I Integrasi Jaringan Ekosistem Tahun 2024 Seri B,IJEE,2027-07-04T07:00:00,idA-,5000000000.0
+673,MYOR03ACN1,Obligasi Berkelanjutan III Mayora Indah Tahap I Tahun 2024 Seri A,MYOR,2029-07-05T07:00:00,idAA,238840000000.0
+674,APAI02BCN1,Obligasi Berkelanjutan II Angkasa Pura I Tahap I Tahun 2024 Seri B,APAI,2031-07-05T07:00:00,idAAA,50005000000.0
+675,SMSMII03BCN1,Sukuk Mudharabah Berkelanjutan III Sarana Multi Infrastruktur Tahap I Tahun 2024 Seri B,SMII,2027-07-05T07:00:00,idAAA(sy),60100000000.0
+676,PPGD01BSOCN1,Obligasi Berwawasan Sosial Berkelanjutan I Pegadaian Tahap I Tahun 2024 Seri B,PPGD,2027-07-05T07:00:00,idAAA,30055000000.0
+677,WISL03B,Obligasi III Wahana Inti Selaras Tahun 2024 Seri B,WISL,2027-07-05T07:00:00,idA,407925000000.0
+678,HIFI03B,Obligasi III Hino Finance Indonesia Tahun 2024 Seri B,HIFI,2027-07-05T07:00:00,AA+(idn),357105000000.0
+679,SMII04CCN1,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap I Tahun 2024 Seri C,SMII,2029-07-05T07:00:00,idAAA,357000000000.0
+680,BJBR04BSBCN1,Obligasi Subordinasi Berkelanjutan IV Bank BJB Tahap I Tahun 2024 Seri B,BJBR,2031-07-05T07:00:00,idA+,697045000000.0
+681,SMPPGD03BCN1,Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap I Tahun 2024 Seri B,PPGD,2027-07-05T07:00:00,idAAA(sy),18045000000.0
+682,JSMR03CCN1,Obligasi Berkelanjutan III Jasa Marga Tahap I Tahun 2024 Seri C,JSMR,2034-07-05T07:00:00,idAA,601140000000.0
+683,JSMR03ACN1,Obligasi Berkelanjutan III Jasa Marga Tahap I Tahun 2024 Seri A,JSMR,2027-07-05T07:00:00,idAA,90155000000.0
+684,PNBN04SBCN1,Obligasi Subordinasi Berkelanjutan IV Bank Panin Tahap I Tahun 2024,PNBN,2031-07-05T07:00:00,idA+,50000000000.0
+685,BJBR04ASBCN1,Obligasi Subordinasi Berkelanjutan IV Bank BJB Tahap I Tahun 2024 Seri A,BJBR,2029-07-05T07:00:00,idA+,744265000000.0
+686,WISL03C,Obligasi III Wahana Inti Selaras Tahun 2024 Seri C,WISL,2029-07-05T07:00:00,idA,100790000000.0
+687,SMII04BCN1,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap I Tahun 2024 Seri B,SMII,2027-07-05T07:00:00,idAAA,60010000000.0
+688,BTPN05BCN1,Obligasi Berkelanjutan V Bank BTPN Tahap I Tahun 2024 Seri B,BTPN,2029-07-05T07:00:00,idAAA,240305000000.0
+689,PPGD06BCN1,Obligasi Berkelanjutan VI Pegadaian Tahap I Tahun 2024 Seri B,PPGD,2027-07-05T07:00:00,idAAA,51115000000.0
+690,PNBN04CN1,Obligasi Berkelanjutan IV Bank Panin Tahap I Tahun 2024,PNBN,2029-07-05T07:00:00,idAA,50000000000.0
+691,APAI02CCN1,Obligasi Berkelanjutan II Angkasa Pura I Tahap I Tahun 2024 Seri C,APAI,2034-07-05T07:00:00,idAAA,196750000000.0
+692,SMPPGD01BSOCN1,Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap I Tahun 2024 Seri B,PPGD,2027-07-05T07:00:00,idAAA(sy),100000000.0
+693,BTPN05ACN1,Obligasi Berkelanjutan V Bank BTPN Tahap I Tahun 2024 Seri A,BTPN,2027-07-05T07:00:00,idAAA,114755000000.0
+694,APAI02ACN1,Obligasi Berkelanjutan II Angkasa Pura I Tahap I Tahun 2024 Seri A,APAI,2027-07-05T07:00:00,idAAA,8005000000.0
+695,MYOR03BCN1,Obligasi Berkelanjutan III Mayora Indah Tahap I Tahun 2024 Seri B,MYOR,2031-07-05T07:00:00,idAA,261160000000.0
+696,JSMR03BCN1,Obligasi Berkelanjutan III Jasa Marga Tahap I Tahun 2024 Seri B,JSMR,2029-07-05T07:00:00,idAA,241055000000.0
+697,SMFP07CCN1,Obligasi Berkelanjutan VII Sarana Multigriya Finansial (Persero) Tahap I Tahun 2023 Seri C,SMFP,2028-07-12T07:00:00,idAAA,65000000000.0
+698,SMFP07BCN1,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap I Tahun 2023 Seri B,SMFP,2026-07-12T07:00:00,idAAA,747000000000.0
+699,SKSMFP01CN1,Sukuk Musyarakah Berkelanjutan I Sarana Multigriya Finansial (Persero) Tahap I Tahun 2023,SMFP,2028-07-12T07:00:00,idAAA(sy),170500000000.0
+700,BMRI01BGNCN1,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap I Tahun 2023 Seri B,BMRI,2028-07-04T07:00:00,idAAA,3050000000000.0
+701,SIMORA02BCN1,Sukuk Ijarah Berkelanjutan II Moratelindo Tahap I Tahun 2023 Seri B,MORA,2028-07-13T07:00:00,idA+(sy),25950000000.0
+702,TUFI06BCN1,Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap I Tahun 2023 Seri B,TUFI,2028-07-11T07:00:00,idAAA,252075000000.0
+703,TUFI06ACN1,Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap I Tahun 2023 Seri A,TUFI,2026-07-11T07:00:00,idAAA,439660000000.0
+704,TAFS04BCN1,Obligasi Berkelanjutan IV Toyota Astra Financial Services Tahap I Tahun 2023 Seri B,TAFS,2026-07-11T07:00:00,AAA(idn),619160000000.0
+705,INKP04BCN1,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap I Tahun 2023 Seri B,INKP,2026-07-11T07:00:00,idA+,1745880000000.0
+706,HIFI02B,Obligasi II Hino Finance Indonesia Tahun 2023 Seri B,HIFI,2026-07-11T07:00:00,AA+(idn),334000000000.0
+707,FIFA06BCN1,Obligasi Berkelanjutan VI Federal International Finance Tahap I Tahun 2023 Seri B,FIFA,2026-07-11T07:00:00,idAAA,433850000000.0
+708,BRIF02B,Obligasi II BRI Finance Tahun 2023 Seri B,BRIF,2026-07-11T07:00:00,idAA,303000000000.0
+709,MEDC05ACN1,Obligasi Berkelanjutan V Medco Energi Internasional Tahap I Tahun 2023 Seri A,MEDC,2026-07-07T07:00:00,idAA-,150000000000.0
+710,SMADMF05BCN1,Sukuk Mudharabah Berkelanjutan V Adira Finance Tahap I Tahun 2023 Seri B,ADMF,2026-07-07T07:00:00,idAAA(sy),141000000000.0
+711,SMADMF05CCN1,Sukuk Mudharabah Berkelanjutan V Adira Finance Tahap I Tahun 2023 Seri C,ADMF,2028-07-07T07:00:00,idAAA(sy),95000000000.0
+712,MEDC05CCN1,Obligasi Berkelanjutan V Medco Energi Internasional Tahap I Tahun 2023 Seri C,MEDC,2030-07-07T07:00:00,idAA-,590000000000.0
+713,LPPI02BCN1,Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2023 Seri B,LPPI,2028-07-04T07:00:00,idA,273440000000.0
+714,SIBMTR04CCN1,Sukuk Ijarah Berkelanjutan IV Global Mediacom Tahap I Tahun 2023 Seri C,BMTR,2028-07-06T07:00:00,idA+(sy),15350000000.0
+715,USD-PIDL01B3MF,MTN I PT Pindo Deli Pulp and Paper Mills Tahun 2023 Tahap III Seri B,PIDL,2026-07-18T07:00:00,,275000.0
+716,USD-PIDL01A3MF,MTN I PT Pindo Deli Pulp and Paper Mills Tahun 2023 Tahap III Seri A,PIDL,2026-07-18T07:00:00,,260000.0
+717,SISMDR01BCN1,Sukuk Ijarah Berkelanjutan I Samudera Indonesia Tahap I Tahun 2023 Seri B,SMDR,2028-08-02T07:00:00,idA+(sy),339175000000.0
+718,MDKA04BCN3,Obligasi Berkelanjutan IV Merdeka Copper Gold Tahap III Tahun 2023 Seri B,MDKA,2026-08-04T07:00:00,idA+,1475000000000.0
+719,WISL02B,Obligasi II Wahana Inti Selaras Tahun 2023 Seri B,WISL,2026-08-08T07:00:00,idA,845505000000.0
+720,ARKO01AGN,Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri A,ARKO,2026-08-08T07:00:00,idA+,318060000000.0
+721,ARKO01BGN,Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri B,ARKO,2028-08-08T07:00:00,idA+,21835000000.0
+722,WISL02C,Obligasi II Wahana Inti Selaras Tahun 2023 Seri C,WISL,2028-08-08T07:00:00,idA,590520000000.0
+723,MPMF01BCN2,Obligasi Berkelanjutan I JACCS MPM Finance Indonesia Tahap II Tahun 2023 Seri B,MPMF,2026-08-11T07:00:00,AA(idn),230000000000.0
+724,WISL02E,Obligasi II Wahana Inti Selaras Tahun 2023 Seri E,WISL,2028-08-08T07:00:00,idA,590520000000.0
+725,WISL02D,Obligasi II Wahana Inti Selaras Tahun 2023 Seri D,WISL,2026-08-08T07:00:00,idA,845505000000.0
+726,PPGD05BCN4,Obligasi Berkelanjutan V Pegadaian Tahap IV Tahun 2023 Seri B,PPGD,2026-08-24T07:00:00,idAAA,228025000000.0
+727,SMPPGD02CN4,Sukuk Mudharabah Berkelanjutan II Pegadaian Tahap IV Tahun 2023,PPGD,2026-08-24T07:00:00,idAAA(sy),235040000000.0
+728,SMINKP03BCN2,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri B,INKP,2026-08-25T07:00:00,idA+(sy),878975000000.0
+729,SMINKP03CCN2,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri C,INKP,2028-08-25T07:00:00,idA+(sy),87695000000.0
+730,SMOPPM02,Sukuk Mudharabah Jangka Menengah OKI Pulp & Paper Mills II Tahun 2023,OPPM,2026-08-25T07:00:00,,200000000000.0
+731,INKP04BCN2,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri B,INKP,2026-08-25T07:00:00,idA+,1609865000000.0
+732,INKP04CCN2,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri C,INKP,2028-08-25T07:00:00,idA+,454095000000.0
+733,BAFI02CN4,Obligasi Berkelanjutan II Bussan Auto Finance Tahap IV Tahun 2023,BAFI,2026-09-08T07:00:00,idAAA,458000000000.0
+734,TPR-BBTN04X2JP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara (Persero) Tbk IV Tahun 2023 Tahap II,BBTN,2037-09-15T07:00:00,,404745014255.0
+735,TPIA04CCN3,Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap III Tahun 2023 Seri C,TPIA,2030-09-27T07:00:00,idAA-,103760000000.0
+736,TPIA04BCN3,Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap III Tahun 2023 Seri B,TPIA,2028-09-27T07:00:00,idAA-,534760000000.0
+737,TUFI06ACN2,Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap II Tahun 2023 Seri A,TUFI,2026-09-27T07:00:00,idAAA,804175000000.0
+738,TUFI06BCN2,Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap II Tahun 2023 Seri B,TUFI,2028-09-27T07:00:00,idAAA,326935000000.0
+739,TPIA04ACN3,Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap III Tahun 2023 Seri A,TPIA,2026-09-27T07:00:00,idAA-,361480000000.0
+740,TAFS04BCN2,Obligasi Berkelanjutan IV Toyota Astra Financial Services Tahap II Tahun 2023 Seri B,TAFS,2026-10-03T07:00:00,AAA(idn),223565000000.0
+741,AGPU01BXMF,MTN I PT Adhi Guna Putera Tahun 2022 Seri B,AGPU-M,2027-12-30T07:00:00,idA,50000000000.0
+742,SWIATA01BCN1,Sukuk Wakalah Berkelanjutan I MNC Energy Investments Tahap I Tahun 2023 Seri B,IATA,2026-10-06T07:00:00,idA-(sy),49300000000.0
+743,SWIATA01CCN1,Sukuk Wakalah Berkelanjutan I MNC Energy Investments Tahap I Tahun 2023 Seri C,IATA,2028-10-06T07:00:00,idA-(sy),100700000000.0
+744,IATA01CCN1,Obligasi Berkelanjutan I MNC Energy Investments Tahap I Tahun 2023 Seri C,IATA,2028-10-06T07:00:00,idA-,100175000000.0
+745,LPPI02BCN2,Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2023 Seri B,LPPI,2026-10-06T07:00:00,idA,1483070000000.0
+746,LPPI02CCN2,Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2023 Seri C,LPPI,2028-10-06T07:00:00,idA,231190000000.0
+747,IATA01BCN1,Obligasi Berkelanjutan I MNC Energy Investments Tahap I Tahun 2023 Seri B,IATA,2026-10-06T07:00:00,idA-,149825000000.0
+748,VOKS02CN1,Obligasi Berkelanjutan II Voksel Electric Tahap I Tahun 2023,VOKS,2026-10-09T07:00:00,irA-,250000000000.0
+749,SIAGII03BCN1,Sukuk Ijarah Berkelanjutan III Samator Indo Gas Tahap I Tahun 2023 Seri B,AGII,2028-10-10T07:00:00,A(idn),34500000000.0
+750,AGII03BCN1,Obligasi Berkelanjutan III Samator Indo Gas Tahap I Tahun 2023 Seri B,AGII,2028-10-10T07:00:00,A(idn),29000000000.0
+751,AGII03ACN1,Obligasi Berkelanjutan III Samator Indo Gas Tahap I Tahun 2023 Seri A,AGII,2026-10-10T07:00:00,A(idn),41000000000.0
+752,SIAGII03ACN1,Sukuk Ijarah Berkelanjutan III Samator Indo Gas Tahap I Tahun 2023 Seri A,AGII,2026-10-10T07:00:00,A(idn),35500000000.0
+753,USDINKP01BCN1,Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap I Tahun 2023 Seri B,INKP,2028-10-11T07:00:00,idA+,11566000.0
+754,USDINKP01ACN1,Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap I Tahun 2023 Seri A,INKP,2026-10-11T07:00:00,idA+,1402500.0
+755,SMMF03BCN2,Obligasi Berkelanjutan III Sinar Mas Multifinance Tahap II Tahun 2023 Seri B,SMMF,2028-10-11T07:00:00,irA+,425000000000.0
+756,SMMF03ACN2,Obligasi Berkelanjutan III Sinar Mas Multifinance Tahap II Tahun 2023 Seri A,SMMF,2026-10-11T07:00:00,irA+,575000000000.0
+757,USDOPPM01BCN1,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri B,OPPM,2028-10-12T07:00:00,idA+,6691000.0
+758,OPPM01CCN1,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri C,OPPM,2028-10-12T07:00:00,idA+,241370000000.0
+759,USDOPPM01ACN1,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri A,OPPM,2026-10-12T07:00:00,idA+,1058000.0
+760,SMOPPM01ACN1,Sukuk Mudharabah Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri A,OPPM,2026-10-12T07:00:00,idA+(sy),333200000000.0
+761,OPPM01CGNCN1,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri C,OPPM,2028-10-12T07:00:00,idA+,257910000000.0
+762,OPPM01BGNCN1,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri B,OPPM,2026-10-12T07:00:00,idA+,1042090000000.0
+763,OPPM01BCN1,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri B,OPPM,2026-10-12T07:00:00,idA+,1608890000000.0
+764,SMOPPM01BCN1,Sukuk Mudharabah Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri B,OPPM,2028-10-12T07:00:00,idA+(sy),166800000000.0
+765,BBRI01CGNCN2,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap II Tahun 2023 Seri C,BBRI,2026-10-17T07:00:00,idAAA,500000000000.0
+766,SMRA04BCN2,Obligasi Berkelanjutan IV Summarecon Agung Tahap II Tahun 2023 Seri B,SMRA,2028-10-19T07:00:00,idA+,432000000000.0
+767,SMRA04ACN2,Obligasi Berkelanjutan IV Summarecon Agung Tahap II Tahun 2023 Seri A,SMRA,2026-10-19T07:00:00,idA+,468000000000.0
+768,SMFP07CCN2,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap II Tahun 2023 Seri C,SMFP,2028-10-20T07:00:00,idAAA,1300000000000.0
+769,SMFP07BCN2,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap II Tahun 2023 Seri B,SMFP,2026-10-20T07:00:00,idAAA,256000000000.0
+770,TPR-BBRI02XXJP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Rakyat Indonesia (Persero) Tbk II Tahun 2023,BBRI,2037-01-25T07:00:00,,59485072875.0
+771,SIADCP01JP,Sukuk Ijarah Jangka Panjang Tanpa Penawaran Umum PT Adhi Commuter Properti Tbk Tahun 2023,ADCP,2031-10-26T07:00:00,,499100000000.0
+772,ASDF06CCN2,Obligasi Berkelanjutan VI Astra Sedaya Finance Tahap II Tahun 2023 Seri C,ASDF,2028-10-26T07:00:00,AAA(idn),60835000000.0
+773,ASDF06BCN2,Obligasi Berkelanjutan VI Astra Sedaya Finance Tahap II Tahun 2023 Seri B,ASDF,2026-10-26T07:00:00,AAA(idn),750620000000.0
+774,SMADMF05CCN2,Sukuk Mudharabah Berkelanjutan V Adira Finance Tahap II Tahun 2023 Seri C,ADMF,2028-11-09T07:00:00,idAAA(sy),100000000.0
+775,ADMF06BCN2,Obligasi Berkelanjutan VI Adira Finance Tahap II Tahun 2023 Seri B,ADMF,2026-11-09T07:00:00,idAAA,385235000000.0
+776,SMADMF05BCN2,Sukuk Mudharabah Berkelanjutan V Adira Finance Tahap II Tahun 2023 Seri B,ADMF,2026-11-09T07:00:00,idAAA(sy),48730000000.0
+777,ADMF06CCN2,Obligasi Berkelanjutan VI Adira Finance Tahap II Tahun 2023 Seri C,ADMF,2028-11-09T07:00:00,idAAA,30375000000.0
+778,FIFA06BCN2,Obligasi Berkelanjutan VI Federal International Finance Tahap II Tahun 2023 Seri B,FIFA,2026-11-16T07:00:00,idAAA,250784000000.0
+779,JSMR03ACN2,Obligasi Berkelanjutan III Jasa Marga Tahap II Tahun 2025 Seri A,JSMR,2028-09-04T07:00:00,idAA,120000000000.0
+780,PNBN04BCN3,Obligasi Berkelanjutan IV Bank Panin Tahap III Tahun 2025 Seri B,PNBN,2030-09-04T07:00:00,idAA,1046000000000.0
+781,JSMR03BCN2,Obligasi Berkelanjutan III Jasa Marga Tahap II Tahun 2025 Seri B,JSMR,2030-09-04T07:00:00,idAA,100000000000.0
+782,PNBN04ACN3,Obligasi Berkelanjutan IV Bank Panin Tahap III Tahun 2025 Seri A,PNBN,2028-09-04T07:00:00,idAA,2154000000000.0
+783,MYOR03ACN2,Obligasi Berkelanjutan III Mayora Indah Tahap II Tahun 2025 Seri A,MYOR,2030-09-10T07:00:00,idAA,700000000000.0
+784,SMDSSA01CCN3,Sukuk Mudharabah Berkelanjutan I Dian Swastatika Sentosa Tahap III Tahun 2024 Seri C,DSSA,2029-11-26T07:00:00,idAA(sy),393915000000.0
+785,HRTA02ACN1,Obligasi Berkelanjutan II Hartadinata Abadi Tahap I Tahun 2024 Seri A,HRTA,2027-11-26T07:00:00,idAAA(cg),59500000000.0
+786,BAFI03BCN2,Obligasi Berkelanjutan III Bussan Auto Finance Tahap II Tahun 2024 Seri B,BAFI,2027-11-26T07:00:00,idAAA,156005000000.0
+787,HRTA02BCN1,Obligasi Berkelanjutan II Hartadinata Abadi Tahap I Tahun 2024 Seri B,HRTA,2029-11-26T07:00:00,idAAA(cg),840500000000.0
+788,DSSA01BCN3,Obligasi Berkelanjutan I Dian Swastatika Sentosa Tahap III Tahun 2024 Seri B,DSSA,2027-11-26T07:00:00,idAA,857520000000.0
+789,TBIG06BCN4,Obligasi Berkelanjutan VI Tower Bersama Infrastructure Tahap IV Tahun 2024 Seri B,TBIG,2027-12-03T07:00:00,AA+(idn),756925000000.0
+790,NMVC05X1MF,Medium Term Notes V PT PNM Venture Capital Tahun 2024 Tahap I,NMVC-M,2029-12-04T07:00:00,,100000000000.0
+791,INKP05BCN2,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap II Tahun 2024 Seri B,INKP,2027-12-05T07:00:00,idA+,1497555000000.0
+792,SMNMVS04,Sukuk Mudharabah Jangka Menengah IV PT PNM Ventura Syariah Tahun 2024,NMVS-M,2028-12-05T07:00:00,,35000000000.0
+793,INKP05CCN2,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap II Tahun 2024 Seri C,INKP,2029-12-05T07:00:00,idA+,602085000000.0
+794,SMINKP04BCN2,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap II Tahun 2024 Seri B,INKP,2027-12-05T07:00:00,idA+(sy),576330000000.0
+795,SMINKP04CCN2,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap II Tahun 2024 Seri C,INKP,2029-12-05T07:00:00,idA+(sy),335480000000.0
+796,SMII04BCN2,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap II Tahun 2024 Seri B,SMII,2027-12-06T07:00:00,idAAA,600000000000.0
+797,SMII04DCN2,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap II Tahun 2024 Seri D,SMII,2031-12-06T07:00:00,idAAA,1206005000000.0
+798,SMII04CCN2,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap II Tahun 2024 Seri C,SMII,2029-12-06T07:00:00,idAAA,543995000000.0
+799,BJBR01PBCN1,Surat Berharga Perpetual Berkelanjutan I Bank BJB Tahap I Tahun 2024,BJBR,2030-06-10T07:00:00,idA,1000000000000.0
+800,BJBR01BSLCN1,Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap I Tahun 2024 Seri B,BJBR,2029-12-10T07:00:00,idAA,800000000000.0
+801,SMIL01B,Obligasi I Sarana Mitra Luas Tahun 2024 Seri B,SMIL,2029-12-10T07:00:00,idAAA(cg),152900000000.0
+802,SMAG01X2MF,MTN I Sari Murni Abadi Tahun 2022 Tahap II,SMAG-M,2027-12-10T07:00:00,irBBB+,100000000000.0
+803,BJBR01ASLCN1,Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap I Tahun 2024 Seri A,BJBR,2027-12-10T07:00:00,idAA,200000000000.0
+804,SMIL01A,Obligasi I Sarana Mitra Luas Tahun 2024 Seri A,SMIL,2027-12-10T07:00:00,idAAA(cg),147100000000.0
+805,SIPTRO01CCN1,Sukuk Ijarah Berkelanjutan I Petrosea Tahap I Tahun 2024 Seri C,PTRO,2029-12-13T07:00:00,idA+(sy),254600000000.0
+806,PTRO01DCN1,Obligasi Berkelanjutan I Petrosea Tahap I Tahun 2024 Seri D,PTRO,2031-12-13T07:00:00,idA+,315960000000.0
+807,SIPTRO01BCN1,Sukuk Ijarah Berkelanjutan I Petrosea Tahap I Tahun 2024 Seri B,PTRO,2027-12-13T07:00:00,idA+(sy),128360000000.0
+808,SIPTRO01DCN1,Sukuk Ijarah Berkelanjutan I Petrosea Tahap I Tahun 2024 Seri D,PTRO,2031-12-13T07:00:00,idA+(sy),84040000000.0
+809,PTRO01BCN1,Obligasi Berkelanjutan I Petrosea Tahap I Tahun 2024 Seri B,PTRO,2027-12-13T07:00:00,idA+,171640000000.0
+810,PTRO01CCN1,Obligasi Berkelanjutan I Petrosea Tahap I Tahun 2024 Seri C,PTRO,2029-12-13T07:00:00,idA+,465400000000.0
+811,FMFN01BCN1,Obligasi Berkelanjutan I KB Finansia Multi Finance Tahap I Tahun 2024 Seri B,FMFN,2027-12-17T07:00:00,AAA(idn),68010000000.0
+812,BTPN05ACN2,Obligasi Berkelanjutan V Bank SMBC Indonesia Tahap II Tahun 2024 Seri A,BTPN,2027-12-17T07:00:00,idAAA,429910000000.0
+813,BTPN05BCN2,Obligasi Berkelanjutan V Bank SMBC Indonesia Tahap II Tahun 2024 Seri B,BTPN,2029-12-17T07:00:00,idAAA,966505000000.0
+814,NMVC05X2MF,Medium Term Notes V PT PNM Venture Capital Tahun 2024 Tahap II,NMVC-M,2027-12-18T07:00:00,,250000000000.0
+815,TPR-SMBRIS01X3JP,Sukuk Mudharabah Muqayadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I PT Bank BSI Tbk Tahun 2024 Tahap III,BRIS,2036-12-20T07:00:00,,7968794963.0
+816,TPR-BBTN04X6JP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara Persero) Tbk IV Tahun 2024 Tahap VI,BBTN,2038-12-23T07:00:00,,147909042000.0
+817,TPR-SMBBTN01X4JP,Sukuk Mudharabah Muqayyadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara (Persero) Tbk I Tahun 2024 Tahap IV,BBTN,2038-09-23T07:00:00,,52444485000.0
+818,MDKA05CN1,Obligasi Berkelanjutan V Merdeka Copper Gold Tahap I Tahun 2024,MDKA,2027-12-24T07:00:00,idA+,1000000000000.0
+819,MBMN01X1MF,MTN I PT Mitra Bisnis Madani Tahun 2024 Tahap I,MBMN-M,2029-12-27T07:00:00,,100000000000.0
+820,SWINJH01JP,Sukuk Wakalah Bi Al-Istitsmar Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum PT Aviasi Pariwisata Indonesia (Persero) Tahun 2024,INJH-M,2034-09-30T07:00:00,,2000000000000.0
+821,MEDC05BCN3,Obligasi Berkelanjutan V Medco Energi Internasional Tahap III Tahun 2025 Seri B,MEDC,2032-01-07T07:00:00,idAA-,825000000000.0
+822,MEDC05ACN3,Obligasi Berkelanjutan V Medco Energi Internasional Tahap III Tahun 2025 Seri A,MEDC,2030-01-07T07:00:00,idAA-,1675000000000.0
+823,PIDL01CCN1,Obligasi Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap I Tahun 2024 Seri C,PIDL,2028-01-07T07:00:00,idA+,961485000000.0
+824,SMPIDL01CCN1,Sukuk Mudharabah Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap I Tahun 2024 Seri C,PIDL,2028-01-07T07:00:00,idA+(sy),517110000000.0
+825,PIDL01BCN1,Obligasi Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap I Tahun 2024 Seri B,PIDL,2027-01-07T07:00:00,idA+,49390000000.0
+826,SMPIDL01DCN1,Sukuk Mudharabah Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap I Tahun 2024 Seri D,PIDL,2030-01-07T07:00:00,idA+(sy),564230000000.0
+827,PIDL01DCN1,Obligasi Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap I Tahun 2024 Seri D,PIDL,2030-01-07T07:00:00,idA+,343200000000.0
+828,SMPIDL01BCN1,Sukuk Mudharabah Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap I Tahun 2024 Seri B,PIDL,2027-01-07T07:00:00,idA+(sy),114710000000.0
+829,INPP01B,Obligasi I Indonesian Paradise Property Tahun 2025 Seri B,INPP,2030-01-08T07:00:00,idAAA(cg),487500000000.0
+830,SIPOST01CCN1,Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap I Tahun 2024 Seri C,POST,2032-01-08T07:00:00,A(idn),150000000000.0
+831,INPP01A,Obligasi I Indonesian Paradise Property Tahun 2025 Seri A,INPP,2028-01-08T07:00:00,idAAA(cg),12500000000.0
+832,SIPOST01ACN1,Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap I Tahun 2024 Seri A,POST,2028-01-08T07:00:00,A(idn),100000000000.0
+833,SIPOST01BCN1,Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap I Tahun 2024 Seri B,POST,2030-01-08T07:00:00,A(idn),750000000000.0
+834,BCAP05CCN1,Obligasi Berkelanjutan V MNC Kapital Indonesia Tahap I Tahun 2024 Seri C,BCAP,2030-01-10T07:00:00,idBBB+,102940000000.0
+835,BCAP05BCN1,Obligasi Berkelanjutan V MNC Kapital Indonesia Tahap I Tahun 2024 Seri B,BCAP,2028-01-10T07:00:00,idBBB+,144085000000.0
+836,SMPNMP07X4V,Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap IV,PNMP-M,2026-09-29T07:00:00,idAAA(sy),635000000000.0
+837,NMVC06X1MF,MTN VI PT PNM Venture Capital Tahun 2025 Tahap I,NMVC-M,2030-09-22T07:00:00,,200000000000.0
+838,SIBSDE02BCN1,Sukuk Ijarah Berkelanjutan II Bumi Serpong Damai Tahap I Tahun 2025 Seri B,BSDE,2030-09-23T07:00:00,idAA(sy),150000000000.0
+839,BSDE04CCN1,Obligasi Berkelanjutan IV Bumi Serpong Damai Tahap I Tahun 2025 Seri C,BSDE,2032-09-23T07:00:00,idAA,300000000000.0
+840,BSDE04BCN1,Obligasi Berkelanjutan IV Bumi Serpong Damai Tahap I Tahun 2025 Seri B,BSDE,2030-09-23T07:00:00,idAA,162500000000.0
+841,SIBSDE02CCN1,Sukuk Ijarah Berkelanjutan II Bumi Serpong Damai Tahap I Tahun 2025 Seri C,BSDE,2032-09-23T07:00:00,idAA(sy),300000000000.0
+842,SIBSDE02ACN1,Sukuk Ijarah Berkelanjutan II Bumi Serpong Damai Tahap I Tahun 2025 Seri A,BSDE,2028-09-23T07:00:00,idAA(sy),50000000000.0
+843,BSDE04ACN1,Obligasi Berkelanjutan IV Bumi Serpong Damai Tahap I Tahun 2025 Seri A,BSDE,2028-09-23T07:00:00,idAA,37500000000.0
+844,BUMI01ACN2,Obligasi Berkelanjutan I Bumi Tahap II Tahun 2025 Seri A,BUMI,2028-09-24T07:00:00,idA+,149330000000.0
+845,BUMI01BCN2,Obligasi Berkelanjutan I Bumi Tahap II Tahun 2025 Seri B,BUMI,2030-09-24T07:00:00,idA+,572280000000.0
+846,USDINKP02BCN4,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri B,INKP,2028-09-30T07:00:00,idA+,2636000.0
+847,USDINKP02ACN4,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri A,INKP,2026-10-10T07:00:00,idA+,5820000.0
+848,SMINKP04CN5,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap V Tahun 2025,INKP,2030-09-30T07:00:00,idA+(sy),1109790000000.0
+849,USDINKP02CCN4,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri C,INKP,2030-09-30T07:00:00,idA+,4061500.0
+850,INKP05BCN5,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap V Tahun 2025 Seri B,INKP,2030-09-30T07:00:00,idA+,3097030000000.0
+851,INKP05ACN5,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap V Tahun 2025 Seri A,INKP,2028-09-30T07:00:00,idA+,849545000000.0
+852,BJTM01ACN1,Obligasi Berkelanjutan I Bank Jatim Tahap I Tahun 2025 Seri A,BJTM,2028-10-01T07:00:00,idAA-,1000000000000.0
+853,BJTM01BCN1,Obligasi Berkelanjutan I Bank Jatim Tahap I Tahun 2025 Seri B,BJTM,2030-10-01T07:00:00,idAA-,1000000000000.0
+854,SITBIG01ACN2,Sukuk Ijarah Berkelanjutan I Tower Bersama Infrastructure Tahap II Tahun 2025 Seri A,TBIG,2028-12-04T07:00:00,AA+(idn),200000000000.0
+855,SITBIG01BCN2,Sukuk Ijarah Berkelanjutan I Tower Bersama Infrastructure Tahap II Tahun 2025 Seri B,TBIG,2030-12-04T07:00:00,AA+(idn),400000000000.0
+856,BBTN01SOCN1,Obligasi Berwawasan Sosial Berkelanjutan I Bank BTN Tahap I Tahun 2025,BBTN,2028-12-12T07:00:00,idAAA,300000000000.0
+857,DNTR01A2JP,Surat Utang Jangka Panjang Yang Ditawarkan Tanpa Melalui Penawaran Umum PT Danantara Investment Management (Persero) Tahun 2025 Tahap II Seri A,DNTR-M,2030-12-13T07:00:00,,9807000000000.0
+858,BMRI01BSLCN1,Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri B,BMRI,2028-12-19T07:00:00,idAAA,2000000000000.0
+859,MYOR03ACN3,Obligasi Berkelanjutan III Mayora Indah Tahap III Tahun 2025 Seri A,MYOR,2030-12-23T07:00:00,idAA,363520000000.0
+860,SWBANK01CN1,Sukuk Wakalah Berkelanjutan I Bank Aladin Syariah Tahap I Tahun 2025,BANK,2027-01-18T07:00:00,irA-(sy),500000000000.0
+861,BBIA04SBCN2,Obligasi Subordinasi Berkelanjutan IV Bank UOB Indonesia Tahap II Tahun 2026,BBIA,2033-01-09T07:00:00,AA(idn),500000000000.0
+862,HIFI01ACN2,Obligasi Berkelanjutan I Hino Finance Indonesia Tahap II Tahun 2026 Seri A,HIFI,2027-02-21T07:00:00,idAA+,313000000000.0
+863,HIFI01BCN2,Obligasi Berkelanjutan I Hino Finance Indonesia Tahap II Tahun 2026 Seri B,HIFI,2029-02-11T07:00:00,idAA+,255000000000.0
+864,TBIG07CCN3,Obligasi Berkelanjutan VII Tower Bersama Infrastructure Tahap III Tahun 2026 Seri C,TBIG,2031-02-12T07:00:00,AA+(idn),173000000000.0
+865,TBIG07ACN3,Obligasi Berkelanjutan VII Tower Bersama Infrastructure Tahap III Tahun 2026 Seri A,TBIG,2027-02-22T07:00:00,AA+(idn),700000000000.0
+866,SITBIG01ACN3,Sukuk Ijarah Berkelanjutan I Tower Bersama Infrastructure Tahap III Tahun 2026 Seri A,TBIG,2029-02-12T07:00:00,AA+(idn),125100000000.0
+867,TBIG07BCN3,Obligasi Berkelanjutan VII Tower Bersama Infrastructure Tahap III Tahun 2026 Seri B,TBIG,2029-02-12T07:00:00,AA+(idn),189000000000.0
+868,SITBIG01BCN3,Sukuk Ijarah Berkelanjutan I Tower Bersama Infrastructure Tahap III Tahun 2026 Seri B,TBIG,2031-02-12T07:00:00,AA+(idn),85000000000.0
+869,GDLI03X3MF,MTN III PT Gading Danalestari Tahun 2025 Tahap III,GDLI-M,2029-02-12T07:00:00,,50000000000.0
+870,ENRG01BCN2,Obligasi Berkelanjutan I Energi Mega Persada Tahap II Tahun 2026 Seri B,ENRG,2031-02-13T07:00:00,idA+,869800000000.0
+871,ENRG01ACN2,Obligasi Berkelanjutan I Energi Mega Persada Tahap II Tahun 2026 Seri A,ENRG,2029-02-13T07:00:00,idA+,280400000000.0
+872,SMPNMP07X6V,Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap VI,PNMP,2027-02-23T07:00:00,idAAA(sy),800000000000.0
+873,JSMR03CCN3,Obligasi Berkelanjutan III Jasa Marga Tahap III Tahun 2026 Seri C,JSMR,2033-02-20T07:00:00,idAA,300000000000.0
+874,SWMEDP01ACN4,Sukuk Wakalah Berkelanjutan I Medco Power Indonesia Tahap IV Tahun 2025 Seri A,MEDP,2028-02-07T07:00:00,idA(sy),125035000000.0
+875,SWMEDP01BCN4,Sukuk Wakalah Berkelanjutan I Medco Power Indonesia Tahap IV Tahun 2025 Seri B,MEDP,2030-02-07T07:00:00,idA(sy),816955000000.0
+876,SWMEDP01CCN4,Sukuk Wakalah Berkelanjutan I Medco Power Indonesia Tahap IV Tahun 2025 Seri C,MEDP,2032-02-07T07:00:00,idA(sy),208010000000.0
+877,TPR-BBNI01XXJP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Negara Indonesia (Persero) Tbk I Tahun 2024,BBNI,2037-11-07T07:00:00,,14036333250.0
+878,SMLPPI01BCN2,Sukuk Mudharabah Berkelanjutan I Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2025 Seri B,LPPI,2028-02-11T07:00:00,idA(sy),396205000000.0
+879,LPPI03BCN2,Obligasi Berkelanjutan III Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2025 Seri B,LPPI,2028-02-11T07:00:00,idA,412700000000.0
+880,SMLPPI01CCN2,Sukuk Mudharabah Berkelanjutan I Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2025 Seri C,LPPI,2030-02-11T07:00:00,idA(sy),313965000000.0
+881,LPPI03CCN2,Obligasi Berkelanjutan III Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2025 Seri C,LPPI,2030-02-11T07:00:00,idA,325915000000.0
+882,TBIG06BCN5,Obligasi Berkelanjutan VI Tower Bersama Infrastructure Tahap V Tahun 2025 Seri B,TBIG,2028-02-12T07:00:00,AA+(idn),745155000000.0
+883,PALM02BCN4,Obligasi Berkelanjutan II Provident Investasi Bersama Tahap IV Tahun 2025 Seri B,PALM,2028-02-13T07:00:00,idA,258675000000.0
+884,SMFP07BCN8,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VIII Tahun 2025 Seri B,SMFP,2028-02-14T07:00:00,idAAA,251255000000.0
+885,ADMF06CCN5,Obligasi Berkelanjutan VI Adira Finance Tahap V Tahun 2025 Seri C,ADMF,2030-02-14T07:00:00,idAAA,213815000000.0
+886,INKP05BCN3,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap III Tahun 2025 Seri B,INKP,2028-03-12T07:00:00,idA+,1985945000000.0
+887,SMINKP04CCN3,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap III Tahun 2025 Seri C,INKP,2030-03-12T07:00:00,idA+(sy),121215000000.0
+888,SMINKP04BCN3,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap III Tahun 2025 Seri B,INKP,2028-03-12T07:00:00,idA+(sy),475890000000.0
+889,USDINKP02CCN2,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap II Tahun 2025 Seri C,INKP,2030-03-12T07:00:00,idA+,3138500.0
+890,INKP05CCN3,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap III Tahun 2025 Seri C,INKP,2030-03-12T07:00:00,idA+,541580000000.0
+891,USDINKP02BCN2,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap II Tahun 2025 Seri B,INKP,2028-03-12T07:00:00,idA+,16783000.0
+892,SWCNAF01BCN2,Sukuk Wakalah Bi Al-Istitsmar Berkelanjutan I CIMB Niaga Auto Finance Tahap II Tahun 2025 Seri B,CNAF,2028-03-13T07:00:00,AA+(idn),400000000000.0
+893,ASDF06BCN5,Obligasi Berkelanjutan VI Astra Sedaya Finance Tahap V Tahun 2025 Seri B,ASDF,2028-03-14T07:00:00,AAA(idn),1000000000000.0
+894,MPLC01X1MF,MTN I PT Mitra Prima Lancar Tahun 2025 Tahap I,MPLC-M,2028-03-17T07:00:00,irBBB,50000000000.0
+895,BESL01X3JP,LTN I PT Bintang Express Sarana Tahun 2024 Tahap III,BESL-M,2032-03-20T07:00:00,,245000000000.0
+896,HIFI01BCN1,Obligasi Berkelanjutan I Hino Finance Indonesia Tahap I Tahun 2025 Seri B,HIFI,2028-03-20T07:00:00,AA+(idn),89065000000.0
+897,PTRO01ACN2,Obligasi Berkelanjutan I Petrosea Tahap II Tahun 2025 Seri A,PTRO,2028-03-21T07:00:00,idA+,39200000000.0
+898,TBIG06ACN6,Obligasi Berkelanjutan VI Tower Bersama Infrastructure Tahap VI Tahun 2025 Seri A,TBIG,2028-03-21T07:00:00,AA+(idn),804945000000.0
+899,PTRO01CCN2,Obligasi Berkelanjutan I Petrosea Tahap II Tahun 2025 Seri C,PTRO,2032-03-21T07:00:00,idA+,484600000000.0
+900,SIPTRO01ACN2,Sukuk Ijarah Berkelanjutan I Petrosea Tahap II Tahun 2025 Seri A,PTRO,2028-03-21T07:00:00,idA+(sy),59100000000.0
+901,SIPTRO01BCN2,Sukuk Ijarah Berkelanjutan I Petrosea Tahap II Tahun 2025 Seri B,PTRO,2030-03-21T07:00:00,idA+(sy),223900000000.0
+902,SIPTRO01CCN2,Sukuk Ijarah Berkelanjutan I Petrosea Tahap II Tahun 2025 Seri C,PTRO,2032-03-21T07:00:00,idA+(sy),217000000000.0
+903,TBIG06BCN6,Obligasi Berkelanjutan VI Tower Bersama Infrastructure Tahap VI Tahun 2025 Seri B,TBIG,2030-03-21T07:00:00,AA+(idn),1873055000000.0
+904,PTRO01BCN2,Obligasi Berkelanjutan I Petrosea Tahap II Tahun 2025 Seri B,PTRO,2030-03-21T07:00:00,idA+,476200000000.0
+905,USDOPPM02CCN1,Obligasi USD Berkelanjutan II Oki Pulp & Paper Mills Tahap I Tahun 2025 Seri C,OPPM,2030-03-25T07:00:00,idA+,511500.0
+906,SMOPPM02ACN1,Sukuk Mudharabah Berkelanjutan II Oki Pulp & Paper Mills Tahap I Tahun 2025 Seri A,OPPM,2028-03-25T07:00:00,idA+(sy),465335000000.0
+907,BMRI01BGNCN2,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap II Tahun 2025 Seri B,BMRI,2028-03-25T07:00:00,idAAA,4500000000000.0
+908,LPPI03CCN3,Obligasi Berkelanjutan III Lontar Papyrus Pulp & Paper Industry Tahap III Tahun 2025 Seri C,LPPI,2030-05-21T07:00:00,idA,319845000000.0
+909,LPPI03BCN3,Obligasi Berkelanjutan III Lontar Papyrus Pulp & Paper Industry Tahap III Tahun 2025 Seri B,LPPI,2028-05-21T07:00:00,idA,860676000000.0
+910,BESL01X5JP,LTN I PT Bintang Express Sarana Tahun 2024 Tahap V,BESL-M,2032-05-23T07:00:00,,17000000000.0
+911,PPGD06BCN2,Obligasi Berkelanjutan VI Pegadaian Tahap II Tahun 2025 Seri B,PPGD,2028-05-28T07:00:00,idAAA,2309205000000.0
+912,BAFI03BCN3,Obligasi Berkelanjutan III Bussan Auto Finance Tahap III Tahun 2025 Seri B,BAFI,2028-05-28T07:00:00,idAAA,960000000000.0
+913,PPGD01BSOCN2,Obligasi Berwawasan Sosial Berkelanjutan I Pegadaian Tahap II Tahun 2025 Seri B,PPGD,2028-05-28T07:00:00,idAAA,985590000000.0
+914,SIPOST01BCN2,Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap II Tahun 2025 Seri B,POST,2030-05-28T07:00:00,A(idn),100000000000.0
+915,SIPOST01CCN2,Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap II Tahun 2025 Seri C,POST,2032-05-28T07:00:00,A(idn),250000000000.0
+916,SIPOST01ACN2,Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap II Tahun 2025 Seri A,POST,2028-05-28T07:00:00,A(idn),150000000000.0
+917,SMPPGD03BCN4,Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap IV Tahun 2025 Seri B,PPGD,2028-05-28T07:00:00,idAAA(sy),234720000000.0
+918,TRIM02BCN2,Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap II Tahun 2025 Seri B,TRIM,2028-10-08T07:00:00,idA,400000000000.0
+919,TRIM02ACN2,Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap II Tahun 2025 Seri A,TRIM,2026-10-18T07:00:00,idA,100000000000.0
+920,SMDSSA01ACN4,Sukuk Mudharabah Berkelanjutan I Dian Swastatika Sentosa Tahap IV Tahun 2025 Seri A,DSSA,2028-10-09T07:00:00,idAA(sy),90000000000.0
+921,DSSA01CN4,Obligasi Berkelanjutan I Dian Swastatika Sentosa Tahap IV Tahun 2025,DSSA,2030-10-09T07:00:00,idAA,256700000000.0
+922,SMDSSA01BCN4,Sukuk Mudharabah Berkelanjutan I Dian Swastatika Sentosa Tahap IV Tahun 2025 Seri B,DSSA,2030-10-09T07:00:00,idAA(sy),1153300000000.0
+923,BESL02X2JP,LTN II PT Bintang Express Sarana Tahun 2025 Tahap II,BESL-M,2032-10-10T07:00:00,,230000000000.0
+924,BOLD03B,Obligasi III BUMA Tahun 2025 Seri B,BOLD,2028-10-10T07:00:00,idA+,325750000000.0
+925,BOLD03A,Obligasi III BUMA Tahun 2025 Seri A,BOLD,2026-10-20T07:00:00,idA+,503150000000.0
+926,BOLD03C,Obligasi III BUMA Tahun 2025 Seri C,BOLD,2030-10-10T07:00:00,idA+,55140000000.0
+927,SGER01ACN2,Obligasi Berkelanjutan I Sumber Global Energy Tahap II Tahun 2025 Seri A,SGER,2026-10-25T07:00:00,idA-,273645000000.0
+928,SGER01BCN2,Obligasi Berkelanjutan I Sumber Global Energy Tahap II Tahun 2025 Seri B,SGER,2027-10-15T07:00:00,idA-,9465000000.0
+929,SMPNMP01CSECN2,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri C,PNMP,2030-10-17T07:00:00,idAAA(sy),110000000000.0
+930,SMPNMP01ASECN2,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri A,PNMP,2026-10-27T07:00:00,idAAA(sy),800000000000.0
+931,SMPNMP01BSECN2,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri B,PNMP,2028-10-17T07:00:00,idAAA(sy),110000000000.0
+932,DNTR01B1JP,Surat Utang Jangka Panjang Yang Ditawarkan Tanpa Melalui Penawaran Umum PT Danantara Investment Management (Persero) Tahun 2025 Tahap I Seri B,DNTR-M,2032-10-21T07:00:00,,25000000000000.0
+933,ADMF07ACN2,Obligasi Berkelanjutan VII Adira Finance Tahap II Tahun 2025 Seri A,ADMF,2026-10-31T07:00:00,idAAA,900000000000.0
+934,SMADMF06BCN2,Sukuk Mudharabah Berkelanjutan VI Adira Finance Tahap II Tahun 2025 Seri B,ADMF,2028-10-21T07:00:00,idAAA(sy),300000000000.0
+935,ADMF07BCN2,Obligasi Berkelanjutan VII Adira Finance Tahap II Tahun 2025 Seri B,ADMF,2028-10-21T07:00:00,idAAA,750000000000.0
+936,DNTR01A1JP,Surat Utang Jangka Panjang Yang Ditawarkan Tanpa Melalui Penawaran Umum PT Danantara Investment Management (Persero) Tahun 2025 Tahap I Seri A,DNTR-M,2030-10-22T07:00:00,,25000000000000.0
+937,SMADMF06ACN2,Sukuk Mudharabah Berkelanjutan VI Adira Finance Tahap II Tahun 2025 Seri A,ADMF,2026-10-31T07:00:00,idAAA(sy),400000000000.0
+938,SMMA03CN4,Obligasi Berkelanjutan III Sinar Mas Multiartha Tahap IV Tahun 2025,SMMA,2030-10-23T07:00:00,irAA,1050000000000.0
+939,ASDF07ACN2,Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap II Tahun 2025 Seri A,ASDF,2026-11-04T07:00:00,idAAA,300000000000.0
+940,ASDF07BCN2,Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap II Tahun 2025 Seri B,ASDF,2028-10-24T07:00:00,idAAA,1100000000000.0
+941,OPPM02BCN3,Obligasi Berkelanjutan II OKI Pulp & Paper Mills Tahap III Tahun 2025 Seri B,OPPM,2030-11-04T07:00:00,idA+,375000000000.0
+942,USDOPPM02BCN3,Obligasi USD Berkelanjutan II OKI Pulp & Paper Mills Tahap III Tahun 2025 Seri B,OPPM,2030-11-04T07:00:00,idA+,15656000.0
+943,SMOPPM02ACN3,Sukuk Mudharabah Berkelanjutan II OKI Pulp & Paper Mills Tahap III Tahun 2025 Seri A,OPPM,2028-11-04T07:00:00,idA+(sy),375000000000.0
+944,OPPM02ACN3,Obligasi Berkelanjutan II OKI Pulp & Paper Mills Tahap III Tahun 2025 Seri A,OPPM,2028-11-04T07:00:00,idA+,375000000000.0
+945,SMOPPM02BCN3,Sukuk Mudharabah Berkelanjutan II OKI Pulp & Paper Mills Tahap III Tahun 2025 Seri B,OPPM,2030-11-04T07:00:00,idA+(sy),375000000000.0
+946,USDOPPM02ACN3,Obligasi USD Berkelanjutan II OKI Pulp & Paper Mills Tahap III Tahun 2025 Seri A,OPPM,2028-11-04T07:00:00,idA+,1516000.0
+947,IIFF02BCN3,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap III Tahun 2025 Seri B,IIFF,2028-11-05T07:00:00,idAAA,625000000000.0
+948,IIFF02CCN3,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap III Tahun 2025 Seri C,IIFF,2030-11-05T07:00:00,idAAA,100000000000.0
+949,IIFF02ACN3,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap III Tahun 2025 Seri A,IIFF,2026-11-15T07:00:00,idAAA,500000000000.0
+950,IIFF02DCN3,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap III Tahun 2025 Seri D,IIFF,2035-11-05T07:00:00,idAAA,275000000000.0
+951,WISL01CN2,Obligasi Berkelanjutan I Wahana Inti Selaras Tahap II Tahun 2025,WISL,2026-11-17T07:00:00,idA,500000000000.0
+952,MNMN02X2MF,MTN II PT Mitra Niaga Madani Tahun 2024 Tahap II,MNMN-M,2030-11-07T07:00:00,,50000000000.0
+953,TAFS05BCN2,Obligasi Berkelanjutan V Toyota Astra Financial Services Tahap II Tahun 2025 Seri B,TAFS,2030-11-11T07:00:00,AAA(idn),500000000000.0
+954,TAFS05ACN2,Obligasi Berkelanjutan V Toyota Astra Financial Services Tahap II Tahun 2025 Seri A,TAFS,2028-11-11T07:00:00,AAA(idn),500000000000.0
+955,WISL01ACN3,Obligasi Berkelanjutan I Wahana Inti Selaras Tahap III Tahun 2026 Seri A,WISL,2027-03-27T07:00:00,idA,1560120000000.0
+956,DNTR02A1JP,Surat Utang Jangka Panjang II Yang Ditawarkan Tanpa Melalui Penawaran Umum PT Danantara Investment Management Tahun 2026 Tahap I Seri A,DNTR-M,2031-03-18T07:00:00,,3500000000000.0
+957,DNTR02B1JP,Surat Utang Jangka Panjang II Yang Ditawarkan Tanpa Melalui Penawaran Umum PT Danantara Investment Management Tahun 2026 Tahap I Seri B,DNTR-M,2033-03-17T07:00:00,,3500000000000.0
+958,INKP06ACN1,Obligasi Berkelanjutan VI Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri A,INKP,2029-03-26T07:00:00,idA+,93275000000.0
+959,SMPPGD01BSOCN3,Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap III Tahun 2025 Seri B,PPGD,2028-11-13T07:00:00,idAAA(sy),253205000000.0
+960,PPGD06ACN4,Obligasi Berkelanjutan VI Pegadaian Tahap IV Tahun 2025 Seri A,PPGD,2026-11-23T07:00:00,idAAA,2700000000000.0
+961,SMPPGD01ASOCN3,Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap III Tahun 2025 Seri A,PPGD,2026-11-23T07:00:00,idAAA(sy),1300000000000.0
+962,PPGD06BCN4,Obligasi Berkelanjutan VI Pegadaian Tahap IV Tahun 2025 Seri B,PPGD,2028-11-13T07:00:00,idAAA,521435000000.0
+963,BAFI03ACN4,Obligasi Berkelanjutan III Bussan Auto Finance Tahap IV Tahun 2025 Seri A,BAFI,2026-11-29T07:00:00,idAAA,100000000000.0
+964,BAFI03BCN4,Obligasi Berkelanjutan III Bussan Auto Finance Tahap IV Tahun 2025 Seri B,BAFI,2028-11-19T07:00:00,idAAA,900000000000.0
+965,SMPNMP07X5V,Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap V,PNMP,2028-11-25T07:00:00,idAAA(sy),650000000000.0
+966,SWTOBA02JP,Sukuk Wakalah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum II PT TBS Energi Utama Tbk Tahun 2025,TOBA,2034-11-25T07:00:00,,448500000000.0
+967,BIIF04BCN2,Obligasi Berkelanjutan IV Maybank Finance Tahap II Tahun 2025 Seri B,BIIF,2028-11-26T07:00:00,idAAA,900000000000.0
+968,BIIF04CCN2,Obligasi Berkelanjutan IV Maybank Finance Tahap II Tahun 2025 Seri C,BIIF,2030-11-26T07:00:00,idAAA,250000000000.0
+969,BIIF04ACN2,Obligasi Berkelanjutan IV Maybank Finance Tahap II Tahun 2025 Seri A,BIIF,2026-12-06T07:00:00,idAAA,100000000000.0
+970,SMII04ACN4,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri A,SMII,2026-12-07T07:00:00,idAAA,800000000000.0
+971,SMII04BCN4,Obligasi Berkelanjutan IV Sarana Multi Infrastruktur Tahap IV Tahun 2025 Seri B,SMII,2028-11-27T07:00:00,idAAA,1700000000000.0
+972,TBIG07ACN2,Obligasi Berkelanjutan VII Tower Bersama Infrastructure Tahap II Tahun 2025 Seri A,TBIG,2028-12-04T07:00:00,AA+(idn),347985000000.0
+973,TBIG07BCN2,Obligasi Berkelanjutan VII Tower Bersama Infrastructure Tahap II Tahun 2025 Seri B,TBIG,2030-12-04T07:00:00,AA+(idn),1252015000000.0
+974,TRIM02BCN3,Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap III Tahun 2025 Seri B,TRIM,2032-12-05T07:00:00,idA,250000000000.0
+975,TRIM02ACN3,Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap III Tahun 2025 Seri A,TRIM,2030-12-05T07:00:00,idA,300000000000.0
+976,SIBALI01ACN3,Sukuk Ijarah Berkelanjutan I Bali Towerindo Sentra Tahap III Tahun 2025 Seri A,BALI,2026-12-15T07:00:00,idA(sy),414850000000.0
+977,SIBALI01BCN3,Sukuk Ijarah Berkelanjutan I Bali Towerindo Sentra Tahap III Tahun 2025 Seri B,BALI,2028-12-05T07:00:00,idA(sy),939150000000.0
+978,SMMBMA01ACN3,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap III Tahun 2025 Seri A,MBMA,2028-12-09T07:00:00,idA(sy),379000000000.0
+979,MBMA01BCN3,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap III Tahun 2025 Seri B,MBMA,2030-12-09T07:00:00,idA,1118800000000.0
+980,SMMBMA01BCN3,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap III Tahun 2025 Seri B,MBMA,2030-12-09T07:00:00,idA(sy),621000000000.0
+981,MBMA01ACN3,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap III Tahun 2025 Seri A,MBMA,2028-12-09T07:00:00,idA,982150000000.0
+982,POLI01ASL,Obligasi Terkait Keberlanjutan I Pollux Hotels Group Tahun 2025 Seri A,POLI,2028-12-10T07:00:00,idAAA(cg),55000000000.0
+983,LPPI04ACN1,Obligasi Berkelanjutan IV Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2025 Seri A,LPPI,2028-12-10T07:00:00,idA,250000000000.0
+984,SMLPPI02BCN1,Sukuk Mudharabah Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2025 Seri B,LPPI,2030-12-10T07:00:00,idA(sy),250000000000.0
+985,LPPI04BCN1,Obligasi Berkelanjutan IV Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2025 Seri B,LPPI,2030-12-10T07:00:00,idA,250000000000.0
+986,POLI01BSL,Obligasi Terkait Keberlanjutan I Pollux Hotels Group Tahun 2025 Seri B,POLI,2030-12-10T07:00:00,idAAA(cg),445000000000.0
+987,SMLPPI02ACN1,Sukuk Mudharabah Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2025 Seri A,LPPI,2028-12-10T07:00:00,idA(sy),250000000000.0
+988,BBTN01SBCN1,Obligasi Subordinasi Berkelanjutan I Bank BTN Tahap I Tahun 2025,BBTN,2030-12-12T07:00:00,idAA,2000000000000.0
+989,DNTR01B2JP,Surat Utang Jangka Panjang Yang Ditawarkan Tanpa Melalui Penawaran Umum PT Danantara Investment Management (Persero) Tahun 2025 Tahap II Seri B,DNTR-M,2032-12-12T07:00:00,,1575000000000.0
+990,BUMI01CN3,Obligasi Berkelanjutan I BUMI Tahap III Tahun 2025,BUMI,2030-12-15T07:00:00,idA+,780000000000.0
+991,BSDE04CCN2,Obligasi Berkelanjutan IV Bumi Serpong Damai Tahap II Tahun 2025 Seri C,BSDE,2032-12-17T07:00:00,idAA,509255000000.0
+992,SIBSDE02ACN2,Sukuk Ijarah Berkelanjutan II Bumi Serpong Damai Tahap II Tahun 2025 Seri A,BSDE,2032-12-17T07:00:00,idAA(sy),340000000000.0
+993,BSDE04DCN2,Obligasi Berkelanjutan IV Bumi Serpong Damai Tahap II Tahun 2025 Seri D,BSDE,2035-12-17T07:00:00,idAA,210005000000.0
+994,SIBSDE02BCN2,Sukuk Ijarah Berkelanjutan II Bumi Serpong Damai Tahap II Tahun 2025 Seri B,BSDE,2035-12-17T07:00:00,idAA(sy),160000000000.0
+995,BSDE04BCN2,Obligasi Berkelanjutan IV Bumi Serpong Damai Tahap II Tahun 2025 Seri B,BSDE,2030-12-17T07:00:00,idAA,458205000000.0
+996,BSDE04ACN2,Obligasi Berkelanjutan IV Bumi Serpong Damai Tahap II Tahun 2025 Seri A,BSDE,2028-12-17T07:00:00,idAA,73405000000.0
+997,NMVC06X2MF,MTN VI PT PNM Venture Capital Tahun 2025 Tahap II,NMVC-M,2030-12-18T07:00:00,,300000000000.0
+998,PALM03BCN1,Obligasi Berkelanjutan III Provident Investasi Bersama Tahap I Tahun 2025 Seri B,PALM,2028-12-19T07:00:00,idA,200000000000.0
+999,BMRI01ASLCN1,Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri A,BMRI,2026-12-29T07:00:00,idAAA,1000000000000.0
+1000,PALM03ACN1,Obligasi Berkelanjutan III Provident Investasi Bersama Tahap I Tahun 2025 Seri A,PALM,2026-12-26T07:00:00,idA,100000000000.0
+1001,PALM03CCN1,Obligasi Berkelanjutan III Provident Investasi Bersama Tahap I Tahun 2025 Seri C,PALM,2030-12-19T07:00:00,idA,100000000000.0
+1002,BMRI01CSLCN1,Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri C,BMRI,2030-12-19T07:00:00,idAAA,2000000000000.0
+1003,MYOR03BCN3,Obligasi Berkelanjutan III Mayora Indah Tahap III Tahun 2025 Seri B,MYOR,2032-12-23T07:00:00,idAA,464025000000.0
+1004,SMTKIM01XXJP,Sukuk Mudharabah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum PT Pabrik Kertas Tjiwi Kimia Tbk Tahun 2025,TKIM,2032-12-23T07:00:00,,400000000000.0
+1005,GDLI03X1MF,MTN III PT Gading Danalestari Tahun 2025 Tahap I,GDLI-M,2028-12-24T07:00:00,,50000000000.0
+1006,SMRA05BCN1,Obligasi Berkelanjutan V Summarecon Agung Tahap I Tahun 2025 Seri B,SMRA,2031-01-06T07:00:00,idA+,267430000000.0
+1007,TPR-BBRI05XXJP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Rakyat Indonesia (Persero) Tbk V Tahun 2025,BBRI,2039-03-06T07:00:00,,33809212500.0
+1008,SMBWPT01ACN2,Sukuk Mudharabah Berkelanjutan I Eagle High Plantations Tahap II Tahun 2025 Seri A,BWPT,2027-01-16T07:00:00,idA-(sy),171700000000.0
+1009,SMRA05ACN1,Obligasi Berkelanjutan V Summarecon Agung Tahap I Tahun 2025 Seri A,SMRA,2029-01-06T07:00:00,idA+,84530000000.0
+1010,BWPT01ACN3,Obligasi Berkelanjutan I Eagle High Plantations Tahap III Tahun 2025 Seri A,BWPT,2027-01-16T07:00:00,idA-,67195000000.0
+1011,SMBWPT01BCN2,Sukuk Mudharabah Berkelanjutan I Eagle High Plantations Tahap II Tahun 2025 Seri B,BWPT,2029-01-06T07:00:00,idA-(sy),118300000000.0
+1012,BWPT01BCN3,Obligasi Berkelanjutan I Eagle High Plantations Tahap III Tahun 2025 Seri B,BWPT,2029-01-06T07:00:00,idA-,142805000000.0
+1013,ENRG01BCN1,Obligasi Berkelanjutan I Energi Mega Persada Tahap I Tahun 2025 Seri B,ENRG,2029-01-07T07:00:00,idA+,125000000000.0
+1014,ENRG01CCN1,Obligasi Berkelanjutan I Energi Mega Persada Tahap I Tahun 2025 Seri C,ENRG,2031-01-07T07:00:00,idA+,300000000000.0
+1015,ENRG01ACN1,Obligasi Berkelanjutan I Energi Mega Persada Tahap I Tahun 2025 Seri A,ENRG,2027-01-17T07:00:00,idA+,75000000000.0
+1016,TPIA05BCN1,Obligasi Berkelanjutan V Chandra Asri Pacific Tahap I Tahun 2025 Seri B,TPIA,2031-01-13T07:00:00,idAA-,350000000000.0
+1017,TPIA05ACN1,Obligasi Berkelanjutan V Chandra Asri Pacific Tahap I Tahun 2025 Seri A,TPIA,2029-01-13T07:00:00,idAA-,150000000000.0
+1018,TPIA05CCN1,Obligasi Berkelanjutan V Chandra Asri Pacific Tahap I Tahun 2025 Seri C,TPIA,2033-01-13T07:00:00,idAA-,1000000000000.0
+1019,PNMP01ASECN2,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2026 Seri A,PNMP,2029-01-14T07:00:00,idAAA,250000000000.0
+1020,SMPNMP01CSECN3,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri C,PNMP,2031-01-14T07:00:00,idAAA(sy),600000000000.0
+1021,PNMP01BSECN2,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2026 Seri B,PNMP,2031-01-14T07:00:00,idAAA,250000000000.0
+1022,SMPNMP01BSECN3,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri B,PNMP,2029-01-14T07:00:00,idAAA(sy),600000000000.0
+1023,SMPNMP01ASECN3,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri A,PNMP,2027-01-24T07:00:00,idAAA(sy),300000000000.0
+1024,TOBA01ACN2,Obligasi Berkelanjutan I TBS Energi Utama Tahap II Tahun 2026 Seri A,TOBA,2029-01-22T07:00:00,idA,100000000000.0
+1025,TOBA01CCN2,Obligasi Berkelanjutan I TBS Energi Utama Tahap II Tahun 2026 Seri C,TOBA,2033-01-22T07:00:00,idA,225000000000.0
+1026,TOBA01BCN2,Obligasi Berkelanjutan I TBS Energi Utama Tahap II Tahun 2026 Seri B,TOBA,2031-01-22T07:00:00,idA,175000000000.0
+1027,PACK01CB,Obligasi Wajib Konversi Abadi Nusantara Hijau Investama I Tahun 2025,PACK,2027-01-26T07:00:00,,180792626500.0
+1028,GDLI03X2MF,MTN III PT Gading Danalestari Tahun 2025 Tahap II,GDLI-M,2029-01-29T07:00:00,,50000000000.0
+1029,INET01B,Obligasi I Sinergi Inti Andalan Prima Tahun 2026 Seri B,INET,2029-02-05T07:00:00,irA,298500000000.0
+1030,SIINET01A,Sukuk Ijarah I Sinergi Inti Andalan Prima Tahun 2026 Seri A,INET,2027-02-15T07:00:00,irA(sy),205000000000.0
+1031,INET01A,Obligasi I Sinergi Inti Andalan Prima Tahun 2026 Seri A,INET,2027-02-15T07:00:00,irA,201500000000.0
+1032,SIINET01B,Sukuk Ijarah I Sinergi Inti Andalan Prima Tahun 2026 Seri B,INET,2029-02-05T07:00:00,irA(sy),295000000000.0
+1033,SMOPPM02BCN4,Sukuk Mudharabah Berkelanjutan II Oki Pulp & Paper Mills Tahap IV Tahun 2026 Seri B,OPPM,2033-02-06T07:00:00,irAA-,822140000000.0
+1034,OPPM02BCN4,Obligasi Berkelanjutan II Oki Pulp & Paper Mills Tahap IV Tahun 2026 Seri B,OPPM,2033-02-06T07:00:00,irAA-,566255000000.0
+1035,SMAR05ACN2,Obligasi Berkelanjutan V SMART Tahap II Tahun 2026 Seri A,SMAR,2031-02-06T07:00:00,idAA-,385000000000.0
+1036,SMOPPM02ACN4,Sukuk Mudharabah Berkelanjutan II Oki Pulp & Paper Mills Tahap IV Tahun 2026 Seri A,OPPM,2031-02-06T07:00:00,irAA-,526530000000.0
+1037,OPPM02CCN4,Obligasi Berkelanjutan II Oki Pulp & Paper Mills Tahap IV Tahun 2026 Seri C,OPPM,2036-02-06T07:00:00,irAA-,25915000000.0
+1038,SMAR05BCN2,Obligasi Berkelanjutan V SMART Tahap II Tahun 2026 Seri B,SMAR,2033-02-06T07:00:00,idAA-,287000000000.0
+1039,SISMAR01ACN2,Sukuk Ijarah Berkelanjutan I SMART Tahap II Tahun 2026 Seri A,SMAR,2031-02-06T07:00:00,idAA-(sy),460000000000.0
+1040,OPPM02ACN4,Obligasi Berkelanjutan II Oki Pulp & Paper Mills Tahap IV Tahun 2026 Seri A,OPPM,2031-02-06T07:00:00,irAA-,1846015000000.0
+1041,SISMAR01BCN2,Sukuk Ijarah Berkelanjutan I SMART Tahap II Tahun 2026 Seri B,SMAR,2033-02-06T07:00:00,idAA-(sy),68000000000.0
+1042,SMOPPM02CCN4,Sukuk Mudharabah Berkelanjutan II Oki Pulp & Paper Mills Tahap IV Tahun 2026 Seri C,OPPM,2036-02-06T07:00:00,irAA-,151330000000.0
+1043,HIFI01CCN2,Obligasi Berkelanjutan I Hino Finance Indonesia Tahap II Tahun 2026 Seri C,HIFI,2031-02-11T07:00:00,idAA+,232000000000.0
+1044,BUMI01CN4,Obligasi Berkelanjutan I Bumi Tahap IV Tahun 2026,BUMI,2029-02-20T07:00:00,idA+,612750000000.0
+1045,BAFI03BCN1,Obligasi Berkelanjutan III Bussan Auto Finance Tahap I Tahun 2024 Seri B,BAFI,2027-07-05T07:00:00,idAAA,184260000000.0
+1046,ISSP01ASL,Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri A,ISSP,2027-07-09T07:00:00,idAAA(cg),33780000000.0
+1047,ISSP01CSL,Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri C,ISSP,2031-07-09T07:00:00,idAAA(cg),200000000000.0
+1048,TAFS04CCN3,Obligasi Berkelanjutan IV Toyota Astra Financial Services Tahap III Tahun 2024 Seri C,TAFS,2029-07-09T07:00:00,AAA(idn),757030000000.0
+1049,PRTL04BCN1,Obligasi Berkelanjutan IV Protelindo Tahap I Tahun 2024 Seri B,PRTL,2027-07-09T07:00:00,AAA(idn),14005000000.0
+1050,PJAA03BCN1,Obligasi Berkelanjutan III Jaya Ancol Tahap I Tahun 2024 Seri B,PJAA,2029-07-09T07:00:00,idA+,20010000000.0
+1051,PJAA03ACN1,Obligasi Berkelanjutan III Jaya Ancol Tahap I Tahun 2024 Seri A,PJAA,2027-07-09T07:00:00,idA+,446030000000.0
+1052,SWCNAF01BCN1,Sukuk Wakalah Bi Al-Istitsmar Berkelanjutan I CIMB Niaga Auto Finance Tahap I Tahun 2024 Seri B,CNAF,2027-07-09T07:00:00,AA+(idn),290000000000.0
+1053,TAFS04BCN3,Obligasi Berkelanjutan IV Toyota Astra Financial Services Tahap III Tahun 2024 Seri B,TAFS,2027-07-09T07:00:00,AAA(idn),8675000000.0
+1054,ISSP01BSL,Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri B,ISSP,2029-07-09T07:00:00,idAAA(cg),766220000000.0
+1055,PJAA03CCN1,Obligasi Berkelanjutan III Jaya Ancol Tahap I Tahun 2024 Seri C,PJAA,2031-07-09T07:00:00,idA+,37020000000.0
+1056,ADHI04CN1,Obligasi Berkelanjutan IV Adhi Karya Tahap I Tahun 2024,ADHI,2027-07-09T07:00:00,idA-,102715000000.0
+1057,SGER01BCN1,Obligasi Berkelanjutan I Sumber Global Energy Tahap I Tahun 2024 Seri B,SGER,2026-07-10T07:00:00,idA-,90000000000.0
+1058,SMPNMP01BCN3,Sukuk Mudharabah Berkelanjutan I PNM Tahap III Tahun 2024 Seri B,PNMP,2027-07-12T07:00:00,idAAA(sy),1330940000000.0
+1059,BVIC03SBCN1,Obligasi Subordinasi Berkelanjutan III Bank Victoria Tahap I Tahun 2024,BVIC,2029-07-12T07:00:00,idBBB,500000000000.0
+1060,BVIC03CN2,Obligasi Berkelanjutan III Bank Victoria Tahap II Tahun 2024,BVIC,2027-07-12T07:00:00,idA-,500000000000.0
+1061,BRPT03ACN3,Obligasi Berkelanjutan III Barito Pacific Tahap III Tahun 2024 Seri A,BRPT,2027-07-16T07:00:00,idA+,500000000000.0
+1062,BRPT03BCN3,Obligasi Berkelanjutan III Barito Pacific Tahap III Tahun 2024 Seri B,BRPT,2029-07-16T07:00:00,idA+,500000000000.0
+1063,SMNMVS03X2V,Sukuk Mudharabah Jangka Menengah III PT PNM Ventura Syariah Tahun 2024 Tahap II,NMVS-M,2027-07-17T07:00:00,,50000000000.0
+1064,USDOPPM01BCN5,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap V Tahun 2024 Seri B,OPPM,2027-07-19T07:00:00,idA+,3819500.0
+1065,USDOPPM01CCN5,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap V Tahun 2024 Seri C,OPPM,2029-07-19T07:00:00,idA+,1476300.0
+1066,OPPM01CCN5,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap V Tahun 2024 Seri C,OPPM,2029-07-19T07:00:00,idA+,125870000000.0
+1067,OPPM01BGNCN5,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap V Tahun 2024 Seri B,OPPM,2027-07-19T07:00:00,idA+,92320000000.0
+1068,OPPM01CGNCN5,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap V Tahun 2024 Seri C,OPPM,2029-07-19T07:00:00,idA+,20860000000.0
+1069,OPPM01BCN5,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap V Tahun 2024 Seri B,OPPM,2027-07-19T07:00:00,idA+,512415000000.0
+1070,IHCP01X1CB,Efek Bersifat Utang Jangka Menengah Wajib Konversi (Mandatory Convertible Bond) PT Pertamina Bina Medika IHC Tahun 2024 Tahap I,IHCP-M,2029-07-24T07:00:00,,1327800000000.0
+1071,MDKA04BCN6,Obligasi Berkelanjutan IV Merdeka Copper Gold Tahap VI Tahun 2024 Seri B,MDKA,2027-07-30T07:00:00,idA+,1971315000000.0
+1072,X,X,PRAS,2030-10-04T07:00:00,,100000000000000.0
+1073,SIKAII01CCN2,Sukuk Ijarah Berkelanjutan I Kereta Api Indonesia Tahap II Tahun 2024 Seri C,KAII,2031-08-09T07:00:00,idAAA(sy),110230000000.0
+1074,KAII01CCN2,Obligasi Berkelanjutan I Kereta Api Indonesia Tahap II Tahun 2024 Seri C,KAII,2031-08-09T07:00:00,idAAA,337500000000.0
+1075,KAII01ACN2,Obligasi Berkelanjutan I Kereta Api Indonesia Tahap II Tahun 2024 Seri A,KAII,2027-08-09T07:00:00,idAAA,67000000000.0
+1076,KAII01BCN2,Obligasi Berkelanjutan I Kereta Api Indonesia Tahap II Tahun 2024 Seri B,KAII,2029-08-09T07:00:00,idAAA,295500000000.0
+1077,SIKAII01ACN2,Sukuk Ijarah Berkelanjutan I Kereta Api Indonesia Tahap II Tahun 2024 Seri A,KAII,2027-08-09T07:00:00,idAAA(sy),62500000000.0
+1078,SIKAII01BCN2,Sukuk Ijarah Berkelanjutan I Kereta Api Indonesia Tahap II Tahun 2024 Seri B,KAII,2029-08-09T07:00:00,idAAA(sy),127270000000.0
+1079,SMFP07CCN6,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VI Tahun 2024 Seri C,SMFP,2027-08-27T07:00:00,idAAA,728254000000.0
+1080,SMFP07BCN6,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VI Tahun 2024 Seri B,SMFP,2026-08-27T07:00:00,idAAA,192195000000.0
+1081,OTMA01CCN2,Obligasi Berkelanjutan I Oto Multiartha Tahap II Tahun 2024 Seri C,OTMA,2029-09-04T07:00:00,idAAA,330025000000.0
+1082,OTMA01BCN2,Obligasi Berkelanjutan I Oto Multiartha Tahap II Tahun 2024 Seri B,OTMA,2027-09-04T07:00:00,idAAA,114705000000.0
+1083,FIFA06BCN4,Obligasi Berkelanjutan VI Federal International Finance Tahap IV Tahun 2024 Seri B,FIFA,2027-09-06T07:00:00,idAAA,1247826000000.0
+1084,PALM02BCN3,Obligasi Berkelanjutan II Provident Investasi Bersama Tahap III Tahun 2024 Seri B,PALM,2027-09-18T07:00:00,idA,587710000000.0
+1085,BFIN06BCN1,Obligasi Berkelanjutan VI BFI Finance Indonesia Tahap I Tahun 2024 Seri B,BFIN,2026-09-25T07:00:00,AA-(idn),200000000000.0
+1086,BFIN06CCN1,Obligasi Berkelanjutan VI BFI Finance Indonesia Tahap I Tahun 2024 Seri C,BFIN,2027-09-25T07:00:00,AA-(idn),300000000000.0
+1087,AGPU01X1JP,LTN I PT Adhi Guna Putera Tahun 2024 Tahap 1,AGPU-M,2034-09-26T07:00:00,idA,275000000000.0
+1088,TPR-BBTN04X5JP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara Persero) Tbk IV Tahun 2024 Tahap V,BBTN,2038-12-27T07:00:00,,312678083000.0
+1089,TPR-SMBBTN01X3JP,Sukuk Mudharabah Muqayyadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Tabungan Negara (Persero) Tbk I Tahun 2024 Tahap III,BBTN,2037-12-27T07:00:00,,80955793000.0
+1090,ASDF06BCN4,Obligasi Berkelanjutan VI Astra Sedaya Finance Tahap IV Tahun 2024 Seri B,ASDF,2027-10-02T07:00:00,AAA(idn),1415805000000.0
+1091,SMINKP04BCN1,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap I Tahun 2024 Seri B,INKP,2029-10-04T07:00:00,idA+(sy),668245000000.0
+1092,LPPI03BCN1,Obligasi Berkelanjutan III Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2024 Seri B,LPPI,2029-10-04T07:00:00,idA,624490000000.0
+1093,USDINKP02CCN1,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap I Tahun 2024 Seri C,INKP,2029-10-04T07:00:00,idA+,4959500.0
+1094,LPPI03ACN1,Obligasi Berkelanjutan III Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2024 Seri A,LPPI,2027-10-04T07:00:00,idA,625510000000.0
+1095,SMINKP04ACN1,Sukuk Mudharabah Berkelanjutan IV Indah Kiat Pulp & Paper Tahap I Tahun 2024 Seri A,INKP,2027-10-04T07:00:00,idA+(sy),331755000000.0
+1096,SMPN02X1MF,MTN II PT Sawitmas Parenggean Tahun 2024 Tahap I,SMPN-M,2029-10-04T07:00:00,,37000000000.0
+1097,INKP05ACN1,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap I Tahun 2024 Seri A,INKP,2027-10-04T07:00:00,idA+,1664855000000.0
+1098,USDINKP02BCN1,Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap I Tahun 2024 Seri B,INKP,2027-10-04T07:00:00,idA+,4092500.0
+1099,SMLPPI01CN1,Sukuk Mudharabah Berkelanjutan I Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2024,LPPI,2029-10-04T07:00:00,idA(sy),1250000000000.0
+1100,INKP05BCN1,Obligasi Berkelanjutan V Indah Kiat Pulp & Paper Tahap I Tahun 2024 Seri B,INKP,2029-10-04T07:00:00,idA+,835145000000.0
+1101,PNBN04CN2,Obligasi Berkelanjutan IV Bank Panin Tahap II Tahun 2024,PNBN,2029-10-08T07:00:00,idAA,3910000000000.0
+1102,MBMA02B,Obligasi II Merdeka Battery Materials Tahun 2024 Seri B,MBMA,2027-10-08T07:00:00,idA,1783985000000.0
+1103,BOLD02C,Obligasi II BUMA Tahun 2024 Seri C,BOLD,2029-10-08T07:00:00,idA+,416255000000.0
+1104,BOLD02B,Obligasi II BUMA Tahun 2024 Seri B,BOLD,2027-10-08T07:00:00,idA+,332710000000.0
+1105,ADMF06BCN4,Obligasi Berkelanjutan VI Adira Finance Tahap IV Tahun 2024 Seri B,ADMF,2027-10-10T07:00:00,idAAA,815000000000.0
+1106,ADMF06CCN4,Obligasi Berkelanjutan VI Adira Finance Tahap IV Tahun 2024 Seri C,ADMF,2029-10-10T07:00:00,idAAA,400000000000.0
+1107,SMPNMP06X2V,Sukuk Mudharabah Jangka Menengah VI PT Permodalan Nasional Madani Tahun 2024 Tahap II,PNMP,2027-10-11T07:00:00,idAAA(sy),262000000000.0
+1108,SMPN02X2MF,MTN II PT Sawitmas Parenggean Tahun 2024 Tahap II,SMPN-M,2029-10-15T07:00:00,,37000000000.0
+1109,IIFF02BCN2,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap II Tahun 2024 Seri B,IIFF,2027-10-25T07:00:00,idAAA,250000000000.0
+1110,IIFF02CCN2,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap II Tahun 2024 Seri C,IIFF,2031-10-25T07:00:00,idAAA,300000000000.0
+1111,SMPN02X3MF,MTN II PT Sawitmas Parenggean Tahun 2024 Tahap III,SMPN-M,2029-10-25T07:00:00,,36000000000.0
+1112,IIFF02DCN2,Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap II Tahun 2024 Seri D,IIFF,2034-10-25T07:00:00,idAAA,250000000000.0
+1113,OPPM01CCN6,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap VI Tahun 2024 Seri C,OPPM,2029-11-08T07:00:00,idA+,384235000000.0
+1114,USDOPPM01BCN6,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap VI Tahun 2024 Seri B,OPPM,2027-11-08T07:00:00,idA+,1462000.0
+1115,OPPM01BCN6,Obligasi Berkelanjutan I Oki Pulp & Paper Mills Tahap VI Tahun 2024 Seri B,OPPM,2027-11-08T07:00:00,idA+,1202130000000.0
+1116,USDOPPM01CCN6,Obligasi USD Berkelanjutan I Oki Pulp & Paper Mills Tahap VI Tahun 2024 Seri C,OPPM,2029-11-08T07:00:00,idA+,2430000.0
+1117,KAII02ACN1,Obligasi Berkelanjutan II Kereta Api Indonesia Tahap I Tahun 2024 Seri A,KAII,2027-11-19T07:00:00,idAAA,437800000000.0
+1118,TUFI06BCN4,Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap IV Tahun 2024 Seri B,TUFI,2029-11-19T07:00:00,idAAA,1185375000000.0
+1119,KAII02CCN1,Obligasi Berkelanjutan II Kereta Api Indonesia Tahap I Tahun 2024 Seri C,KAII,2031-11-19T07:00:00,idAAA,613840000000.0
+1120,TUFI06ACN4,Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap IV Tahun 2024 Seri A,TUFI,2027-11-19T07:00:00,idAAA,423735000000.0
+1121,SIKAII02ACN1,Sukuk Ijarah Berkelanjutan II Kereta Api Indonesia Tahap I Tahun 2024 Seri A,KAII,2027-11-19T07:00:00,idAAA(sy),116540000000.0
+1122,SIKAII02BCN1,Sukuk Ijarah Berkelanjutan II Kereta Api Indonesia Tahap I Tahun 2024 Seri B,KAII,2029-11-19T07:00:00,idAAA(sy),83135000000.0
+1123,SIKAII02CCN1,Sukuk Ijarah Berkelanjutan II Kereta Api Indonesia Tahap I Tahun 2024 Seri C,KAII,2031-11-19T07:00:00,idAAA(sy),300325000000.0
+1124,KAII02BCN1,Obligasi Berkelanjutan II Kereta Api Indonesia Tahap I Tahun 2024 Seri B,KAII,2029-11-19T07:00:00,idAAA,448360000000.0
+1125,TAFS04BCN4,Obligasi Berkelanjutan IV Toyota Astra Financial Services Tahap IV Tahun 2024 Seri B,TAFS,2027-11-26T07:00:00,AAA(idn),400000000000.0
+1126,SMPNMP06X3V,Sukuk Mudharabah Jangka Menengah VI PT Permodalan Nasional Madani Tahun 2024 Tahap III,PNMP,2027-11-26T07:00:00,idAAA(sy),110000000000.0
+1127,DSSA01CCN3,Obligasi Berkelanjutan I Dian Swastatika Sentosa Tahap III Tahun 2024 Seri C,DSSA,2029-11-26T07:00:00,idAA,1484090000000.0
+1128,SMFP01SOCN4,Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap IV Tahun 2024,SMFP,2029-11-26T07:00:00,idAAA,1200000000000.0
+1129,SMFP07BCN7,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VII Tahun 2024 Seri B,SMFP,2026-11-26T07:00:00,idAAA,153005000000.0
+1130,SMFP07CCN7,Obligasi Berkelanjutan VII Sarana Multigriya Finansial Tahap VII Tahun 2024 Seri C,SMFP,2027-11-26T07:00:00,idAAA,794005000000.0
+1131,SMDSSA01BCN3,Sukuk Mudharabah Berkelanjutan I Dian Swastatika Sentosa Tahap III Tahun 2024 Seri B,DSSA,2027-11-26T07:00:00,idAA(sy),366135000000.0
+1132,PNMP01CSECN3,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri C,PNMP,2029-04-21T07:00:00,idAAA,279065000000.0
+1133,SMPNMP01ASECN4,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri A,PNMP,2027-05-01T07:00:00,idAAA(sy),540605000000.0
+1134,SMPNMP01BSECN4,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri B,PNMP,2028-04-21T07:00:00,idAAA(sy),25700000000.0
+1135,SMPNMP01CSECN4,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri C,PNMP,2029-04-21T07:00:00,idAAA(sy),155120000000.0
+1136,SMII01ASLCN2,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap II Tahun 2026 Seri A,SMII,2027-05-16T07:00:00,idAAA,72128000000.0
+1137,SMII01BSLCN2,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap II Tahun 2026 Seri B,SMII,2029-05-06T07:00:00,idAAA,77872000000.0
+1138,SMMBMA01BCN4,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap IV Tahun 2026 Seri B,MBMA,2031-05-08T07:00:00,idA(sy),100000000000.0
+1139,KETR01ACN1,Obligasi Berkelanjutan I Ketrosden Triasmitra Tahap I Tahun 2026 Seri A,KETR,2029-05-08T07:00:00,idAAA(cg),40000000000.0
+1140,KETR01BCN1,Obligasi Berkelanjutan I Ketrosden Triasmitra Tahap I Tahun 2026 Seri B,KETR,2031-05-08T07:00:00,idAAA(cg),30000000000.0
+1141,KETR01CCN1,Obligasi Berkelanjutan I Ketrosden Triasmitra Tahap I Tahun 2026 Seri C,KETR,2036-05-08T07:00:00,idAAA(cg),150000000000.0
+1142,MBMA01BCN4,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap IV Tahun 2026 Seri B,MBMA,2029-05-08T07:00:00,idA,1784826000000.0
+1143,SMARMA01CN2,Sukuk Mudharabah Berkelanjutan I Armadian Tritunggal Tahap II Tahun 2026,ARMA,2031-05-08T07:00:00,irA-(sy),1832500000000.0
+1144,MBMA01ACN4,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap IV Tahun 2026 Seri A,MBMA,2027-05-15T07:00:00,idA,2536644000000.0
+1145,SMMBMA01ACN4,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap IV Tahun 2026 Seri A,MBMA,2029-05-08T07:00:00,idA(sy),522125000000.0
+1146,MBMA01CCN4,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap IV Tahun 2026 Seri C,MBMA,2031-05-08T07:00:00,idA,678530000000.0
+1147,TOBA01CN3,Obligasi Berkelanjutan I TBS Energi Utama Tahap III Tahun 2026,TOBA,2033-05-13T07:00:00,idA,175000000000.0
+1148,ENRG01BCN3,Obligasi Berkelanjutan I Energi Mega Persada Tahap III Tahun 2026 Seri B,ENRG,2029-05-21T07:00:00,idA+,172400000000.0
+1149,ENRG01ACN3,Obligasi Berkelanjutan I Energi Mega Persada Tahap III Tahun 2026 Seri A,ENRG,2027-05-31T07:00:00,idA+,259500000000.0
+1150,ENRG01CCN3,Obligasi Berkelanjutan I Energi Mega Persada Tahap III Tahun 2026 Seri C,ENRG,2031-05-21T07:00:00,idA+,68100000000.0
+1151,SISMDR01CN3,Sukuk Ijarah Berkelanjutan I Samudera Indonesia Tahap III Tahun 2026,SMDR,2029-05-21T07:00:00,idA+(sy),700000000000.0
+1152,BUMI01ACN5,Obligasi Berkelanjutan I BUMI Tahap V Tahun 2026 Seri A,BUMI,2027-06-06T07:00:00,idA+,600040000000.0
+1153,BUMI01BCN5,Obligasi Berkelanjutan I BUMI Tahap V Tahun 2026 Seri B,BUMI,2029-05-26T07:00:00,idA+,905975000000.0
+1154,BUMI01CCN5,Obligasi Berkelanjutan I BUMI Tahap V Tahun 2026 Seri C,BUMI,2031-05-26T07:00:00,idA+,333860000000.0
+1155,BMTR05ACN2,Obligasi Berkelanjutan V Global Mediacom Tahap II Tahun 2026 Seri A,BMTR,2029-06-05T07:00:00,idAAA(cg),366530000000.0
+1156,BMTR05BCN2,Obligasi Berkelanjutan V Global Mediacom Tahap II Tahun 2026 Seri B,BMTR,2031-06-05T07:00:00,idAAA(cg),70470000000.0
+1157,SIBMTR05ACN2,Sukuk Ijarah Berkelanjutan V Global Mediacom Tahap II Tahun 2026 Seri A,BMTR,2029-06-05T07:00:00,idAAA(sy)(cg),268825000000.0
+1158,BMTR05CCN2,Obligasi Berkelanjutan V Global Mediacom Tahap II Tahun 2026 Seri C,BMTR,2033-06-05T07:00:00,idAAA(cg),63000000000.0
+1159,SIBMTR05BCN2,Sukuk Ijarah Berkelanjutan V Global Mediacom Tahap II Tahun 2026 Seri B,BMTR,2031-06-05T07:00:00,idAAA(sy)(cg),31060000000.0
+1160,SIBMTR05CCN2,Sukuk Ijarah Berkelanjutan V Global Mediacom Tahap II Tahun 2026 Seri C,BMTR,2033-06-05T07:00:00,idAAA(sy)(cg),115000000.0
+1161,SMINKP05ACN2,Sukuk Mudharabah Berkelanjutan V Indah Kiat Pulp & Paper Tahap II Tahun 2026 Seri A,INKP,2029-06-10T07:00:00,idA+(sy),1408295000000.0
+1162,INKP06ACN2,Obligasi Berkelanjutan VI Indah Kiat Pulp & Paper Tahap II Tahun 2026 Seri A,INKP,2029-06-10T07:00:00,idA+,1153215000000.0
+1163,SGER01CCN3,Obligasi Berkelanjutan I Sumber Global Energy Tahap III Tahun 2026 Seri C,SGER,2029-06-10T07:00:00,idA-,3250000000.0
+1164,INKP06BCN2,Obligasi Berkelanjutan VI Indah Kiat Pulp & Paper Tahap II Tahun 2026 Seri B,INKP,2031-06-10T07:00:00,idA+,1122745000000.0
+1165,SGER01BCN3,Obligasi Berkelanjutan I Sumber Global Energy Tahap III Tahun 2026 Seri B,SGER,2028-06-10T07:00:00,idA-,850000000.0
+1166,SGER01ACN3,Obligasi Berkelanjutan I Sumber Global Energy Tahap III Tahun 2026 Seri A,SGER,2027-06-20T07:00:00,idA-,82600000000.0
+1167,SMINKP05BCN2,Sukuk Mudharabah Berkelanjutan V Indah Kiat Pulp & Paper Tahap II Tahun 2026 Seri B,INKP,2031-06-10T07:00:00,idA+(sy),923635000000.0
+1168,ISSP03ACN1,Obligasi Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri A,ISSP,2027-06-19T07:00:00,idA,31580000000.0
+1169,ISSP03CCN1,Obligasi Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri C,ISSP,2031-06-12T07:00:00,idA,43840000000.0
+1170,ISSP03BCN1,Obligasi Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri B,ISSP,2029-06-12T07:00:00,idA,26030000000.0
+1171,PALM03BCN3,Obligasi Berkelanjutan III Provident Investasi Bersama Tahap III Tahun 2026 Seri B,PALM,2029-06-12T07:00:00,idA,287980000000.0
+1172,PALM03ACN3,Obligasi Berkelanjutan III Provident Investasi Bersama Tahap III Tahun 2026 Seri A,PALM,2027-06-19T07:00:00,idA,212020000000.0
+1173,SIISSP03ACN1,Sukuk Ijarah Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri A,ISSP,2027-06-19T07:00:00,idA(sy),36210000000.0
+1174,SIISSP03BCN1,Sukuk Ijarah Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri B,ISSP,2029-06-12T07:00:00,idA(sy),65000000.0
+1175,SIISSP03CCN1,Sukuk Ijarah Berkelanjutan III SPINDO Tahap I Tahun 2026 Seri C,ISSP,2031-06-12T07:00:00,idA(sy),22275000000.0
+1176,USD-SPMA05X1MF,MTN V PT Suparma Tbk Tahun 2026 Tahap I,SPMA,2031-06-12T07:00:00,,5000000.0
+1177,JSMR03ACN3,Obligasi Berkelanjutan III Jasa Marga Tahap III Tahun 2026 Seri A,JSMR,2029-02-20T07:00:00,idAA,281825000000.0
+1178,JSMR03BCN3,Obligasi Berkelanjutan III Jasa Marga Tahap III Tahun 2026 Seri B,JSMR,2031-02-20T07:00:00,idAA,718175000000.0
+1179,JSMR03DCN3,Obligasi Berkelanjutan III Jasa Marga Tahap III Tahun 2026 Seri D,JSMR,2036-02-20T07:00:00,idAA,767650000000.0
+1180,IMFI06BCN2,Obligasi Berkelanjutan VI Indomobil Finance Dengan Tingkat Bunga Tetap Tahap II Tahun 2026 Seri B,IMFI,2029-02-24T07:00:00,idAA-,147310000000.0
+1181,IMFI06CCN2,Obligasi Berkelanjutan VI Indomobil Finance Dengan Tingkat Bunga Tetap Tahap II Tahun 2026 Seri C,IMFI,2031-02-24T07:00:00,idAA-,177200000000.0
+1182,LPPI04CCN2,Obligasi Berkelanjutan IV Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2026 Seri C,LPPI,2033-02-24T07:00:00,idA,99320000000.0
+1183,IMFI06ACN2,Obligasi Berkelanjutan VI Indomobil Finance Dengan Tingkat Bunga Tetap Tahap II Tahun 2026 Seri A,IMFI,2027-03-04T07:00:00,idAA-,2175490000000.0
+1184,LPPI04BCN2,Obligasi Berkelanjutan IV Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2026 Seri B,LPPI,2031-02-24T07:00:00,idA,749485000000.0
+1185,LPPI04DCN2,Obligasi Berkelanjutan IV Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2026 Seri D,LPPI,2036-02-24T07:00:00,idA,60255000000.0
+1186,SMLPPI02ACN2,Sukuk Mudharabah Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2026 Seri A,LPPI,2029-02-24T07:00:00,idA(sy),101525000000.0
+1187,LPPI04ACN2,Obligasi Berkelanjutan IV Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2026 Seri A,LPPI,2029-02-24T07:00:00,idA,139920000000.0
+1188,SMLPPI02BCN2,Sukuk Mudharabah Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2026 Seri B,LPPI,2031-02-24T07:00:00,idA(sy),1089520000000.0
+1189,SMLPPI02DCN2,Sukuk Mudharabah Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2026 Seri D,LPPI,2036-02-24T07:00:00,idA(sy),90185000000.0
+1190,SMLPPI02CCN2,Sukuk Mudharabah Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2026 Seri C,LPPI,2033-02-24T07:00:00,idA(sy),270100000000.0
+1191,PNBN04ACN4,Obligasi Berkelanjutan IV Bank Panin Tahap IV Tahun 2026 Seri A,PNBN,2029-02-25T07:00:00,idAA,1708000000000.0
+1192,PNBN04BCN4,Obligasi Berkelanjutan IV Bank Panin Tahap IV Tahun 2026 Seri B,PNBN,2031-02-25T07:00:00,idAA,1004000000000.0
+1193,SANF05CCN2,Obligasi Berkelanjutan V SANF Dengan Tingkat Bunga Tetap Tahap II Tahun 2026 Seri C,SANF,2031-02-25T07:00:00,idAA+,8010000000.0
+1194,TPIA05BCN2,Obligasi Berkelanjutan V Chandra Asri Pacific Tahap II Tahun 2026 Seri B,TPIA,2031-02-25T07:00:00,idAA-,885385000000.0
+1195,SANF05ACN2,Obligasi Berkelanjutan V SANF Dengan Tingkat Bunga Tetap Tahap II Tahun 2026 Seri A,SANF,2027-03-05T07:00:00,idAA+,591990000000.0
+1196,SANF05BCN2,Obligasi Berkelanjutan V SANF Dengan Tingkat Bunga Tetap Tahap II Tahun 2026 Seri B,SANF,2029-02-25T07:00:00,idAA+,600000000000.0
+1197,TPIA05ACN2,Obligasi Berkelanjutan V Chandra Asri Pacific Tahap II Tahun 2026 Seri A,TPIA,2029-02-25T07:00:00,idAA-,635390000000.0
+1198,TPIA05CCN2,Obligasi Berkelanjutan V Chandra Asri Pacific Tahap II Tahun 2026 Seri C,TPIA,2033-02-25T07:00:00,idAA-,729225000000.0
+1199,FIFA07ACN3,Obligasi Berkelanjutan VII Federal International Finance Tahap III Tahun 2026 Seri A,FIFA,2027-03-06T07:00:00,AAA(idn),1038305000000.0
+1200,SMADMF06ACN3,Sukuk Mudharabah Berkelanjutan VI Adira Finance Tahap III Tahun 2026 Seri A,ADMF,2027-03-06T07:00:00,idAAA(sy),400000000000.0
+1201,FIFA07BCN3,Obligasi Berkelanjutan VII Federal International Finance Tahap III Tahun 2026 Seri B,FIFA,2029-02-26T07:00:00,AAA(idn),1461695000000.0
+1202,ADMF07ACN3,Obligasi Berkelanjutan VII Adira Finance Tahap III Tahun 2026 Seri A,ADMF,2027-03-06T07:00:00,idAAA,1100000000000.0
+1203,ADMF07BCN3,Obligasi Berkelanjutan VII Adira Finance Tahap III Tahun 2026 Seri B,ADMF,2029-02-26T07:00:00,idAAA,860000000000.0
+1204,ADMF07CCN3,Obligasi Berkelanjutan VII Adira Finance Tahap III Tahun 2026 Seri C,ADMF,2031-02-26T07:00:00,idAAA,40000000000.0
+1205,SMADMF06BCN3,Sukuk Mudharabah Berkelanjutan VI Adira Finance Tahap III Tahun 2026 Seri B,ADMF,2029-02-26T07:00:00,idAAA(sy),100000000000.0
+1206,SMFP08ACN2,Obligasi Berkelanjutan VIII Sarana Multigriya Finansial Tahap II Tahun 2026 Seri A,SMFP,2027-03-09T07:00:00,idAAA,995000000000.0
+1207,SKSMFP02CN2,Sukuk Musyarakah Berkelanjutan II Sarana Multigriya Finansial Tahap II Tahun 2026,SMFP,2027-03-09T07:00:00,idAAA(sy),808065000000.0
+1208,SMFP08BCN2,Obligasi Berkelanjutan VIII Sarana Multigriya Finansial Tahap II Tahun 2026 Seri B,SMFP,2028-02-27T07:00:00,idAAA,1010000000000.0
+1209,PALM03BCN2,Obligasi Berkelanjutan III Provident Investasi Bersama Tahap II Tahun 2026 Seri B,PALM,2029-03-03T07:00:00,idA,325110000000.0
+1210,PALM03CCN2,Obligasi Berkelanjutan III Provident Investasi Bersama Tahap II Tahun 2026 Seri C,PALM,2031-03-03T07:00:00,idA,563916000000.0
+1211,RMKE01BCN2,Obligasi Berkelanjutan I RMK Energy Tahap II Tahun 2026 Seri B,RMKE,2033-03-03T07:00:00,idA,150000000000.0
+1212,RMKE01ACN2,Obligasi Berkelanjutan I RMK Energy Tahap II Tahun 2026 Seri A,RMKE,2031-03-03T07:00:00,idA,450000000000.0
+1213,PALM03ACN2,Obligasi Berkelanjutan III Provident Investasi Bersama Tahap II Tahun 2026 Seri A,PALM,2027-03-10T07:00:00,idA,50000000000.0
+1214,WOMF05ACN3,Obligasi Berkelanjutan V WOM Finance Tahap III Tahun 2026 Seri A,WOMF,2027-03-13T07:00:00,idAAA,1270000000000.0
+1215,WOMF05BCN3,Obligasi Berkelanjutan V WOM Finance Tahap III Tahun 2026 Seri B,WOMF,2029-03-03T07:00:00,idAAA,230000000000.0
+1216,SWCNAF01ACN4,Sukuk Wakalah Bi Al-Istitsmar Berkelanjutan I CIMB Niaga Auto Finance Tahap IV Tahun 2026 Seri A,CNAF,2027-03-15T07:00:00,AAA(idn),800000000000.0
+1217,SWCNAF01BCN4,Sukuk Wakalah Bi Al-Istitsmar Berkelanjutan I CIMB Niaga Auto Finance Tahap IV Tahun 2026 Seri B,CNAF,2029-03-05T07:00:00,AAA(idn),100000000000.0
+1218,SMPNMP07X11V,Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap XI,PNMP,2028-11-25T07:00:00,idAAA(sy),350000000000.0
+1219,GDLI03X4MF,MTN III PT Gading Danalestari Tahun 2025 Tahap IV,GDLI-M,2029-03-06T07:00:00,,50000000000.0
+1220,SMBWPT01CCN3,Sukuk Mudharabah Berkelanjutan I Eagle High Plantations Tahap III Tahun 2026 Seri C,BWPT,2031-03-11T07:00:00,idA-(sy),43965000000.0
+1221,SMBWPT01BCN3,Sukuk Mudharabah Berkelanjutan I Eagle High Plantations Tahap III Tahun 2026 Seri B,BWPT,2029-03-11T07:00:00,idA-(sy),42800000000.0
+1222,BWPT01BCN4,Obligasi Berkelanjutan I Eagle High Plantations Tahap IV Tahun 2026 Seri B,BWPT,2029-03-11T07:00:00,idA-,85785000000.0
+1223,BWPT01CCN4,Obligasi Berkelanjutan I Eagle High Plantations Tahap IV Tahun 2026 Seri C,BWPT,2031-03-11T07:00:00,idA-,4575000000.0
+1224,BWPT01ACN4,Obligasi Berkelanjutan I Eagle High Plantations Tahap IV Tahun 2026 Seri A,BWPT,2027-03-21T07:00:00,idA-,7705000000.0
+1225,SMBWPT01ACN3,Sukuk Mudharabah Berkelanjutan I Eagle High Plantations Tahap III Tahun 2026 Seri A,BWPT,2027-03-21T07:00:00,idA-(sy),36060000000.0
+1226,WISL01BCN3,Obligasi Berkelanjutan I Wahana Inti Selaras Tahap III Tahun 2026 Seri B,WISL,2029-03-17T07:00:00,idA,128215000000.0
+1227,BBRI01BSOCN2,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri B,BBRI,2029-03-17T07:00:00,idAAA,2666255000000.0
+1228,BBRI01ASOCN2,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri A,BBRI,2027-03-27T07:00:00,idAAA,1236245000000.0
+1229,BBRI01CSOCN2,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri C,BBRI,2031-03-17T07:00:00,idAAA,1097500000000.0
+1230,TRIM02ACN4,Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap IV Tahun 2026 Seri A,TRIM,2031-03-17T07:00:00,idA,184000000000.0
+1231,WISL01CCN3,Obligasi Berkelanjutan I Wahana Inti Selaras Tahap III Tahun 2026 Seri C,WISL,2031-03-17T07:00:00,idA,138245000000.0
+1232,TRIM02BCN4,Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap IV Tahun 2026 Seri B,TRIM,2033-03-17T07:00:00,idA,66000000000.0
+1233,USDINKP03ACN1,Obligasi USD Berkelanjutan III Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri A,INKP,2029-03-26T07:00:00,idA+,12502000.0
+1234,INKP06CCN1,Obligasi Berkelanjutan VI Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri C,INKP,2033-03-26T07:00:00,idA+,176860000000.0
+1235,SMINKP05ACN1,Sukuk Mudharabah Berkelanjutan V Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri A,INKP,2029-03-26T07:00:00,idA+(sy),52995000000.0
+1236,SMINKP05DCN1,Sukuk Mudharabah Berkelanjutan V Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri D,INKP,2036-03-26T07:00:00,idA+(sy),381850000000.0
+1237,SMINKP05BCN1,Sukuk Mudharabah Berkelanjutan V Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri B,INKP,2031-03-26T07:00:00,idA+(sy),154935000000.0
+1238,USDINKP03DCN1,Obligasi USD Berkelanjutan III Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri D,INKP,2036-03-26T07:00:00,idA+,606000.0
+1239,SMINKP05CCN1,Sukuk Mudharabah Berkelanjutan V Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri C,INKP,2033-03-26T07:00:00,idA+(sy),221325000000.0
+1240,USDINKP03BCN1,Obligasi USD Berkelanjutan III Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri B,INKP,2031-03-26T07:00:00,idA+,1952500.0
+1241,INKP06BCN1,Obligasi Berkelanjutan VI Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri B,INKP,2031-03-26T07:00:00,idA+,90970000000.0
+1242,USDINKP03CCN1,Obligasi USD Berkelanjutan III Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri C,INKP,2033-03-26T07:00:00,idA+,465000.0
+1243,INKP06DCN1,Obligasi Berkelanjutan VI Indah Kiat Pulp & Paper Tahap I Tahun 2026 Seri D,INKP,2036-03-26T07:00:00,idA+,266990000000.0
+1244,SWRATU01B,Sukuk Wakalah I Raharja Energi Cepu Tahun 2026 Seri B,RATU,2033-03-27T07:00:00,idA(sy),443000000000.0
+1245,SWRATU01A,Sukuk Wakalah I Raharja Energi Cepu Tahun 2026 Seri A,RATU,2031-03-27T07:00:00,idA(sy),57000000000.0
+1246,RATU01B,Obligasi I Raharja Energi Cepu Tahun 2026 Seri B,RATU,2033-03-27T07:00:00,idA,280000000000.0
+1247,RATU01A,Obligasi I Raharja Energi Cepu Tahun 2026 Seri A,RATU,2031-03-27T07:00:00,idA,20000000000.0
+1248,MBPS01XXMF,MTN I PT Baliprada Segara Tahun 2026,MBPS-M,2031-03-30T07:00:00,,180000000000.0
+1249,BMTP02ACN2,Obligasi Berkelanjutan II Bank Mandiri Taspen Tahap II Tahun 2026 Seri A,BMTP,2029-04-07T07:00:00,idAAA,300000000000.0
+1250,BMTP02BCN2,Obligasi Berkelanjutan II Bank Mandiri Taspen Tahap II Tahun 2026 Seri B,BMTP,2031-04-07T07:00:00,idAAA,1200000000000.0
+1251,SIIJEE02B,Sukuk Ijarah II Integrasi Jaringan Ekosistem Tahun 2026 Seri B,IJEE,2028-04-09T07:00:00,idA(sy),70000000000.0
+1252,SIIJEE02C,Sukuk Ijarah II Integrasi Jaringan Ekosistem Tahun 2026 Seri C,IJEE,2029-04-09T07:00:00,idA(sy),503800000000.0
+1253,IJEE03C,Obligasi III Integrasi Jaringan Ekosistem Tahun 2026 Seri C,IJEE,2029-04-09T07:00:00,idA,343200000000.0
+1254,IJEE03B,Obligasi III Integrasi Jaringan Ekosistem Tahun 2026 Seri B,IJEE,2028-04-09T07:00:00,idA,99900000000.0
+1255,SIIJEE02A,Sukuk Ijarah II Integrasi Jaringan Ekosistem Tahun 2026 Seri A,IJEE,2027-04-19T07:00:00,idA(sy),676200000000.0
+1256,IJEE03A,Obligasi III Integrasi Jaringan Ekosistem Tahun 2026 Seri A,IJEE,2027-04-19T07:00:00,idA,806900000000.0
+1257,TPR-BBNI02XXJP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Negara Indonesia (Persero) Tbk II Tahun 2026,BBNI,2037-10-09T07:00:00,,1901617500.0
+1258,ASDF07BCN3,Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap III Tahun 2026 Seri B,ASDF,2029-04-10T07:00:00,idAAA,220260000000.0
+1259,ASDF07ACN3,Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap III Tahun 2026 Seri A,ASDF,2027-04-20T07:00:00,idAAA,810675000000.0
+1260,BJBR01ASLCN2,Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap II Tahun 2026 Seri A,BJBR,2029-04-15T07:00:00,idAA,691340000000.0
+1261,BJBR01BSLCN2,Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap II Tahun 2026 Seri B,BJBR,2031-04-15T07:00:00,idAA,241075000000.0
+1262,PNMP01ASECN3,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri A,PNMP,2027-05-01T07:00:00,idAAA,709505000000.0
+1263,PNMP01BSECN3,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri B,PNMP,2028-04-21T07:00:00,idAAA,25005000000.0
+1264,TPIA03ACN4,Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap IV Tahun 2021 Seri A,TPIA,2026-10-29T07:00:00,idAA-,266950000000.0
+1265,TPIA03BCN4,Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap IV Tahun 2021 Seri B,TPIA,2028-10-29T07:00:00,idAA-,581500000000.0
+1266,TPIA03CCN4,Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap IV Tahun 2021 Seri C,TPIA,2031-10-29T07:00:00,idAA-,151550000000.0
+1267,PNMP04CCN1,Obligasi Berkelanjutan IV PNM Tahap I Tahun 2021 Seri C,PNMP,2026-12-10T07:00:00,idAAA,1000000000000.0
+1268,SMPTHK01BCN2,Sukuk Mudharabah Berkelanjutan I Hutama Karya Tahap II Tahun 2022 Seri B,PTHK,2027-01-12T07:00:00,idAA-(sy),105260000000.0
+1269,SMPTHK01CCN2,Sukuk Mudharabah Berkelanjutan I Hutama Karya Tahap II Tahun 2022 Seri C,PTHK,2029-01-12T07:00:00,idAA-(sy),69490000000.0
+1270,PPRO02BCN4,Obligasi Berkelanjutan II PP Properti Tahap IV Tahun 2022 Seri B,PPRO,2045-02-17T07:00:00,idB,163500000000.0
+1271,PTHK02BCN2,Obligasi Berkelanjutan II Hutama Karya Tahap II Tahun 2022 Seri B,PTHK,2027-01-12T07:00:00,idAA-,176500000000.0
+1272,PPIC01XXMF,MTN Pan Pacific Investama I Tahun 2022,PPIC-M,2027-02-14T07:00:00,irA,300000000000.0
+1273,IMFI04CCN2,Obligasi Berkelanjutan IV Indomobil Finance Indonesia Tahap II Tahun 2021 Seri C,IMFI,2026-11-19T07:00:00,idAA-,593540000000.0
+1274,SMMF02CCN3,Obligasi Berkelanjutan II Sinar Mas Multifinance Tahap III Tahun 2022 Seri C,SMMF,2027-02-08T07:00:00,irA+,9000000000.0
+1275,SMAR03CCN2,Obligasi Berkelanjutan III SMART Tahap II Tahun 2021 Seri C,SMAR,2026-10-19T07:00:00,idAA-,958000000000.0
+1276,INKP02CCN3,Obligasi Berkelanjutan II Indah Kiat Pulp & Paper Tahap III Tahun 2022 Seri C,INKP,2027-02-24T07:00:00,idA+,203550000000.0
+1277,REFI01C,Obligasi I REFI Tahun 2022 Seri C,REFI,2027-02-09T07:00:00,irBBB,200000000000.0
+1278,WIKA02BCN2,Obligasi Berkelanjutan II Wijaya Karya Tahap II Tahun 2022 Seri B,WIKA,2027-02-18T07:00:00,idB,417861714286.0
+1279,WIKA02CCN2,Obligasi Berkelanjutan II Wijaya Karya Tahap II Tahun 2022 Seri C,WIKA,2029-02-18T07:00:00,idB,718370285714.0
+1280,TUFI05BCN3,Obligasi Berkelanjutan V Mandiri Tunas Finance Tahap III Tahun 2022 Seri B,TUFI,2027-02-23T07:00:00,idAAA,376615000000.0
+1281,LPPI01CCN1,Obligasi Berkelanjutan I Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2021 Seri C,LPPI,2027-01-26T07:00:00,idA,404520000000.0
+1282,WIKA02ACN2,Obligasi Berkelanjutan II Wijaya Karya Tahap II Tahun 2022 Seri A,WIKA,2027-02-18T07:00:00,idB,583768000000.0
+1283,SMAR03CCN3,Obligasi Berkelanjutan III SMART Tahap III Tahun 2022 Seri C,SMAR,2027-02-16T07:00:00,idAA-,275000000000.0
+1284,BBIA03SBCN1,Obligasi Subordinasi Berkelanjutan III Bank UOB Indonesia Tahap I Tahun 2022,BBIA,2029-03-08T07:00:00,AA(idn),100000000000.0
+1285,TPIA03BCN5,Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap V Tahun 2022 Seri B,TPIA,2029-03-08T07:00:00,idAA-,300000000000.0
+1286,TYRO01C,Obligasi Tamaris Hydro I Tahun 2022 Seri C,TYRO,2029-03-08T07:00:00,idAAA(sf),300000000000.0
+1287,SMBBMI01SBJP,Sukuk Subordinasi Mudharabah Jangka Panjang Tanpa Penawaran Umum Bank Muamalat Indonesia Tahun 2022,BBMI,2032-03-15T07:00:00,,2000000000000.0
+1288,TPIA03CCN5,Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap V Tahun 2022 Seri C,TPIA,2032-03-08T07:00:00,idAA-,240000000000.0
+1289,TPIA03ACN5,Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap V Tahun 2022 Seri A,TPIA,2027-03-08T07:00:00,idAA-,860000000000.0
+1290,EMIN01B,Obligasi Energi Mitra Investama I Tahun 2022 Seri B,EMIN,2032-03-02T07:00:00,irAA,300000000000.0
+1291,PYFA01CN1,Obligasi Berkelanjutan I Pyridam Farma Tahap I Tahun 2022,PYFA,2027-03-08T07:00:00,irA-,400000000000.0
+1292,SGRO01BCN3,Obligasi Berkelanjutan I Sampoerna Agro Tahap III Tahun 2022 Seri B,SGRO,2027-03-02T07:00:00,idA,450385000000.0
+1293,SIPLTM03B,Sukuk Ijarah Jangka Menengah I Polytama Propindo Tahun 2022 Seri B,PLTM,2027-03-04T07:00:00,idAAAsycg,110250000000.0
+1294,SMWIKA02ACN2,Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap II Tahun 2022 Seri A,WIKA,2027-02-18T07:00:00,idB(sy),412900000000.0
+1295,SMWIKA02BCN2,Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap II Tahun 2022 Seri B,WIKA,2027-02-18T07:00:00,idB(sy),176050000000.0
+1296,SMWIKA02CCN2,Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap II Tahun 2022 Seri C,WIKA,2029-02-18T07:00:00,idB(sy),161050000000.0
+1297,SMINKP01CCN3,Sukuk Mudharabah Berkelanjutan I Indah Kiat Pulp & Paper Tahap III Tahun 2022 Seri C,INKP,2027-02-24T07:00:00,idA+(sy),108020000000.0
+1298,SMADMF04CCN3,Sukuk Mudharabah Berkelanjutan IV Adira Finance Tahap III Tahun 2022 Seri C,ADMF,2027-03-22T07:00:00,idAAA(sy),98000000000.0
+1299,ADMF05CCN3,Obligasi Berkelanjutan V Adira Finance Tahap III Tahun 2022 Seri C,ADMF,2027-03-22T07:00:00,idAAA,250000000000.0
+1300,SISGRO01BCN3,Sukuk Ijarah Berkelanjutan I Sampoerna Agro Tahap III Tahun 2022 Seri B,SGRO,2027-03-02T07:00:00,idA(sy),230115000000.0
+1301,EMIN01A,Obligasi Energi Mitra Investama I Tahun 2022 Seri A,EMIN,2027-03-02T07:00:00,irAA,500000000000.0
+1302,IMFI04CCN3,Obligasi Berkelanjutan IV Indomobil Finance Indonesia Tahap III Tahun 2022 Seri C,IMFI,2027-03-25T07:00:00,idAA-,32285000000.0
+1303,SMWOOD01BCN2,Sukuk Mudharabah Berkelanjutan I Integra Indocabinet Tahap II Tahun 2022 Seri B,WOOD,2027-03-25T07:00:00,idA-(sy),25230000000.0
+1304,SIAGII02BCN5,Sukuk Ijarah Berkelanjutan II Aneka Gas Industri Tahap V Tahun 2022 Seri B,AGII,2027-04-05T07:00:00,A(idn),123700000000.0
+1305,SIAGII02CCN5,Sukuk Ijarah Berkelanjutan II Aneka Gas Industri Tahap V Tahun 2022 Seri C,AGII,2029-04-05T07:00:00,A(idn),153500000000.0
+1306,WOOD01BCN2,Obligasi Berkelanjutan I Integra Indocabinet Tahap II Tahun 2022 Seri B,WOOD,2027-03-25T07:00:00,idA-,52530000000.0
+1307,BHAT01XXMF,MTN Bhakti Multi Artha I Tahun 2022,BHAT,2027-04-06T07:00:00,irBBB,250000000000.0
+1308,MYOR02ACN2,Obligasi Berkelanjutan II Mayora Indah Tahap II Tahun 2022 Seri A,MYOR,2027-03-29T07:00:00,idAA,1200000000000.0
+1309,SIBSDE01BCN1,Sukuk Ijarah Berkelanjutan I Bumi Serpong Damai Tahap I Tahun 2022 Seri B,BSDE,2027-04-07T07:00:00,idAA(sy),136500000000.0
+1310,BRPT02BCN2,Obligasi Berkelanjutan II Barito Pacific Tahap II Tahun 2022 Seri B,BRPT,2027-04-01T07:00:00,idA+,440900000000.0
+1311,BRPT02CCN2,Obligasi Berkelanjutan II Barito Pacific Tahap II Tahun 2022 Seri C,BRPT,2029-04-01T07:00:00,idA+,123500000000.0
+1312,MDKA03BCN2,Obligasi Berkelanjutan III Merdeka Copper Gold Tahap II Tahun 2022 Seri B,MDKA,2027-04-28T07:00:00,idA+,1690000000000.0
+1313,OPPM02C,Obligasi Oki Pulp & Paper Mills II Tahun 2022 Seri C,OPPM,2027-03-30T07:00:00,idA+,380820000000.0
+1314,BSDE03BCN1,Obligasi Berkelanjutan III Bumi Serpong Damai Tahap I Tahun 2022 Seri B,BSDE,2027-04-07T07:00:00,idAA,252750000000.0
+1315,LPPI01CCN2,Obligasi Berkelanjutan I Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2022 Seri C,LPPI,2027-04-22T07:00:00,idA,574970000000.0
+1316,ADCP02B,Obligasi II Adhi Commuter Properti Tahun 2022 Seri B,ADCP,2027-05-24T07:00:00,idB,102000000000.0
+1317,BBTN04BCN2,Obligasi Berkelanjutan IV Bank BTN Tahap II Tahun 2022 Seri B,BBTN,2027-05-24T07:00:00,AAA(idn),400000000000.0
+1318,SMWSKT01B,Sukuk Mudharabah I Waskita Karya Tahun 2022 Seri B,WSKT,2029-05-12T07:00:00,idAAAsygg,765100000000.0
+1319,ADHI03BCN3,Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022 Seri B,ADHI,2027-05-24T07:00:00,idA-,667500000000.0
+1320,ADHI03CCN3,Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022 Seri C,ADHI,2029-05-24T07:00:00,idA-,1796300000000.0
+1321,WSKT04A,Obligasi IV Waskita Karya Tahun 2022 Seri A,WSKT,2027-05-12T07:00:00,idAAA(gg),658000000000.0
+1322,WSKT04B,Obligasi IV Waskita Karya Tahun 2022 Seri B,WSKT,2029-05-12T07:00:00,idAAA(gg),1469300000000.0
+1323,SMWSKT01A,Sukuk Mudharabah I Waskita Karya Tahun 2022 Seri A,WSKT,2027-05-12T07:00:00,idAAAsygg,383000000000.0
+1324,PTPP03BCN2,Obligasi Berkelanjutan III PTPP Tahap II Tahun 2022 Seri B,PTPP,2027-04-22T07:00:00,idBBB+,404500000000.0
+1325,BJBR03BSBCN2,Obligasi Subordinasi Berkelanjutan III Bank BJB Tahap II Tahun 2022 Seri B,BJBR,2029-06-09T07:00:00,idA+,600090000000.0
+1326,BBNI01BGN,Obligasi Green Bond I PT Bank Negara Indonesia (Persero) Tbk. Tahun 2022 Seri B,BBNI,2027-06-21T07:00:00,idAAA,1000000000000.0
+1327,ABLS01XXMF,MTN Asian Bulk Logistics I Tahun 2022,ABLS-M,2032-06-21T07:00:00,,1000000000000.0
+1328,BJBR03ASBCN2,Obligasi Subordinasi Berkelanjutan III Bank BJB Tahap II Tahun 2022 Seri A,BJBR,2027-06-09T07:00:00,idA+,399910000000.0
+1329,PPRE01BCN1,Obligasi Berkelanjutan I PP Presisi Tahap I Tahun 2022 Seri B,PPRE,2027-06-30T07:00:00,idBBB+,100705000000.0
+1330,COCO01X1MF,MTN Wahana Interfood Nusantara I Tahun 2022 Tahap I,COCO,2028-07-06T07:00:00,irBBB+,50000000000.0
+1331,MBMA01BCN1,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap I Tahun 2025 Seri B,MBMA,2028-07-08T07:00:00,idA,526185000000.0
+1332,TBIG07BCN1,Obligasi Berkelanjutan VII Tower Bersama Infrastructure Tahap I Tahun 2025 Seri B,TBIG,2030-07-08T07:00:00,AA+(idn),549000000000.0
+1333,SMMBMA01BCN1,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap I Tahun 2025 Seri B,MBMA,2028-07-08T07:00:00,idA(sy),386655000000.0
+1334,SMPNMP01CSECN1,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri C,PNMP,2030-07-08T07:00:00,idAAA(sy),610005000000.0
+1335,TAFS05ACN1,Obligasi Berkelanjutan V Toyota Astra Financial Services Tahap I Tahun 2025 Seri A,TAFS,2026-07-18T07:00:00,AAA(idn),200000000000.0
+1336,RMKE01ACN1,Obligasi Berkelanjutan I RMK Energy Tahap I Tahun 2025 Seri A,RMKE,2026-07-16T07:00:00,idA,116000000000.0
+1337,SWCARE01A,Sukuk Wakalah I Metro Healthcare Indonesia Tahun 2025 Seri A,CARE,2026-07-19T07:00:00,irA-(sy),500000000000.0
+1338,PYFA02CN1,Obligasi Berkelanjutan II Pyridam Farma Tahap I Tahun 2025,PYFA,2028-07-09T07:00:00,irA-,420000000000.0
+1339,BRIF01ACN1,Obligasi Berkelanjutan I BRI Finance Tahap I Tahun 2025 Seri A,BRIF,2026-07-20T07:00:00,idAA,200000000000.0
+1340,BRIF01BCN1,Obligasi Berkelanjutan I BRI Finance Tahap I Tahun 2025 Seri B,BRIF,2028-07-10T07:00:00,idAA,500000000000.0
+1341,BRPT04ACN1,Obligasi Berkelanjutan IV Barito Pacific Tahap I Tahun 2025 Seri A,BRPT,2030-07-10T07:00:00,idA+,400000000000.0
+1342,DAAZ01A,Obligasi I Daaz Bara Lestari Tahun 2025 Seri A,DAAZ,2026-07-20T07:00:00,idA,150000000000.0
+1343,BRPT04BCN1,Obligasi Berkelanjutan IV Barito Pacific Tahap I Tahun 2025 Seri B,BRPT,2032-07-10T07:00:00,idA+,600000000000.0
+1344,DAAZ01B,Obligasi I Daaz Bara Lestari Tahun 2025 Seri B,DAAZ,2028-07-10T07:00:00,idA,350000000000.0
+1345,SMPNMP07X2V,Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap II,PNMP,2026-07-27T07:00:00,idAAA(sy),100000000000.0
+1346,IHSG02XXMF,MTN II PT Intisumber Hasil Sempurna Global Tahun 2025,IHSG-M,2030-07-25T07:00:00,,180000000000.0
+1347,OPPM02BCN2,Obligasi Berkelanjutan II OKI Pulp & Paper Mills Tahap II Tahun 2025 Seri B,OPPM,2030-07-29T07:00:00,idA+,431955000000.0
+1348,SMOPPM02BCN2,Sukuk Mudharabah Berkelanjutan II OKI Pulp & Paper Mills Tahap II Tahun 2025 Seri B,OPPM,2030-07-29T07:00:00,idA+(sy),497445000000.0
+1349,SMOPPM02ACN2,Sukuk Mudharabah Berkelanjutan II OKI Pulp & Paper Mills Tahap II Tahun 2025 Seri A,OPPM,2028-07-29T07:00:00,idA+(sy),1252555000000.0
+1350,PPAP02B,Obligasi II PerusahaanPengelola Aset Tahun 2022Seri B,PPAP,2027-07-08T07:00:00,idAA,791600000000.0
+1351,MBMA01ACN2,Obligasi Berkelanjutan I Merdeka Battery Materials Tahap II Tahun 2025 Seri A,MBMA,2026-08-27T07:00:00,idA,984066000000.0
+1352,SMMBMA01ACN2,Sukuk Mudharabah Berkelanjutan I Merdeka Battery Materials Tahap II Tahun 2025 Seri A,MBMA,2026-08-27T07:00:00,idA(sy),651680000000.0
+1353,SMMA03CN3,Obligasi Berkelanjutan III Sinar Mas Multiartha Tahap III Tahun 2025,SMMA,2030-08-21T07:00:00,irAA,300000000000.0
+1354,MEGA01XXMF,MTN Subordinasi PT Bank Mega Tbk Tahun 2025,MEGA,2030-08-22T07:00:00,,50000000000.0
+1355,PALM02BCN5,Obligasi Berkelanjutan II Provident Investasi Bersama Tahap V Tahun 2025 Seri B,PALM,2028-08-26T07:00:00,idA,370000000000.0
+1356,PALM02ACN5,Obligasi Berkelanjutan II Provident Investasi Bersama Tahap V Tahun 2025 Seri A,PALM,2026-09-03T07:00:00,idA,50000000000.0
+1357,SMPIDL01CN3,Sukuk Mudharabah Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap III Tahun 2025,PIDL,2030-08-27T07:00:00,idA+(sy),750000000000.0
+1358,PIDL01CN3,Obligasi Berkelanjutan I Pindo Deli Pulp And Paper Mills Tahap III Tahun 2025,PIDL,2030-08-27T07:00:00,idA+,1295348000000.0
+1359,BBKP02BCN2,Obligasi Berkelanjutan II KB Bank Tahap II Tahun 2025 Seri B,BBKP,2028-08-29T07:00:00,AAA(idn),1333500000000.0
+1360,BBKP02ACN2,Obligasi Berkelanjutan II KB Bank Tahap II Tahun 2025 Seri A,BBKP,2026-09-09T07:00:00,AAA(idn),800000000000.0
+1361,BBKP02CCN2,Obligasi Berkelanjutan II KB Bank Tahap II Tahun 2025 Seri C,BBKP,2030-08-29T07:00:00,AAA(idn),20000000000.0
+1362,BTPN05ACN3,Obligasi Berkelanjutan V Bank SMBC Indonesia Tahap III Tahun 2025 Seri A,BTPN,2028-09-02T07:00:00,idAAA,670650000000.0
+1363,BTPN05BCN3,Obligasi Berkelanjutan V Bank SMBC Indonesia Tahap III Tahun 2025 Seri B,BTPN,2030-09-02T07:00:00,idAAA,145400000000.0
+1364,COCO01X2MF,MTN PT Wahana Interfood Nusantara Tbk I Tahun 2023 Tahap II,COCO,2028-04-18T07:00:00,irBBB+,150000000000.0
+1365,WSBP02,Obligasi Waskita Beton Precast II Tahun 2022,WSBP,2028-09-25T07:00:00,idB,245850916667.0
+1366,USD-SPMA04X1MF,MTN PT SUPARMA TBK IV TAHUN 2023 TAHAP I,SPMA,2028-04-05T07:00:00,,4000000.0
+1367,PTPP03CN3,Obligasi Berkelanjutan III PTPP Tahap III Tahun 2023,PTPP,2027-04-11T07:00:00,idBBB+,503725000000.0
+1368,WMPP01X1MF,MTN PT Widodo Makmur Perkasa Tbk Tahun 2023 Tahap I,WMPP-M,2037-08-25T07:00:00,,45000000000.0
+1369,PPGD06BCN3,Obligasi Berkelanjutan VI Pegadaian Tahap III Tahun 2025 Seri B,PPGD,2028-09-03T07:00:00,idAAA,362005000000.0
+1370,PPGD06ACN3,Obligasi Berkelanjutan VI Pegadaian Tahap III Tahun 2025 Seri A,PPGD,2026-09-13T07:00:00,idAAA,1869775000000.0
+1371,JSMR03CCN2,Obligasi Berkelanjutan III Jasa Marga Tahap II Tahun 2025 Seri C,JSMR,2035-09-04T07:00:00,idAA,780000000000.0
+1372,SMPNMP07X3V,Sukuk Mudharabah Jangka Menengah VII PT Permodalan Nasional Madani Tahun 2025 Tahap III,PNMP,2026-09-14T07:00:00,idAAA(sy),85000000000.0
+1373,SPPR01X1MF,MTN I PT Sinergi Properti Pratama Tahun 2025 Tahap 1,SPPR-M,2030-09-30T07:00:00,idA-,70000000000.0
+1374,WBSA01XXMF,MTN PT BSA Logistics Indonesia I Tahun 2025,WBSA-M,2028-09-19T07:00:00,irA,30000000000.0
+1375,BVIC04CN2,Obligasi Berkelanjutan IV Bank Victoria Tahap II Tahun 2025,BVIC,2028-09-26T07:00:00,idA-,750000000000.0
+1376,TRIM01BCN3,Obligasi Berkelanjutan I Trimegah Sekuritas Indonesia Tahap III Tahun 2025 Seri B,TRIM,2028-01-15T07:00:00,idA,52485000000.0
+1377,BESL01X1JP,LTN I PT Bintang Express Sarana Tahun 2024 Tahap I,BESL-M,2032-01-15T07:00:00,,1150000000000.0
+1378,TPR-BBRI04XXJP,LTN Yang Dilakukan Tanpa Melalui Penawaran Umum PT Bank Rakyat Indonesia (Persero) Tbk IV Tahun 2024,BBRI,2038-01-16T07:00:00,,81271555499.0
+1379,SMMA03BCN2,Obligasi Berkelanjutan III Sinar Mas Multiartha Tahap II Tahun 2025 Seri B,SMMA,2028-01-17T07:00:00,irAA,500000000000.0
+1380,SMMA03CCN2,Obligasi Berkelanjutan III Sinar Mas Multiartha Tahap II Tahun 2025 Seri C,SMMA,2030-01-17T07:00:00,irAA,200000000000.0
+1381,MSTJ02X1MF,Medium Term Notes II PT Multi Sandang Tamajaya Tahun 2024 Tahap I,MSTJ-M,2030-01-17T07:00:00,irBBB-,45000000000.0
+1382,SWCNAF01ACN3,Sukuk Wakalah Bi Al-Istitsmar Berkelanjutan I CIMB Niaga Auto Finance Tahap III Tahun 2025 Seri A,CNAF,2026-09-13T07:00:00,AA+(idn),1105000000000.0
+1383,SWCNAF01BCN3,Sukuk Wakalah Bi Al-Istitsmar Berkelanjutan I CIMB Niaga Auto Finance Tahap III Tahun 2025 Seri B,CNAF,2028-09-03T07:00:00,AA+(idn),395000000000.0
+1384,SMPPGD03BCN5,Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap V Tahun 2025 Seri B,PPGD,2028-09-03T07:00:00,idAAA(sy),165005000000.0
+1385,SMPPGD03ACN5,Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap V Tahun 2025 Seri A,PPGD,2026-09-13T07:00:00,idAAA(sy),1454130000000.0
+1386,TLKM01DCN1,Obligasi Berkelanjutan I Telkom Tahap I Tahun 2015 Seri D,TLKM,2045-06-23T07:00:00,idAAA,1500000000000.0
+1387,PPLN03CCN2,Obligasi Berkelanjutan III PLN Tahap II Tahun 2018 Seri C,PPLN,2028-10-10T07:00:00,idAAA,78000000000.0
+1388,BEXI04DCN5,Obligasi Berkelanjutan Indonesia Eximbank IV Tahap V Tahun 2019 Seri D,BEXI,2026-07-09T07:00:00,idAAA,737000000000.0
+1389,PPIC02XXMF,MTN Pan Pacific Investama II Tahun 2022,PPIC-M,2027-06-22T07:00:00,irA,500000000000.0
+1390,SIAPAI01DCN1,Sukuk Ijarah Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri D,APAI,2031-09-08T07:00:00,idAAA(sy),14000000000.0
+1391,TDPM03XXMF,MTN III Tridomain Performance Materials Tahun 2018,TDPM,2027-12-27T07:00:00,idD,250000000000.0
+1392,WSKT03BCN2,Obligasi Berkelanjutan III Waskita Karya Tahap II Tahun 2018 Seri B,WSKT,2034-12-31T07:00:00,idB,2276500000000.0
+1393,ISAT02ECN2,Obligasi Berkelanjutan II Indosat Tahap II Tahun 2017 Seri E,ISAT,2027-11-09T07:00:00,idAAA,511000000000.0
+1394,PPLN03ECN1,Obligasi Berkelanjutan III PLN Tahap I Tahun 2018 Seri E,PPLN,2038-07-10T07:00:00,idAAA,339000000000.0
+1395,PPLN03BCN4,Obligasi Berkelanjutan III PLN Tahap IV Tahun 2019 Seri B,PPLN,2026-08-01T07:00:00,idAAA,315250000000.0
+1396,PTPD08BXMF,MTN VIII PTPN II Seri B,PTPD-M,2027-10-31T07:00:00,idA(cg),136000000000.0
+1397,AGII02BCN4,Obligasi Berkelanjutan IIAneka Gas Industri Tahap IV Tahun 2021 Seri B,AGII,2026-12-22T07:00:00,A(idn),46300000000.0
+1398,WIKA01ACN1,Obligasi Berkelanjutan I Wijaya Karya Tahap I Tahun 2020 Seri A,WIKA,2027-12-18T07:00:00,idB,231000000000.0
+1399,WIKA01ACN2,Obligasi Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 Seri A,WIKA,2028-03-03T07:00:00,idB,495000000000.0
+1400,BRPT02BCN1,Obligasi Berkelanjutan II Barito Pacific Tahap I Tahun 2021 Seri B,BRPT,2026-07-08T07:00:00,idA+,188900000000.0
+1401,BBKP03ASBCN1,Obligasi Subordinasi Berkelanjutan III Bank KB Bukopin Tahap I Tahun 2021 Seri A,BBKP,2026-09-09T07:00:00,AA(idn),315000000000.0
+1402,PTHK02CCN2,Obligasi Berkelanjutan II Hutama Karya Tahap II Tahun 2022 Seri C,PTHK,2029-01-12T07:00:00,idAA-,742500000000.0
+1403,TYRO01B,Obligasi Tamaris Hydro I Tahun 2022 Seri B,TYRO,2027-03-08T07:00:00,idAAA(sf),250000000000.0
+1404,MYOR02BCN2,Obligasi Berkelanjutan II Mayora Indah Tahap II Tahun 2022 Seri B,MYOR,2029-03-29T07:00:00,idAA,300000000000.0
+1405,SMPTPP01BCN2,Sukuk Mudharabah Berkelanjutan I PTPP Tahap II Tahun 2022 Seri B,PTPP,2027-04-22T07:00:00,idBBB+(sy),305000000000.0
+1406,SMFP06CN3,Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap III Tahun 2022,SMFP,2027-09-21T07:00:00,idAAA,3000000000000.0
+1407,SIKAII01ACN1,Sukuk Ijarah Berkelanjutan I Kereta Api Indonesia Tahap I Tahun 2022 Seri A,KAII,2027-08-05T07:00:00,idAAA(sy),117350000000.0
+1408,SMINKP02CCN1,Sukuk Mudharabah Berkelanjutan II Indah Kiat Pulp & Paper Tahap I Tahun 2022 Seri C,INKP,2027-08-05T07:00:00,idA+(sy),222710000000.0
+1409,TPIA04ACN1,Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap I Tahun 2022 Seri A,TPIA,2027-08-09T07:00:00,idAA-,1426450000000.0
+1410,SMMA02ACN3,Obligasi Berkelanjutan II Sinar Mas Multiartha Tahap III Tahun 2022 Seri A,SMMA,2027-10-04T07:00:00,irAA,580000000000.0
+1411,WHNISSD,Obligasi untuk skenario When Issued,AGRO,2027-05-27T07:00:00,,100000000.0
+1412,BMRISB02XXMF,MTN Subordinasi II PT Bank Mandiri (Persero) Tbk Tahun 2023,BMRI,2028-06-23T07:00:00,idAA,100000000000.0
+1413,TPR-SMBRIS01X1JP,Sukuk Mudharabah Muqayadah Jangka Panjang Yang Dilakukan Tanpa Melalui Penawaran Umum I PT Bank BSI Tbk Tahun 2023 Tahap I,BRIS,2035-12-26T07:00:00,,3758737500.0
+1414,MICK06CN41,Obligasi Berkelanjutan VI Sarana Multigriya Finansial Tahap IV Tahun 2023,SMFP,2028-02-22T07:00:00,,2000000000000.0
+1415,FMFN02B,Obligasi II KB Finansia Multi Finance Tahun 2023 Seri B,FMFN,2026-06-27T07:00:00,AAA(idn),500000000000.0
+1416,BCAP03BCN2,Obligasi Berkelanjutan III MNC Kapital Indonesia Tahap II Tahun 2023 Seri B,BCAP,2026-06-27T07:00:00,idBBB+,83555000000.0
+1417,USD-PIDL01C3MF,MTN I PT Pindo Deli Pulp and Paper Mills Tahun 2023 Tahap III Seri C,PIDL,2026-07-18T07:00:00,,1400000.0
+1418,USD-PIDL01D3MF,MTN I PT Pindo Deli Pulp and Paper Mills Tahun 2023 Tahap III Seri D,PIDL,2026-07-18T07:00:00,,8000000.0
+1419,SMINKP03ACN1,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap I Tahun 2023 Seri A,INKP,2026-07-11T07:00:00,idA+(sy),612575000000.0
+1420,SIMORA02ACN1,Sukuk Ijarah Berkelanjutan II Moratelindo Tahap I Tahun 2023 Seri A,MORA,2026-07-13T07:00:00,idA+(sy),462600000000.0
+1421,ASDF06BCN1,Obligasi Berkelanjutan VI Astra Sedaya Finance Tahap I Tahun 2023 Seri B,ASDF,2026-07-06T07:00:00,AAA(idn),1972980000000.0
+1422,OTMA01ACN1,Obligasi Berkelanjutan I Oto Multiartha Tahap I Tahun 2023 Seri A,OTMA,2026-07-07T07:00:00,idAAA,315000000000.0
+1423,TRIM01BCN1,Obligasi Berkelanjutan I Trimegah Sekuritas Indonesia Tahap I Tahun 2023 Seri B,TRIM,2026-07-06T07:00:00,idA,308800000000.0
+1424,LPPI02ACN1,Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap I Tahun 2023 Seri A,LPPI,2026-07-04T07:00:00,idA,2726560000000.0
+1425,BMTR04BCN1,Obligasi Berkelanjutan IV Global Mediacom Tahap I Tahun 2023 Seri B,BMTR,2026-07-06T07:00:00,idA+,230260000000.0
+1426,BMTR04CCN1,Obligasi Berkelanjutan IV Global Mediacom Tahap I Tahun 2023 Seri C,BMTR,2028-07-06T07:00:00,idA+,22330000000.0
+1427,TBIG06BCN1,Obligasi Berkelanjutan VI Tower Bersama Infrastructure Tahap I Tahun 2023 Seri B,TBIG,2026-07-11T07:00:00,AA+(idn),500000000000.0
+1428,TAFS04CCN1,Obligasi Berkelanjutan IV Toyota Astra Financial Services Tahap I Tahun 2023 Seri C,TAFS,2028-07-11T07:00:00,AAA(idn),500000000000.0
+1429,SMINKP03BCN1,Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap I Tahun 2023 Seri B,INKP,2028-07-11T07:00:00,idA+(sy),137425000000.0
+1430,OTMA01BCN1,Obligasi Berkelanjutan I Oto Multiartha Tahap I Tahun 2023 Seri B,OTMA,2028-07-07T07:00:00,idAAA,185000000000.0
+1431,MEDC05BCN1,Obligasi Berkelanjutan V Medco Energi Internasional Tahap I Tahun 2023 Seri B,MEDC,2028-07-07T07:00:00,idAA-,260000000000.0
+1432,ADMF06CCN1,Obligasi Berkelanjutan VI Adira Finance Tahap I Tahun 2023 Seri C,ADMF,2028-07-07T07:00:00,idAAA,885000000000.0
+1433,SIBMTR04BCN1,Sukuk Ijarah Berkelanjutan IV Global Mediacom Tahap I Tahun 2023 Seri B,BMTR,2026-07-06T07:00:00,idA+(sy),442360000000.0
+1434,ADMF06BCN1,Obligasi Berkelanjutan VI Adira Finance Tahap I Tahun 2023 Seri B,ADMF,2026-07-07T07:00:00,idAAA,410000000000.0
+1435,INKP04CCN1,Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap I Tahun 2023 Seri C,INKP,2028-07-11T07:00:00,idA+,192885000000.0
+1436,BMRI01AGNCN1,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap I Tahun 2023 Seri A,BMRI,2026-07-04T07:00:00,idAAA,1950000000000.0
+1437,BBRI04SB,Obligasi Subordinasi IV Bank BRI Tahun 2023,BBRI,2028-07-06T07:00:00,idAA,500000000000.0

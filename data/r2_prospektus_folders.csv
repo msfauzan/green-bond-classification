@@ -1,0 +1,405 @@
+#;Folder;Files;Size (MB);;Emiten  Codes;Unique
+1;20240103_LUCY_Penyampaian Prospektus;1;182;;LUCY;LUCY
+2;20240109_MORA_Penyampaian Prospektus;4;617;;MORA;MORA
+3;20240111_PYFA_Prospektus Ringkas atas Penawaran Umum Terbatas Kepada Para;1;47;;PYFA;PYFA
+4;20240112_BCAP_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;1;947;;BCAP;BCAP
+5;20240112_MAYA_Penyampaian Prospektus;1;577;;MAYA;MAYA
+6;20240112_MORA_Penyampaian Prospektus;2;8;;MORA;DSSA
+7;20240115_DSSA_Penyampaian Prospektus;2;101;;DSSA;PALM
+8;20240115_PALM_Prospektus Ringkas terkait Penawaran Umum Terbatas kepada Pa;2;64;;PALM;UNKN
+9;20240116_UNKNOWN_Penyampaian Perubahan Prospektus dan_atau Term Sheet Structu;1;8;;UNKN;MEDC
+10;20240116_UNKNOWN_Penyampaian Prospektus dan_atau Term Sheet Structured Warran;14;109;;UNKN;OTMA
+11;20240118_MEDC_Penyampaian Prospektus;2;196;;MEDC;TBIG
+12;20240119_OTMA_Penyampaian Prospektus;1;41;;OTMA;FIFA
+13;20240119_TBIG_Penyampaian Prospektus;2;84;;TBIG;BFIN
+14;20240121_FIFA_Penyampaian Prospektus;2;57;;FIFA;WIKA
+15;20240122_BFIN_Penyampaian Bukti Iklan Pemberitahuan atas Prospektus Ringka;4;77;;BFIN;FREN
+16;20240122_BFIN_Penyampaian Prospektus;1;54;;BFIN;HRTA
+17;20240123_WIKA_Penyampaian Bukti Iklan Keterbukaan Informasi atas Prospektu;1;54;;WIKA;BTPN
+18;20240123_WIKA_Prospektus Ringkas Penawaran Umum Terbatas PT Wijaya Karya (;2;71;;WIKA;SDRA
+19;20240124_FREN_Penyampaian Bukti Iklan Prospektus Ringkas Penambahan Modal;2;53;;FREN;BBRI
+20;20240124_FREN_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me;2;6;;FREN;PNMP
+21;20240125_FREN_Penyampaian Bukti Iklan Prospektus Ringkas Penambahan Modal;1;34;;FREN;SMFP
+22;20240125_FREN_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me;1;59;;FREN;SMMA
+23;20240128_HRTA_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran;2;159;;HRTA;FITT
+24;20240130_HRTA_Penyampaian Bukti Iklan Prospektus Ringkas dalam Rangka Pena;2;7;;HRTA;MPMF
+25;20240221_BTPN_Informasi Tambahan Prospektus Ringkas PMHMETD II Perseroan;2;75;;BTPN;ASDF
+26;20240221_BTPN_Penyampaian Prospektus;2;75;;BTPN;ADMF
+27;20240223_SDRA_Informasi Tambahan Prospektus Ringkas PMHMETD IV Perseroan;2;116;;SDRA;BBYB
+28;20240226_BBRI_Penyampaian Prospektus;1;41;;BBRI;TUFI
+29;20240226_SDRA_Penyampaian Bukti Iklan Penyampaian Bukti Pengumuman Informa;2;8;;SDRA;SMRA
+30;20240229_BTPN_Penyampaian Prospektus;2;36;;BTPN;BBIA
+31;20240229_PNMP_Penyampaian Prospektus;1;58;;PNMP;SANF
+32;20240305_PALM_Informasi Tambahan dan_atau Perbaikan atas Prospektus Ringka;2;51;;PALM;WOMF
+33;20240306_SDRA_Informasi Tambahan Prospektus Ringkas PMHMETD IV Perseroan;2;108;;SDRA;IMFI
+34;20240306_SDRA_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Penyampaian;2;93;;SDRA;PTPP
+35;20240308_SMFP_Penyampaian Prospektus;4;153;;SMFP;INCO
+36;20240314_FIFA_Penyampaian Prospektus;2;84;;FIFA;LTLS
+37;20240315_SDRA_Informasi Tambahan Prospektus Ringkas PMHMETD IV Perseroan;2;114;;SDRA;BJBR
+38;20240318_SDRA_Penyampaian Bukti Iklan Penyampaian Bukti Pengumuman Informa;2;88;;SDRA;TPMA
+39;20240318_SMMA_Penyampaian Bukti Iklan Bukti Iklan Prospektus Ringkas Penaw;2;63;;SMMA;TRIM
+40;20240322_FITT_Penyampaian Prospektus;1;39;;FITT;BVIC
+41;20240325_MPMF_Penyampaian Prospektus;1;31;;MPMF;MTEL
+42;20240328_ASDF_Penyampaian Prospektus;1;46;;ASDF;PRTL
+43;20240401_DSSA_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan;2;10;;DSSA;TAFS
+44;20240401_DSSA_Penyampaian Prospektus;2;10;;DSSA;ADHI
+45;20240401_SMMA_Penyampaian Bukti Iklan Informasi Tambahan Dan_Atau Perbaika;2;3;;SMMA;BRPT
+46;20240401_SMMA_Penyampaian Prospektus;2;841;;SMMA;BIIF
+47;20240401_WIKA_Penyampaian Prospektus;2;85;;WIKA;CNAF
+48;20240401_WIKA_Penyampaian Prospektus (KOREKSI);2;68;;WIKA;HIFI
+49;20240402_WIKA_Penyampaian Prospektus (KOREKSI);2;68;;WIKA;AGRS
+50;20240404_PYFA_Informasi Tambahan atas Prospektus Ringkas mengenai Penambah;1;53;;PYFA;APAI
+51;20240404_PYFA_Penyampaian Prospektus;1;354;;PYFA;BWPT
+52;20240405_ADMF_Penyampaian Prospektus;3;92;;ADMF;MSIE
+53;20240416_SDRA_Penyampaian Bukti Iklan Bukti Pengumuman Prospektus PMHMETD;2;89;;SDRA;INKP
+54;20240416_SDRA_Penyampaian Prospektus;2;251;;SDRA;LPPI
+55;20240416_SDRA_Prospektus PMHMETD IV;3;141;;SDRA;XPFT
+56;20240419_ASDF_Penyampaian Prospektus;1;57;;ASDF;XMGB
+57;20240419_BBYB_Perubahan dan_atau Tambahan Informasi atas Prospektus Ringka;2;128;;BBYB;GMFI
+58;20240419_FREN_Penyampaian Prospektus;1;177;;FREN;KAII
+59;20240421_BBYB_Penyampaian Bukti Iklan Prospektus Ringkas PMHMETD VII;1;28;;BBYB;PTRO
+60;20240422_FREN_Penyampaian Bukti Iklan Prospektus PMHMETD V;1;43;;FREN;SMII
+61;20240426_HRTA_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran;2;16;;HRTA;FMFN
+62;20240429_HRTA_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena;2;6;;HRTA;ADRO
+63;20240503_HRTA_Informasi Tambahan atas Prospektus Ringkas dalam rangka Pena;2;5;;HRTA;MDKA
+64;20240506_HRTA_Penyampaian Bukti Iklan Informasi Tambahan atas Prospektus R;2;49;;HRTA;PIDL
+65;20240506_TUFI_Penyampaian Prospektus;1;9;;TUFI;IATA
+66;20240509_DSSA_Penyampaian Prospektus;2;106;;DSSA;BBKP
+67;20240513_SMRA_Penyampaian Prospektus;2;41;;SMRA;PNBN
+68;20240528_SMRA_Penyampaian Prospektus;1;21;;SMRA;XPDV
+69;20240529_BBIA_Penyampaian Bukti Iklan Prospektus Ringkas PUB Obligasi Berk;4;1474;;BBIA;XPLQ
+70;20240529_DSSA_Penyampaian Prospektus;2;87;;DSSA;XPSG
+71;20240530_SANF_Penyampaian Prospektus;1;59;;SANF;PPGD
+72;20240530_WOMF_Penyampaian Bukti Iklan Pemberitahuan atas Prospektus Ringka;1;157;;WOMF;MEDP
+73;20240530_WOMF_Penyampaian Prospektus;2;96;;WOMF;JSMR
+74;20240603_IMFI_Penyampaian Prospektus;2;74;;IMFI;BSDE
+75;20240606_BCAP_Penyampaian Prospektus;1;13;;BCAP;XBES
+76;20240607_PTPP_Penyampaian Prospektus;1;32;;PTPP;OPPM
+77;20240610_INCO_Penyampaian Prospektus;2;462;;INCO;BMRI
+78;20240610_INCO_Penyampaian Prospektus (KOREKSI);2;462;;INCO;FASW
+79;20240610_LTLS_Penyampaian Bukti Iklan Prospektus Ringkas pada Surat Kabar;3;1698;;LTLS;WIFI
+80;20240611_BJBR_Penyampaian Bukti Iklan Prospektus Penawaran Umum Berkelanju;3;22;;BJBR;ISSP
+81;20240611_BTPN_Penyampaian Bukti Iklan Prospektus Ringkas pada Surat Kabar;2;126;;BTPN;BEKS
+82;20240611_TPMA_Penyampaian Prospektus;2;352;;TPMA;LPCK
+83;20240611_TRIM_Penyampaian Prospektus;2;107;;TRIM;IMJS
+84;20240612_BVIC_Penyampaian Bukti Iklan Prospektus Ringkas Dalam Rangka Pena;2;138;;BVIC;POST
+85;20240619_MTEL_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be;2;86;;MTEL;CARE
+86;20240619_MTEL_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber;2;86;;MTEL;DWGL
+87;20240619_PRTL_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber;2;102;;PRTL;BMTR
+88;20240619_PRTL_Surat Pengantar atas Bukti Pengumuman Prospektus Ringkas Pen;1;329;;PRTL;HATM
+89;20240619_TAFS_Penyampaian Prospektus;1;23;;TAFS;BRIS
+90;20240620_BBIA_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;4;1481;;BBIA;NISP
+91;20240621_ADHI_Penyampaian Prospektus;1;52;;ADHI;BBNI
+92;20240621_BRPT_Penyampaian Prospektus;1;96;;BRPT;SMAR
+93;20240622_ADHI_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be;1;28;;ADHI;SGRO
+94;20240624_WOMF_Penyampaian Bukti Iklan Laporan Bukti Iklan Penyampaian Info;3;191;;WOMF;BUMI
+95;20240624_WOMF_Penyampaian Prospektus;2;107;;WOMF;RMKE
+96;20240625_BCAP_Penyampaian Prospektus;1;93;;BCAP;SMDR
+97;20240625_PTPP_Penyampaian Prospektus;1;31;;PTPP;DART
+98;20240625_WOMF_Penyampaian Prospektus;2;759;;WOMF;FILM
+99;20240626_BIIF_Penyampaian Bukti Iklan Penyampaian Informasi Tambahan dan_a;3;791;;BIIF;MINA
+100;20240626_TRIM_Penyampaian Prospektus;1;16;;TRIM;TOWR
+101;20240628_BCAP_Penyampaian Prospektus;1;21;;BCAP;COCO
+102;20240628_CNAF_Penyampaian Prospektus;3;85;;CNAF;BUVA
+103;20240628_HIFI_Penyampaian Prospektus;2;1093;;HIFI;CSIS
+104;20240701_ADHI_Penyampaian Prospektus;1;36;;ADHI;BANK
+105;20240701_AGRS_Penyampaian Bukti Iklan Penyampaian Prospektus PUT VI PT Ban;1;4;;AGRS;INET
+106;20240701_PRTL_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber;2;85;;PRTL;CUAN
+107;20240701_PRTL_Surat Pengantar Bukti Pengumuman Prospektus Ringkas Penawara;1;79;;PRTL;ARMA
+108;20240702_BBYB_Penyampaian Prospektus;2;111;;BBYB;PACK
+109;20240702_BTPN_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;4;246;;BTPN;IIFF
+110;20240703_BBYB_Penyampaian Bukti Iklan Publikasi Prospektus PMHMETD VII PT;1;2;;BBYB;WISL
+111;20240705_APAI_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta;1;105;;APAI;BALI
+112;20240708_BRPT_Penyampaian Prospektus;1;86;;BRPT;BBTN
+113;20240712_BWPT_Penyampaian Bukti Iklan Informasi tambahan dan_atau perbaika;1;685;;BWPT;POLI
+114;20240712_BWPT_Penyampaian Bukti Iklan bukti iklan prospektus ringkas;3;115;;BWPT;MYOR
+115;20240730_MSIE_Permohonan Perubahan Informasi Jadwal Perdagangan Waran dan;1;24;;MSIE;PANI
+116;20240909_HRTA_Penyampaian Dokumen Informasi Tambahan serta Perubahan dan_a;2;55;;HRTA;TPIA
+117;20240910_INKP_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be;2;155;;INKP;XSPI
+118;20240910_INKP_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber;2;203;;INKP;ENRG
+119;20240910_LPPI_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan;2;93;;LPPI;IRSX
+120;20240910_LPPI_Prospektus Ringkas Obligasi Berkelanjutan III Lontar Papyrus;2;119;;LPPI;BABY
+121;20240911_HRTA_Penyampaian Bukti Iklan Perubahan dan_atau Tambahan Informas;2;64;;HRTA;
+122;20240913_ASDF_Penyampaian Prospektus;1;53;;ASDF;
+123;20240913_UNKNOWN_Penyampaian Perubahan Prospektus dan_atau Term Sheet Structu;5;602;;UNKN;
+124;20240919_BFIN_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Pemberitahua;4;59;;BFIN;
+125;20240919_BFIN_Penyampaian Prospektus;1;357;;BFIN;
+126;20240923_HRTA_Penyampaian Dokumen Perubahan dan_atau Tambahan Informasi at;2;67;;HRTA;
+127;20240923_XPFT_Penyampaian Prospektus_Perubahan Prospektus;1;121;;XPFT;
+128;20240924_ADMF_Penyampaian Prospektus;3;135;;ADMF;
+129;20240924_ADMF_Penyampaian Prospektus (KOREKSI);6;27;;ADMF;
+130;20240925_HRTA_Penyampaian Bukti Iklan Perubahan dan_atau Tambahan Informas;2;45;;HRTA;
+131;20240928_XMGB_Penyampaian Prospektus_Perubahan Prospektus;3;144;;XMGB;
+132;20241001_INKP_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta;2;195;;INKP;
+133;20241001_LPPI_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;134;;LPPI;
+134;20241021_UNKNOWN_Keterbukaan Informasi terkait Prospektus Waran Terstruktur 2;1;264;;UNKN;
+135;20241024_TUFI_Penyampaian Prospektus;3;154;;TUFI;
+136;20241025_TAFS_Penyampaian Prospektus;1;42;;TAFS;
+137;20241029_DSSA_Penyampaian Prospektus;2;112;;DSSA;
+138;20241030_GMFI_Penyampaian Prospektus;1;49;;GMFI;
+139;20241101_KAII_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena;1;53;;KAII;
+140;20241104_KAII_Penyampaian Prospektus Ringkas PUB II KAI Tahun 2024;1;393;;KAII;
+141;20241112_TBIG_Penyampaian Prospektus;2;71;;TBIG;
+142;20241113_PTRO_Penyampaian Prospektus;2;812;;PTRO;
+143;20241114_KAII_Penyampaian Bukti Publikasi Informasi Tambahan dan_atau Perb;1;41;;KAII;
+144;20241119_SMII_Penyampaian Prospektus;2;85;;SMII;
+145;20241120_HRTA_Penyampaian Dokumen Perubahan dan_atau Tambahan Informasi at;2;364;;HRTA;
+146;20241121_DSSA_Penyampaian Prospektus;2;114;;DSSA;
+147;20241121_FMFN_Penyampaian Bukti Iklan Prospektus Ringkas;3;786;;FMFN;
+148;20241122_HRTA_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Perubahan da;2;4;;HRTA;
+149;20241129_ADRO_Penyampaian Prospektus;1;94;;ADRO;
+150;20241129_MDKA_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Pengumuman P;2;357;;MDKA;
+151;20241130_BTPN_Penyampaian Prospektus;1;53;;BTPN;
+152;20241204_BJBR_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena;6;68;;BJBR;
+153;20241204_BJBR_Penyampaian Prospektus;6;2808;;BJBR;
+154;20241204_MEDC_Penyampaian Prospektus;2;192;;MEDC;
+155;20241209_PTRO_Penyampaian Prospektus;2;223;;PTRO;
+156;20241212_BCAP_Penyampaian Bukti Iklan Prospektus Ringkas - Penawaran Umum;2;119;;BCAP;
+157;20241212_FMFN_Informasi Tambahan dan_atau Perbaikan atas Prospektus Ringka;3;193;;FMFN;
+158;20241212_PIDL_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be;2;88;;PIDL;
+159;20241216_GMFI_Penyampaian Prospektus;2;65;;GMFI;
+160;20241218_MDKA_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;796;;MDKA;
+161;20241220_SMMA_Penyampaian Prospektus;2;68;;SMMA;
+162;20241223_TRIM_Penyampaian Prospektus;2;109;;TRIM;
+163;20241231_PIDL_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;124;;PIDL;
+164;20250101_SMMA_Penyampaian Prospektus;1;43;;SMMA;
+165;20250101_SMMA_Penyampaian Prospektus (KOREKSI);1;43;;SMMA;
+166;20250102_BCAP_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;1979;;BCAP;
+167;20250106_IATA_Prospektus Ringkas Penawaran Umum Terbatas III PT MNC Energy;1;58;;IATA;
+168;20250107_PALM_Penyampaian Prospektus;2;99;;PALM;
+169;20250111_BBKP_Penyampaian Prospektus;2;139;;BBKP;
+170;20250111_PNBN_Penyampaian Prospektus;2;74;;PNBN;
+171;20250112_CNAF_Penyampaian Prospektus;2;109;;CNAF;
+172;20250113_BTPN_Penyampaian Prospektus;4;167;;BTPN;
+173;20250113_SMMA_Penyampaian Prospektus;2;72;;SMMA;
+174;20250113_XPDV_Penyampaian Prospektus_Perubahan Prospektus;1;31;;XPDV;
+175;20250113_XPFT_Penyampaian Prospektus_Perubahan Prospektus;1;31;;XPFT;
+176;20250113_XPLQ_Penyampaian Prospektus_Perubahan Prospektus(KOREKSI);1;31;;XPLQ;
+177;20250113_XPSG_Penyampaian Prospektus_Perubahan Prospektus;1;31;;XPSG;
+178;20250115_PPGD_Penyampaian Prospektus;2;103;;PPGD;
+179;20250116_MEDP_Penyampaian Prospektus;1;138;;MEDP;
+180;20250120_JSMR_Penyampaian Prospektus;2;81;;JSMR;
+181;20250121_BSDE_Penyampaian Bukti Iklan Prospektus Ringkas PT Bumi Serpong D;2;763;;BSDE;
+182;20250121_HRTA_Penyampaian Bukti Iklan Bukti Iklan atas Perubahan dan_atau;2;5;;HRTA;
+183;20250121_PALM_Penyampaian Prospektus;2;47;;PALM;
+184;20250122_TBIG_Penyampaian Prospektus;2;65;;TBIG;
+185;20250124_ADMF_Penyampaian Prospektus;3;106;;ADMF;
+186;20250126_PNBN_Penyampaian Prospektus;2;71;;PNBN;
+187;20250127_BBKP_Penyampaian Prospektus;2;177;;BBKP;
+188;20250127_FIFA_Penyampaian Prospektus;2;63;;FIFA;
+189;20250127_PPGD_Penyampaian Prospektus;2;108;;PPGD;
+190;20250128_BBKP_Penyampaian Prospektus;2;48;;BBKP;
+191;20250203_MEDP_Penyampaian Prospektus;4;118;;MEDP;
+192;20250204_MEDP_Penyampaian Prospektus;3;43;;MEDP;
+193;20250206_XBES_Penyampaian Prospektus_Perubahan Prospektus;1;735;;XBES;
+194;20250212_TAFS_Penyampaian Prospektus;1;49;;TAFS;
+195;20250219_CNAF_Penyampaian Prospektus;2;95;;CNAF;
+196;20250224_ASDF_Penyampaian Prospektus;2;62;;ASDF;
+197;20250225_OPPM_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan;2;34;;OPPM;
+198;20250226_OPPM_Penyampaian Bukti Iklan Pengumuman Informasi Tambahan dan_at;2;742;;OPPM;
+199;20250303_PTRO_Penyampaian Prospektus;2;8;;PTRO;
+200;20250304_BMRI_Penyampaian Prospektus;1;49;;BMRI;
+201;20250305_TBIG_Penyampaian Prospektus;2;88;;TBIG;
+202;20250307_KAII_Penyampaian Prospektus;1;13;;KAII;
+203;20250310_FASW_Penyampaian Prospektus;1;89;;FASW;
+204;20250310_OTMA_Penyampaian Prospektus;1;4;;OTMA;
+205;20250311_SMII_Penyampaian Prospektus;1;57;;SMII;
+206;20250313_PTRO_Penyampaian Prospektus;2;157;;PTRO;
+207;20250317_FIFA_Penyampaian Prospektus;2;73;;FIFA;
+208;20250320_OPPM_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;9;;OPPM;
+209;20250320_OPPM_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber;2;81;;OPPM;
+210;20250321_KAII_Penyampaian Prospektus;1;66;;KAII;
+211;20250324_OPPM_Penyampaian Bukti Iklan Pengumuman Informasi Tambahan dan_at;2;119;;OPPM;
+212;20250325_OTMA_Penyampaian Prospektus;2;52;;OTMA;
+213;20250410_WIFI_Penyampaian Prospektus;2;74;;WIFI;
+214;20250414_UNKNOWN_Penyampaian Prospektus Waran Terstuktur;1;81;;UNKN;
+215;20250414_UNKNOWN_Penyampaian Prospektus Waran Terstuktur (KOREKSI);1;81;;UNKN;
+216;20250416_ISSP_Penyampaian Prospektus;2;749;;ISSP;
+217;20250418_BEKS_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me;2;274;;BEKS;
+218;20250421_BEKS_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R;1;19;;BEKS;
+219;20250421_LPCK_Penyampaian Prospektus;2;989;;LPCK;
+220;20250422_MEDC_Penyampaian Prospektus;2;26;;MEDC;
+221;20250423_BEKS_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me;1;239;;BEKS;
+222;20250428_MEDP_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran;2;94;;MEDP;
+223;20250430_IMJS_Prospektus Ringkas Penawaran Umum Terbatas IV Kepada Para Pe;1;74;;IMJS;
+224;20250430_MEDP_Penyampaian Prospektus;2;79;;MEDP;
+225;20250502_IMJS_Penyampaian Bukti Iklan Pengumuman Prospektus Ringkas Dalam;1;4;;IMJS;
+226;20250507_POST_Penyampaian Prospektus;2;77;;POST;
+227;20250514_CARE_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran;4;215;;CARE;
+228;20250514_CARE_Penyampaian Bukti Iklan Pemberitahuan atas Prospektus Ringka;2;3;;CARE;
+229;20250521_BCAP_Penyampaian Prospektus;1;126;;BCAP;
+230;20250521_DWGL_Penyampaian Prospektus;2;8;;DWGL;
+231;20250521_OTMA_Penyampaian Prospektus;2;56;;OTMA;
+232;20250521_TRIM_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena;2;17;;TRIM;
+233;20250522_OTMA_Penyampaian Prospektus;2;6;;OTMA;
+234;20250523_BFIN_Penyampaian Prospektus;1;4;;BFIN;
+235;20250523_UNKNOWN_Penyampaian Perubahan Prospektus Waran Terstuktur;1;189;;UNKN;
+236;20250526_WOMF_Penyampaian Prospektus;2;161;;WOMF;
+237;20250527_BMTR_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be;1;32;;BMTR;
+238;20250527_BMTR_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi dan;1;47;;BMTR;
+239;20250527_HATM_Penyampaian Prospektus;1;8;;HATM;
+240;20250528_BMTR_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be;2;1665;;BMTR;
+241;20250528_BRIS_Penyampaian Prospektus;2;169;;BRIS;
+242;20250603_NISP_Publikasi Prospektus Ringkas Obligasi Berkelanjutan IV OCBC;4;1397;;NISP;
+243;20250604_BCAP_Penyampaian Prospektus;1;138;;BCAP;
+244;20250604_IMFI_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R;3;7;;IMFI;
+245;20250610_BCAP_Penyampaian Prospektus;1;44;;BCAP;
+246;20250610_BFIN_Penyampaian Prospektus;1;31;;BFIN;
+247;20250610_BWPT_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R;7;323;;BWPT;
+248;20250611_BFIN_Penyampaian Prospektus (KOREKSI);1;49;;BFIN;
+249;20250612_BBNI_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena;1;10;;BBNI;
+250;20250612_BFIN_Penyampaian Prospektus (KOREKSI);1;44;;BFIN;
+251;20250612_FASW_Penyampaian Prospektus;1;316;;FASW;
+252;20250612_HATM_Penyampaian Prospektus;1;8;;HATM;
+253;20250612_OTMA_Penyampaian Prospektus;2;32;;OTMA;
+254;20250613_SMAR_Penyampaian Bukti Iklan Pengurmuman Prospektus Ringkas Penaw;1;158;;SMAR;
+255;20250616_SGRO_Penyampaian Bukti Iklan Prospektus Ringkas dalam rangka Pena;1;54;;SGRO;
+256;20250616_TUFI_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Penerbitan P;3;185;;TUFI;
+257;20250616_WOMF_Penyampaian Prospektus;2;156;;WOMF;
+258;20250618_BRIS_Penyampaian Prospektus;2;184;;BRIS;
+259;20250618_FIFA_Penyampaian Bukti Iklan Bukti Pengumuman Prospektus Ringkas;2;48;;FIFA;
+260;20250618_MEDC_Penyampaian Prospektus;2;108;;MEDC;
+261;20250619_BMTR_Informasi Tambahan dan_atau Perbaikan atas Prospektus Ringka;1;32;;BMTR;
+262;20250619_BMTR_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;317;;BMTR;
+263;20250619_BUMI_Penyampaian Bukti Iklan Prospektus Ringkas dalam Rangka Pena;2;438;;BUMI;
+264;20250619_BUMI_Publikasi Prospektus Ringkas dalam Rangka Penawaran Umum Ber;1;81;;BUMI;
+265;20250619_RMKE_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R;1;39;;RMKE;
+266;20250619_SMDR_Penyampaian Prospektus;1;62;;SMDR;
+267;20250620_TBIG_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be;4;849;;TBIG;
+268;20250620_TBIG_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber;2;834;;TBIG;
+269;20250623_MEDP_Penyampaian Prospektus;2;102;;MEDP;
+270;20250623_PYFA_Prospektus Ringkas atas Penawaran Umum Berkelanjutan Obligas;2;77;;PYFA;
+271;20250623_WIFI_Penyampaian Prospektus;2;85;;WIFI;
+272;20250624_TRIM_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta;1;9;;TRIM;
+273;20250624_WIFI_Penyampaian Prospektus;1;411;;WIFI;
+274;20250625_BBRI_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;1202;;BBRI;
+275;20250625_NISP_Publikasi Informasi Tambahan dan atau Perbaikan atas Prospek;4;527;;NISP;
+276;20250626_BBNI_Penyampaian Bukti Iklan Penyampaian Perubahan dan_atau Infor;1;158;;BBNI;
+277;20250626_DART_Penyampaian Prospektus;2;85;;DART;
+278;20250626_FILM_Penyampaian Prospektus;2;326;;FILM;
+279;20250626_SMAR_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;1;567;;SMAR;
+280;20250626_TUFI_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta;3;23;;TUFI;
+281;20250626_TUFI_Penyampaian Prospektus;4;1483;;TUFI;
+282;20250630_BUMI_Penyampaian Bukti Iklan Bukti Iklan Informasi Tambahan dan_a;2;346;;BUMI;
+283;20250630_BUMI_Publikasi Informasi Tambahan dan_atau Perbaikan atas Prospek;1;49;;BUMI;
+284;20250630_FILM_Penyampaian Prospektus (KOREKSI);2;327;;FILM;
+285;20250630_IMFI_Penyampaian Bukti Iklan Prospektus Ringkas PUB VI Tahap I Ta;3;1023;;IMFI;
+286;20250630_TBIG_Informasi Tambahan Dan_Atau Perbaikan Atas Prospektus Ringka;1;11;;TBIG;
+287;20250630_TBIG_Penyampaian Bukti Iklan Informasi Tambahan Dan_Atau Perbaika;3;125;;TBIG;
+288;20250701_CARE_Penyampaian Prospektus;3;95;;CARE;
+289;20250701_PYFA_Informasi Tambahan atas Prospektus Ringkas atas Penawaran Um;1;61;;PYFA;
+290;20250701_RMKE_Penyampaian Bukti Iklan Bukti Iklan Perbaikan Dan_Atau Tamba;1;3;;RMKE;
+291;20250702_ADMF_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta;2;86;;ADMF;
+292;20250702_MINA_Penyampaian Prospektus;2;375;;MINA;
+293;20250702_SMDR_Penyampaian Prospektus (KOREKSI);1;71;;SMDR;
+294;20250702_TOWR_Penyampaian Prospektus;4;358;;TOWR;
+295;20250703_CARE_Penyampaian Bukti Iklan Penyampaian informasi tambahan serta;2;4;;CARE;
+296;20250703_TRIM_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;1;64;;TRIM;
+297;20250721_COCO_Prospektus Ringkas Dalam Rangka Penawaran Umum Terbatas Kepa;1;26;;COCO;
+298;20250722_COCO_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Prospektus R;1;34;;COCO;
+299;20250910_BUVA_Prospektus Ringkas Penambahan Modal Dengan Memberikan Hak Me;1;79;;BUVA;
+300;20250915_IMJS_Prospektus Ringkas Penawaran Umum Terbatas IV Kepada Para Pe;1;85;;IMJS;
+301;20250916_BSDE_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;72;;BSDE;
+302;20250916_IMJS_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Pengumuman P;1;4;;IMJS;
+303;20250918_DSSA_Penyampaian Prospektus;2;126;;DSSA;
+304;20250919_CSIS_Publikasi Prospektus Ringkas Penambahan Modal Dengan Memberi;2;14;;CSIS;
+305;20250922_CSIS_Penyampaian Bukti Iklan Publikasi Prospektus Ringkas Penamba;1;38;;CSIS;
+306;20250923_BANK_Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran;2;79;;BANK;
+307;20250923_TRIM_Penyampaian Prospektus;2;66;;TRIM;
+308;20250926_INET_Penyampaian Prospektus;2;111;;INET;
+309;20250926_PNMP_Penyampaian Prospektus;2;85;;PNMP;
+310;20251001_COCO_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta;1;38;;COCO;
+311;20251001_COCO_Tambahan Informasi dan_atau Perbaikan Atas Informasi Tambaha;1;52;;COCO;
+312;20251001_CUAN_Penyampaian Prospektus;1;86;;CUAN;
+313;20251002_COCO_Tambahan Informasi dan_atau Perbaikan Atas Informasi Tambaha;1;76;;COCO;
+314;20251003_TRIM_Penyampaian Prospektus;2;107;;TRIM;
+315;20251006_ADMF_Penyampaian Prospektus;3;92;;ADMF;
+316;20251006_DSSA_Penyampaian Prospektus;2;112;;DSSA;
+317;20251006_SMMA_Penyampaian Prospektus;2;9;;SMMA;
+318;20251006_TRIM_Penyampaian Prospektus;1;1;;TRIM;
+319;20251009_ARMA_Penyampaian Bukti Iklan Pengumuman Prospektus Ringkas dalam;3;185;;ARMA;
+320;20251009_ASDF_Penyampaian Prospektus;2;6;;ASDF;
+321;20251013_PNMP_Penyampaian Prospektus;2;71;;PNMP;
+322;20251015_PACK_Penyampaian Prospektus;1;111;;PACK;
+323;20251020_ASDF_Penyampaian Prospektus;2;74;;ASDF;
+324;20251020_CUAN_Penyampaian Prospektus;2;145;;CUAN;
+325;20251020_IIFF_Penyampaian Prospektus;2;101;;IIFF;
+326;20251021_TAFS_Penyampaian Prospektus;1;62;;TAFS;
+327;20251023_WISL_Penyampaian Prospektus;1;21;;WISL;
+328;20251023_WISL_Penyampaian Prospektus (KOREKSI);2;66;;WISL;
+329;20251024_PPGD_Penyampaian Prospektus;2;89;;PPGD;
+330;20251027_ARMA_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perubaha;2;143;;ARMA;
+331;20251028_BUVA_Penyampaian Prospektus;1;243;;BUVA;
+332;20251031_CSIS_Penyampaian Bukti Iklan Publikasi Prospektus Ringkas Penamba;2;75;;CSIS;
+333;20251031_CSIS_Publikasi Prospektus Ringkas Penambahan Modal Dengan Memberi;2;146;;CSIS;
+334;20251103_GMFI_Penyampaian Prospektus;2;103;;GMFI;
+335;20251103_WISL_Penyampaian Prospektus (KOREKSI);2;75;;WISL;
+336;20251105_SMII_Penyampaian Prospektus;2;109;;SMII;
+337;20251106_PPGD_Penyampaian Prospektus;2;74;;PPGD;
+338;20251106_TBIG_Penyampaian Prospektus;2;148;;TBIG;
+339;20251107_TAFS_Penyampaian Prospektus;1;44;;TAFS;
+340;20251110_LPPI_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan;2;136;;LPPI;
+341;20251113_BALI_Penyampaian Prospektus;1;62;;BALI;
+342;20251118_TRIM_Penyampaian Prospektus;2;108;;TRIM;
+343;20251119_TBIG_Penyampaian Prospektus;2;179;;TBIG;
+344;20251121_BBTN_Penyampaian Prospektus;1;99;;BBTN;
+345;20251124_BBTN_Penyampaian Bukti Iklan Prospektus Ringkas Penawaran Umum Be;1;104;;BBTN;
+346;20251128_TBIG_Penyampaian Prospektus;1;2;;TBIG;
+347;20251201_BSDE_Penyampaian Prospektus;1;163;;BSDE;
+348;20251201_POLI_Penyampaian Prospektus;1;73;;POLI;
+349;20251202_IMJS_Penyampaian Prospektus;1;69;;IMJS;
+350;20251203_LPPI_Penyampaian Bukti Iklan Informasi Tambahan dan_atau Perbaika;2;115;;LPPI;
+351;20251203_LPPI_Prospektus Ringkas Penawaran Umum Berkelanjutan Obligasi Ber;2;96;;LPPI;
+352;20251203_MYOR_Penyampaian Prospektus;1;51;;MYOR;
+353;20251205_BBTN_Penyampaian Bukti Iklan Perubahan dan_atau Tambahan Informas;2;73;;BBTN;
+354;20251205_BWPT_Penyampaian Prospektus;4;117;;BWPT;
+355;20251209_BWPT_Penyampaian Prospektus;4;91;;BWPT;
+356;20251211_BSDE_Penyampaian Prospektus;1;125;;BSDE;
+357;20251211_PANI_Penyampaian Prospektus;1;54;;PANI;
+358;20251212_CSIS_Publikasi Prospektus dan Prospektus Ringkas dalam rangka Pen;3;35;;CSIS;
+359;20251212_GMFI_Penyampaian Prospektus;2;112;;GMFI;
+360;20251215_CSIS_Penyampaian Bukti Iklan Publikasi Prospektus dan Prospektus;2;54;;CSIS;
+361;20251215_CSIS_Publikasi Prospektus dan Prospektus Ringkas dalam rangka Pen;4;439;;CSIS;
+362;20251215_PNMP_Penyampaian Prospektus;2;87;;PNMP;
+363;20251216_CSIS_Publikasi Prospektus dan Prospektus Ringkas dalam rangka Pen;4;39;;CSIS;
+364;20251218_TPIA_Penyampaian Prospektus;1;37;;TPIA;
+365;20251219_MYOR_Penyampaian Prospektus;1;29;;MYOR;
+366;20251219_XSPI_Keterbukaan Informasi terkait Informasi atas Fakta Material;2;1024;;XSPI;
+367;20251223_INET_Penyampaian Prospektus;2;94;;INET;
+368;20251224_BWPT_Penyampaian Prospektus;4;128;;BWPT;
+369;20251224_ENRG_Penyampaian Bukti Iklan Penyampaian Bukti Iklan Informasi Ta;1;565;;ENRG;
+370;20251229_INET_Penyampaian Prospektus (KOREKSI);5;719;;INET;
+371;20251230_BWPT_Penyampaian Prospektus;4;44;;BWPT;
+372;20251231_BANK_Penyampaian Prospektus;2;73;;BANK;
+373;20260102_PACK_Penyampaian Prospektus;1;112;;PACK;
+374;20260114_IRSX_Penyampaian Prospektus;2;78;;IRSX;
+375;20260120_SMAR_Penyampaian Prospektus;2;91;;SMAR;
+376;20260122_INET_Penyampaian Prospektus;2;101;;INET;
+377;20260123_CNAF_Penyampaian Prospektus;2;78;;CNAF;
+378;20260123_HIFI_Penyampaian Prospektus;2;95;;HIFI;
+379;20260127_TBIG_Penyampaian Prospektus;2;11;;TBIG;
+380;20260129_JSMR_Penyampaian Prospektus;2;8;;JSMR;
+381;20260130_SANF_Penyampaian Prospektus;2;52;;SANF;
+382;20260202_SMAR_Penyampaian Prospektus;1;54;;SMAR;
+383;20260203_WOMF_Penyampaian Prospektus;2;142;;WOMF;
+384;20260204_HIFI_Penyampaian Prospektus;2;96;;HIFI;
+385;20260204_IMFI_Penyampaian Prospektus;2;168;;IMFI;
+386;20260204_TPIA_Penyampaian Prospektus;2;84;;TPIA;
+387;20260206_FIFA_Penyampaian Prospektus;2;77;;FIFA;
+388;20260209_ADMF_Penyampaian Prospektus;3;94;;ADMF;
+389;20260210_TBIG_Penyampaian Prospektus;1;27;;TBIG;
+390;20260211_CNAF_Penyampaian Prospektus;2;117;;CNAF;
+391;20260211_HIFI_Penyampaian Prospektus;2;45;;HIFI;
+392;20260211_PALM_Penyampaian Prospektus;2;141;;PALM;
+393;20260212_IMFI_Penyampaian Prospektus;2;144;;IMFI;
+394;20260213_BABY_Penyampaian Prospektus;1;149;;BABY;
+395;20260218_TRIM_Penyampaian Prospektus;2;135;;TRIM;
+396;20260223_ADMF_Penyampaian Prospektus;3;16;;ADMF;
+397;20260223_WISL_Penyampaian Prospektus;2;112;;WISL;
+398;20260223_WOMF_Penyampaian Prospektus;2;138;;WOMF;
+399;20260225_INKP_Penyampaian Bukti Iklan Prospektus Ringkas Obligasi Berkelan;2;393;;INKP;
+400;20260227_BBRI_Penyampaian Prospektus;2;12;;BBRI;
+401;20260302_BANK_Penyampaian Prospektus;1;86;;BANK;
+402;20260303_TRIM_Penyampaian Prospektus;2;131;;TRIM;
+403;20260304_WISL_Penyampaian Prospektus;2;77;;WISL;
+;TOTAL;768;76779;;;
