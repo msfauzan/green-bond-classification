@@ -94,3 +94,42 @@ def has_gss_title(issuer: str) -> tuple[bool | None, list[str]]:
 def _is_gss_titled(name: str) -> bool:
     low = name.lower()
     return any(m in low for m in TITLE_GSS_MARKERS)
+
+
+# ---------------------------------------------------------------------------
+# Klasifikasi tipe GSS dari nama instrumen (untuk statistik semesta)
+# ---------------------------------------------------------------------------
+# Urut: paling spesifik dulu (SL & Blue sebelum green/social/sustainability)
+
+_TYPE_MARKERS: tuple[tuple[str, tuple[str, ...]], ...] = (
+    ("sustainability_linked", ("terkait keberlanjutan",)),
+    ("blue",                  ("blue bond", "blue sukuk")),
+    ("green",                 ("berwawasan lingkungan", "obligasi hijau",
+                               "sukuk hijau", "green bond", "green sukuk")),
+    ("social",                ("berwawasan sosial", "obligasi sosial",
+                               "sukuk sosial", "social bond", "sosial orange")),
+    ("sustainability",        ("berwawasan keberlanjutan", "berlandaskan keberlanjutan",
+                               "obligasi keberlanjutan", "sukuk keberlanjutan",
+                               "sustainability bond", "sustainability sukuk")),
+)
+
+
+def gss_type_from_title(name: str) -> str | None:
+    """Kembalikan tipe GSS ('green'/'social'/'sustainability'/
+    'sustainability_linked'/'blue') dari nama instrumen, atau None bila bukan GSS."""
+    low = name.lower()
+    for gtype, markers in _TYPE_MARKERS:
+        if any(m in low for m in markers):
+            return gtype
+    return None
+
+
+def all_instruments() -> list[dict]:
+    """Seluruh baris listing IDX sebagai list dict (untuk statistik semesta)."""
+    rows: list[dict] = []
+    if not os.path.exists(IDX_CSV):
+        return rows
+    with open(IDX_CSV, encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            rows.append(row)
+    return rows

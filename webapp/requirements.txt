@@ -1,0 +1,6 @@
+# Web app (Streamlit) — Klasifikasi EBUS GSS
+streamlit>=1.30
+pandas>=2.0
+sentence-transformers>=2.2
+PyMuPDF>=1.24
+numpy>=1.24
