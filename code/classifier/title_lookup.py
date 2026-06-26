@@ -41,7 +41,6 @@ TITLE_GSS_MARKERS: tuple[str, ...] = (
     "green bond",
     "green sukuk",
     "social bond",
-    "blue bond",
     # Branded/niche
     "sosial orange",                  # PNM Orange Social Bond
 )
@@ -96,6 +95,20 @@ def _is_gss_titled(name: str) -> bool:
     return any(m in low for m in TITLE_GSS_MARKERS)
 
 
+def gss_title_in_text(text: str, head_chars: int = 1500) -> list[str]:
+    """Cari penanda nama GSS di bagian SAMPUL dokumen (head_chars pertama).
+
+    Fallback untuk title-lookup saat kode emiten tak dipilih / tak ada di listing:
+    nama instrumen ("Obligasi Berwawasan Lingkungan ...") tercetak di sampul
+    prospektus, jadi sinyal nama tetap dapat dipulihkan dari teks dokumen.
+
+    Dibatasi ke sampul (bukan seluruh teks) untuk menghindari jebakan keyword GSS
+    di tabel laporan keuangan / green bond lama di neraca (lihat CLAUDE.md).
+    TITLE_GSS_MARKERS sudah mengecualikan "berkelanjutan" (PUB)."""
+    head = text[:head_chars].lower()
+    return [m for m in TITLE_GSS_MARKERS if m in head]
+
+
 # ---------------------------------------------------------------------------
 # Klasifikasi tipe GSS dari nama instrumen (untuk statistik semesta)
 # ---------------------------------------------------------------------------
@@ -103,7 +116,6 @@ def _is_gss_titled(name: str) -> bool:
 
 _TYPE_MARKERS: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("sustainability_linked", ("terkait keberlanjutan",)),
-    ("blue",                  ("blue bond", "blue sukuk")),
     ("green",                 ("berwawasan lingkungan", "obligasi hijau",
                                "sukuk hijau", "green bond", "green sukuk")),
     ("social",                ("berwawasan sosial", "obligasi sosial",
@@ -115,8 +127,8 @@ _TYPE_MARKERS: tuple[tuple[str, tuple[str, ...]], ...] = (
 
 
 def gss_type_from_title(name: str) -> str | None:
-    """Kembalikan tipe GSS ('green'/'social'/'sustainability'/
-    'sustainability_linked'/'blue') dari nama instrumen, atau None bila bukan GSS."""
+    """Kembalikan tipe GSS ('green'/'social'/'sustainability'/'sustainability_linked')
+    dari nama instrumen, atau None bila bukan GSS."""
     low = name.lower()
     for gtype, markers in _TYPE_MARKERS:
         if any(m in low for m in markers):

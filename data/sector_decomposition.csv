@@ -1,0 +1,28 @@
+issuer,pdf,gss_class,bucket,sector_keys,needs_review,sector_unspecified,level0_evidence,confidence,verification_status
+ARKO,20230809_ARKO_Penyampaian Bukti Iklan.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian
+BBNI,20220622_BBNI_Penyampaian Bukti Iklan.pdf,sustainability,terdekomposisi,natural_resources|renewable_energy|energy_efficiency|water_management|climate_resilience|employment_msme,False,False,,0.89,Terverifikasi
+BBNI,20250626_BBNI_Penyampaian Bukti Iklan_31909229_lamp1.pdf,social,sektor_tak_terverifikasi,,False,True,,0.7,Tidak terverifikasi (UoP tipis)
+BBRI,20220721_BBRI_Penyampaian Prospektus_Informasi Tambahan.pdf,green,sektor_tak_terverifikasi,,True,True,,0.7,Tidak terverifikasi (UoP tipis)
+BBRI,20230925_BBRI_Penyampaian Prospektus_Informasi Tambahan_31422829_lamp1.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian
+BBRI,20240226_BBRI_Penyampaian Prospektus_Informasi Tambahan_31581036_lamp1.pdf,sustainability,terdekomposisi,renewable_energy|employment_msme,False,False,,0.83,Terverifikasi
+BBRI,20250620_BBRI_Penyampaian Prospektus_Informasi Tambahan.pdf,sustainability_linked,level0,,False,False,sustainability linked,0.9,Level-0 (struktural)
+BBRI,20260227_BBRI_Penyampaian Prospektus_Informasi Tambahan_32029855_lamp2.pdf,sustainability_linked,level0,,False,False,sustainability linked,0.9,Level-0 (struktural)
+BBTN,20251121_BBTN_Penyampaian Prospektus_Informasi Tambahan_31986864_lamp1.pdf,sustainability,terdekomposisi,employment_msme|basic_infrastructure,False,False,,0.83,Sebagian
+BBTN,20251124_BBTN_Penyampaian Bukti Iklan_31987186_lamp1.pdf,sustainability,terdekomposisi,employment_msme|basic_infrastructure,False,False,,0.83,Sebagian
+BBTN,20251205_BBTN_Penyampaian Bukti Iklan_32000649_lamp1.pdf,sustainability,terdekomposisi,employment_msme|basic_infrastructure,False,False,,0.83,Sebagian
+BJBR,20241204_BJBR_Penyampaian Bukti Iklan_31804995_lamp2.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian
+BMRI,20250304_BMRI_Penyampaian Prospektus_Informasi Tambahan_31866147_lamp1.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian
+BRIS,20250528_BRIS_Penyampaian Prospektus_Informasi Tambahan_31890157_lamp2.pdf,sustainability,terdekomposisi,renewable_energy|natural_resources|energy_efficiency|climate_resilience|water_management|employment_msme|food_security|socioeconomic|basic_infrastructure,False,False,,0.9,Terverifikasi
+BRIS,20250618_BRIS_Penyampaian Prospektus_Informasi Tambahan_31896250_lamp2.pdf,sustainability,terdekomposisi,renewable_energy|natural_resources|energy_efficiency|climate_resilience|water_management|employment_msme|food_security|socioeconomic|basic_infrastructure,False,False,,0.9,Terverifikasi
+OPPM,20230915_OPPM_Penyampaian Bukti Iklan_31410745_lamp2.pdf,sustainability,terdekomposisi,renewable_energy|employment_msme,False,False,,0.83,Terverifikasi
+OPPM,20230929_OPPM_Penyampaian Bukti Iklan_31423658_lamp2.pdf,sustainability,terdekomposisi,renewable_energy|employment_msme,False,False,,0.83,Terverifikasi
+PNMP,20250926_PNMP_Penyampaian Prospektus_Informasi Tambahan_31952663_lamp1.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian
+PNMP,20251013_PNMP_Penyampaian Prospektus_Informasi Tambahan_31967162_lamp2.pdf,social,sektor_tak_terverifikasi,,False,True,,0.7,Tidak terverifikasi (UoP tipis)
+PNMP,20251215_PNMP_Penyampaian Prospektus_Informasi Tambahan_32013124_lamp2.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian
+PNMP,20260311_PNMP_Penyampaian Prospektus_Informasi Tambahan_32053316_lamp1.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian
+PNMP,20260402_PNMP_Penyampaian Prospektus_Informasi Tambahan_32057366_lamp2.pdf,social,sektor_tak_terverifikasi,,False,True,,0.7,Tidak terverifikasi (UoP tipis)
+POLI,20251201_POLI_Penyampaian Prospektus_Informasi Tambahan_31998689_lamp1.pdf,sustainability_linked,level0,,False,False,terkait keberlanjutan,0.9,Level-0 (struktural)
+PPGD,20251024_PPGD_Penyampaian Prospektus_Informasi Tambahan_31979517_lamp2.pdf,sustainability,sektor_tak_terverifikasi,,False,True,,0.7,Tidak terverifikasi (UoP tipis)
+PPGD,20251106_PPGD_Penyampaian Prospektus_Informasi Tambahan_31983189_lamp2.pdf,sustainability,sektor_tak_terverifikasi,,False,True,,0.7,Tidak terverifikasi (UoP tipis)
+SMII,20260413_SMII_Penyampaian Prospektus_Informasi Tambahan_32070406_lamp2.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian
+SMII,20260430_SMII_Penyampaian Prospektus_Informasi Tambahan_32076553_lamp2.pdf,sustainability,terdekomposisi,employment_msme,False,False,,0.82,Sebagian

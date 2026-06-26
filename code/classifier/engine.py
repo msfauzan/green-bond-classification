@@ -21,10 +21,11 @@ from __future__ import annotations
 import os
 import re
 from dataclasses import dataclass, field
+from functools import lru_cache
 
 from .taxonomy import (
     GSSClass, Bucket, Category,
-    ALL_CATEGORIES, BLUE_KEYWORDS,
+    ALL_CATEGORIES,
     SUSTAINABILITY_LINKED_SIGNALS, WAKAF_SIGNALS, NEGATION_HINTS,
 )
 
@@ -103,18 +104,41 @@ def find_use_of_proceeds(text: str, window: int = 6000) -> tuple[str, str]:
 
 
 # ---------------------------------------------------------------------------
+# Ekstraksi seri instrumen dari teks prospektus
+# ---------------------------------------------------------------------------
+
+_SERIES_RE = re.compile(
+    r'\bSeri(?:es)?\s+([A-Z])(?:\s+(?:dan|and)\s+(?:Seri(?:es)?\s+)?([A-Z]))*\b'
+)
+
+
+def extract_series(text: str, head_chars: int = 3000) -> list[str]:
+    """Ekstrak designator seri (A, B, C, …) dari halaman sampul prospektus.
+
+    Menangani: 'Seri A', 'Seri B', 'Seri A dan B', 'Seri A dan Seri B'.
+    Dibatasi ke head_chars pertama untuk menghindari false-match di laporan keuangan."""
+    head = text[:head_chars]
+    found: list[str] = []
+    for m in _SERIES_RE.finditer(head):
+        # Group 1 selalu ada; group 2 hadir bila pola "dan X"
+        for g in m.groups():
+            if g and g not in found:
+                found.append(g)
+    return found
+
+
+# ---------------------------------------------------------------------------
 # Pencocokan kategori (Level 1) dengan guard negasi
 # ---------------------------------------------------------------------------
 
-def _is_negated(low: str, kw_pos: int, span: int = 60) -> bool:
+def _is_negated(low: str, kw_pos: int, span: int = 80) -> bool:
     """True bila ada NEGATION_HINTS dalam ~span char sebelum keyword."""
     pre = low[max(0, kw_pos - span): kw_pos]
     return any(h in pre for h in NEGATION_HINTS)
 
 
-def match_categories(segment: str) -> tuple[list[tuple[Category, list[str]]], list[str]]:
-    """Cocokkan segmen ke kategori eligible. Return (hits, blue_keywords).
-    hits = [(Category, [keyword bukti tak-ternegasi])]."""
+def match_categories(segment: str) -> list[tuple[Category, list[str]]]:
+    """Cocokkan segmen ke kategori eligible. Return [(Category, [keyword bukti tak-ternegasi])]."""
     low = segment.lower()
     hits: list[tuple[Category, list[str]]] = []
     for cat in ALL_CATEGORIES:
@@ -125,8 +149,7 @@ def match_categories(segment: str) -> tuple[list[tuple[Category, list[str]]], li
                 found.append(kw)
         if found:
             hits.append((cat, found))
-    blue = [kw for kw in BLUE_KEYWORDS if kw in low]
-    return hits, blue
+    return hits
 
 
 # ---------------------------------------------------------------------------
@@ -167,7 +190,6 @@ class Result:
     gss_class: GSSClass
     env_sectors: list[tuple[Category, list[str]]] = field(default_factory=list)
     soc_sectors: list[tuple[Category, list[str]]] = field(default_factory=list)
-    blue: list[str] = field(default_factory=list)
     level0_evidence: list[str] = field(default_factory=list)
     anchor: str = ""
     confidence: float = 0.0
@@ -191,7 +213,7 @@ def classify(text: str) -> Result | None:
 
     lvl0, l0ev = detect_level0(text)
     seg, anchor = find_use_of_proceeds(text)
-    hits, blue = match_categories(seg)
+    hits = match_categories(seg)
     env = [(c, kw) for c, kw in hits if c.bucket == Bucket.ENVIRONMENTAL]
     soc = [(c, kw) for c, kw in hits if c.bucket == Bucket.SOCIAL]
 
@@ -212,12 +234,11 @@ def classify(text: str) -> Result | None:
     if lvl0 is not None:
         conf = 0.90
     elif gss == GSSClass.NON_GSS:
-        # cukup yakin NON_GSS bila bagian UoP ketemu & bersih; ragu bila anchor gagal
         conf = 0.35 if anchor.startswith("(") else 0.65
     else:
         conf = min(0.95, 0.45 + 0.12 * n_sect + 0.02 * n_kw)
 
     return Result(
-        gss_class=gss, env_sectors=env, soc_sectors=soc, blue=blue,
+        gss_class=gss, env_sectors=env, soc_sectors=soc,
         level0_evidence=l0ev, anchor=anchor, confidence=round(conf, 2),
     )

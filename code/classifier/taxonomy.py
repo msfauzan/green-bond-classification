@@ -77,7 +77,6 @@ class Category:
     name_id: str
     bucket: Bucket
     keywords: tuple[str, ...]
-    blue: bool = False           # True jila kategori bertema kelautan
     weight: float = 1.0          # bobot relatif (bisa di-tune ke gold set)
 
 
@@ -127,7 +126,7 @@ GREEN_CATEGORIES: list[Category] = [
         "pertanian berkelanjutan", "sustainable agriculture",
         # sub-tema kelautan (Blue) ditandai terpisah di BLUE_KEYWORDS
         "perikanan berkelanjutan", "akuakultur berkelanjutan",
-    ), blue=False),
+    )),
     Category("climate_resilience", "Ketahanan Iklim & Pengurangan Risiko Bencana", Bucket.ENVIRONMENTAL, (
         "ketahanan iklim", "climate resilience", "adaptasi perubahan iklim",
         "climate adaptation", "pengurangan risiko bencana",
@@ -169,13 +168,7 @@ SOCIAL_CATEGORIES: list[Category] = [
 
 ALL_CATEGORIES: list[Category] = GREEN_CATEGORIES + SOCIAL_CATEGORIES
 
-# --- Sub-tema BLUE (kelautan) — tag tambahan, bukan kelas tersendiri ---
-BLUE_KEYWORDS: list[str] = [
-    "kelautan", "maritim", "perikanan", "akuakultur", "mangrove", "pesisir",
-    "terumbu karang", "konservasi laut", "ekosistem laut", "blue economy",
-    "ekonomi biru", "blue bond", "blue financing", "marine", "coastal",
-    "ocean", "fisheries",
-]
+
 
 # --- Petunjuk NEGASI / pengecualian (untuk menekan false positive) ---
 # Frasa yang menandakan kata kunci muncul dalam konteks MENYANGKAL/umum.

@@ -1,0 +1,83 @@
+﻿BondId,IssuerCode,BondName,gss_type,bei_code,detection_source,MatureDate,Rating,Outstanding
+ARKO01AGN,ARKO,Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri A,Green,GN,BEI code + name,2026-08-08T07:00:00,idA+,318060000000.0
+ARKO01BGN,ARKO,Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri B,Green,GN,BEI code + name,2028-08-08T07:00:00,idA+,21835000000.0
+BBNI01BGN,BBNI,Obligasi Green Bond I PT Bank Negara Indonesia (Persero) Tbk. Tahun 2022 Seri B,Green,GN,BEI code + name,2027-06-21T07:00:00,idAAA,1000000000000.0
+BBRI01CGNCN1,BBRI,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap I Tahun 2022 Seri C,Green,GNCN,BEI code + name,2027-07-20T07:00:00,idAAA,500000000000.0
+BBRI01CGNCN2,BBRI,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap II Tahun 2023 Seri C,Green,GNCN,BEI code + name,2026-10-17T07:00:00,idAAA,500000000000.0
+BBRI01CGNCN3,BBRI,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank BRI Tahap III Tahun 2024 Seri C,Green,GNCN,BEI code + name,2027-03-20T07:00:00,idAAA,382905000000.0
+BMRI01AGNCN1,BMRI,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap I Tahun 2023 Seri A,Green,GNCN,BEI code + name,2026-07-04T07:00:00,idAAA,1950000000000.0
+BMRI01BGNCN1,BMRI,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap I Tahun 2023 Seri B,Green,GNCN,BEI code + name,2028-07-04T07:00:00,idAAA,3050000000000.0
+BMRI01BGNCN2,BMRI,Obligasi Berwawasan Lingkungan Berkelanjutan I Bank Mandiri Tahap II Tahun 2025 Seri B,Green,GNCN,BEI code + name,2028-03-25T07:00:00,idAAA,4500000000000.0
+IIFFPBGN,IIFF,Surat Berharga Perpetual Berwawasan Lingkungan Indonesia Infrastructure Finance Tahun 2023,Green,GN,BEI code + name,2029-01-09T07:00:00,idAAA,335190000000.0
+OPPM01BGNCN1,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri B,Green,GNCN,BEI code + name,2026-10-12T07:00:00,idA+,1042090000000.0
+OPPM01BGNCN2,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri B,Green,GNCN,BEI code + name,2026-12-12T07:00:00,idA+,55115000000.0
+OPPM01BGNCN3,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap III Tahun 2024 Seri B,Green,GNCN,BEI code + name,2027-03-28T07:00:00,idA+,41930000000.0
+OPPM01BGNCN4,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap IV Tahun 2024 Seri B,Green,GNCN,BEI code + name,2027-05-21T07:00:00,idA+,157470000000.0
+OPPM01BGNCN5,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap V Tahun 2024 Seri B,Green,GNCN,BEI code + name,2027-07-19T07:00:00,idA+,92320000000.0
+OPPM01CGNCN1,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap I Tahun 2023 Seri C,Green,GNCN,BEI code + name,2028-10-12T07:00:00,idA+,257910000000.0
+OPPM01CGNCN2,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap II Tahun 2023 Seri C,Green,GNCN,BEI code + name,2028-12-12T07:00:00,idA+,3310000000.0
+OPPM01CGNCN3,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap III Tahun 2024 Seri C,Green,GNCN,BEI code + name,2029-03-28T07:00:00,idA+,13305000000.0
+OPPM01CGNCN4,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap IV Tahun 2024 Seri C,Green,GNCN,BEI code + name,2029-05-21T07:00:00,idA+,28805000000.0
+OPPM01CGNCN5,OPPM,Obligasi Berwawasan Lingkungan Berkelanjutan I Oki Pulp & Paper Mills Tahap V Tahun 2024 Seri C,Green,GNCN,BEI code + name,2029-07-19T07:00:00,idA+,20860000000.0
+BBRI01ASOCN1,BBRI,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri A,Social,SOCN,BEI code + name,2027-06-26T07:00:00,idAAA,1563090000000.0
+BBRI01ASOCN2,BBRI,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri A,Social,SOCN,BEI code + name,2027-03-27T07:00:00,idAAA,1236245000000.0
+BBRI01BSOCN1,BBRI,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri B,Social,SOCN,BEI code + name,2028-06-26T07:00:00,idAAA,2110745000000.0
+BBRI01BSOCN2,BBRI,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri B,Social,SOCN,BEI code + name,2029-03-17T07:00:00,idAAA,2666255000000.0
+BBRI01CSOCN1,BBRI,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap I Tahun 2025 Seri C,Social,SOCN,BEI code + name,2030-06-26T07:00:00,idAAA,1326165000000.0
+BBRI01CSOCN2,BBRI,Obligasi Berwawasan Sosial Berkelanjutan I Bank BRI Tahap II Tahun 2026 Seri C,Social,SOCN,BEI code + name,2031-03-17T07:00:00,idAAA,1097500000000.0
+BBTN01SOCN1,BBTN,Obligasi Berwawasan Sosial Berkelanjutan I Bank BTN Tahap I Tahun 2025,Social,SOCN,BEI code + name,2028-12-12T07:00:00,idAAA,300000000000.0
+PNMP01ASECN1,PNMP,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri A,Social,SECN,BEI code + name,2026-07-18T07:00:00,idAAA,220000000000.0
+PNMP01ASECN2,PNMP,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2026 Seri A,Social,SECN,BEI code + name,2029-01-14T07:00:00,idAAA,250000000000.0
+PNMP01ASECN3,PNMP,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri A,Social,SECN,BEI code + name,2027-05-01T07:00:00,idAAA,709505000000.0
+PNMP01BSECN1,PNMP,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri B,Social,SECN,BEI code + name,2028-07-08T07:00:00,idAAA,243000000000.0
+PNMP01BSECN2,PNMP,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2026 Seri B,Social,SECN,BEI code + name,2031-01-14T07:00:00,idAAA,250000000000.0
+PNMP01BSECN3,PNMP,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri B,Social,SECN,BEI code + name,2028-04-21T07:00:00,idAAA,25005000000.0
+PNMP01CSECN1,PNMP,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri C,Social,SECN,BEI code + name,2030-07-08T07:00:00,idAAA,537000000000.0
+PNMP01CSECN3,PNMP,Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri C,Social,SECN,BEI code + name,2029-04-21T07:00:00,idAAA,279065000000.0
+SMPNMP01ASECN1,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri A,Social,SECN,BEI code + name,2026-07-18T07:00:00,idAAA(sy),989995000000.0
+SMPNMP01ASECN2,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri A,Social,SECN,BEI code + name,2026-10-27T07:00:00,idAAA(sy),800000000000.0
+SMPNMP01ASECN3,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri A,Social,SECN,BEI code + name,2027-01-24T07:00:00,idAAA(sy),300000000000.0
+SMPNMP01ASECN4,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri A,Social,SECN,BEI code + name,2027-05-01T07:00:00,idAAA(sy),540605000000.0
+SMPNMP01BSECN1,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri B,Social,SECN,BEI code + name,2028-07-08T07:00:00,idAAA(sy),150000000000.0
+SMPNMP01BSECN2,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri B,Social,SECN,BEI code + name,2028-10-17T07:00:00,idAAA(sy),110000000000.0
+SMPNMP01BSECN3,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri B,Social,SECN,BEI code + name,2029-01-14T07:00:00,idAAA(sy),600000000000.0
+SMPNMP01BSECN4,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri B,Social,SECN,BEI code + name,2028-04-21T07:00:00,idAAA(sy),25700000000.0
+SMPNMP01CSECN1,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap I Tahun 2025 Seri C,Social,SECN,BEI code + name,2030-07-08T07:00:00,idAAA(sy),610005000000.0
+SMPNMP01CSECN2,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri C,Social,SECN,BEI code + name,2030-10-17T07:00:00,idAAA(sy),110000000000.0
+SMPNMP01CSECN3,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 Seri C,Social,SECN,BEI code + name,2031-01-14T07:00:00,idAAA(sy),600000000000.0
+SMPNMP01CSECN4,PNMP,Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026 Seri C,Social,SECN,BEI code + name,2029-04-21T07:00:00,idAAA(sy),155120000000.0
+PPGD01BSOCN1,PPGD,Obligasi Berwawasan Sosial Berkelanjutan I Pegadaian Tahap I Tahun 2024 Seri B,Social,SOCN,BEI code + name,2027-07-05T07:00:00,idAAA,30055000000.0
+PPGD01BSOCN2,PPGD,Obligasi Berwawasan Sosial Berkelanjutan I Pegadaian Tahap II Tahun 2025 Seri B,Social,SOCN,BEI code + name,2028-05-28T07:00:00,idAAA,985590000000.0
+SMPPGD01ASOCN3,PPGD,Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap III Tahun 2025 Seri A,Social,SOCN,BEI code + name,2026-11-23T07:00:00,idAAA(sy),1300000000000.0
+SMPPGD01BSOCN1,PPGD,Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap I Tahun 2024 Seri B,Social,SOCN,BEI code + name,2027-07-05T07:00:00,idAAA(sy),100000000.0
+SMPPGD01BSOCN3,PPGD,Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap III Tahun 2025 Seri B,Social,SOCN,BEI code + name,2028-11-13T07:00:00,idAAA(sy),253205000000.0
+SKSMFP01SOCN1,SMFP,Sukuk Musyarakah Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap I Tahun 2023,Social,SOCN,BEI code + name,2028-12-22T07:00:00,idAAA(sy),200000000000.0
+SKSMFP02SOCN1,SMFP,Sukuk Musyarakah Berwawasan Sosial Berkelanjutan II Sarana Multigriya Finansial Tahap I Tahun 2025,Social,SOCN,BEI code + name,2030-07-08T07:00:00,idAAA(sy),250000000000.0
+SMFP01SOCN1,SMFP,Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap I Tahun 2023,Social,SOCN,BEI code + name,2028-12-22T07:00:00,idAAA,500000000000.0
+SMFP01SOCN2,SMFP,Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap II Tahun 2024,Social,SOCN,BEI code + name,2029-03-27T07:00:00,idAAA,1500000000000.0
+SMFP01SOCN3,SMFP,Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap III Tahun 2024,Social,SOCN,BEI code + name,2029-06-26T07:00:00,idAAA,2000000000000.0
+SMFP01SOCN4,SMFP,Obligasi Berwawasan Sosial Berkelanjutan I Sarana Multigriya Finansial Tahap IV Tahun 2024,Social,SOCN,BEI code + name,2029-11-26T07:00:00,idAAA,1200000000000.0
+SMFP02SOCN1,SMFP,Obligasi Berwawasan Sosial Berkelanjutan II Sarana Multigriya Finansial Tahap I Tahun 2025,Social,SOCN,BEI code + name,2030-07-08T07:00:00,idAAA,1650000000000.0
+BBNI01ASLCN1,BBNI,Obligasi Berlandaskan Keberlanjutan Berkelanjutan I Bank BNI Tahap I Tahun 2025 Seri A,Sustainability Linked,SLCN,BEI code + name,2028-07-04T07:00:00,idAAA,3500000000000.0
+BBNI01BSLCN1,BBNI,Obligasi Berlandaskan Keberlanjutan Berkelanjutan I Bank BNI Tahap I Tahun 2025 Seri B,Sustainability Linked,SLCN,BEI code + name,2030-07-04T07:00:00,idAAA,1500000000000.0
+BJBR01ASLCN1,BJBR,Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap I Tahun 2024 Seri A,Sustainability Linked,SLCN,BEI code + name,2027-12-10T07:00:00,idAA,200000000000.0
+BJBR01ASLCN2,BJBR,Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap II Tahun 2026 Seri A,Sustainability Linked,SLCN,BEI code + name,2029-04-15T07:00:00,idAA,691340000000.0
+BJBR01BSLCN1,BJBR,Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap I Tahun 2024 Seri B,Sustainability Linked,SLCN,BEI code + name,2029-12-10T07:00:00,idAA,800000000000.0
+BJBR01BSLCN2,BJBR,Obligasi Keberlanjutan Berkelanjutan I Bank BJB Tahap II Tahun 2026 Seri B,Sustainability Linked,SLCN,BEI code + name,2031-04-15T07:00:00,idAA,241075000000.0
+BMRI01ASLCN1,BMRI,Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri A,Sustainability Linked,SLCN,BEI code + name,2026-12-29T07:00:00,idAAA,1000000000000.0
+BMRI01BSLCN1,BMRI,Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri B,Sustainability Linked,SLCN,BEI code + name,2028-12-19T07:00:00,idAAA,2000000000000.0
+BMRI01CSLCN1,BMRI,Obligasi Keberlanjutan Berkelanjutan I Bank Mandiri Tahap I Tahun 2025 Seri C,Sustainability Linked,SLCN,BEI code + name,2030-12-19T07:00:00,idAAA,2000000000000.0
+SMBRIS01ASLCN2,BRIS,Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri A,Sustainability Linked,SLCN,BEI code + name,2026-07-06T07:00:00,idAAA(sy),2445000000000.0
+SMBRIS01BSLCN2,BRIS,Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri B,Sustainability Linked,SLCN,BEI code + name,2027-06-26T07:00:00,idAAA(sy),175000000000.0
+SMBRIS01CCN1,BRIS,Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap I Tahun 2024 Seri C,Sustainability Linked,,BEI code + name,2027-06-14T07:00:00,idAAA(sy),1080000000000.0
+SMBRIS01CSLCN2,BRIS,Sukuk Mudharabah Berlandaskan Keberlanjutan Berkelanjutan I Bank BSI Tahap II Tahun 2025 Seri C,Sustainability Linked,SLCN,BEI code + name,2028-06-26T07:00:00,idAAA(sy),2380000000000.0
+ISSP01ASL,ISSP,Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri A,Sustainability Linked,SL,BEI code + name,2027-07-09T07:00:00,idAAA(cg),33780000000.0
+ISSP01BSL,ISSP,Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri B,Sustainability Linked,SL,BEI code + name,2029-07-09T07:00:00,idAAA(cg),766220000000.0
+ISSP01CSL,ISSP,Obligasi Terkait Keberlanjutan I SPINDO Tahun 2024 Seri C,Sustainability Linked,SL,BEI code + name,2031-07-09T07:00:00,idAAA(cg),200000000000.0
+POLI01ASL,POLI,Obligasi Terkait Keberlanjutan I Pollux Hotels Group Tahun 2025 Seri A,Sustainability Linked,SL,BEI code + name,2028-12-10T07:00:00,idAAA(cg),55000000000.0
+POLI01BSL,POLI,Obligasi Terkait Keberlanjutan I Pollux Hotels Group Tahun 2025 Seri B,Sustainability Linked,SL,BEI code + name,2030-12-10T07:00:00,idAAA(cg),445000000000.0
+SMII01ASLCN1,SMII,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri A,Sustainability Linked,SLCN,BEI code + name,2026-07-18T07:00:00,idAAA,465000000000.0
+SMII01ASLCN2,SMII,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap II Tahun 2026 Seri A,Sustainability Linked,SLCN,BEI code + name,2027-05-16T07:00:00,idAAA,72128000000.0
+SMII01BSLCN1,SMII,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri B,Sustainability Linked,SLCN,BEI code + name,2028-07-08T07:00:00,idAAA,110000000000.0
+SMII01BSLCN2,SMII,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap II Tahun 2026 Seri B,Sustainability Linked,SLCN,BEI code + name,2029-05-06T07:00:00,idAAA,77872000000.0
+SMII01CSLCN1,SMII,Obligasi Keberlanjutan Berkelanjutan I Sarana Multi Infrastruktur Tahap I Tahun 2025 Seri C,Sustainability Linked,SLCN,BEI code + name,2030-07-08T07:00:00,idAAA,25000000000.0

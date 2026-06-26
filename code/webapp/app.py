@@ -46,7 +46,7 @@ CLASS_VIEW = {
 
 TYPE_LABEL = {
     "green": "Green", "social": "Social", "sustainability": "Sustainability",
-    "sustainability_linked": "Sustainability-Linked", "blue": "Blue",
+    "sustainability_linked": "Sustainability-Linked",
 }
 
 st.set_page_config(page_title="Klasifikasi EBUS GSS — BI", page_icon="🌱", layout="wide")
@@ -64,8 +64,12 @@ def _warm_model():
     return True
 
 
+GOLD_DB = os.path.join(DATA, "gold_bonds_db.csv")
+
+
 @st.cache_data
 def load_universe() -> pd.DataFrame:
+    import datetime
     rows = all_instruments()
     df = pd.DataFrame(rows)
     if df.empty:
@@ -73,7 +77,28 @@ def load_universe() -> pd.DataFrame:
     df["gss_type"] = df["BondName"].map(gss_type_from_title)
     df["is_gss"] = df["gss_type"].notna()
     df["Outstanding"] = pd.to_numeric(df.get("Outstanding"), errors="coerce").fillna(0)
+    df["MatureDate"] = pd.to_datetime(df.get("MatureDate"), errors="coerce", utc=True).dt.tz_localize(None)
+    today = pd.Timestamp(datetime.date.today())
+    df["Aktif"] = df["MatureDate"].apply(lambda d: pd.isna(d) or d >= today)
+    df["Source"] = "IDX Listing"
     return df
+
+
+@st.cache_data
+def load_gold_db() -> pd.DataFrame:
+    """Muat gold_bonds_db.csv — instrumen dari gold set yang TIDAK ada di IDX listing."""
+    if not os.path.exists(GOLD_DB):
+        return pd.DataFrame()
+    gdf = pd.read_csv(GOLD_DB, encoding="utf-8-sig")
+    # Hanya ambil yang sumber-nya "Gold Dataset" (belum ada di IDX)
+    gdf = gdf[gdf["Source"] == "Gold Dataset"].copy()
+    gdf["Outstanding"] = pd.to_numeric(gdf.get("Outstanding"), errors="coerce").fillna(0)
+    gdf["MatureDate"] = pd.to_datetime(gdf.get("MatureDate"), errors="coerce")
+    gdf["Aktif"] = False  # semua Gold-only → tidak ada di IDX saat scraping
+    gdf["gss_type"] = gdf["GSSType"].where(gdf["GSSType"].notna() & (gdf["GSSType"] != ""),
+                                            gdf["BondName"].map(gss_type_from_title))
+    gdf["is_gss"] = True  # semua dari gold set = GSS
+    return gdf
 
 
 @st.cache_data
@@ -119,11 +144,13 @@ def render_result(res, source_label: str):
     )
     st.write("")
 
-    c1, c2, c3 = st.columns(3)
+    c1, c2, c3, c4 = st.columns(4)
     title_map = {True: "✅ Ya (nama obligasi GSS)", False: "❌ Tidak", None: "❔ Tidak diketahui"}
     c1.metric("Sinyal nama (IDX)", title_map.get(res.title_gss, "—"))
     c2.metric("Sinyal framing badan dok", "✅ Ada" if res.framing_body else "—")
     c3.metric("Ambang dipakai", f"{res.threshold_used:.2f}")
+    series_label = ", ".join(f"Seri {s}" for s in res.series) if res.series else "—"
+    c4.metric("Seri di sampul", series_label)
 
     if res.level0_evidence:
         st.info(f"**Struktur instrumen (Level 0):** {', '.join(res.level0_evidence)}")
@@ -142,9 +169,6 @@ def render_result(res, source_label: str):
         st.bar_chart(sdf.set_index("Sektor")["Skor similarity"])
     elif res.gss_class != GSSClass.NON_GSS and not res.level0_evidence:
         st.write("")
-
-    if res.blue:
-        st.caption(f"🌊 Sub-tema **Blue** (kelautan): {', '.join(res.blue[:6])}")
 
     with st.expander("Bukti & penjelasan (explainable by design)"):
         if res.framing_title:
@@ -219,55 +243,94 @@ with tab_clf:
 
 with tab_market:
     df = load_universe()
+    gdf = load_gold_db()
+
     if df.empty:
         st.error("Data listing IDX tidak ditemukan di data/.")
     else:
         total = len(df)
-        gss = df[df["is_gss"]]
-        n_gss = len(gss)
-        val_gss = gss["Outstanding"].sum()
-        val_all = df["Outstanding"].sum()
+        gss_idx = df[df["is_gss"]]
+        gss_aktif = gss_idx[gss_idx["Aktif"]]
+        val_gss = gss_aktif["Outstanding"].sum()
+        val_all = df[df["Aktif"]]["Outstanding"].sum()
+        n_gold_only = len(gdf) if not gdf.empty else 0
 
-        st.subheader("Semesta EBUS korporasi (listing IDX)")
-        m1, m2, m3, m4 = st.columns(4)
-        m1.metric("Total instrumen", f"{total:,}")
-        m2.metric("Terdeteksi GSS (by name)", f"{n_gss:,}", f"{n_gss/total:.1%}")
-        m3.metric("Nilai GSS (outstanding)", f"Rp {val_gss/1e12:,.1f} T")
-        m4.metric("Porsi nilai GSS", f"{(val_gss/val_all if val_all else 0):.1%}")
+        st.subheader("Semesta EBUS korporasi (listing IDX + Gold Dataset)")
+        m1, m2, m3, m4, m5 = st.columns(5)
+        m1.metric("Total instrumen aktif (IDX)", f"{len(df[df['Aktif']]):,}")
+        m2.metric("GSS aktif (IDX)", f"{len(gss_aktif):,}")
+        m3.metric("GSS jatuh tempo (Gold)", f"{n_gold_only:,}",
+                  help="Instrumen di gold dataset kita yang sudah tidak ada di IDX listing")
+        m4.metric("Nilai GSS outstanding", f"Rp {val_gss/1e12:,.1f} T")
+        m5.metric("Porsi nilai GSS", f"{(val_gss/val_all if val_all else 0):.1%}")
 
         st.caption(
             "Deteksi berbasis **nama instrumen** (label POJK 18/2023). "
             "Memisahkan jebakan *Penawaran Umum Berkelanjutan* (PUB) dari "
-            "*Keberlanjutan/Berwawasan* yang benar-benar GSS."
+            "*Keberlanjutan/Berwawasan* yang benar-benar GSS. "
+            "Instrumen **Gold Dataset** = dari gold set prospektus kita, sudah tidak di IDX listing."
         )
 
         cc1, cc2 = st.columns(2)
         with cc1:
-            st.markdown("**Komposisi GSS per tipe (jumlah seri)**")
-            by_type = (gss["gss_type"].map(TYPE_LABEL).value_counts().rename_axis("Tipe")
+            st.markdown("**Komposisi GSS aktif per tipe (jumlah seri)**")
+            by_type = (gss_aktif["gss_type"].map(TYPE_LABEL).value_counts().rename_axis("Tipe")
                        .reset_index(name="Jumlah"))
             st.bar_chart(by_type.set_index("Tipe")["Jumlah"])
         with cc2:
             st.markdown("**Nilai outstanding per tipe (Rp triliun)**")
-            by_val = (gss.assign(T=gss["Outstanding"] / 1e12)
-                      .groupby(gss["gss_type"].map(TYPE_LABEL))["T"].sum()
+            by_val = (gss_aktif.assign(T=gss_aktif["Outstanding"] / 1e12)
+                      .groupby(gss_aktif["gss_type"].map(TYPE_LABEL))["T"].sum()
                       .rename_axis("Tipe").reset_index(name="Rp triliun"))
             st.bar_chart(by_val.set_index("Tipe")["Rp triliun"])
 
-        st.subheader("Daftar instrumen GSS terdeteksi")
-        q = st.text_input("Cari (nama / kode emiten)", "")
-        show = gss.copy()
-        show["Tipe"] = show["gss_type"].map(TYPE_LABEL)
-        show["Outstanding (Rp M)"] = (show["Outstanding"] / 1e9).round(1)
-        cols = ["IssuerCode", "BondName", "Tipe", "Rating", "Outstanding (Rp M)"]
-        cols = [c for c in cols if c in show.columns]
+        st.subheader("Daftar instrumen GSS")
+        qcol, fcol = st.columns([3, 1])
+        q = qcol.text_input("Cari (nama / kode emiten)", "")
+        status_filter = fcol.radio("Status", ["Semua", "Aktif saja", "Sudah jatuh tempo"],
+                                   horizontal=True)
+
+        # Gabungkan IDX GSS + Gold-only
+        show_idx = gss_idx.copy()
+        show_idx["Tipe"] = show_idx["gss_type"].map(TYPE_LABEL)
+        show_idx["Outstanding (Rp M)"] = (show_idx["Outstanding"] / 1e9).round(1)
+        show_idx["Jatuh Tempo"] = show_idx["MatureDate"].dt.strftime("%d %b %Y").fillna("—")
+        show_idx["Status"] = show_idx["Aktif"].map({True: "🟢 Aktif", False: "🔴 Jatuh tempo"})
+
+        if not gdf.empty:
+            show_gold = gdf.copy()
+            show_gold["Tipe"] = show_gold["gss_type"].map(TYPE_LABEL).fillna("—")
+            show_gold["Outstanding (Rp M)"] = 0.0
+            show_gold["Jatuh Tempo"] = "—"
+            show_gold["Status"] = "🔴 Jatuh tempo (Gold)"
+            common_cols = ["IssuerCode", "BondName", "Tipe", "Rating",
+                           "Outstanding (Rp M)", "Jatuh Tempo", "Status", "Aktif", "Source"]
+            show = pd.concat([show_idx[common_cols], show_gold[common_cols]], ignore_index=True)
+        else:
+            show = show_idx
+
+        if status_filter == "Aktif saja":
+            show = show[show["Aktif"]]
+        elif status_filter == "Sudah jatuh tempo":
+            show = show[~show["Aktif"]]
         if q:
             mask = (show["BondName"].str.contains(q, case=False, na=False) |
                     show["IssuerCode"].str.contains(q, case=False, na=False))
             show = show[mask]
-        st.dataframe(show[cols].sort_values("Outstanding (Rp M)", ascending=False),
-                     hide_index=True, use_container_width=True, height=400)
-        st.caption(f"{len(show):,} instrumen ditampilkan.")
+
+        cols = ["IssuerCode", "BondName", "Tipe", "Rating", "Outstanding (Rp M)",
+                "Jatuh Tempo", "Status", "Source"]
+        cols = [c for c in cols if c in show.columns]
+        # sortir dulu (pakai kolom Aktif), baru pilih kolom tampilan
+        show = show.sort_values(["Aktif", "Outstanding (Rp M)"], ascending=[False, False])
+        st.dataframe(
+            show[cols],
+            hide_index=True, use_container_width=True, height=440,
+        )
+        n_aktif_show = show["Aktif"].sum()
+        st.caption(f"{len(show):,} instrumen ditampilkan · "
+                   f"{n_aktif_show:,} aktif (IDX), "
+                   f"{len(show) - n_aktif_show:,} sudah jatuh tempo.")
 
 
 # ===========================================================================

@@ -40,6 +40,10 @@ Thumbs.db
 *.joblib
 *.pkl
 
+# Scraper temp / partial downloads
+_dl_tmp/
+*.crdownload
+
 # Large datasets — excluded from repo
 ML_Dataset/
 pdf_by_content/
@@ -54,7 +58,8 @@ paper/
 PPT/
 
 # Claude / tool temp
-.claude/
+.claude/*
+!.claude/skills/
 .serena/
 .playwright-mcp/
 .pytest_cache/
@@ -63,3 +68,6 @@ node_modules/
 
 # Deployment
 .vercel
+
+# Run-skill screenshots
+_run_shots/

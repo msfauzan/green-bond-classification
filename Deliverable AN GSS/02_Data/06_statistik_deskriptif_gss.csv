@@ -1,0 +1,25 @@
+﻿# PENERBITAN PER TAHUN
+tahun_terbit,n_total,n_green,n_social,n_sustainability,n_sustainability_linked,outstanding_triliun
+2022,2,2,0,0,0,1.5
+2023,12,10,2,0,0,8.234
+2024,18,7,5,3,3,8.548
+2025,32,1,18,11,2,34.109
+2026,18,0,14,4,0,9.817
+
+# PROFIL JATUH TEMPO
+tahun_jatuh_tempo,n_instrumen,outstanding_triliun
+2026,12,11.085
+2027,18,8.115
+2028,21,20.781
+2029,16,11.384
+2030,10,8.453
+2031,5,2.389
+
+# KONSENTRASI & RATING
+metrik,nilai
+HHI_outstanding,1389.7
+top5_share_pct,75.2
+n_penerbit,15
+rating_AAA,66
+rating_AA,4
+rating_A+,12
