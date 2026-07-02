@@ -61,7 +61,7 @@ def _launch_streamlit(port: int) -> subprocess.Popen:
     env = dict(os.environ, PYTHONUTF8="1")
     return subprocess.Popen(
         [sys.executable, "-m", "streamlit", "run",
-         os.path.join("webapp", "app.py"),
+         os.path.join("code", "webapp", "app.py"),
          "--server.headless", "true",
          "--server.port", str(port),
          "--server.address", "127.0.0.1",
@@ -98,17 +98,35 @@ def run(port: int, shot_dir: str, keep: bool) -> int:
             browser = _new_browser(p)
             page = browser.new_page(viewport={"width": 1450, "height": 1000})
             page.goto(f"http://localhost:{port}", wait_until="networkidle")
-            page.get_by_role("tab", name="Klasifikasi Prospektus").wait_for(timeout=30000)
-            page.screenshot(path=os.path.join(shot_dir, "1_tab_klasifikasi.png"))
-            steps.append(("load app + tab 1 visible", True))
+            # App now uses a sidebar radio for nav (not st.tabs); default
+            # landing page is "Statistik Pasar" (first radio option).
+            # Streamlit's radio <input> is visually hidden (custom styling) —
+            # target the visible label text instead, which Playwright can
+            # click to toggle the underlying input via its <label> wrapper.
+            classify_nav = page.get_by_text("🔎 Klasifikasi Prospektus", exact=True)
+            classify_nav.wait_for(timeout=30000)
+            page.get_by_text("Statistik Pasar EBUS GSS", exact=False).first.wait_for(timeout=30000)
+            page.screenshot(path=os.path.join(shot_dir, "1_statistik_pasar.png"),
+                            full_page=True)
+            steps.append(("load app + default market page rendered", True))
 
-            # --- Real flow: paste UoP text, classify, read the result banner ---
+            # --- Navigate to Klasifikasi Prospektus, paste UoP text, classify ---
+            classify_nav.click()
+            page.get_by_role("button", name="Klasifikasikan").wait_for(timeout=30000)
             page.locator("textarea").first.fill(SAMPLE_UOP)
             page.get_by_role("button", name="Klasifikasikan").click()
             # Model warm-up + inference; banner text contains the class label.
             banner = page.get_by_text("Keyakinan:", exact=False)
             banner.first.wait_for(timeout=120000)
-            page.wait_for_timeout(800)
+            # Banner appearing only means render_result() started streaming —
+            # the sector table further down still needs its own round trip.
+            # Wait for it directly rather than a fixed sleep (was flaky).
+            try:
+                page.get_by_text("Sektor eligible terpenuhi", exact=False) \
+                    .first.wait_for(timeout=10000)
+            except Exception:
+                pass  # doc may legitimately have zero corroborated sectors
+            page.wait_for_timeout(500)
             page.screenshot(path=os.path.join(shot_dir, "2_hasil_klasifikasi.png"),
                             full_page=True)
             body = page.inner_text("body")
@@ -121,20 +139,12 @@ def run(port: int, shot_dir: str, keep: bool) -> int:
             steps.append(("classify pasted green UoP -> positive GSS + sectors",
                           classified_ok))
 
-            # --- Tab 2: market statistics ---
-            page.get_by_role("tab", name="Statistik Pasar GSS").click()
-            page.get_by_text("Semesta EBUS korporasi", exact=False).first.wait_for(timeout=30000)
-            page.wait_for_timeout(500)
-            page.screenshot(path=os.path.join(shot_dir, "3_statistik_pasar.png"),
-                            full_page=True)
-            steps.append(("tab 2 market stats rendered", True))
-
-            # --- Tab 3: evaluation ---
-            page.get_by_role("tab", name="Evaluasi Model").click()
+            # --- Evaluasi Model page ---
+            page.get_by_text("🎯 Evaluasi Model", exact=True).click()
             page.wait_for_timeout(1500)
-            page.screenshot(path=os.path.join(shot_dir, "4_evaluasi_model.png"),
+            page.screenshot(path=os.path.join(shot_dir, "3_evaluasi_model.png"),
                             full_page=True)
-            steps.append(("tab 3 evaluation rendered", True))
+            steps.append(("evaluation page rendered", True))
 
             browser.close()
     finally:

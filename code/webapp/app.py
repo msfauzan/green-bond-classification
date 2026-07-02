@@ -326,7 +326,7 @@ def render_result(res, source_label: str):
         st.info(f"**Struktur instrumen (Level 0):** {', '.join(res.level0_evidence)}")
 
     sect_rows = []
-    for key, score in (res.top_env + res.top_soc):
+    for key, score in (res.decomp_env + res.decomp_soc):
         c = CAT.get(key)
         sect_rows.append({"Sektor": c.name_id if c else key,
                           "Bucket": "Lingkungan" if c and c.bucket.value == "environmental" else "Sosial",
