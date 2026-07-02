@@ -11,14 +11,15 @@ import os
 import sys
 import csv
 
-ROOT = r"D:\1. Important\Work\Bank Indonesia\DSta-DSMF\Green Bond Classification"
-sys.path.insert(0, ROOT)
+CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # .../code
+ROOT = os.path.dirname(CODE)                                          # repo root
+sys.path.insert(0, CODE)
 
 from classifier.engine    import read_pdf_text, classify       as classify_rule
 from classifier.ml_engine import classify_ml
 from classifier.taxonomy  import GSSClass
 
-BASE_PROS = os.path.join(ROOT, "pdf_by_content", "01_prospektus_utama")
+BASE_PROS = os.path.join(ROOT, "data", "pdf_by_content", "01_prospektus_utama")
 GOLD_GSS  = os.path.join(BASE_PROS, "0. Fix GSS", "GSS")
 GSS_ISSUERS = {"ARKO","BBNI","BBRI","BBTN","BJBR","BMRI",
                 "BRIS","OPPM","PNMP","POLI","PPGD","SMII"}
