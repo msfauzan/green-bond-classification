@@ -351,17 +351,20 @@ def classify_ml(
     env_hits.sort(key=lambda x: -x[1])
     soc_hits.sort(key=lambda x: -x[1])
 
-    # Koroborasi leksikal: sektor dihitung hanya bila ≥1 keyword taksonomi hadir di UoP
-    # (memisahkan gate biner dari dekomposisi sektoral — threshold berbeda untuk dua tujuan ini)
+    # Koroborasi leksikal: sektor dihitung hanya bila ≥1 keyword taksonomi hadir di UoP.
+    # Dipakai juga untuk keputusan kelas (bukan hanya tampilan) — skor semantik saja
+    # terlalu longgar untuk membedakan bucket env/sosial (mis. semua kategori lolos
+    # threshold 0.28 pada dokumen panjang apa pun), melanggar prinsip explainable-by-design
+    # (tiap keputusan harus membawa bukti keyword, bukan sekadar skor kemiripan).
     kw_matched = {cat.key for cat, _ in match_categories(seg)}
     decomp_env = [(k, s) for k, s in env_hits if k in kw_matched]
     decomp_soc = [(k, s) for k, s in soc_hits if k in kw_matched]
 
-    if env_hits and soc_hits:
+    if decomp_env and decomp_soc:
         gss = GSSClass.SUSTAINABILITY
-    elif env_hits:
+    elif decomp_env:
         gss = GSSClass.GREEN
-    elif soc_hits:
+    elif decomp_soc:
         gss = GSSClass.SOCIAL
     else:
         gss = GSSClass.NON_GSS
@@ -387,11 +390,6 @@ def classify_ml(
         if fb is not None:
             gss = fb
             needs_review = True
-            sector_unspecified = True
-
-    # Semantik lolos gate tapi nol koroborasi leksikal → sektor tak teridentifikasi
-    if gss != GSSClass.NON_GSS and not needs_review:
-        if not decomp_env and not decomp_soc:
             sector_unspecified = True
 
     max_score = max(scores.values()) if scores else 0.0

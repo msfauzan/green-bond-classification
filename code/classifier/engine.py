@@ -137,6 +137,16 @@ def _is_negated(low: str, kw_pos: int, span: int = 80) -> bool:
     return any(h in pre for h in NEGATION_HINTS)
 
 
+def _kw_find(low: str, kw: str) -> int:
+    """Cari kw sebagai KATA UTUH (word-boundary), bukan substring bebas.
+
+    Tanpa ini, keyword pendek seperti "kur" atau "umk" cocok di tengah kata
+    tak-terkait ("dikurangi", "dicantumkan", "Kurniawan") dan memicu kategori
+    palsu (mis. employment_msme di prospektus Green Bond murni lingkungan)."""
+    m = re.search(r'(?<!\w)' + re.escape(kw) + r'(?!\w)', low)
+    return m.start() if m else -1
+
+
 def match_categories(segment: str) -> list[tuple[Category, list[str]]]:
     """Cocokkan segmen ke kategori eligible. Return [(Category, [keyword bukti tak-ternegasi])]."""
     low = segment.lower()
@@ -144,7 +154,7 @@ def match_categories(segment: str) -> list[tuple[Category, list[str]]]:
     for cat in ALL_CATEGORIES:
         found: list[str] = []
         for kw in cat.keywords:
-            pos = low.find(kw)
+            pos = _kw_find(low, kw)
             if pos != -1 and not _is_negated(low, pos):
                 found.append(kw)
         if found:
@@ -168,14 +178,14 @@ def detect_level0(text: str) -> tuple[GSSClass | None, list[str]]:
     """Deteksi struktur instrumen sebelum melihat penggunaan dana. Sinyal kuat &
     spesifik -> precision tinggi. Return (kelas Level-0 atau None, bukti)."""
     low = text.lower()
-    wk = [s for s in _WAKAF_STRONG if s in low]
+    wk = [s for s in _WAKAF_STRONG if _kw_find(low, s) != -1]
     if wk:
         return GSSClass.WAKAF, wk
-    sl = [s for s in _SL_EXPLICIT if s in low]
+    sl = [s for s in _SL_EXPLICIT if _kw_find(low, s) != -1]
     if sl:
         return GSSClass.SUSTAINABILITY_LINKED, sl
-    spt = [s for s in _SPT_TERMS if s in low]
-    step = [s for s in _STEP_TERMS if s in low]
+    spt = [s for s in _SPT_TERMS if _kw_find(low, s) != -1]
+    step = [s for s in _STEP_TERMS if _kw_find(low, s) != -1]
     if spt and step:                       # KPI/SPT + mekanisme step-up bersamaan
         return GSSClass.SUSTAINABILITY_LINKED, spt + step
     return None, []
