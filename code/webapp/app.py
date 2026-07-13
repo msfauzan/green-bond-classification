@@ -121,21 +121,11 @@ def load_gold_db() -> pd.DataFrame:
     return gdf
 
 
-def _doc_label(filename: str) -> str:
-    """Jenis dokumen dari nama file — Informasi Tambahan (dok resmi tahap
-    lanjutan PUB) dibedakan dari prospektus penuh."""
-    low = filename.lower()
-    if "informasi tambahan" in low:
-        return "Info Tambahan"
-    if "bukti iklan" in low:
-        return "Iklan Ringkas"
-    return "Prospektus"
-
-
 @st.cache_data
 def pdf_url_map() -> dict[str, str]:
-    """BondName -> URL statis PDF + label jenis dokumen di fragment
-    (folder OneDrive via junction webapp/static)."""
+    """BondName -> URL statis PDF + label jenis dokumen (kolom DocType
+    gold_bonds_db, dideteksi dari ISI dokumen) di fragment URL.
+    File dilayani dari folder OneDrive via junction webapp/static."""
     from urllib.parse import quote
     if not os.path.exists(GOLD_DB):
         return {}
@@ -145,9 +135,10 @@ def pdf_url_map() -> dict[str, str]:
     for _, r in gdf.iterrows():
         f = str(r.get("PDFFile") or "")
         issuer = str(r.get("IssuerCode") or "")
+        label = str(r.get("DocType") or "") or "Dokumen Emisi"
         if f and issuer and os.path.exists(os.path.join(static_dir, issuer, f)):
             out[r["BondName"]] = (
-                f"/app/static/{quote(issuer)}/{quote(f)}#📄 {_doc_label(f)}")
+                f"/app/static/{quote(issuer)}/{quote(f)}#📄 {label}")
     return out
 
 
@@ -332,12 +323,13 @@ def page_market():
         column_config={
             "Dokumen": st.column_config.LinkColumn(
                 "Dokumen", display_text=r".*#(.*)$",
-                help="📄 = buka dokumen emisi dari gold corpus (OneDrive). "
-                     "Prospektus = dokumen penuh (Tahap I); Info Tambahan = "
-                     "dokumen resmi tahap lanjutan PUB; Iklan Ringkas = "
-                     "publikasi ringkas. ❌ = sudah dicari di seluruh "
-                     "pengumuman IDX (3 kata kunci + OCR) dan tidak ada — "
-                     "cek e-BOCS OJK / situs emiten."),
+                help="📄 = buka dokumen emisi dari gold corpus (OneDrive); "
+                     "jenis dideteksi dari ISI dokumen. Prospektus = penuh "
+                     "(Tahap I PUB); Prospektus/Info Tambahan Ringkas = dok "
+                     "resmi ringkas (tahap lanjutan PUB); Iklan Ringkas = "
+                     "publikasi koran. ❌ = sudah dicari di seluruh pengumuman "
+                     "IDX (3 kata kunci + OCR) dan tidak ada — cek e-BOCS OJK "
+                     "/ situs emiten."),
         })
     n_aktif_show = int(show["Aktif"].sum())
     st.caption(f"{len(show):,} instrumen ditampilkan · {n_aktif_show:,} aktif (IDX), "

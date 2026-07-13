@@ -18,7 +18,9 @@ ROOT = r"D:\1. Important\Work\Bank Indonesia\DSta-DSMF\Green Bond Classification
 sys.path.insert(0, os.path.join(ROOT, "code"))
 
 from classifier.title_lookup import all_instruments, gss_title_in_text
-from evaluation.build_gold_db import _read_cover, _match_idx_all, _build_idx_lookup
+from evaluation.build_gold_db import (
+    _read_cover, _match_idx_all, _build_idx_lookup, doc_type, _n_pages,
+)
 
 RAW_DIR  = os.path.join(ROOT, "code", "pdf_by_content", "01_prospektus_utama")
 GOLD_GSS = os.path.join(ROOT, "data", "pdf_by_content", "01_prospektus_utama",
@@ -62,6 +64,10 @@ def main() -> int:
             # marker, tahun, tahap, seri, jenis instrumen).
             matched = _match_idx_all(issuer, text, idx_lookup)
             if not matched:
+                skipped_nongss += 1
+                continue
+            dtype, rank = doc_type(text, _n_pages(src))
+            if rank < 0:   # pemeringkatan dkk yang menyebut nama obligasi
                 skipped_nongss += 1
                 continue
             markers = [m["BondName"][:40] for m in matched[:2]]

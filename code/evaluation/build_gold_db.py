@@ -114,6 +114,51 @@ def _build_idx_lookup() -> dict[str, list[dict]]:
     return result
 
 
+def doc_type(cover_text: str, n_pages: int) -> tuple[str, int]:
+    """Jenis dokumen dari ISI sampul (bukan nama file) + peringkat substansi.
+
+    Peringkat dipakai memilih dokumen terbaik per instrumen:
+      3 = Prospektus penuh; 2 = ringkas (PR/ITR/IT); 1 = tak teridentifikasi;
+      0 = surat pengantar e-form IDX; -1 = pemeringkatan (bukan dokumen emisi).
+    """
+    t = re.sub(r"\s+", " ", cover_text.lower())
+    head = t[:400]
+    if "hasil pemeringkatan" in head:
+        return "Pemeringkatan", -1
+    if head.startswith("nomor surat") or "perihal" in head[:120]:
+        return "Surat Pengantar", 0
+    if n_pages >= 60:
+        return "Prospektus", 4
+    # Iklan koran: halaman sedikit + header hari/nama koran/jadwal penawaran
+    if n_pages <= 8 and (
+        re.match(r"^\W*(senin|selasa|rabu|kamis|jumat|sabtu|minggu)\b", head)
+        or head.lstrip().startswith("jadwal")
+        or any(k in head for k in ("investor daily", "kontan", "neraca",
+                                   "bisnis indonesia", "media indonesia"))):
+        return "Iklan Ringkas", 2
+    if "informasi tambahan ringkas" in t:
+        return "Info Tambahan Ringkas", 3
+    if "prospektus ringkas" in t:
+        return "Prospektus Ringkas", 3
+    if "informasi tambahan" in t:
+        return "Info Tambahan", 3
+    return "Dokumen Emisi", 1
+
+
+def _n_pages(pdf_path: str) -> int:
+    import fitz
+    for p in (LP + pdf_path, pdf_path):
+        try:
+            doc = fitz.open(p)
+            try:
+                return len(doc)
+            finally:
+                doc.close()
+        except Exception:
+            continue
+    return 0
+
+
 def _match_idx_all(issuer: str, cover_text: str, idx_lookup: dict) -> list[dict]:
     """
     Semua baris IDX yang konsisten dengan SAMPUL PDF (satu prospektus bisa
@@ -201,13 +246,23 @@ def main():
             bond_name = extract_bond_name(text)
             series_list = extract_series(text) or [""]  # [""] → satu baris tanpa seri
 
+            dtype, rank = doc_type(text, _n_pages(pdf_path))
+            if rank < 0:   # pemeringkatan dkk — bukan dokumen emisi
+                print(f"  {pdf_file[:55]} -> SKIP ({dtype})")
+                continue
+
             print(f"  {pdf_file[:55]}")
-            print(f"    Nama  : {bond_name[:80] or '(tidak terdeteksi)'}")
+            print(f"    Nama  : {bond_name[:80] or '(tidak terdeteksi)'} [{dtype}]")
             print(f"    Seri  : {series_list}")
 
             # Satu PDF bisa cocok ke BANYAK baris IDX (multi-seri, bundel
             # obligasi+sukuk); cocokkan atribut nama IDX langsung ke sampul.
             idx_rows = _match_idx_all(issuer, text, idx_lookup)
+            if not idx_rows and rank <= 0:
+                # surat pengantar tanpa match IDX bukan bukti instrumen —
+                # jangan lahirkan baris "(tidak di IDX)" fantom
+                print("    (pengantar tanpa match IDX — dilewati)")
+                continue
             emits: list[tuple[dict | None, str]] = (
                 [(r, "") for r in idx_rows] if idx_rows
                 else [(None, s) for s in series_list])
@@ -240,11 +295,14 @@ def main():
                     rating = ""
                     # Non-IDX: dedup by (issuer, seri, tahun) — satu baris per issuance
                     dedup_key = (issuer, seri, issue_year)
+                quality = (rank, _n_pages(pdf_path))
                 if dedup_key in seen:
-                    # Perbarui PDFFile dengan yang lebih awal (penerbitan pertama)
-                    if issue_date < seen[dedup_key].get("IssueDate", "9999"):
-                        seen[dedup_key]["IssueDate"] = issue_date
-                        seen[dedup_key]["PDFFile"] = pdf_file
+                    # Pilih dokumen paling substantif (peringkat jenis, lalu
+                    # jumlah halaman) — bukan sekadar yang paling awal.
+                    if quality > seen[dedup_key].get("_quality", (-9, 0)):
+                        seen[dedup_key].update(
+                            IssueDate=issue_date, PDFFile=pdf_file,
+                            DocType=dtype, _quality=quality)
                     status = "OK IDX match (duplikat diabaikan)" if idx_row else "WARN tidak di IDX (duplikat diabaikan)"
                 else:
                     row_data = {
@@ -260,6 +318,8 @@ def main():
                         "Aktif"        : aktif,
                         "Source"       : source,
                         "PDFFile"      : pdf_file,
+                        "DocType"      : dtype,
+                        "_quality"     : quality,
                     }
                     seen[dedup_key] = row_data
                     status = "OK IDX match" if idx_row else "WARN tidak di IDX (kemungkinan jatuh tempo)"
@@ -268,6 +328,8 @@ def main():
         print()
 
     rows_out = list(seen.values())
+    for r in rows_out:
+        r.pop("_quality", None)
 
     # Tulis CSV
     if not rows_out:
