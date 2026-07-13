@@ -121,9 +121,21 @@ def load_gold_db() -> pd.DataFrame:
     return gdf
 
 
+def _doc_label(filename: str) -> str:
+    """Jenis dokumen dari nama file — Informasi Tambahan (dok resmi tahap
+    lanjutan PUB) dibedakan dari prospektus penuh."""
+    low = filename.lower()
+    if "informasi tambahan" in low:
+        return "Info Tambahan"
+    if "bukti iklan" in low:
+        return "Iklan Ringkas"
+    return "Prospektus"
+
+
 @st.cache_data
 def pdf_url_map() -> dict[str, str]:
-    """BondName -> URL statis prospektus PDF (folder OneDrive via junction webapp/static)."""
+    """BondName -> URL statis PDF + label jenis dokumen di fragment
+    (folder OneDrive via junction webapp/static)."""
     from urllib.parse import quote
     if not os.path.exists(GOLD_DB):
         return {}
@@ -134,7 +146,8 @@ def pdf_url_map() -> dict[str, str]:
         f = str(r.get("PDFFile") or "")
         issuer = str(r.get("IssuerCode") or "")
         if f and issuer and os.path.exists(os.path.join(static_dir, issuer, f)):
-            out[r["BondName"]] = f"/app/static/{quote(issuer)}/{quote(f)}"
+            out[r["BondName"]] = (
+                f"/app/static/{quote(issuer)}/{quote(f)}#📄 {_doc_label(f)}")
     return out
 
 
@@ -307,22 +320,24 @@ def page_market():
         show = show[mask]
 
     show = show.sort_values(["Aktif", "Outstanding (Rp M)"], ascending=[False, False])
-    # Kolom QC manual: link prospektus PDF.
-    # LinkColumn versi ini merender sel kosong sebagai "None", jadi setiap baris
-    # diberi link; label per-baris lewat fragment URL + regex display_text.
+    # Kolom QC manual: link dokumen emisi (label = jenis dokumen).
+    # LinkColumn versi ini merender sel kosong sebagai "None", jadi baris tanpa
+    # dokumen tetap diberi URL; labelnya lewat fragment + regex display_text.
     IDX_ANNOUNCE_URL = "https://www.idx.co.id/id/berita/pengumuman/"
-    show["Prospektus"] = show["BondName"].map(pdf_url_map()).apply(
-        lambda u: f"{u}#Buka PDF" if pd.notna(u)
-        else f"{IDX_ANNOUNCE_URL}#Cari di IDX")
-    cols = [c for c in common_cols if c != "Aktif"] + ["Prospektus"]
+    show["Dokumen"] = show["BondName"].map(pdf_url_map()).fillna(
+        f"{IDX_ANNOUNCE_URL}#❌ Tidak ada di IDX")
+    cols = [c for c in common_cols if c != "Aktif"] + ["Dokumen"]
     st.dataframe(
         show[cols], hide_index=True, use_container_width=True, height=440,
         column_config={
-            "Prospektus": st.column_config.LinkColumn(
-                "Prospektus", display_text=r".*#(.*)$",
-                help="'Buka PDF' = prospektus gold corpus (OneDrive); "
-                     "'Cari di IDX' = belum ada di korpus, cari manual di "
-                     "halaman pengumuman IDX"),
+            "Dokumen": st.column_config.LinkColumn(
+                "Dokumen", display_text=r".*#(.*)$",
+                help="📄 = buka dokumen emisi dari gold corpus (OneDrive). "
+                     "Prospektus = dokumen penuh (Tahap I); Info Tambahan = "
+                     "dokumen resmi tahap lanjutan PUB; Iklan Ringkas = "
+                     "publikasi ringkas. ❌ = sudah dicari di seluruh "
+                     "pengumuman IDX (3 kata kunci + OCR) dan tidak ada — "
+                     "cek e-BOCS OJK / situs emiten."),
         })
     n_aktif_show = int(show["Aktif"].sum())
     st.caption(f"{len(show):,} instrumen ditampilkan · {n_aktif_show:,} aktif (IDX), "
