@@ -44,8 +44,8 @@ API_BASE = "https://www.idx.co.id/primary/NewsAnnouncement/GetAllAnnouncement"
 # Kode emiten GSS yang menjadi target default
 DEFAULT_GSS_CODES = {
     "ARKO", "BBNI", "BBRI", "BBTN", "BJBR", "BMRI",
-    "BRIS", "IIFF", "ISSP", "OPPM", "PNMP", "POLI",
-    "PPGD", "SMFP", "SMII",
+    "BRIS", "FIFA", "IIFF", "ISSP", "OPPM", "PNMP",
+    "POLI", "PPGD", "SMFP", "SMII",
 }
 
 PAGE_SIZE = 50  # maksimum per halaman API

@@ -32,14 +32,25 @@ LP = "\\\\?\\"
 
 def _read_cover(pdf_path: str, n_pages: int = 5) -> str:
     import fitz
+    text = ""
     for p in (LP + pdf_path, pdf_path):
         try:
             doc = fitz.open(p)
             try:
-                return "\n".join(doc[i].get_text() for i in range(min(n_pages, len(doc))))
+                text = "\n".join(doc[i].get_text() for i in range(min(n_pages, len(doc))))
+                break
             finally:
                 doc.close()
         except Exception:
+            continue
+    if text.strip():
+        return text
+    # PDF hasil scan: pakai sidecar hasil OCR bila ada (ocr_scanned_gss.py)
+    for sc in (LP + pdf_path + ".txt", pdf_path + ".txt"):
+        try:
+            with open(sc, encoding="utf-8") as f:
+                return f.read()
+        except OSError:
             continue
     return ""
 
@@ -103,36 +114,49 @@ def _build_idx_lookup() -> dict[str, list[dict]]:
     return result
 
 
-def _match_idx(issuer: str, series: str, issue_year: str,
-               idx_lookup: dict) -> dict | None:
+def _match_idx_all(issuer: str, cover_text: str, idx_lookup: dict) -> list[dict]:
     """
-    Cari baris IDX berdasarkan issuer + seri + tahun (dari filename PDF).
-    Menggunakan tahun penerbitan dari nama file — lebih andal dari teks PDF.
-    Cocok bila: (1) seri cocok, (2) tahun penerbitan muncul di nama IDX,
-                (3) setidaknya satu penanda GSS dalam nama IDX.
+    Semua baris IDX yang konsisten dengan SAMPUL PDF (satu prospektus bisa
+    mencakup beberapa seri, dan bundel obligasi+sukuk sekaligus).
+
+    Baris IDX cocok bila setiap atribut pada namanya juga muncul di sampul:
+      (1) minimal satu penanda GSS yang ada di nama IDX muncul di sampul,
+      (2) "tahun YYYY" dari nama IDX muncul di sampul,
+      (3) "tahap N" dari nama IDX (bila ada) muncul di sampul,
+      (4) "seri X" dari nama IDX (bila ada) muncul di sampul,
+      (5) kata instrumen ("sukuk"/"obligasi"/"surat berharga perpetual") muncul.
     """
-    rows = idx_lookup.get(issuer, [])
-    if not rows:
-        return None
+    cover = re.sub(r"\s+", " ", cover_text.lower())
+    out: list[dict] = []
+    for row in idx_lookup.get(issuer, []):
+        idx_name = re.sub(r"\s+", " ", row.get("BondName", "").lower())
 
-    for row in rows:
-        idx_name = row.get("BondName", "").lower()
-
-        # Seri harus cocok bila diketahui
-        if series and f"seri {series.lower()}" not in idx_name:
+        markers = [m for m in TITLE_GSS_MARKERS if m in idx_name]
+        if not markers or not any(m in cover for m in markers):
             continue
 
-        # Tahun dari filename harus muncul di nama IDX
-        if issue_year and issue_year not in idx_name:
+        tahun = re.search(r"tahun (\d{4})", idx_name)
+        if tahun and f"tahun {tahun.group(1)}" not in cover:
             continue
 
-        # Nama IDX harus merupakan instrumen GSS
-        if not any(m in idx_name for m in TITLE_GSS_MARKERS):
+        tahap = re.search(r"tahap ([ivx]+|\d+)\b", idx_name)
+        if tahap and f"tahap {tahap.group(1)}" not in cover:
             continue
 
-        return row
+        seri = re.search(r"\bseri ([a-z])\b", idx_name)
+        if seri and f"seri {seri.group(1)}" not in cover:
+            continue
 
-    return None
+        for instr in ("surat berharga perpetual", "sukuk", "obligasi"):
+            if idx_name.startswith(instr):
+                if instr not in cover:
+                    idx_name = None  # instrumen tak disebut di sampul
+                break
+        if idx_name is None:
+            continue
+
+        out.append(row)
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -181,12 +205,18 @@ def main():
             print(f"    Nama  : {bond_name[:80] or '(tidak terdeteksi)'}")
             print(f"    Seri  : {series_list}")
 
-            for seri in series_list:
-                # Gunakan tahun dari filename (lebih andal dari teks PDF)
-                idx_row = _match_idx(issuer, seri, issue_year, idx_lookup)
+            # Satu PDF bisa cocok ke BANYAK baris IDX (multi-seri, bundel
+            # obligasi+sukuk); cocokkan atribut nama IDX langsung ke sampul.
+            idx_rows = _match_idx_all(issuer, text, idx_lookup)
+            emits: list[tuple[dict | None, str]] = (
+                [(r, "") for r in idx_rows] if idx_rows
+                else [(None, s) for s in series_list])
 
+            for idx_row, seri in emits:
                 if idx_row:
                     idx_bond_name = idx_row.get("BondName", bond_name)
+                    m = re.search(r"\bSeri ([A-Z])\b", idx_bond_name)
+                    seri = m.group(1) if m else ""
                     mature_raw = idx_row.get("MatureDate", "")
                     mature_date = mature_raw[:10] if mature_raw else ""
                     try:
@@ -233,7 +263,7 @@ def main():
                     }
                     seen[dedup_key] = row_data
                     status = "OK IDX match" if idx_row else "WARN tidak di IDX (kemungkinan jatuh tempo)"
-                print(f"    Seri {seri or '-'} -> {status}")
+                print(f"    {idx_bond_name[:60]} -> {status}")
 
         print()
 
