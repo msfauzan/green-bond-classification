@@ -27,7 +27,6 @@ ini dipakai untuk mengumpulkan bukti dan membuat prototipe classifier.
 ```bash
 git clone https://github.com/msfauzan/green-bond-classification.git
 cd green-bond-classification
-git checkout restructure-and-descriptive-stats
 ```
 
 ### 2. Buat virtual environment (opsional tapi disarankan)
