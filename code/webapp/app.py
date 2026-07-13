@@ -121,6 +121,26 @@ def load_gold_db() -> pd.DataFrame:
     return gdf
 
 
+IDX_LISTING_URL = "https://www.idx.co.id/id/data-pasar/obligasi-sukuk/obligasi-sukuk-korporasi/"
+
+
+@st.cache_data
+def pdf_url_map() -> dict[str, str]:
+    """BondName -> URL statis prospektus PDF (folder OneDrive via junction webapp/static)."""
+    from urllib.parse import quote
+    if not os.path.exists(GOLD_DB):
+        return {}
+    gdf = pd.read_csv(GOLD_DB, encoding="utf-8-sig")
+    static_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "static")
+    out: dict[str, str] = {}
+    for _, r in gdf.iterrows():
+        f = str(r.get("PDFFile") or "")
+        issuer = str(r.get("IssuerCode") or "")
+        if f and issuer and os.path.exists(os.path.join(static_dir, issuer, f)):
+            out[r["BondName"]] = f"/app/static/{quote(issuer)}/{quote(f)}"
+    return out
+
+
 @st.cache_data
 def load_comparison() -> pd.DataFrame:
     p = os.path.join(DATA, "comparison_results.csv")
@@ -290,8 +310,22 @@ def page_market():
         show = show[mask]
 
     show = show.sort_values(["Aktif", "Outstanding (Rp M)"], ascending=[False, False])
-    cols = [c for c in common_cols if c != "Aktif"]
-    st.dataframe(show[cols], hide_index=True, use_container_width=True, height=440)
+    # Kolom QC manual: link prospektus PDF + link listing resmi IDX
+    show["Prospektus"] = show["BondName"].map(pdf_url_map())
+    show["IDX"] = show["Source"].apply(
+        lambda s: IDX_LISTING_URL if "IDX" in str(s) else None)
+    cols = [c for c in common_cols if c != "Aktif"] + ["Prospektus", "IDX"]
+    st.dataframe(
+        show[cols], hide_index=True, use_container_width=True, height=440,
+        column_config={
+            "Prospektus": st.column_config.LinkColumn(
+                "Prospektus", display_text="📄 PDF",
+                help="Buka PDF prospektus (gold corpus, tersimpan di OneDrive)"),
+            "IDX": st.column_config.LinkColumn(
+                "IDX", display_text="🔗 Listing",
+                help="Halaman resmi listing obligasi/sukuk korporasi IDX — "
+                     "cari kode emiten di kolom pencarian"),
+        })
     n_aktif_show = int(show["Aktif"].sum())
     st.caption(f"{len(show):,} instrumen ditampilkan · {n_aktif_show:,} aktif (IDX), "
                f"{len(show) - n_aktif_show:,} sudah jatuh tempo.")

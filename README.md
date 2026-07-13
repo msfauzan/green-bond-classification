@@ -67,6 +67,16 @@ dashboard statistik pasar tetap bisa.
 > git config --global core.longpaths true
 > ```
 
+### 5. Link PDF prospektus di dashboard (opsional, untuk QC)
+
+Kolom "Prospektus" di tabel instrumen GSS membaca PDF dari folder OneDrive
+`GSS Prospektus QC/` (tersinkron otomatis antar-laptop) via junction. Di mesin baru,
+buat ulang junction-nya:
+
+```powershell
+New-Item -ItemType Junction -Path "code\webapp\static" -Target "$env:OneDrive\GSS Prospektus QC"
+```
+
 ## Cara Menjalankan
 
 ```bash
