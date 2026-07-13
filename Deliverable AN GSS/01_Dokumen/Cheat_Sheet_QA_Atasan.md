@@ -11,7 +11,7 @@
 | Instrumen GSS aktif (deteksi label POJK 18/2023 dari nama) | **86 seri** (5,9% dari jumlah seri) |
 | Nilai GSS outstanding | **Rp 59,0 T** (7,6% dari total EBUS aktif) |
 | Emiten GSS terbesar (outstanding) | BMRI, BBRI, PNMP, SMFP, BBNI |
-| Dokumen emisi terverifikasi di gold corpus | **63 dari 86 seri (73%)** |
+| Dokumen emisi terverifikasi di gold corpus | **72 dari 86 seri (84%)** |
 | Kinerja mesin ML (gold set 119 dok: 53 GSS + 66 NonGSS) | **Precision 1.00 / Recall 1.00 / F1 1.00** |
 | Kinerja baseline rule-based | Precision 0.92 / Recall 0.45 / F1 0.61 |
 | Scan semesta 208 dokumen tak berlabel | **0 GSS tersembunyi** |
@@ -67,19 +67,21 @@ A: Listing resmi IDX (scrape 13 Jul 2026, 1.456 instrumen) + dokumen emisi dari
 pengumuman IDX (255 pengumuman, ±590 file, 3 kata kunci pencarian) + 25
 instrumen SBN sebagai ground truth taksonomi.
 
-**Q: Kenapa dokumen hanya lengkap 73% (63/86)?**
-A: 23 seri sisanya **tidak tersedia di pengumuman IDX** — sudah dipastikan
-lewat 3 kata kunci pencarian dan OCR terhadap 100+ dokumen scan. Perlu sumber
-alternatif: e-BOCS OJK atau situs emiten. Di dashboard, baris ini berlabel
-"❌ Tidak ada di IDX" (bukan hilang — jadi checklist QC).
+**Q: Kenapa dokumen hanya lengkap 84% (72/86)?**
+A: 14 seri sisanya (BMRI 3, ISSP 3, PNMP 3, PPGD 4, SMII 1) **tidak tersedia
+di pengumuman IDX** — dipastikan lewat 5 kata kunci pencarian (500+
+pengumuman, 1.100+ file) dan OCR terhadap 100+ dokumen scan; bukti per
+instrumen ada di `Ringkasan_Verifikasi_PDF_IDX.md`. Perlu sumber alternatif:
+e-BOCS OJK atau situs emiten. Di dashboard, baris ini berlabel "❌ Tidak ada
+di IDX" (bukan hilang — jadi checklist QC).
 
 **Q: Kenapa banyak dokumen "Informasi Tambahan Ringkas", bukan prospektus?**
 A: Karena mayoritas emisi GSS memakai skema **PUB (shelf registration)**:
 prospektus penuh hanya terbit di Tahap I; tahap lanjutan secara hukum memang
 hanya menerbitkan *Informasi Tambahan*. Jadi itu dokumen resmi yang benar,
-bukan dokumen yang salah. Komposisi korpus: 53 Informasi Tambahan Ringkas,
-4 prospektus penuh, 4 iklan koran, 3 prospektus ringkas — jenis dideteksi
-dari ISI dokumen, bukan nama file.
+bukan dokumen yang salah. Komposisi korpus: 64 Informasi Tambahan Ringkas,
+9 iklan koran, 4 prospektus penuh, 3 prospektus ringkas, 3 lainnya — jenis
+dideteksi dari ISI dokumen (seluruh halaman dibaca), bukan nama file.
 
 **Q: Bagaimana kualitas korpus dijaga?**
 A: Gate kurasi otomatis mensyaratkan sampul dokumen cocok dengan instrumen di
@@ -116,8 +118,9 @@ labeling di Indonesia adalah gap penerbitan, bukan gap deteksi.
 
 ## E. Kelemahan yang harus diakui duluan (jangan sampai ditanya baru ngaku)
 
-1. **23/86 seri belum ada dokumennya** — bukan kegagalan metode, tapi
-   keterbatasan kanal publikasi IDX; tindak lanjut manual sudah teridentifikasi.
+1. **14/86 seri belum ada dokumennya** — bukan kegagalan metode, tapi
+   keterbatasan kanal publikasi IDX (bukti per instrumen di
+   `Ringkasan_Verifikasi_PDF_IDX.md`); tindak lanjut manual teridentifikasi.
 2. **Recall rule-based rendah (0.45)** — disengaja ditampilkan sebagai
    baseline; naratifnya "transparan tapi kurang sensitif → dilengkapi ML".
 3. **ML P/R 1.00 di 119 dokumen** — angka sempurna di gold set kecil; jangan

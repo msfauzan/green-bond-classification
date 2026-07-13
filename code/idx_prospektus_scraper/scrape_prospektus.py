@@ -255,7 +255,9 @@ def safe(s: str, maxlen: int = MAX_NAME) -> str:
     s = unicodedata.normalize("NFKC", str(s))
     s = re.sub(r'[\\/:*?"<>|]', "_", s)
     s = re.sub(r"\s+", " ", s).strip(". ")
-    return s[:maxlen]
+    # rstrip lagi setelah truncation: nama folder Windows tak boleh
+    # berakhir spasi/titik (move/resolve gagal diam-diam)
+    return s[:maxlen].rstrip(". ")
 
 
 def make_folder_name(item: dict) -> str:
