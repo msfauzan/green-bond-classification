@@ -121,9 +121,6 @@ def load_gold_db() -> pd.DataFrame:
     return gdf
 
 
-IDX_LISTING_URL = "https://www.idx.co.id/id/data-pasar/obligasi-sukuk/obligasi-sukuk-korporasi/"
-
-
 @st.cache_data
 def pdf_url_map() -> dict[str, str]:
     """BondName -> URL statis prospektus PDF (folder OneDrive via junction webapp/static)."""
@@ -310,15 +307,14 @@ def page_market():
         show = show[mask]
 
     show = show.sort_values(["Aktif", "Outstanding (Rp M)"], ascending=[False, False])
-    # Kolom QC manual: link prospektus PDF + link listing resmi IDX.
+    # Kolom QC manual: link prospektus PDF.
     # LinkColumn versi ini merender sel kosong sebagai "None", jadi setiap baris
     # diberi link; label per-baris lewat fragment URL + regex display_text.
     IDX_ANNOUNCE_URL = "https://www.idx.co.id/id/berita/pengumuman/"
     show["Prospektus"] = show["BondName"].map(pdf_url_map()).apply(
         lambda u: f"{u}#Buka PDF" if pd.notna(u)
         else f"{IDX_ANNOUNCE_URL}#Cari di IDX")
-    show["IDX"] = IDX_LISTING_URL + "#Listing IDX"
-    cols = [c for c in common_cols if c != "Aktif"] + ["Prospektus", "IDX"]
+    cols = [c for c in common_cols if c != "Aktif"] + ["Prospektus"]
     st.dataframe(
         show[cols], hide_index=True, use_container_width=True, height=440,
         column_config={
@@ -327,10 +323,6 @@ def page_market():
                 help="'Buka PDF' = prospektus gold corpus (OneDrive); "
                      "'Cari di IDX' = belum ada di korpus, cari manual di "
                      "halaman pengumuman IDX"),
-            "IDX": st.column_config.LinkColumn(
-                "IDX", display_text=r".*#(.*)$",
-                help="Halaman resmi listing obligasi/sukuk korporasi IDX — "
-                     "cari kode emiten di kolom pencarian"),
         })
     n_aktif_show = int(show["Aktif"].sum())
     st.caption(f"{len(show):,} instrumen ditampilkan · {n_aktif_show:,} aktif (IDX), "
