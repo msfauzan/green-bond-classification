@@ -310,19 +310,25 @@ def page_market():
         show = show[mask]
 
     show = show.sort_values(["Aktif", "Outstanding (Rp M)"], ascending=[False, False])
-    # Kolom QC manual: link prospektus PDF + link listing resmi IDX
-    show["Prospektus"] = show["BondName"].map(pdf_url_map())
-    show["IDX"] = show["Source"].apply(
-        lambda s: IDX_LISTING_URL if "IDX" in str(s) else None)
+    # Kolom QC manual: link prospektus PDF + link listing resmi IDX.
+    # LinkColumn versi ini merender sel kosong sebagai "None", jadi setiap baris
+    # diberi link; label per-baris lewat fragment URL + regex display_text.
+    IDX_ANNOUNCE_URL = "https://www.idx.co.id/id/berita/pengumuman/"
+    show["Prospektus"] = show["BondName"].map(pdf_url_map()).apply(
+        lambda u: f"{u}#Buka PDF" if pd.notna(u)
+        else f"{IDX_ANNOUNCE_URL}#Cari di IDX")
+    show["IDX"] = IDX_LISTING_URL + "#Listing IDX"
     cols = [c for c in common_cols if c != "Aktif"] + ["Prospektus", "IDX"]
     st.dataframe(
         show[cols], hide_index=True, use_container_width=True, height=440,
         column_config={
             "Prospektus": st.column_config.LinkColumn(
-                "Prospektus", display_text="📄 PDF",
-                help="Buka PDF prospektus (gold corpus, tersimpan di OneDrive)"),
+                "Prospektus", display_text=r".*#(.*)$",
+                help="'Buka PDF' = prospektus gold corpus (OneDrive); "
+                     "'Cari di IDX' = belum ada di korpus, cari manual di "
+                     "halaman pengumuman IDX"),
             "IDX": st.column_config.LinkColumn(
-                "IDX", display_text="🔗 Listing",
+                "IDX", display_text=r".*#(.*)$",
                 help="Halaman resmi listing obligasi/sukuk korporasi IDX — "
                      "cari kode emiten di kolom pencarian"),
         })
