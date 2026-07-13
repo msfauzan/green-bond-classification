@@ -14,15 +14,14 @@ from __future__ import annotations
 import csv, os, re, sys, datetime
 
 ROOT = r"D:\1. Important\Work\Bank Indonesia\DSta-DSMF\Green Bond Classification"
-sys.path.insert(0, ROOT)
+sys.path.insert(0, os.path.join(ROOT, "code"))
 
 from classifier.engine import extract_series
 from classifier.title_lookup import (
-    gss_type_from_title, _load_idx, TITLE_GSS_MARKERS, _is_gss_titled,
+    gss_type_from_title, _load_idx, TITLE_GSS_MARKERS, _is_gss_titled, IDX_CSV,
 )
 
-GOLD_GSS = os.path.join(ROOT, "pdf_by_content", "01_prospektus_utama", "0. Fix GSS", "GSS")
-IDX_CSV  = os.path.join(ROOT, "data", "idx_obligasi_sukuk_korporasi_20260618_134135.csv")
+GOLD_GSS = os.path.join(ROOT, "data", "pdf_by_content", "01_prospektus_utama", "0. Fix GSS", "GSS")
 OUT_CSV  = os.path.join(ROOT, "data", "gold_bonds_db.csv")
 LP = "\\\\?\\"
 

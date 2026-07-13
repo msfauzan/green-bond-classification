@@ -32,7 +32,7 @@ from classifier.ml_engine import classify_ml
 from classifier.taxonomy import GSSClass, category_index
 
 from classifier.title_lookup import (
-    all_instruments, gss_type_from_title, has_gss_title, _load_idx,
+    all_instruments, gss_type_from_title, has_gss_title, _load_idx, IDX_CSV,
 )
 
 CAT = category_index()
@@ -168,6 +168,7 @@ with st.sidebar:
 
 def page_market():
     st.title("📊 Statistik Pasar EBUS GSS")
+    st.caption(f"Sumber listing: `{os.path.basename(IDX_CSV)}`")
 
     df = load_universe()
     gdf = load_gold_db()

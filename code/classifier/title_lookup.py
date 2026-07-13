@@ -14,11 +14,13 @@ Jebakan kritis (lihat CLAUDE.md):
 """
 from __future__ import annotations
 import csv
+import glob as _glob
 import os
 from functools import lru_cache
 
 ROOT = r"D:\1. Important\Work\Bank Indonesia\DSta-DSMF\Green Bond Classification"
-IDX_CSV = os.path.join(ROOT, "data", "idx_obligasi_sukuk_korporasi_20260618_134135.csv")
+# Selalu pakai hasil scrape terbaru (timestamp di nama file terurut leksikal)
+IDX_CSV = max(_glob.glob(os.path.join(ROOT, "data", "idx_obligasi_sukuk_korporasi_2*.csv")))
 
 # ---------------------------------------------------------------------------
 # Penanda GSS dalam nama obligasi (POSITIF)

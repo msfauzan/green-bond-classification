@@ -67,9 +67,7 @@ def _all_pdfs(root):
 # (1) Sensus pasar — dari listing IDX yang sudah ada (tanpa ML)
 # ---------------------------------------------------------------------------
 def market_census() -> list[dict]:
-    universe_path = os.path.join(
-        DATA_DIR, "idx_obligasi_sukuk_korporasi_20260618_134135.csv"
-    )
+    from classifier.title_lookup import IDX_CSV as universe_path
     gss_path = os.path.join(DATA_DIR, "idx_gss_all_20260618_140427.csv")
 
     n_universe = 0

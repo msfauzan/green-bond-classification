@@ -90,7 +90,7 @@ DEFAULT_PAGE_SIZE = 100
 # Ukuran "ambil semua sekaligus": dipakai kalau total record tidak terdeteksi.
 BIG_PAGE_SIZE = 100000
 
-OUT_DIR = Path(__file__).resolve().parent.parent / "data"
+OUT_DIR = Path(__file__).resolve().parent.parent.parent / "data"
 
 
 # --------------------------------------------------------------------------- #
