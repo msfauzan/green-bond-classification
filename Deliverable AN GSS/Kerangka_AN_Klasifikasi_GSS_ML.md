@@ -2,7 +2,7 @@
 ## Klasifikasi Efek Bersifat Utang dan Sukuk Berwawasan Lingkungan, Sosial, dan Keberlanjutan (GSS) pada Pasar Modal Korporasi Indonesia
 
 **Unit Penyusun:** Bank Indonesia — Departemen Statistik (DSta) / Divisi Statistik Moneter dan Fiskal (DSMF)
-**Status:** Draf · Juni 2026
+**Status:** Draf · Juli 2026
 **Klasifikasi:** Internal
 
 ---
@@ -15,9 +15,9 @@ Ketiadaan pemetaan ini bukan sekadar masalah pelabelan administratif. Bagi Bank 
 
 AN ini menyajikan pendekatan klasifikasi GSS berbasis teks prospektus yang **dapat diaudit, transparan, dan berbiaya rendah** (tanpa layanan berbayar). Kontribusi utamanya ada pada dua hal:
 
-1. **Pemetaan sektoral penggunaan dana**: mengidentifikasi *sektor mana* yang didanai tiap instrumen GSS berdasarkan 15 kategori proyek eligible menurut POJK 18/2023 dan standar internasional (ICMA, DJPPR). Dari 27 instrumen GSS yang dianalisis mendalam, ditemukan bahwa komponen sosial — khususnya **pembiayaan UMKM dan penciptaan lapangan kerja** — mendominasi (terdapat di seluruh 18 bond yang dapat didekomposisi), diikuti **energi terbarukan** (6 dari 18 bond) dan **infrastruktur dasar** (5 dari 18).
+1. **Pemetaan sektoral penggunaan dana**: mengidentifikasi *sektor mana* yang didanai tiap instrumen GSS berdasarkan 15 kategori proyek eligible menurut POJK 18/2023 dan standar internasional (ICMA, DJPPR). Dari 27 instrumen GSS yang dianalisis mendalam, 9 dapat didekomposisi sektoral dari teks prospektusnya. Kategori yang paling sering terbukti adalah **energi terbarukan** (6 dari 9 bond), diikuti **infrastruktur dasar terjangkau** serta **pembiayaan UMKM dan penciptaan lapangan kerja** (masing-masing 5 dari 9).
 
-2. **Verifikasi konsistensi klaim GSS**: menilai apakah klaim dalam nama instrumen ("Green Bond", "Sustainability Bond", dll.) sejalan dengan isi rencana penggunaan dana yang sebenarnya. Hasilnya: 6 dari 27 instrumen **terverifikasi penuh**, 12 hanya **terverifikasi sebagian** (dimensi hijau tidak terbaca dari teks prospektus yang tersedia), dan 6 tidak dapat dinilai karena teks terlalu singkat.
+2. **Verifikasi konsistensi klaim GSS**: menilai apakah klaim dalam nama instrumen ("Green Bond", "Sustainability Bond", dll.) sejalan dengan isi rencana penggunaan dana yang sebenarnya. Hasilnya: seluruh 9 instrumen yang teksnya memadai **terverifikasi penuh** — tidak ditemukan inkonsistensi antara klaim di nama instrumen dan rencana penggunaan dananya. Namun 15 instrumen tidak dapat dinilai karena teksnya terlalu singkat (dokumen "Informasi Tambahan" yang merujuk ke prospektus induk), dan 3 sisanya berbasis mekanisme KPI (Sustainability-Linked) yang tidak dinilai dari penggunaan dana.
 
 Pemindaian awal terhadap 208 prospektus dari 70+ emiten korporasi non-GSS tidak menemukan kandidat instrumen GSS yang tersembunyi — mengindikasikan bahwa celah 94% bukan sekadar kegagalan pelabelan, melainkan mencerminkan konsentrasi nyata pasar GSS korporasi pada sekelompok kecil emiten perbankan.
 
@@ -221,21 +221,21 @@ Sistem diuji dalam dua versi: **versi aturan sederhana** (pencocokan kata kunci 
 
 | | Versi Aturan Sederhana | Versi Lengkap |
 |---|:---:|:---:|
-| Instrumen GSS yang berhasil diidentifikasi (dari 27) | 23 | **27** |
-| Instrumen non-GSS yang salah dikategorikan sebagai GSS (dari 66) | 46 | **0** |
-| Instrumen GSS yang terlewat (dari 27) | 4 | **0** |
-| Instrumen non-GSS yang benar dikenali (dari 66) | 20 | **66** |
-| **Ketepatan (*Precision*)** | 33,3% | **100%** |
-| **Kelengkapan (*Recall*)** | 85,2% | **100%** |
-| **Skor gabungan (F1)** | 47,9% | **100%** |
+| Instrumen GSS yang berhasil diidentifikasi (dari 27) | 12 | **27** |
+| Instrumen non-GSS yang salah dikategorikan sebagai GSS (dari 66) | 2 | **0** |
+| Instrumen GSS yang terlewat (dari 27) | 15 | **0** |
+| Instrumen non-GSS yang benar dikenali (dari 66) | 64 | **66** |
+| **Ketepatan (*Precision*)** | 85,7% | **100%** |
+| **Kelengkapan (*Recall*)** | 44,4% | **100%** |
+| **Skor gabungan (F1)** | 58,5% | **100%** |
 
 *Ketepatan: dari semua yang dilabeli GSS oleh sistem, berapa % yang memang benar GSS. Kelengkapan: dari semua yang memang GSS, berapa % yang berhasil diidentifikasi.*
 
 ### Analisis Kesalahan — Versi Aturan Sederhana
 
-**46 kesalahan identifikasi (instrumen non-GSS dikira GSS):** seluruhnya disebabkan oleh kemunculan kata-kata terkait "UMKM", "KUR", "usaha mikro", atau "microfinance" di prospektus bank konvensional. Terminologi ini hadir di hampir semua prospektus bank Indonesia karena memang merupakan lini bisnis inti, bukan penanda instrumen berwawasan sosial. Ini menegaskan bahwa pencocokan kata kunci semata — tanpa konfirmasi nama instrumen dari listing BEI — rentan menghasilkan kesalahan sistematis di domain perbankan.
+**2 kesalahan identifikasi (instrumen non-GSS dikira GSS):** kedua prospektus memang memuat kata kunci kategori eligible secara harfiah dalam rencana penggunaan dananya — pembiayaan sektor sosial pada satu kasus, kegiatan bertema lingkungan pada kasus lain — meskipun instrumennya tidak berlabel GSS. Tanpa konfirmasi nama instrumen dari listing BEI, aturan kata kunci tidak dapat membedakan pembiayaan umum yang kebetulan menyentuh sektor eligible dari instrumen GSS formal.
 
-**4 instrumen GSS yang terlewat:** keempat prospektus merupakan "Informasi Tambahan" dari program penerbitan multi-tahap (BBNI 2025, PNMP Oktober 2025, PNMP April 2026, PPGD November 2025). Format ini memuat rencana penggunaan dana yang sangat ringkas karena merujuk ke prospektus induk. Sistem aturan kata kunci tidak menemukan cukup sinyal dari teks yang sangat pendek ini.
+**15 instrumen GSS yang terlewat:** hampir seluruhnya merupakan dokumen "Informasi Tambahan" atau bukti iklan dari program penerbitan multi-tahap (BBNI 2025, BBRI, BMRI, BJBR, PNMP, PPGD, SMII, ARKO). Format ini memuat rencana penggunaan dana yang sangat ringkas karena merujuk ke prospektus induk, sehingga aturan kata kunci tidak menemukan cukup sinyal — inilah penyebab utama rendahnya kelengkapan (44,4%) versi aturan sederhana.
 
 ### Catatan Jujur tentang Hasil 100%
 
@@ -249,7 +249,7 @@ Hasil ini sebaiknya diinterpretasikan sebagai: sistem bekerja dengan andal dalam
 
 1. **Data uji terbatas:** 27 instrumen GSS tidak cukup untuk mengklaim akurasi tinggi pada seluruh semesta 1.437 EBUS. Hasil ini adalah bukti kelayakan (*proof-of-concept*) yang kuat, bukan jaminan kinerja produksi penuh.
 
-2. **Ketidakseimbangan antar kelas:** dari 27 instrumen uji, hanya 1 Green Bond, 3 Social Bond, dan 20 Sustainability Bond. Evaluasi untuk kelas Green dan Sukuk Wakaf secara statistik tidak dapat disimpulkan dari sampel yang ada.
+2. **Komposisi antar kelas:** 27 instrumen uji terdiri dari 8 Green, 10 Social, 6 Sustainability, dan 3 Sustainability-Linked — sementara Sukuk Wakaf tidak terwakili sama sekali. Dengan jumlah per kelas yang kecil, evaluasi per kelas belum dapat disimpulkan secara statistik.
 
 3. **Dominasi domain perbankan:** 10 dari 12 emiten positif adalah bank. Kinerja sistem pada sektor non-bank (infrastruktur, manufaktur, properti) dengan karakteristik rencana penggunaan dana yang berbeda perlu divalidasi terpisah.
 
@@ -281,17 +281,17 @@ Dari 27 instrumen GSS yang dianalisis mendalam oleh sistem:
 
 | Kategori Hasil | Jumlah | Keterangan |
 |---|:---:|---|
-| Berhasil dipetakan ke sektor | 18 (67%) | Setidaknya satu kategori proyek eligible terbukti dari teks prospektus |
-| Status GSS terkonfirmasi, sektor tidak terbaca | 6 (22%) | Teks rencana penggunaan dana terlalu singkat; kelas ditetapkan dari nama |
+| Berhasil dipetakan ke sektor | 9 (33%) | Setidaknya satu kategori proyek eligible terbukti dari teks prospektus |
+| Status GSS terkonfirmasi, sektor tidak terbaca | 15 (56%) | Teks rencana penggunaan dana terlalu singkat; kelas ditetapkan dari nama |
 | Sustainability-Linked (mekanisme berbasis KPI) | 3 (11%) | Tidak berbasis penggunaan dana; tidak memerlukan pemetaan sektoral |
 
-Dari 18 instrumen yang berhasil dipetakan ke sektor, berikut distribusi kategori proyek yang terbukti ada dalam teks penggunaan dana:
+Dari 9 instrumen yang berhasil dipetakan ke sektor, berikut distribusi kategori proyek yang terbukti ada dalam teks penggunaan dana:
 
 | Kategori Proyek | Jumlah Instrumen | Dimensi |
 |---|:---:|---|
-| Penciptaan Lapangan Kerja & Pembiayaan UMKM | 18 | Sosial |
 | Energi Terbarukan | 6 | Lingkungan |
 | Infrastruktur Dasar Terjangkau | 5 | Sosial |
+| Penciptaan Lapangan Kerja & Pembiayaan UMKM | 5 | Sosial |
 | Efisiensi Energi | 3 | Lingkungan |
 | Pengelolaan Air & Sanitasi | 3 | Lingkungan |
 | Pengelolaan SDA Berkelanjutan | 3 | Lingkungan |
@@ -299,9 +299,9 @@ Dari 18 instrumen yang berhasil dipetakan ke sektor, berikut distribusi kategori
 | Ketahanan Pangan | 2 | Sosial |
 | Pemberdayaan Sosial-Ekonomi | 2 | Sosial |
 
-**Temuan penting:** Komponen *Penciptaan Lapangan Kerja & Pembiayaan UMKM* hadir di seluruh 18 instrumen yang terpetakan. Ini bukan artefak sistem — kata-kata terkait UMKM memang secara harfiah tersebut dalam seluruh teks penggunaan dana instrumen-instrumen tersebut. Temuan ini mencerminkan karakteristik pasar: mayoritas penerbit EBUS GSS Indonesia adalah bank yang menyertakan pembiayaan UMKM sebagai komponen sosial utama dalam setiap penerbitan.
+**Temuan penting:** *Energi Terbarukan* adalah kategori yang paling sering terbukti — hadir di 6 dari 9 instrumen yang terpetakan — diikuti *Infrastruktur Dasar Terjangkau* serta *Penciptaan Lapangan Kerja & Pembiayaan UMKM* (masing-masing 5 instrumen). Pola ini mencerminkan dua wajah pasar GSS korporasi Indonesia: obligasi hijau perbankan yang mendanai proyek energi terbarukan, dan social bond lembaga keuangan yang menyalurkan pembiayaan UMKM serta infrastruktur dasar.
 
-*Energi Terbarukan* menempati posisi kedua (6 instrumen), diikuti oleh *Infrastruktur Dasar Terjangkau* (5 instrumen). Kategori lingkungan lainnya — efisiensi energi, pengelolaan air, SDA berkelanjutan, ketahanan iklim — masing-masing hadir di 3 instrumen.
+Perlu dicatat: sebagian instrumen (terutama Sustainability Bond bank) mencantumkan banyak kategori sekaligus karena rencana penggunaan dananya merujuk pada cakupan kerangka (*framework*) penerbit. Kategori yang "terbukti" dengan demikian mencerminkan cakupan kerangka yang dikutip prospektus — belum tentu realisasi alokasi aktual per penerbitan.
 
 ### C. Verifikasi Klaim GSS
 
@@ -309,17 +309,18 @@ Selain memetakan sektor, sistem juga menilai **konsistensi antara klaim di nama 
 
 | Status Verifikasi | Jumlah | Penjelasan |
 |---|:---:|---|
-| **Terverifikasi** | 6 (22%) | Klaim jenis instrumen (Green/Social/Sustainability) didukung penuh oleh bukti sektoral dari teks |
-| **Sebagian** | 12 (44%) | Instrumen berlabel Sustainability, namun hanya dimensi sosial yang terbukti dari teks prospektus; dimensi lingkungan tidak tersebut secara harfiah |
-| **Tidak dapat dinilai** (teks terlalu singkat) | 6 (22%) | Status GSS terkonfirmasi dari nama; teks penggunaan dana terlalu pendek untuk penilaian sektoral |
+| **Terverifikasi** | 9 (33%) | Klaim jenis instrumen (Green/Social/Sustainability) didukung penuh oleh bukti sektoral dari teks |
+| **Tidak dapat dinilai** (teks terlalu singkat) | 15 (56%) | Status GSS terkonfirmasi dari nama; teks penggunaan dana terlalu pendek untuk penilaian sektoral |
 | **Berbasis mekanisme** (SLB/SUS) | 3 (11%) | Jenis instrumen berbeda — verifikasi berbasis ada/tidaknya mekanisme KPI, bukan penggunaan dana |
 
-**Temuan kunci — Status "Sebagian":** 12 dari 18 instrumen berlabel Sustainability Bond menunjukkan hanya dimensi sosial (UMKM/lapangan kerja) yang dapat dikonfirmasi dari teks prospektus, tanpa bukti leksikal yang cukup untuk dimensi lingkungannya. Ini **tidak serta-merta berarti klaim yang menyesatkan** — kemungkinan besar dimensi lingkungan dijelaskan secara lebih rinci dalam dokumen kerangka (*bond framework*) atau *Annual Impact Report* penerbit yang tidak dianalisis di sini. Namun ini menegaskan **batas metodologi berbasis prospektus**: teks prospektus saja tidak selalu cukup untuk memverifikasi kedua dimensi Sustainability Bond.
+**Temuan kunci:** pada seluruh 9 instrumen yang teksnya memadai, klaim GSS di nama instrumen **konsisten** dengan bukti sektoral dalam teks penggunaan dana — tidak ditemukan indikasi inkonsistensi klaim (*greenwashing*) pada kelompok uji ini. Batas metodologi justru muncul dari sisi ketersediaan teks: 15 dari 27 dokumen (56%) berformat "Informasi Tambahan" penerbitan multi-tahap yang teks penggunaan dananya terlalu ringkas untuk dinilai, sehingga verifikasi substantifnya harus merujuk ke prospektus induk, dokumen kerangka (*bond framework*), atau *Annual Impact Report* penerbit.
 
 **Instrumen dengan verifikasi penuh (Terverifikasi):**
-- **BRI Syariah (2 instrumen):** teks penggunaan dana menyebut secara eksplisit proyek energi terbarukan, pengelolaan SDA, efisiensi energi, dan ketahanan iklim — disertai komponen sosial. Prospektus paling komprehensif dalam kelompok uji.
-- **Optima Kharya Capital/OPPM (2 instrumen):** menyebut energi terbarukan (sesuai bisnis inti pembiayaan PLTS) dan pembiayaan UMKM ultra-mikro.
-- **Bank BNI (Sustainability Bond 2022):** menyebut berbagai kategori lingkungan dan sosial secara bersamaan.
+- **BRI Syariah/BRIS (2 instrumen Sustainability):** teks penggunaan dana paling komprehensif dalam kelompok uji — menyebut energi terbarukan, efisiensi energi, pengelolaan SDA, pengelolaan air, dan ketahanan iklim, disertai komponen sosial (UMKM, ketahanan pangan, pemberdayaan sosial-ekonomi, infrastruktur dasar).
+- **Bank BNI (Green Bond 2022):** menyebut lima kategori lingkungan (SDA, energi terbarukan, efisiensi energi, pengelolaan air, ketahanan iklim).
+- **Bank BTN (3 instrumen Social):** pembiayaan UMKM/penciptaan lapangan kerja dan infrastruktur dasar terjangkau.
+- **Optima/OPPM (2 instrumen Green):** energi terbarukan, sesuai bisnis inti pembiayaan PLTS.
+- **Bank BRI (1 instrumen Green):** energi terbarukan.
 
 ### D. Pemindaian Instrumen Non-GSS: Estimasi Potensi yang Tersembunyi
 
@@ -365,10 +366,10 @@ Di luar komposisi per kelas (bagian A), profil struktural ke-82 instrumen GSS be
 Kerangka ini memungkinkan BI/DSta mengkompilasi statistik GSS korporasi yang lebih lengkap dari yang tersedia di listing resmi BEI — konsisten dengan kebutuhan bank sentral terkini yang mendorong pelaporan *climate finance* per instrumen untuk keperluan analisis risiko iklim, skenario transisi, dan *stress testing* sektor keuangan.
 
 **(2) Skrining awal indikasi *greenwashing*.**
-Status verifikasi yang dihasilkan (*Terverifikasi / Sebagian / Tidak dapat dinilai*) memungkinkan prioritisasi tinjauan manual: instrumen dengan klaim GSS di nama namun teks penggunaan dana yang tidak mendukung klaim tersebut menjadi kandidat pertama untuk pendalaman melalui dokumen kerangka dan *Impact Report* penerbit. Ini adalah penyaringan pertama berbasis dokumen publik yang tersedia secara luas — bukan pengganti audit atau verifikasi substantif.
+Status verifikasi yang dihasilkan (*Terverifikasi / Tidak dapat dinilai / Berbasis mekanisme*) memungkinkan prioritisasi tinjauan manual: instrumen dengan klaim GSS di nama namun teks penggunaan dana yang tidak mendukung klaim tersebut menjadi kandidat pertama untuk pendalaman melalui dokumen kerangka dan *Impact Report* penerbit. Ini adalah penyaringan pertama berbasis dokumen publik yang tersedia secara luas — bukan pengganti audit atau verifikasi substantif.
 
 **(3) Landasan analitis pengembangan pasar.**
-Data sensus (82 berlabel vs 1.437 universe) dan peta sektoral (dominasi pembiayaan UMKM; energi terbarukan sebagai komponen lingkungan terbesar) menyediakan landasan faktual untuk analisis kebijakan pengembangan pasar GSS korporasi Indonesia — termasuk identifikasi sektor yang masih underrepresented.
+Data sensus (82 berlabel vs 1.437 universe) dan peta sektoral (energi terbarukan sebagai kategori tersering; pembiayaan UMKM dan infrastruktur dasar sebagai komponen sosial utama) menyediakan landasan faktual untuk analisis kebijakan pengembangan pasar GSS korporasi Indonesia — termasuk identifikasi sektor yang masih underrepresented.
 
 **(4) Batas lingkup yang perlu dipahami.**
 Sistem ini **tidak** menilai apakah proyek yang didanai benar-benar mencapai dampak lingkungan/sosial yang diklaim. Sistem ini **tidak** melakukan verifikasi lapangan. Fungsinya adalah penyaringan dan pemetaan berbasis dokumen publik dengan jejak alasan yang dapat diperiksa — langkah pertama dalam sistem pemantauan, bukan langkah akhir.
@@ -379,9 +380,9 @@ Sistem ini **tidak** menilai apakah proyek yang didanai benar-benar mencapai dam
 
 Sesuai dengan prinsip kejujuran ilmiah, berikut keterbatasan yang perlu diperhatikan dalam menginterpretasikan hasil AN ini:
 
-**Terbatasnya data uji terverifikasi.** Dengan hanya 27 instrumen GSS yang terverifikasi manual, evaluasi sistem belum dapat dianggap representatif untuk seluruh variasi instrumen GSS yang mungkin ada di pasar. Secara khusus, kelompok uji sangat didominasi Sustainability Bond (20 dari 27), sementara Green Bond hanya terwakili 1 instrumen dan Sukuk Wakaf tidak sama sekali. Hasil evaluasi untuk kelas-kelas minoritas ini tidak dapat ditarik kesimpulan statistik yang kuat.
+**Terbatasnya data uji terverifikasi.** Dengan hanya 27 instrumen GSS yang terverifikasi manual, evaluasi sistem belum dapat dianggap representatif untuk seluruh variasi instrumen GSS yang mungkin ada di pasar. Komposisi kelompok uji (8 Green, 10 Social, 6 Sustainability, 3 Sustainability-Linked) tidak memuat Sukuk Wakaf sama sekali, dan jumlah per kelas terlalu kecil untuk menarik kesimpulan statistik per kelas.
 
-**Prospektus saja tidak cukup untuk verifikasi dua dimensi Sustainability.** 12 dari 18 instrumen Sustainability Bond yang dipetakan hanya dapat dikonfirmasi dimensi sosialnya dari teks prospektus. Ini bukan kesalahan sistem — ini mencerminkan kenyataan bahwa banyak penerbit mencantumkan detail rencana penggunaan dana yang lebih lengkap di dokumen kerangka atau *Impact Report*, bukan di prospektus itu sendiri. Untuk analisis yang lebih mendalam, dokumen-dokumen tersebut perlu dimasukkan sebagai sumber tambahan.
+**Prospektus saja tidak selalu cukup untuk dekomposisi sektoral.** 15 dari 27 dokumen uji (56%) adalah "Informasi Tambahan" dari program penerbitan multi-tahap, yang teks penggunaan dananya terlalu ringkas untuk dipetakan ke sektor. Ini bukan kesalahan sistem — ini mencerminkan kenyataan bahwa detail rencana penggunaan dana kerap tercantum di prospektus induk, dokumen kerangka, atau *Impact Report*, bukan di dokumen penerbitan lanjutan. Untuk analisis yang lebih mendalam, dokumen-dokumen tersebut perlu dimasukkan sebagai sumber tambahan.
 
 **Dominasi domain perbankan.** 10 dari 12 emiten dalam data uji adalah bank. Karakteristik teks prospektus perbankan (terutama kehadiran kata-kata terkait UMKM di hampir semua dokumen, baik GSS maupun konvensional) berbeda dari sektor infrastruktur, manufaktur, atau properti. Kinerja sistem pada sektor-sektor non-perbankan belum tervalidasi secara memadai.
 

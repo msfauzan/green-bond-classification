@@ -15,7 +15,7 @@ Klasifikasi efek bersifat utang & sukuk (EBUS) korporasi Indonesia ke dalam kate
 | GSS berlabel (sensus judul IDX) | 82 instrumen (5.71% universe) |
 | Total outstanding GSS | Rp 62.21 T |
 | Akurasi classifier final (ML semantik) | P 1.000 · R 1.000 · F1 1.000 |
-| Baseline rule-based | P 0.333 · R 0.852 · F1 0.479 |
+| Baseline rule-based | P 0.857 · R 0.444 · F1 0.585 |
 | Gold set evaluasi | 93 dokumen terverifikasi |
 
 **Temuan kunci:** mayoritas EBUS korporasi (94.29%) belum terklasifikasi GSS —

@@ -56,7 +56,7 @@ CHART_ANCHORS: list[tuple[str, list[tuple[str, str]]]] = [
         ("02_gap_labeled_vs_universe.png",
          "Gap pelabelan: 82 GSS berlabel dari 1.437 instrumen EBUS korporasi."),
     ]),
-    ("hadir di seluruh 18 instrumen yang terpetakan", [
+    ("hadir di 6 dari 9 instrumen yang terpetakan", [
         ("04_dekomposisi_sektoral.png",
          "Dekomposisi sektoral use-of-proceeds GSS korporasi (gold set N=27)."),
     ]),
