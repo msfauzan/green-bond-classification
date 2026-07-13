@@ -66,7 +66,7 @@ def main() -> int:
             if not matched:
                 skipped_nongss += 1
                 continue
-            dtype, rank = doc_type(text, _n_pages(src))
+            dtype, rank = doc_type(src)
             if rank < 0:   # pemeringkatan dkk yang menyebut nama obligasi
                 skipped_nongss += 1
                 continue

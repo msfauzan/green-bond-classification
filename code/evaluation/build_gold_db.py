@@ -114,35 +114,83 @@ def _build_idx_lookup() -> dict[str, list[dict]]:
     return result
 
 
-def doc_type(cover_text: str, n_pages: int) -> tuple[str, int]:
-    """Jenis dokumen dari ISI sampul (bukan nama file) + peringkat substansi.
+_DAY_RE = re.compile(r"^\W*(senin|selasa|rabu|kamis|jumat|sabtu|minggu)\b")
+_KORAN = ("investor daily", "kontan", "neraca", "bisnis indonesia",
+          "media indonesia")
 
-    Peringkat dipakai memilih dokumen terbaik per instrumen:
-      3 = Prospektus penuh; 2 = ringkas (PR/ITR/IT); 1 = tak teridentifikasi;
-      0 = surat pengantar e-form IDX; -1 = pemeringkatan (bukan dokumen emisi).
+
+def _norm_ds(s: str) -> str:
+    """Normalisasi + rapikan huruf ber-spasi tipografis (P R O S P E K T U S)."""
+    s = re.sub(r"\s+", " ", s.lower()).strip()
+    return re.sub(r"\b(?:\w ){3,}\w\b", lambda m: m.group(0).replace(" ", ""), s)
+
+
+def _read_pages(pdf_path: str) -> list[str]:
+    """Teks SEMUA halaman; fallback sidecar OCR (satu 'halaman') untuk scan."""
+    import fitz
+    for p in (LP + pdf_path, pdf_path):
+        try:
+            doc = fitz.open(p)
+            try:
+                pages = [doc[i].get_text() for i in range(len(doc))]
+            finally:
+                doc.close()
+            if any(t.strip() for t in pages):
+                return pages
+            break
+        except Exception:
+            continue
+    for sc in (LP + pdf_path + ".txt", pdf_path + ".txt"):
+        try:
+            with open(sc, encoding="utf-8") as f:
+                return [f.read()]
+        except OSError:
+            continue
+    return []
+
+
+def doc_type(pdf_path: str) -> tuple[str, int]:
+    """Jenis dokumen + peringkat substansi, dari judul di tingkat HALAMAN
+    (seluruh halaman dibaca — bundel pengantar+dokumen tetap terdeteksi).
+
+    Peringkat memilih dokumen terbaik per instrumen: 5 Prospektus penuh,
+    4 Informasi Tambahan penuh, 3 ringkas (PR/ITR), 2 iklan koran,
+    1 tak teridentifikasi, 0 pengantar/kosong, -1 pemeringkatan.
     """
-    t = re.sub(r"\s+", " ", cover_text.lower())
-    head = t[:400]
-    if "hasil pemeringkatan" in head:
-        return "Pemeringkatan", -1
-    if head.startswith("nomor surat") or "perihal" in head[:120]:
-        return "Surat Pengantar", 0
-    if n_pages >= 60:
-        return "Prospektus", 4
-    # Iklan koran: halaman sedikit + header hari/nama koran/jadwal penawaran
-    if n_pages <= 8 and (
-        re.match(r"^\W*(senin|selasa|rabu|kamis|jumat|sabtu|minggu)\b", head)
-        or head.lstrip().startswith("jadwal")
-        or any(k in head for k in ("investor daily", "kontan", "neraca",
-                                   "bisnis indonesia", "media indonesia"))):
-        return "Iklan Ringkas", 2
-    if "informasi tambahan ringkas" in t:
-        return "Info Tambahan Ringkas", 3
-    if "prospektus ringkas" in t:
-        return "Prospektus Ringkas", 3
-    if "informasi tambahan" in t:
-        return "Info Tambahan", 3
-    return "Dokumen Emisi", 1
+    pages = _read_pages(pdf_path)
+    n = len(pages)
+    for i, pt in enumerate(pages):
+        h = _norm_ds(pt)[:400]
+        if not h:
+            continue
+        if "hasil pemeringkatan" in h:
+            return "Pemeringkatan", -1
+        if h.startswith("nomor surat") or "perihal" in h[:120]:
+            continue   # halaman pengantar e-form — periksa halaman berikutnya
+        sisa = n - i
+        if sisa <= 8 and (_DAY_RE.match(h) or h.startswith("jadwal")
+                          or any(k in h[:200] for k in _KORAN)):
+            return "Iklan Ringkas", 2
+        if "informasi tambahan ringkas" in h:
+            return "Info Tambahan Ringkas", 3
+        if "prospektus ringkas" in h:
+            return "Prospektus Ringkas", 3
+        if h.startswith("tambahan informasi"):
+            return "Info Tambahan Ringkas", 3
+        if h.startswith("informasi tambahan"):
+            return ("Informasi Tambahan", 4) if sisa >= 40 \
+                else ("Info Tambahan Ringkas", 3)
+        if h.startswith("prospektus"):
+            return ("Prospektus", 5) if sisa >= 40 else ("Prospektus Ringkas", 3)
+        body = _norm_ds(" ".join(pages[i:i + 3]))
+        if "informasi tambahan ringkas" in body:
+            return "Info Tambahan Ringkas", 3
+        if "prospektus ringkas" in body:
+            return "Prospektus Ringkas", 3
+        if sisa >= 60:
+            return "Prospektus", 5
+        return "Dokumen Emisi", 1
+    return "Kosong/Scan", 0
 
 
 def _n_pages(pdf_path: str) -> int:
@@ -246,7 +294,7 @@ def main():
             bond_name = extract_bond_name(text)
             series_list = extract_series(text) or [""]  # [""] → satu baris tanpa seri
 
-            dtype, rank = doc_type(text, _n_pages(pdf_path))
+            dtype, rank = doc_type(pdf_path)
             if rank < 0:   # pemeringkatan dkk — bukan dokumen emisi
                 print(f"  {pdf_file[:55]} -> SKIP ({dtype})")
                 continue
@@ -258,14 +306,24 @@ def main():
             # Satu PDF bisa cocok ke BANYAK baris IDX (multi-seri, bundel
             # obligasi+sukuk); cocokkan atribut nama IDX langsung ke sampul.
             idx_rows = _match_idx_all(issuer, text, idx_lookup)
-            if not idx_rows and rank <= 0:
-                # surat pengantar tanpa match IDX bukan bukti instrumen —
-                # jangan lahirkan baris "(tidak di IDX)" fantom
-                print("    (pengantar tanpa match IDX — dilewati)")
+            # Seri pada dokumen yang tidak ter-cover match IDX = kemungkinan
+            # sudah jatuh tempo/delisting -> baris gold-only. Syarat: dokumen
+            # substantif (rank>=3) dan seri teridentifikasi — bundel/iklan
+            # tanpa seri bukan bukti instrumen (fantom).
+            matched_series = set()
+            for r in idx_rows:
+                m = re.search(r"\bSeri ([A-Z])\b", r.get("BondName", ""))
+                matched_series.add(m.group(1) if m else "")
+            emits: list[tuple[dict | None, str]] = [(r, "") for r in idx_rows]
+            # iklan resmi pun memuat rincian seri — bukti sah. Tapi bila match
+            # IDX-nya instrumen tanpa penamaan seri (mis. perpetual), seluruh
+            # emisi dianggap ter-cover.
+            if rank >= 2 and (not idx_rows or matched_series - {""}):
+                emits += [(None, s) for s in series_list
+                          if s and s not in matched_series]
+            if not emits:
+                print("    (tanpa match IDX & tanpa seri — dilewati)")
                 continue
-            emits: list[tuple[dict | None, str]] = (
-                [(r, "") for r in idx_rows] if idx_rows
-                else [(None, s) for s in series_list])
 
             for idx_row, seri in emits:
                 if idx_row:
